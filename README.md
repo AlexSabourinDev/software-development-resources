@@ -32,8 +32,8 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Molecular Matters - DoD Series](https://blog.molecular-matters.com/2011/11/03/adventures-in-data-oriented-design-part-1-mesh-data-3/)
 * [Volumetric Light Effects in Killzone: Shadow Fall (Series)](http://what-when-how.com/Tutorial/topic-547pjramj8/GPU-Pro-Advanced-Rendering-Techniques-146.html)
 * [Revisiting the Vertex Cache (Article)](https://erkaman.github.io/posts/kerbl2018_tldr.html)
-* [Learn OpenGL](https://learnopengl.com/)
-* [Aras P - Rendering](https://aras-p.info/tags/rendering/)
+* [Learn OpenGL (Tutorial)](https://learnopengl.com/)
+* [Aras P - Rendering(Blog)](https://aras-p.info/tags/rendering/)
 
 #### Shader Editors
 * [Shadertoy](https://www.shadertoy.com/)
