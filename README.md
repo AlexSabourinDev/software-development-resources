@@ -28,3 +28,5 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Intro to compute shaders (Blog Post)](https://anteru.net/blog/2018/intro-to-compute-shaders/)
 * [Walt Disney Datasets (Data)](https://www.disneyanimation.com/technology/datasets)
 * [Rendering Graphics Studies (Blog)](http://www.adriancourreges.com/blog/)
+* [Volumetric Light Effects in Killzone: Shadow Fall (Series)](http://what-when-how.com/Tutorial/topic-547pjramj8/GPU-Pro-Advanced-Rendering-Techniques-146.html)
+* [Revisiting the Vertex Cache (Article)](https://erkaman.github.io/posts/kerbl2018_tldr.html)
