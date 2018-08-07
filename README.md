@@ -34,6 +34,9 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Revisiting the Vertex Cache (Article)](https://erkaman.github.io/posts/kerbl2018_tldr.html)
 * [Learn OpenGL (Tutorial)](https://learnopengl.com/)
 * [Aras P - Rendering(Blog)](https://aras-p.info/tags/rendering/)
+* [Fragment Foundry (Tutorial)](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
+* [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
+* [The Forge (Codebase)](https://github.com/ConfettiFX/The-Forge)
 
 #### Shader Editors
 * [Shadertoy](https://www.shadertoy.com/)
