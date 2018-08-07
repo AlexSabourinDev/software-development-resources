@@ -30,3 +30,5 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Rendering Graphics Studies (Blog)](http://www.adriancourreges.com/blog/)
 * [Molecular Matters - Stateless Threaded Rendering Series](https://blog.molecular-matters.com/2014/11/06/stateless-layered-multi-threaded-rendering-part-1/)
 * [Molecular Matters - DoD Series](https://blog.molecular-matters.com/2011/11/03/adventures-in-data-oriented-design-part-1-mesh-data-3/)
+* [Volumetric Light Effects in Killzone: Shadow Fall (Series)](http://what-when-how.com/Tutorial/topic-547pjramj8/GPU-Pro-Advanced-Rendering-Techniques-146.html)
+* [Revisiting the Vertex Cache (Article)](https://erkaman.github.io/posts/kerbl2018_tldr.html)
