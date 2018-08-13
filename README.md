@@ -42,6 +42,7 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [The Elusive Frame Timing (GDC Slides)](https://www.gdcvault.com/play/1025407/Advanced-Graphics-Techniques-Tutorial-The)
 * [Drawing Points Properly in WebGL](https://charto.net/blog/drawing-points-properly-in-webgl/)
 * [Rendering Graphics Studies (Blog)](http://www.adriancourreges.com/blog/)
+* [Multi Channel SDF (Codebase)](https://github.com/Chlumsky/msdfgen)
 
 #### Tutorials
 * [Learn OpenGL (Tutorial)](https://learnopengl.com/)
