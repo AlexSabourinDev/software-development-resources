@@ -33,6 +33,7 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Molecular Matters - Stateless Threaded Rendering Series](https://blog.molecular-matters.com/2014/11/06/stateless-layered-multi-threaded-rendering-part-1/)
 * [Molecular Matters - DoD Series](https://blog.molecular-matters.com/2011/11/03/adventures-in-data-oriented-design-part-1-mesh-data-3/)
 * [Volumetric Light Effects in Killzone: Shadow Fall (Series)](http://what-when-how.com/Tutorial/topic-547pjramj8/GPU-Pro-Advanced-Rendering-Techniques-146.html)
+* [Combining Analytic Direct Illumination and Stochastic Shadows](http://casual-effects.com/research/Heitz2018Shadow/index.html)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
