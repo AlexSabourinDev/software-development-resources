@@ -17,6 +17,7 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Revisiting the Vertex Cache (Article)](https://erkaman.github.io/posts/kerbl2018_tldr.html)
 * [Zero Driver Overhead (GDC Talk)](https://www.youtube.com/watch?v=K70QbvzB6II)
 * [GPU Barriers (Blog Post)](https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/)
+* [Tile Based Renderers](https://developer.samsung.com/game/gpu-framebuffer)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
