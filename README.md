@@ -40,6 +40,7 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Volumetric Light Effects in Killzone: Shadow Fall (Series)](http://what-when-how.com/Tutorial/topic-547pjramj8/GPU-Pro-Advanced-Rendering-Techniques-146.html)
 * [Combining Analytic Direct Illumination and Stochastic Shadows](http://casual-effects.com/research/Heitz2018Shadow/index.html)
 * [STOCHASTIC ALL THE THINGS: RAYTRACING IN HYBRID REAL-TIME RENDERING](https://www.ea.com/seed/news/seed-dd18-presentation-slides-raytracing)
+* [Checkerboard Rendering White Paper (https://software.intel.com/en-us/articles/checkerboard-rendering-for-real-time-upscaling-on-intel-integrated-graphics-v-12)]
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
