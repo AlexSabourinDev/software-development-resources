@@ -51,6 +51,10 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Drawing Points Properly in WebGL](https://charto.net/blog/drawing-points-properly-in-webgl/)
 * [Rendering Graphics Studies (Blog)](http://www.adriancourreges.com/blog/)
 * [Multi Channel SDF (Codebase)](https://github.com/Chlumsky/msdfgen)
+* [Arian Courreges, Game Studies (Blog)](http://www.adriancourreges.com/blog/)
+* [Advances in realtime renderind (Courses)] (http://advances.realtimerendering.com/)
+* [Huge rendering resource repository (Website)] (http://kesen.realtimerendering.com/)
+* [Fabien Sanglard (Website)](http://fabiensanglard.net/)
 
 #### Tutorials
 * [Learn OpenGL (Tutorial)](https://learnopengl.com/)
