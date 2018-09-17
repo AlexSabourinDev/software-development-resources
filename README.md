@@ -41,7 +41,8 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Combining Analytic Direct Illumination and Stochastic Shadows](http://casual-effects.com/research/Heitz2018Shadow/index.html)
 * [STOCHASTIC ALL THE THINGS: RAYTRACING IN HYBRID REAL-TIME RENDERING](https://www.ea.com/seed/news/seed-dd18-presentation-slides-raytracing)
 * [Checkerboard Rendering (White Paper)](https://software.intel.com/en-us/articles/checkerboard-rendering-for-real-time-upscaling-on-intel-integrated-graphics-v-12)
-* [Normal Mapping without Precomputed Tangents(Blog Post)](http://www.thetenthplanet.de/archives/1180)
+* [Normal Mapping without Precomputed Tangents (Blog Post)](http://www.thetenthplanet.de/archives/1180)
+* [Bindless Texturing for Deferred texturing and Decals (Blog Post)](https://mynameismjp.wordpress.com/2016/03/25/bindless-texturing-for-deferred-rendering-and-decals/)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
