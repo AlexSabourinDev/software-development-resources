@@ -46,6 +46,7 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines (Article)](https://eheitzresearch.wordpress.com/415-2/)
 * [Advances in Real-time Rendering 2018 (List)](http://advances.realtimerendering.com/s2018/index.htm)
 * [Efficient Screen-space SSS (White Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
+* [A Ray-Box Intersection Algorithm and Efficient Dynamic Voxel Rendering (White Paper)](http://www.jcgt.org/published/0007/03/04/)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
@@ -65,6 +66,7 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Learn OpenGL (Tutorial)](https://learnopengl.com/)
 * [Fragment Foundry (Tutorial)](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
 * [Intro to compute shaders (Blog Post)](https://anteru.net/blog/2018/intro-to-compute-shaders/)
+* [Scratchapixel (Tutorial)](https://www.scratchapixel.com/)
 
 #### Shader Editors
 * [Shadertoy](https://www.shadertoy.com/)
