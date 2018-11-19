@@ -61,6 +61,7 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Advances in realtime renderind (Courses)](http://advances.realtimerendering.com/)
 * [Huge rendering resource repository (Website)](http://kesen.realtimerendering.com/)
 * [Fabien Sanglard (Website)](http://fabiensanglard.net/)
+* [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 
 #### Tutorials
 * [Learn OpenGL (Tutorial)](https://learnopengl.com/)
