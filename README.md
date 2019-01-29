@@ -47,6 +47,9 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Advances in Real-time Rendering 2018 (List)](http://advances.realtimerendering.com/s2018/index.htm)
 * [Efficient Screen-space SSS (White Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
 * [A Ray-Box Intersection Algorithm and Efficient Dynamic Voxel Rendering (White Paper)](http://www.jcgt.org/published/0007/03/04/)
+* [Alpha Blending: To Pre or Not To Pre (Blog Post)](https://developer.nvidia.com/content/alpha-blending-pre-or-not-pre)
+* [Dreams - The tech behind the magic (Video)](https://www.youtube.com/watch?v=yZM_Ij9aeOA)
+* [Premultiplied Alpha (Blog Post)](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
