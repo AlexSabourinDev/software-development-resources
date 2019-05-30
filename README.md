@@ -50,6 +50,11 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Alpha Blending: To Pre or Not To Pre (Blog Post)](https://developer.nvidia.com/content/alpha-blending-pre-or-not-pre)
 * [Dreams - The tech behind the magic (Video)](https://www.youtube.com/watch?v=yZM_Ij9aeOA)
 * [Premultiplied Alpha (Blog Post)](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
+* [High-level rendering using render graphs (Blog Post)](https://ourmachinery.com/post/high-level-rendering-using-render-graphs/)
+* [Advanced Graphics moving to DirectX 12 (GDC slides)](https://www.gdcvault.com/play/1024656/Advanced-Graphics-Tech-Moving-to)
+* [Framegraphs extensible render framework in frostbite (Slides)](https://www.ea.com/frostbite/news/framegraph-extensible-rendering-architecture-in-frostbite)
+* [Render graphs and Vulkan a deep dive (Blog Post)](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+* [Vulkan Fast Paths (Slides)](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
