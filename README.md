@@ -14,7 +14,7 @@ Maybe we'll gather a list of top resources.
 ### Project Management
 #### Estimation
 * [Why Software Projects Take Longer Than You Think (Blog Post)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
-* [Evidence Based Scheduling (Blog Post)] (https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)
+* [Evidence Based Scheduling (Blog Post)](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)
 * [Programmer Time Translation Table (Blog Post)](https://coding.abel.nu/2012/06/programmer-time-translation-table/)
 * [2015 Chaos Report (Data)](https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf)
 * [17 theses software estimation (Blog Post)](https://stevemcconnell.com/blog/17-theses-software-estimation/)
