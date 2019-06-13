@@ -1,4 +1,4 @@
-# awesome-rendering-resources
+# software-development-resources
 
 ### Why?
 We're a group of rendering nerds that decided that this would be a great place to share rendering resources! (Also slack is a terrible place to store these :p)
@@ -11,6 +11,60 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 
 ## Links!
 
+### Project Management
+#### Estimation
+* [Why Software Projects Take Longer Than You Think (Blog Post)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
+* [Evidence Based Scheduling (Blog Post)] (https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)
+* [Programmer Time Translation Table (Blog Post)](https://coding.abel.nu/2012/06/programmer-time-translation-table/)
+* [2015 Chaos Report (Data)](https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf)
+* [17 theses software estimation (Blog Post)](https://stevemcconnell.com/blog/17-theses-software-estimation/)
+
+### Math
+* [Fourier Transform: A Visualization (Video)](https://www.youtube.com/watch?v=spUNpyF58BY)
+* [Waveforms: An Introduction (Article)](http://waveforms.surge.sh/waveforms-intro)
+* [Faster Quaternion-Vector Multiplication (Blog Post)](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
+* [A primer on Bezier Curves (Online Book)](https://pomax.github.io/bezierinfo/)
+* [Quaternion Visualization (Resource)](https://eater.net/quaternions)
+
+### Design
+* [Extra Creditz (Youtube Channel)](https://www.youtube.com/user/ExtraCreditz)
+* [Designing For Coziness (Article)](https://www.gamasutra.com/blogs/TanyaXShort/20180305/315179/Designing_for_Coziness.php)
+* [Learning From The Masters: Level Design In The Legend Of Zelda (Article)](https://www.gamasutra.com/view/feature/134949/learning_from_the_masters_level_.php)
+
+### Languages
+#### C
+* [Strict Aliasing (Article)](https://cellperformance.beyond3d.com/articles/2006/06/understanding-strict-aliasing.html)
+* [Minimalist Containers in C(P1) (Blog post)](http://ourmachinery.com/post/minimalist-container-library-in-c-part-1/)
+* [Minimalist Containers in C(P2) (Blog post)] (http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
+* [BitHacks (Collection?)](https://graphics.stanford.edu/~seander/bithacks.html)
+
+#### C++
+* [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
+* [Perfect Forwarding (Article Series)](http://thbecker.net/articles/rvalue_references/section_01.html)
+* [DLL Hot Reloading (Article)](http://ourmachinery.com/post/dll-hot-reloading-in-theory-and-practice/)
+* [Thunk and its uses (Article)](https://www.codeproject.com/Articles/27908/Thunk-and-its-uses)
+* [How to avoid C/C++ runtime on Windows (Article)](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows)
+* [Job System Implementation (Article)](http://danglingpointers.com/post/job-system/)
+* [Spin Lock Implementation (Article)](http://danglingpointers.com/post/spinlock-implementation/)
+* [Mike Acton DoD Workshop](http://danglingpointers.com/post/mike-actons-dod-workshop-2015/)
+* [Handles are the better pointer](http://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+
+#### C#
+* [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
+* [Everyone thinks about garbage collection the wrong way (Blog)](https://devblogs.microsoft.com/oldnewthing/20100809-00/?p=13203)
+* [The stack is an implementation detail (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2009/04/27/the-stack-is-an-implementation-detail-part-one/)
+* [The Truth About Value Types (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2010/09/30/the-truth-about-value-types/)
+* [Debunking another myth about value types (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2010/10/11/debunking-another-myth-about-value-types/)
+
+#### Misc
+* [How LLVM Optimizes a function (Blog Post)](https://blog.regehr.org/archives/1603)
+* [Crafting Interpreters (Online Book)](http://www.craftinginterpreters.com/)
+
+### AI
+* [The AI of DOOM 2016](http://www.gamasutra.com/blogs/TommyThompson/20180806/323715/Cyber_Demons__The_AI_of_DOOM_2016.php)
+* [AI and Games (Blog)](https://aiandgames.com/)
+
+### Rendering
 #### Vulkan
 * [Single Renderpass Deferred Shading on Mobile](https://www.khronos.org/assets/uploads/developers/library/2017-gdc/GDC_Vulkan-on-Mobile_Vulkan-Multipass-ARM_Mar17.pdf)
 * [Vulkan Subpasses](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/6-Vulkan-subpasses.pdf)
@@ -55,6 +109,7 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Framegraphs extensible render framework in frostbite (Slides)](https://www.ea.com/frostbite/news/framegraph-extensible-rendering-architecture-in-frostbite)
 * [Render graphs and Vulkan a deep dive (Blog Post)](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 * [Vulkan Fast Paths (Slides)](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
+* [GPU... stuff (Slides)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
@@ -81,3 +136,54 @@ Maybe we'll gather a list of top resources for quick entry into the amazing worl
 * [Shadertoy](https://www.shadertoy.com/)
 * [Shdr Editor](http://shdr.bkcore.com/)
 * [Shader Frog](https://shaderfrog.com/)
+
+### Algorithms
+* [Visualizing Algorithms (Blog Port)](https://bost.ocks.org/mike/algorithms/)
+* [Pathfinding with Cellular automota (Blog Post)](https://nullprogram.com/blog/2014/06/22/)
+* [QGrep Internals (Blog Post)](https://zeux.io/2019/04/20/qgrep-internals/)
+
+### Networking
+* [Gaffer On Games (Blog)](https://gafferongames.com/)
+* [VR Networked Physics (Article)](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/)
+* [Poor Man's Netcode (Article)](https://www.gamedev.net/articles/programming/networking-and-multiplayer/the-poor-mans-netcode-r4851/)
+
+### CPUs
+* [Branch Prediction Rundown (Blog Post)](http://danluu.com/branch-prediction/)
+* [Introduction to dataflow graphs (Blog Post)](https://wp.me/pF1Ai-1Qg)
+* [SIMD at Insomniac Games (PDF)](https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf)
+* [SSE Mind the gaps! (Blog Post)](https://fgiesen.wordpress.com/2016/04/03/sse-mind-the-gap/)
+* [Hardware Effects (Repo)](https://github.com/Kobzol/hardware-effects)
+* [Write Combining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
+* [Why do CPUs have multiple cache levels? (Blog Post)](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
+* [Software Optimization Resources (Guides) - Recommended](https://www.agner.org/optimize/)
+* [Assembly Intrinsics (Blog Post)](https://danluu.com/assembly-intrinsics/)
+* [Cores don't like to share (Blog Post)](https://fgiesen.wordpress.com/2013/01/31/cores-dont-like-to-share/)
+* [AVX-512: When and how to use these new instructions](https://lemire.me/blog/2018/09/07/avx-512-when-and-how-to-use-these-new-instructions/)
+* [By how much does AVX-512 slow down your CPU?](https://lemire.me/blog/2018/04/19/by-how-much-does-avx-512-slow-down-your-cpu-a-first-experiment/)
+* [Modern Microprocessors - A 90-Minute Guide! (Blog Post)](http://www.lighterra.com/papers/modernmicroprocessors/)
+* [Speed Limits (Blog Post) - Recommended](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
+
+### Retro
+* [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
+* [Old-School Raycasting Pt2 (Series)](https://lodev.org/cgtutor/raycasting2.html)
+* [Old-School Raycasting Pt3 (Series)](https://lodev.org/cgtutor/raycasting3.html)
+* [Old-School Raycasting Pt4 (Series)](https://lodev.org/cgtutor/raycasting4.html)
+
+### Threading
+* [Thread Sanitizer A thread debugging tool (Repo)](https://github.com/google/sanitizers/wiki/ThreadSanitizerCppManual)
+
+### Sound
+* [Digital Media Primer (Videos)](https://xiph.org/video/)
+
+### Misc
+* [Aras P (Blog)](https://aras-p.info/blog/)
+* [Demo Scene and more (Blog)](https://blog.demofox.org/)
+* [Semantic Compression (Blog Post)](https://caseymuratori.com/blog_0015)
+* [Floating Point (White Paper)](http://www.cse.hcmut.edu.vn/~hungnq/courses/501120/docthem/Single%20precision%20floating-point%20format%20-%20Wikipedia.pdf)
+* [The blog at the bottom of the sea (Blog - Math, Programming, Graphics)](https://blog.demofox.org/)
+* [Digital Signal Processing Guide (PDF Book)](http://www.dspguide.com/pdfbook.htm)
+* [Why the way we look at technical debt is wrong](https://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong)
+* [The Story behind The Truth: Designing a Data Model](https://ourmachinery.com/post/the-story-behind-the-truth-designing-a-data-model/)
+* [A queue of page faults (Blog Post)](https://zeux.io/2014/12/21/page-fault-queue/#fn:1)
+* [Hidden cost of Memort Allocation (Blog Post)](https://randomascii.wordpress.com/2014/12/10/hidden-costs-of-memory-allocation/)
+* [A question about avoiding page faults the first time newly-allocated memory is accessed (Blog post)](https://devblogs.microsoft.com/oldnewthing/?p=96146)
