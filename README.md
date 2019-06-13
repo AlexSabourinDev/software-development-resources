@@ -35,7 +35,7 @@ Maybe we'll gather a list of top resources.
 #### C
 * [Strict Aliasing (Article)](https://cellperformance.beyond3d.com/articles/2006/06/understanding-strict-aliasing.html)
 * [Minimalist Containers in C(P1) (Blog post)](http://ourmachinery.com/post/minimalist-container-library-in-c-part-1/)
-* [Minimalist Containers in C(P2) (Blog post)] (http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
+* [Minimalist Containers in C(P2) (Blog post)](http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
 * [BitHacks (Collection?)](https://graphics.stanford.edu/~seander/bithacks.html)
 
 #### C++
