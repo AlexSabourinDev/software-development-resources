@@ -1,13 +1,13 @@
 # software-development-resources
 
 ### Why?
-We're a group of rendering nerds that decided that this would be a great place to share rendering resources! (Also slack is a terrible place to store these :p)
+Because it's fun!
 
 ### How?
 Contributing is simple! Just add a link to the list and off you go!
 
-### Later?
-Maybe we'll gather a list of top resources for quick entry into the amazing world of rendering!
+### TODO
+Maybe we'll gather a list of top resources.
 
 ## Links!
 
