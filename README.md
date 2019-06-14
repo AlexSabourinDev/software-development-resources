@@ -162,6 +162,7 @@ Maybe we'll gather a list of top resources.
 * [By how much does AVX-512 slow down your CPU?](https://lemire.me/blog/2018/04/19/by-how-much-does-avx-512-slow-down-your-cpu-a-first-experiment/)
 * [Modern Microprocessors - A 90-Minute Guide! (Blog Post)](http://www.lighterra.com/papers/modernmicroprocessors/)
 * [Speed Limits (Blog Post) - Recommended](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
+* [Memory Disambiguation and Store Forwarding (Blog Post)](http://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/)
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
