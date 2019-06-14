@@ -164,6 +164,7 @@ Maybe we'll gather a list of top resources.
 * [Speed Limits (Blog Post) - Recommended](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
 * [Memory Disambiguation and Store Forwarding (Blog Post)](http://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/)
 * [Henry - StuffedCow (Blog)](http://blog.stuffedcow.net/category/measurements/)
+* [Measuring Reorder Buffer Capacity (Blog Post)](http://blog.stuffedcow.net/2013/05/measuring-rob-capacity/)
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
