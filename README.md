@@ -48,6 +48,7 @@ Maybe we'll gather a list of top resources.
 * [Spin Lock Implementation (Article)](http://danglingpointers.com/post/spinlock-implementation/)
 * [Mike Acton DoD Workshop](http://danglingpointers.com/post/mike-actons-dod-workshop-2015/)
 * [Handles are the better pointer](http://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+* [Efficient Argument Passing in C++11](https://www.codesynthesis.com/~boris/blog/2012/06/19/efficient-argument-passing-cxx11-part1/)
 
 #### C#
 * [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
