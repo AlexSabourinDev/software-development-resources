@@ -47,8 +47,9 @@ Maybe we'll gather a list of top resources.
 * [Job System Implementation (Article)](http://danglingpointers.com/post/job-system/)
 * [Spin Lock Implementation (Article)](http://danglingpointers.com/post/spinlock-implementation/)
 * [Mike Acton DoD Workshop](http://danglingpointers.com/post/mike-actons-dod-workshop-2015/)
-* [Handles are the better pointer](http://floooh.github.io/2018/06/17/handles-vs-pointers.html)
-* [Efficient Argument Passing in C++11](https://www.codesynthesis.com/~boris/blog/2012/06/19/efficient-argument-passing-cxx11-part1/)
+* [Handles are the better pointer (Blog Post)](http://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+* [Efficient Argument Passing in C++11 (Blog Post)](https://www.codesynthesis.com/~boris/blog/2012/06/19/efficient-argument-passing-cxx11-part1/)
+* [Peephole Optimizations in C++ and C# (Blog Post)](https://egorbo.com/peephole-optimizations.html)
 
 #### C#
 * [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
@@ -111,6 +112,8 @@ Maybe we'll gather a list of top resources.
 * [Render graphs and Vulkan a deep dive (Blog Post)](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 * [Vulkan Fast Paths (Slides)](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
 * [GPU... stuff (Slides)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view)
+* [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
+* [What's up with my branch on GPU (Blog Post)](https://aschrein.github.io/jekyll/update/2019/06/13/whatsup-with-my-branches-on-gpu.html)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
@@ -166,6 +169,7 @@ Maybe we'll gather a list of top resources.
 * [Memory Disambiguation and Store Forwarding (Blog Post)](http://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/)
 * [Henry - StuffedCow (Blog)](http://blog.stuffedcow.net/category/measurements/)
 * [Measuring Reorder Buffer Capacity (Blog Post)](http://blog.stuffedcow.net/2013/05/measuring-rob-capacity/)
+* [Avoiding Instruction Cache Misses (Blog Post)](https://pdziepak.github.io/2019/06/21/avoiding-icache-misses/)
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
@@ -191,3 +195,6 @@ Maybe we'll gather a list of top resources.
 * [A queue of page faults (Blog Post)](https://zeux.io/2014/12/21/page-fault-queue/#fn:1)
 * [Hidden cost of Memort Allocation (Blog Post)](https://randomascii.wordpress.com/2014/12/10/hidden-costs-of-memory-allocation/)
 * [A question about avoiding page faults the first time newly-allocated memory is accessed (Blog post)](https://devblogs.microsoft.com/oldnewthing/?p=96146)
+
+### Unity
+* [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
