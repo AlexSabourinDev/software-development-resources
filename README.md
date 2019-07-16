@@ -25,6 +25,7 @@ Maybe we'll gather a list of top resources.
 * [Faster Quaternion-Vector Multiplication (Blog Post)](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
 * [A primer on Bezier Curves (Online Book)](https://pomax.github.io/bezierinfo/)
 * [Quaternion Visualization (Resource)](https://eater.net/quaternions)
+* [Thin triangle and other tricks (REVEALED!) (Blog Post)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
 
 ### Design
 * [Extra Creditz (Youtube Channel)](https://www.youtube.com/user/ExtraCreditz)
@@ -37,6 +38,8 @@ Maybe we'll gather a list of top resources.
 * [Minimalist Containers in C(P1) (Blog post)](http://ourmachinery.com/post/minimalist-container-library-in-c-part-1/)
 * [Minimalist Containers in C(P2) (Blog post)](http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
 * [BitHacks (Collection?)](https://graphics.stanford.edu/~seander/bithacks.html)
+* [Coroutines in less than 20 lines of standard C (Blog Post)](https://fanf.livejournal.com/105413.html)
+* [Coroutines in C (Blog Post)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 
 #### C++
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
@@ -57,6 +60,7 @@ Maybe we'll gather a list of top resources.
 * [The stack is an implementation detail (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2009/04/27/the-stack-is-an-implementation-detail-part-one/)
 * [The Truth About Value Types (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2010/09/30/the-truth-about-value-types/)
 * [Debunking another myth about value types (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2010/10/11/debunking-another-myth-about-value-types/)
+* [How Generics are implemented in C# (Blog Post)](https://twitter.com/matthewwarren/status/1148608909717966848?s=19)
 
 #### Misc
 * [How LLVM Optimizes a function (Blog Post)](https://blog.regehr.org/archives/1603)
@@ -129,6 +133,7 @@ Maybe we'll gather a list of top resources.
 * [Huge rendering resource repository (Website)](http://kesen.realtimerendering.com/)
 * [Fabien Sanglard (Website)](http://fabiensanglard.net/)
 * [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
+* [Shadertoy Discord](https://discord.gg/XtmMN6E)
 
 #### Tutorials
 * [Learn OpenGL (Tutorial)](https://learnopengl.com/)
@@ -170,6 +175,9 @@ Maybe we'll gather a list of top resources.
 * [Henry - StuffedCow (Blog)](http://blog.stuffedcow.net/category/measurements/)
 * [Measuring Reorder Buffer Capacity (Blog Post)](http://blog.stuffedcow.net/2013/05/measuring-rob-capacity/)
 * [Avoiding Instruction Cache Misses (Blog Post)](https://pdziepak.github.io/2019/06/21/avoiding-icache-misses/)
+* [It's done in hardware so it's cheap (Blog Post)](http://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
+* [The surprising subtleties of zeroing a register (Blog Post)](https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/)
+* [What is the best way to set a register to zero in x86? (Stack Overflow)](https://stackoverflow.com/questions/33666617/what-is-the-best-way-to-set-a-register-to-zero-in-x86-assembly-xor-mov-or-and/33668295#33668295)
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
@@ -195,6 +203,7 @@ Maybe we'll gather a list of top resources.
 * [A queue of page faults (Blog Post)](https://zeux.io/2014/12/21/page-fault-queue/#fn:1)
 * [Hidden cost of Memort Allocation (Blog Post)](https://randomascii.wordpress.com/2014/12/10/hidden-costs-of-memory-allocation/)
 * [A question about avoiding page faults the first time newly-allocated memory is accessed (Blog post)](https://devblogs.microsoft.com/oldnewthing/?p=96146)
+* [AOSOA (Blog Post)](https://twitter.com/grujicbr/status/1150459559909220352?s=19)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
