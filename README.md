@@ -118,6 +118,7 @@ Maybe we'll gather a list of top resources.
 * [GPU... stuff (Slides)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view)
 * [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
 * [What's up with my branch on GPU (Blog Post)](https://aschrein.github.io/jekyll/update/2019/06/13/whatsup-with-my-branches-on-gpu.html)
+* [Fresnel Equations Considered Harmful (Slides)](http://renderwonk.com/publications/mam2019/)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
