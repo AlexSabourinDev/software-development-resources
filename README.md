@@ -119,6 +119,8 @@ Maybe we'll gather a list of top resources.
 * [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
 * [What's up with my branch on GPU (Blog Post)](https://aschrein.github.io/jekyll/update/2019/06/13/whatsup-with-my-branches-on-gpu.html)
 * [Fresnel Equations Considered Harmful (Slides)](http://renderwonk.com/publications/mam2019/)
+* [Alpha Compositing (Blog Post)](https://ciechanow.ski/alpha-compositing/)
+* [Spectral rendering with bounded MESE and sRGB data (Research Paper)](http://momentsingraphics.de/?page_id=257)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
