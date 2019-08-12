@@ -208,6 +208,7 @@ Maybe we'll gather a list of top resources.
 * [Hidden cost of Memort Allocation (Blog Post)](https://randomascii.wordpress.com/2014/12/10/hidden-costs-of-memory-allocation/)
 * [A question about avoiding page faults the first time newly-allocated memory is accessed (Blog post)](https://devblogs.microsoft.com/oldnewthing/?p=96146)
 * [AOSOA (Blog Post)](https://twitter.com/grujicbr/status/1150459559909220352?s=19)
+* [Over-engineering (the root of all evil)](http://c0de517e.blogspot.com/2016/10/over-engineering-root-of-all-evil.html)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
