@@ -122,6 +122,7 @@ Maybe we'll gather a list of top resources.
 * [Alpha Compositing (Blog Post)](https://ciechanow.ski/alpha-compositing/)
 * [Spectral rendering with bounded MESE and sRGB data (Research Paper)](http://momentsingraphics.de/?page_id=257)
 * [Raytracing Reflection, Refraction, Fresnel, Total Internal Reflection, and Beer's Law (Blog Post)](https://blog.demofox.org/2017/01/09/raytracing-reflection-refraction-fresnel-total-internal-reflection-and-beers-law/)
+* [Misunderstanding Multiscattering (Blog Post)](http://c0de517e.blogspot.com/2019/08/misunderstanding-multiscattering.html)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
@@ -138,6 +139,16 @@ Maybe we'll gather a list of top resources.
 * [Fabien Sanglard (Website)](http://fabiensanglard.net/)
 * [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 * [Shadertoy Discord](https://discord.gg/XtmMN6E)
+
+#### Depth
+* [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
+* [Maximizing depth buffer range and precision (Blog Post)](https://outerra.blogspot.com/2012/11/maximizing-depth-buffer-range-and.html)
+* [Reversed-Z in OpenGL (Blog Post)](https://nlguillemot.wordpress.com/2016/12/07/reversed-z-in-opengl/)
+* [Love your Z buffer (Blog Post)](https://www.sjbaker.org/steve/omniv/love_your_z_buffer.html)
+* [Depth Buffer Interpolation (Blog Post)](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/visibility-problem-depth-buffer-depth-interpolation)
+* [Linear Depth Buffer (Stack Overflow)](https://stackoverflow.com/questions/47801957/linear-depth-buffer)
+* [A couple of notes about Z (Blog Post)](http://www.humus.name/index.php?ID=255)
+* [Depth Precision Visualized (Blog Post)](https://developer.nvidia.com/content/depth-precision-visualized)
 
 #### Tutorials
 * [Learn OpenGL (Tutorial)](https://learnopengl.com/)
