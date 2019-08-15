@@ -123,6 +123,7 @@ Maybe we'll gather a list of top resources.
 * [Spectral rendering with bounded MESE and sRGB data (Research Paper)](http://momentsingraphics.de/?page_id=257)
 * [Raytracing Reflection, Refraction, Fresnel, Total Internal Reflection, and Beer's Law (Blog Post)](https://blog.demofox.org/2017/01/09/raytracing-reflection-refraction-fresnel-total-internal-reflection-and-beers-law/)
 * [Misunderstanding Multiscattering (Blog Post)](http://c0de517e.blogspot.com/2019/08/misunderstanding-multiscattering.html)
+* [How (not) to test graphics code (Blog Post)](https://bartwronski.com/2019/08/14/how-not-to-test-graphics-algorithms/)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
