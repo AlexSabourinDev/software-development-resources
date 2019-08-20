@@ -194,6 +194,7 @@ Maybe we'll gather a list of top resources.
 * [It's done in hardware so it's cheap (Blog Post)](http://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
 * [The surprising subtleties of zeroing a register (Blog Post)](https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/)
 * [What is the best way to set a register to zero in x86? (Stack Overflow)](https://stackoverflow.com/questions/33666617/what-is-the-best-way-to-set-a-register-to-zero-in-x86-assembly-xor-mov-or-and/33668295#33668295)
+* [Parallel Computer Architecture And Programming (Lectures)](http://15418.courses.cs.cmu.edu/spring2017/lectures)
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
