@@ -74,6 +74,7 @@ Maybe we'll gather a list of top resources.
 #### Vulkan
 * [Single Renderpass Deferred Shading on Mobile](https://www.khronos.org/assets/uploads/developers/library/2017-gdc/GDC_Vulkan-on-Mobile_Vulkan-Multipass-ARM_Mar17.pdf)
 * [Vulkan Subpasses](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/6-Vulkan-subpasses.pdf)
+* [Yet another blog explaining Vulkan synchronization](http://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 
 #### GPU
 * [A Trip Through the Graphics Pipeline (Blog Series)](https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-2011-part-1/)
