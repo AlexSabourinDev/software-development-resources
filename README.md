@@ -75,6 +75,9 @@ Maybe we'll gather a list of top resources.
 * [Single Renderpass Deferred Shading on Mobile](https://www.khronos.org/assets/uploads/developers/library/2017-gdc/GDC_Vulkan-on-Mobile_Vulkan-Multipass-ARM_Mar17.pdf)
 * [Vulkan Subpasses](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/6-Vulkan-subpasses.pdf)
 * [Yet another blog explaining Vulkan synchronization](http://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
+* [A Tour Of Granite's Vulkan Backend (Blog Series)](http://themaister.net/blog/2019/04/14/a-tour-of-granites-vulkan-backend-part-1/)
+* [Render graphs and Vulkan a deep dive (Blog Post)](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+* [Vulkan Fast Paths (Slides)](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
 
 #### GPU
 * [A Trip Through the Graphics Pipeline (Blog Series)](https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-2011-part-1/)
@@ -114,8 +117,6 @@ Maybe we'll gather a list of top resources.
 * [High-level rendering using render graphs (Blog Post)](https://ourmachinery.com/post/high-level-rendering-using-render-graphs/)
 * [Advanced Graphics moving to DirectX 12 (GDC slides)](https://www.gdcvault.com/play/1024656/Advanced-Graphics-Tech-Moving-to)
 * [Framegraphs extensible render framework in frostbite (Slides)](https://www.ea.com/frostbite/news/framegraph-extensible-rendering-architecture-in-frostbite)
-* [Render graphs and Vulkan a deep dive (Blog Post)](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
-* [Vulkan Fast Paths (Slides)](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
 * [GPU... stuff (Slides)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view)
 * [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
 * [What's up with my branch on GPU (Blog Post)](https://aschrein.github.io/jekyll/update/2019/06/13/whatsup-with-my-branches-on-gpu.html)
@@ -125,6 +126,10 @@ Maybe we'll gather a list of top resources.
 * [Raytracing Reflection, Refraction, Fresnel, Total Internal Reflection, and Beer's Law (Blog Post)](https://blog.demofox.org/2017/01/09/raytracing-reflection-refraction-fresnel-total-internal-reflection-and-beers-law/)
 * [Misunderstanding Multiscattering (Blog Post)](http://c0de517e.blogspot.com/2019/08/misunderstanding-multiscattering.html)
 * [How (not) to test graphics code (Blog Post)](https://bartwronski.com/2019/08/14/how-not-to-test-graphics-algorithms/)
+* [Distance Fields (Blog Post)](https://prideout.net/blog/distance_fields/)
+* [Normals revisited (Blog Post)](https://github.com/graphitemaster/normals_revisited/blob/master/README.md)
+* [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
+* [Text Hates you (Blog Post)](https://gankra.github.io/blah/text-hates-you/)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
