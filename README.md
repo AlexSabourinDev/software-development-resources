@@ -168,6 +168,7 @@ Maybe we'll gather a list of top resources.
 * [Intro to compute shaders (Blog Post)](https://anteru.net/blog/2018/intro-to-compute-shaders/)
 * [Scratchapixel (Tutorial)](https://www.scratchapixel.com/)
 * [PBR Theory (Tutorial)](https://learnopengl.com/PBR/Theory)
+* [FWidth (Tutorial)](https://www.ronja-tutorials.com/2019/11/29/fwidth.html)
 
 #### Shader Editors
 * [Shadertoy](https://www.shadertoy.com/)
