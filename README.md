@@ -53,6 +53,7 @@ Maybe we'll gather a list of top resources.
 * [Handles are the better pointer (Blog Post)](http://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [Efficient Argument Passing in C++11 (Blog Post)](https://www.codesynthesis.com/~boris/blog/2012/06/19/efficient-argument-passing-cxx11-part1/)
 * [Peephole Optimizations in C++ and C# (Blog Post)](https://egorbo.com/peephole-optimizations.html)
+* [Optimizations in C++ compilers (Article)](https://queue.acm.org/detail.cfm?id=3372264)
 
 #### C#
 * [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
@@ -130,6 +131,9 @@ Maybe we'll gather a list of top resources.
 * [Normals revisited (Blog Post)](https://github.com/graphitemaster/normals_revisited/blob/master/README.md)
 * [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
 * [Text Hates you (Blog Post)](https://gankra.github.io/blah/text-hates-you/)
+* [Real-Time Subsurface Scattering Intro (Blog Post)](https://therealmjp.github.io/posts/sss-intro/)
+* [What the heck is blue noise? (Blog Post)](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
+* [Mathematics of shading (Course Notes)](https://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_physics_math_notes.pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
@@ -146,6 +150,7 @@ Maybe we'll gather a list of top resources.
 * [Fabien Sanglard (Website)](http://fabiensanglard.net/)
 * [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 * [Shadertoy Discord](https://discord.gg/XtmMN6E)
+* [Raytracing a tiny procedural planet (Slides)](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
@@ -162,6 +167,7 @@ Maybe we'll gather a list of top resources.
 * [Fragment Foundry (Tutorial)](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
 * [Intro to compute shaders (Blog Post)](https://anteru.net/blog/2018/intro-to-compute-shaders/)
 * [Scratchapixel (Tutorial)](https://www.scratchapixel.com/)
+* [PBR Theory (Tutorial)](https://learnopengl.com/PBR/Theory)
 
 #### Shader Editors
 * [Shadertoy](https://www.shadertoy.com/)
@@ -228,6 +234,8 @@ Maybe we'll gather a list of top resources.
 * [A question about avoiding page faults the first time newly-allocated memory is accessed (Blog post)](https://devblogs.microsoft.com/oldnewthing/?p=96146)
 * [AOSOA (Blog Post)](https://twitter.com/grujicbr/status/1150459559909220352?s=19)
 * [Over-engineering (the root of all evil)](http://c0de517e.blogspot.com/2016/10/over-engineering-root-of-all-evil.html)
+* [How LLVM optimizes power sums (Article)](https://kristerw.blogspot.com/2019/04/how-llvm-optimizes-geometric-sums.html?m=1)
+* [Thinking About Technical Debt (Twitter Thread)](https://twitter.com/RonJeffries/status/1194279406530957312?s=20)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
