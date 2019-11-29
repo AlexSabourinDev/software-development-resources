@@ -61,7 +61,7 @@ Maybe we'll gather a list of top resources.
 * [The stack is an implementation detail (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2009/04/27/the-stack-is-an-implementation-detail-part-one/)
 * [The Truth About Value Types (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2010/09/30/the-truth-about-value-types/)
 * [Debunking another myth about value types (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2010/10/11/debunking-another-myth-about-value-types/)
-* [How Generics are implemented in C# (Blog Post)](https://twitter.com/matthewwarren/status/1148608909717966848?s=19)
+* [How Generics are implemented in C# (Blog Post)](https://github.com/dotnet/corert/issues/7248#issuecomment-508431669)
 
 #### Misc
 * [How LLVM Optimizes a function (Blog Post)](https://blog.regehr.org/archives/1603)
