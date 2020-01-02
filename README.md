@@ -87,6 +87,7 @@ Maybe we'll gather a list of top resources.
 * [Zero Driver Overhead (GDC Talk)](https://www.youtube.com/watch?v=K70QbvzB6II)
 * [GPU Barriers (Blog Post)](https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/)
 * [Tile Based Renderers](https://developer.samsung.com/game/gpu-framebuffer)
+* [Register Spilling](https://developer.download.nvidia.com/CUDA/training/register_spilling.pdf)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
@@ -135,6 +136,10 @@ Maybe we'll gather a list of top resources.
 * [What the heck is blue noise? (Blog Post)](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
 * [Mathematics of shading (Course Notes)](https://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_physics_math_notes.pdf)
 
+#### Floating Point
+* [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
+* [What every computer scientist should know about floating point (Paper)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
 * [Walt Disney Datasets (Data)](https://www.disneyanimation.com/technology/datasets)
@@ -151,6 +156,7 @@ Maybe we'll gather a list of top resources.
 * [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 * [Shadertoy Discord](https://discord.gg/XtmMN6E)
 * [Raytracing a tiny procedural planet (Slides)](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
+* [Profiling: Measurement and Analysis (League Of Legends Blog Post)](https://technology.riotgames.com/news/profiling-measurement-and-analysis)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
@@ -208,6 +214,11 @@ Maybe we'll gather a list of top resources.
 * [The surprising subtleties of zeroing a register (Blog Post)](https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/)
 * [What is the best way to set a register to zero in x86? (Stack Overflow)](https://stackoverflow.com/questions/33666617/what-is-the-best-way-to-set-a-register-to-zero-in-x86-assembly-xor-mov-or-and/33668295#33668295)
 * [Parallel Computer Architecture And Programming (Lectures)](http://15418.courses.cs.cmu.edu/spring2017/lectures)
+* [Cache Coherence Implementation (Blog Post)](https://sites.utexas.edu/jdm4372/category/computer-hardware/cache-coherence-implementations/)
+* [Notes on non-temporal (aka streaming) stores (Blog Post)](https://sites.utexas.edu/jdm4372/2018/01/01/notes-on-non-temporal-aka-streaming-stores/)
+* [Cache Coherence Protocols (Blog Post)](https://sites.utexas.edu/jdm4372/category/computer-architecture/cache-coherence-protocols/)
+* [Comments on timing short code sections on intel processors (Blog Post)](https://sites.utexas.edu/jdm4372/2018/07/23/comments-on-timing-short-code-sections-on-intel-processors/)
+* [A note on mask registers (Blog Post)](https://travisdowns.github.io/blog/2019/12/05/kreg-facts.html)
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
