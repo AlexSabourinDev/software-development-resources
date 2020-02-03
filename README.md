@@ -40,6 +40,7 @@ Maybe we'll gather a list of top resources.
 * [BitHacks (Collection?)](https://graphics.stanford.edu/~seander/bithacks.html)
 * [Coroutines in less than 20 lines of standard C (Blog Post)](https://fanf.livejournal.com/105413.html)
 * [Coroutines in C (Blog Post)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+* [Demystifying the restrict Keyword (Blog Post)](https://cellperformance.beyond3d.com/articles/2006/05/demystifying-the-restrict-keyword.html)
 
 #### C++
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
@@ -88,6 +89,7 @@ Maybe we'll gather a list of top resources.
 * [GPU Barriers (Blog Post)](https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/)
 * [Tile Based Renderers](https://developer.samsung.com/game/gpu-framebuffer)
 * [Register Spilling](https://developer.download.nvidia.com/CUDA/training/register_spilling.pdf)
+* [GPU Resources (Twitter Thread)](https://twitter.com/KostasAAA/status/1213908535039401984?s=20)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
@@ -135,6 +137,11 @@ Maybe we'll gather a list of top resources.
 * [Real-Time Subsurface Scattering Intro (Blog Post)](https://therealmjp.github.io/posts/sss-intro/)
 * [What the heck is blue noise? (Blog Post)](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
 * [Mathematics of shading (Course Notes)](https://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_physics_math_notes.pdf)
+* [Rendering Abstraction Layers (Blog Post)](http://alextardif.com/RenderingAbstractionLayers.html)
+* [BRDF Definition (Blog Post)](https://patapom.com/blog/BRDF/BRDF%20Definition/)
+* [Digesting The Elephant (Paper)](https://ingowald.blog/2020/01/09/digesting-the-elephant/amp/?__twitter_impression=true)
+* [Tile Based Optimization for Post Processing (Blog Post)](https://wickedengine.net/2020/01/05/tile-based-optimization-for-post-processing/)
+* [Learning From Failure (Blog Post)](http://media.lolrus.mediamolecule.com/AlexEvans_SIGGRAPH-2015-sml.pdf)
 
 #### Floating Point
 * [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
@@ -219,6 +226,8 @@ Maybe we'll gather a list of top resources.
 * [Cache Coherence Protocols (Blog Post)](https://sites.utexas.edu/jdm4372/category/computer-architecture/cache-coherence-protocols/)
 * [Comments on timing short code sections on intel processors (Blog Post)](https://sites.utexas.edu/jdm4372/2018/07/23/comments-on-timing-short-code-sections-on-intel-processors/)
 * [A note on mask registers (Blog Post)](https://travisdowns.github.io/blog/2019/12/05/kreg-facts.html)
+* [This Goes To Eleven (Blog Post)](https://bits.houmus.org/2020-01-28/this-goes-to-eleven-pt1)
+* [Mutexes Vs Spinlocks (Blog Post)](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189723)
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
