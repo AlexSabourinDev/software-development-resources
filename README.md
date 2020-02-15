@@ -42,6 +42,7 @@ Maybe we'll gather a list of top resources.
 * [Coroutines in C (Blog Post)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 * [Demystifying the restrict Keyword (Blog Post)](https://cellperformance.beyond3d.com/articles/2006/05/demystifying-the-restrict-keyword.html)
 * [Shared Libraries (Blog Post)](https://www.ibm.com/developerworks/library/l-shlibs/index.html)
+* [Linkers](https://www.airs.com/blog/archives/38)
 
 #### C++
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
