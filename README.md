@@ -26,6 +26,7 @@ Maybe we'll gather a list of top resources.
 * [A primer on Bezier Curves (Online Book)](https://pomax.github.io/bezierinfo/)
 * [Quaternion Visualization (Resource)](https://eater.net/quaternions)
 * [Thin triangle and other tricks (REVEALED!) (Blog Post)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
+* [Another View on the classic ray-aabb intersection algorithm for BVH traversal](https://medium.com/@bromanz/another-view-on-the-classic-ray-aabb-intersection-algorithm-for-bvh-traversal-41125138b525)
 
 ### Design
 * [Extra Creditz (Youtube Channel)](https://www.youtube.com/user/ExtraCreditz)
