@@ -58,6 +58,7 @@ Maybe we'll gather a list of top resources.
 * [Efficient Argument Passing in C++11 (Blog Post)](https://www.codesynthesis.com/~boris/blog/2012/06/19/efficient-argument-passing-cxx11-part1/)
 * [Peephole Optimizations in C++ and C# (Blog Post)](https://egorbo.com/peephole-optimizations.html)
 * [Optimizations in C++ compilers (Article)](https://queue.acm.org/detail.cfm?id=3372264)
+* [References - Simply (Blog Post)](https://herbsutter.com/2020/02/23/references-simply/)
 
 #### C#
 * [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
