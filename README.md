@@ -149,6 +149,7 @@ Maybe we'll gather a list of top resources.
 * [Tile Based Optimization for Post Processing (Blog Post)](https://wickedengine.net/2020/01/05/tile-based-optimization-for-post-processing/)
 * [Learning From Failure (Blog Post)](http://media.lolrus.mediamolecule.com/AlexEvans_SIGGRAPH-2015-sml.pdf)
 * [BRDF Definition (Blog Post)](https://patapom.com/blog/BRDF/BRDF%20Definition/)
+* [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
 
 #### Floating Point
 * [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
