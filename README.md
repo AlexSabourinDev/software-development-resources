@@ -165,6 +165,7 @@ Maybe we'll gather a list of top resources.
 * [Misunderstanding Multiscattering (Blog Post)](http://c0de517e.blogspot.com/2019/08/misunderstanding-multiscattering.html)
 * [Efficient Screen-space SSS (White Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
 * [Google Filament PBR (Code base breakdown)](https://google.github.io/filament/Filament.md.html)
+* [Game Environments Parta Remember Me Rendering (Blog Post)](https://www.fxguide.com/fxfeatured/game-environments-parta-remember-me-rendering/)
 
 #### Floating Point
 * [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
