@@ -166,6 +166,7 @@ Maybe we'll gather a list of top resources.
 * [Efficient Screen-space SSS (White Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
 * [Google Filament PBR (Code base breakdown)](https://google.github.io/filament/Filament.md.html)
 * [Game Environments Parta Remember Me Rendering (Blog Post)](https://www.fxguide.com/fxfeatured/game-environments-parta-remember-me-rendering/)
+* [Moving Frostbite to Physically Based Rendering V3](https://seblagarde.wordpress.com/tag/physically-based-rendering/)
 
 #### Floating Point
 * [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
