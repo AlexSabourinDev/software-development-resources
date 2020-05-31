@@ -147,6 +147,7 @@ Maybe we'll gather a list of top resources.
 * [Learning From Failure (Blog Post)](http://media.lolrus.mediamolecule.com/AlexEvans_SIGGRAPH-2015-sml.pdf)
 * [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
 * [PBR Diffuse Lighting for GGX (Slides)](https://www.gdcvault.com/play/1024478/PBR-Diffuse-Lighting-for-GGX)
+* [Physically Based Rendering References At The End of 2019 (Blog Post)](http://lousodrome.net/blog/light/2020/01/04/physically-based-rendering-references-at-the-end-of-2019/)
 
 #### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
