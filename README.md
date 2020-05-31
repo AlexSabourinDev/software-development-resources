@@ -149,6 +149,7 @@ Maybe we'll gather a list of top resources.
 * [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
 * [PBR Diffuse Lighting for GGX (Slides)](https://www.gdcvault.com/play/1024478/PBR-Diffuse-Lighting-for-GGX)
 * [Physically Based Rendering References At The End of 2019 (Blog Post)](http://lousodrome.net/blog/light/2020/01/04/physically-based-rendering-references-at-the-end-of-2019/)
+* [PI or not to PI in game lighting equation (Blog Post)](https://seblagarde.wordpress.com/2012/01/08/pi-or-not-to-pi-in-game-lighting-equation/)
 
 #### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
