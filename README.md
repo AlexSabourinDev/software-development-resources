@@ -167,6 +167,9 @@ Maybe we'll gather a list of top resources.
 * [Google Filament PBR (Code base breakdown)](https://google.github.io/filament/Filament.md.html)
 * [Game Environments Parta Remember Me Rendering (Blog Post)](https://www.fxguide.com/fxfeatured/game-environments-parta-remember-me-rendering/)
 * [Moving Frostbite to Physically Based Rendering V3](https://seblagarde.wordpress.com/tag/physically-based-rendering/)
+* [Ray Tracing In A Weekend (Book)](https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
+* [Ray Tracing The Rest of Your Life (Book)](https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)
+
 
 #### Floating Point
 * [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
