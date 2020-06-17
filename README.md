@@ -285,6 +285,8 @@ Maybe we'll gather a list of top resources.
 * [Over-engineering (the root of all evil)](http://c0de517e.blogspot.com/2016/10/over-engineering-root-of-all-evil.html)
 * [How LLVM optimizes power sums (Article)](https://kristerw.blogspot.com/2019/04/how-llvm-optimizes-geometric-sums.html?m=1)
 * [Thinking About Technical Debt (Twitter Thread)](https://twitter.com/RonJeffries/status/1194279406530957312?s=20)
+* [There are Only Four Billion Floats so Test Them All (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
+* [Floating Point Determinism (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
