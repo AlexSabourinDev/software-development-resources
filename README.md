@@ -172,6 +172,7 @@ Maybe we'll gather a list of top resources.
 * [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 * [Fresnel Equations Schlick Approximations (Blog Post)](http://psgraphics.blogspot.com/2020/03/fresnel-equations-schlick-approximation.html)
 * [Importance Sampling Techniques for GGX with Smith masking-shadowing (Blog Post)](https://schuttejoe.github.io/post/ggximportancesamplingpart1/)
+* [Microfacet Models For Refraction Through Rough Surfaces (Paper)](http://www.cs.cornell.edu/%7Esrm/publications/EGSR07-btdf.pdf)
 
 #### Floating Point
 * [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
