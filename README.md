@@ -61,6 +61,7 @@ Maybe we'll gather a list of top resources.
 * [Optimizations in C++ compilers (Article)](https://queue.acm.org/detail.cfm?id=3372264)
 * [References - Simply (Blog Post)](https://herbsutter.com/2020/02/23/references-simply/)
 * [Linkers (Blog Series)](https://www.airs.com/blog/archives/38)
+* [Optimizations in C++ Compilers (Blog Post)](https://queue.acm.org/detail.cfm?id=3372264)
 
 #### C#
 * [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
