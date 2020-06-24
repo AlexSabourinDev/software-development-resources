@@ -175,10 +175,6 @@ Maybe we'll gather a list of top resources.
 * [Importance Sampling Techniques for GGX with Smith masking-shadowing (Blog Post)](https://schuttejoe.github.io/post/ggximportancesamplingpart1/)
 * [Microfacet Models For Refraction Through Rough Surfaces (Paper)](http://www.cs.cornell.edu/%7Esrm/publications/EGSR07-btdf.pdf)
 
-#### Floating Point
-* [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
-* [What every computer scientist should know about floating point (Paper)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
-
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
 * [Walt Disney Datasets (Data)](https://www.disneyanimation.com/technology/datasets)
@@ -219,6 +215,13 @@ Maybe we'll gather a list of top resources.
 * [Shadertoy](https://www.shadertoy.com/)
 * [Shdr Editor](http://shdr.bkcore.com/)
 * [Shader Frog](https://shaderfrog.com/)
+
+### Floating Point
+* [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
+* [What every computer scientist should know about floating point (Paper)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* [There are Only Four Billion Floats so Test Them All (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
+* [Floating Point Determinism (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
+* [Floating Point (White Paper)](http://www.cse.hcmut.edu.vn/~hungnq/courses/501120/docthem/Single%20precision%20floating-point%20format%20-%20Wikipedia.pdf)
 
 ### Algorithms
 * [Visualizing Algorithms (Blog Port)](https://bost.ocks.org/mike/algorithms/)
@@ -277,7 +280,6 @@ Maybe we'll gather a list of top resources.
 * [Aras P (Blog)](https://aras-p.info/blog/)
 * [Demo Scene and more (Blog)](https://blog.demofox.org/)
 * [Semantic Compression (Blog Post)](https://caseymuratori.com/blog_0015)
-* [Floating Point (White Paper)](http://www.cse.hcmut.edu.vn/~hungnq/courses/501120/docthem/Single%20precision%20floating-point%20format%20-%20Wikipedia.pdf)
 * [The blog at the bottom of the sea (Blog - Math, Programming, Graphics)](https://blog.demofox.org/)
 * [Digital Signal Processing Guide (PDF Book)](http://www.dspguide.com/pdfbook.htm)
 * [Why the way we look at technical debt is wrong](https://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong)
@@ -289,8 +291,6 @@ Maybe we'll gather a list of top resources.
 * [Over-engineering (the root of all evil)](http://c0de517e.blogspot.com/2016/10/over-engineering-root-of-all-evil.html)
 * [How LLVM optimizes power sums (Article)](https://kristerw.blogspot.com/2019/04/how-llvm-optimizes-geometric-sums.html?m=1)
 * [Thinking About Technical Debt (Twitter Thread)](https://twitter.com/RonJeffries/status/1194279406530957312?s=20)
-* [There are Only Four Billion Floats so Test Them All (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
-* [Floating Point Determinism (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
