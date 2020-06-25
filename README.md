@@ -173,8 +173,6 @@ Maybe we'll gather a list of top resources.
 * [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 * [Fresnel Equations Schlick Approximations (Blog Post)](http://psgraphics.blogspot.com/2020/03/fresnel-equations-schlick-approximation.html)
 * [Importance Sampling Techniques for GGX with Smith masking-shadowing (Blog Post)](https://schuttejoe.github.io/post/ggximportancesamplingpart1/)
-* [Microfacet Models For Refraction Through Rough Surfaces (Paper)](http://www.cs.cornell.edu/%7Esrm/publications/EGSR07-btdf.pdf)
-* [Sampling Microfacet BRDF (Blog Post)](https://agraphicsguy.wordpress.com/2015/11/01/sampling-microfacet-brdf/)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
