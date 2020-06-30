@@ -146,6 +146,7 @@ Maybe we'll gather a list of top resources.
 * [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
 
 #### Shading
+* [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
 * [Sampling Microfacet BRDFs (Blog Post)](https://www.google.com/amp/s/agraphicsguy.wordpress.com/2015/11/01/sampling-microfacet-brdf/amp/)
 * [Importance Sampling Adventure (Tweets)](https://twitter.com/KostasAAA/status/1246936564556537865?s=20)
