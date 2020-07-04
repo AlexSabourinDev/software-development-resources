@@ -146,7 +146,6 @@ Maybe we'll gather a list of top resources.
 * [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
 
 #### Shading
-* [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
 * [Sampling Microfacet BRDFs (Blog Post)](https://www.google.com/amp/s/agraphicsguy.wordpress.com/2015/11/01/sampling-microfacet-brdf/amp/)
 * [Importance Sampling Adventure (Tweets)](https://twitter.com/KostasAAA/status/1246936564556537865?s=20)
@@ -165,16 +164,20 @@ Maybe we'll gather a list of top resources.
 * [Physically Based Rendering References At The End of 2019 (Blog Post)](http://lousodrome.net/blog/light/2020/01/04/physically-based-rendering-references-at-the-end-of-2019/)
 * [Real-Time Subsurface Scattering Intro (Blog Post)](https://therealmjp.github.io/posts/sss-intro/)
 * [Misunderstanding Multiscattering (Blog Post)](http://c0de517e.blogspot.com/2019/08/misunderstanding-multiscattering.html)
-* [Efficient Screen-space SSS (White Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
 * [Google Filament PBR (Code base breakdown)](https://google.github.io/filament/Filament.md.html)
 * [Game Environments Parta Remember Me Rendering (Blog Post)](https://www.fxguide.com/fxfeatured/game-environments-parta-remember-me-rendering/)
 * [Moving Frostbite to Physically Based Rendering V3](https://seblagarde.wordpress.com/tag/physically-based-rendering/)
 * [Ray Tracing In A Weekend (Book)](https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
 * [Ray Tracing The Rest of Your Life (Book)](https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)
-* [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 * [Fresnel Equations Schlick Approximations (Blog Post)](http://psgraphics.blogspot.com/2020/03/fresnel-equations-schlick-approximation.html)
 * [Importance Sampling Techniques for GGX with Smith masking-shadowing (Blog Post)](https://schuttejoe.github.io/post/ggximportancesamplingpart1/)
 * [Lights And Shadows (Interactive Blog Post)](https://ciechanow.ski/lights-and-shadows/)
+
+##### Papers
+* [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
+* [Can't invert the CDF? Triangle Cut Parametirzation of the Region Under The Curve (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf14058/v39i4pp121-132.pdf)
+* [Efficient Screen-space SSS (Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
+* [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
