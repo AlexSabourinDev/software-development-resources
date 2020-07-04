@@ -178,6 +178,7 @@ Maybe we'll gather a list of top resources.
 * [Can't invert the CDF? Triangle Cut Parametirzation of the Region Under The Curve (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf14058/v39i4pp121-132.pdf)
 * [Efficient Screen-space SSS (Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
 * [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
+* [Discrepancy as a Quality Measure for Sample Distributions (Paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.1601&rep=rep1&type=pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
