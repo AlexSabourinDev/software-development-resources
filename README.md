@@ -87,6 +87,8 @@ Maybe we'll gather a list of top resources.
 * [A Tour Of Granite's Vulkan Backend (Blog Series)](http://themaister.net/blog/2019/04/14/a-tour-of-granites-vulkan-backend-part-1/)
 * [Render graphs and Vulkan a deep dive (Blog Post)](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 * [Vulkan Fast Paths (Slides)](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
+* [Using Arrays of Textures in Vulkan (Blog Post)](http://kylehalladay.com/blog/tutorial/vulkan/2018/01/28/Textue-Arrays-Vulkan.html)
+* [Vulkan Textures Unbound (Blog Post)](http://roar11.com/2019/06/vulkan-textures-unbound/)
 
 #### GPU
 * [A Trip Through the Graphics Pipeline (Blog Series)](https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-2011-part-1/)
