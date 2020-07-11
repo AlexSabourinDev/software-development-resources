@@ -182,6 +182,7 @@ Maybe we'll gather a list of top resources.
 * [Efficient Screen-space SSS (Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
 * [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 * [Discrepancy as a Quality Measure for Sample Distributions (Paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.1601&rep=rep1&type=pdf)
+* [Bias In rendering (Paper)](https://www.cs.cmu.edu/~kmcrane/Projects/Other/BiasInRendering.pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
