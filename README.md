@@ -100,6 +100,7 @@ Maybe we'll gather a list of top resources.
 * [Register Spilling](https://developer.download.nvidia.com/CUDA/training/register_spilling.pdf)
 * [GPU Resources (Twitter Thread)](https://twitter.com/KostasAAA/status/1213908535039401984?s=20)
 * [GPU Architecutre Resources (Blog Post)](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
+* [Writting An Efficient Vulkan Renderer (Blog Post/Article)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
