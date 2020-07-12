@@ -183,6 +183,8 @@ Maybe we'll gather a list of top resources.
 * [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 * [Discrepancy as a Quality Measure for Sample Distributions (Paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.1601&rep=rep1&type=pdf)
 * [Bias In rendering (Paper)](https://www.cs.cmu.edu/~kmcrane/Projects/Other/BiasInRendering.pdf)
+* [Optimally Combining Sampling Techniques for Monte Carlo Rendering (Paper)](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf)
+* [Multiple Importance Sampling Techniques for Monte Carlo Rendering (Paper/Coure Notes)](https://graphics.stanford.edu/courses/cs348b-03/papers/veach-chapter9.pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
