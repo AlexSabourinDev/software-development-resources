@@ -176,6 +176,7 @@ Maybe we'll gather a list of top resources.
 * [Importance Sampling Techniques for GGX with Smith masking-shadowing (Blog Post)](https://schuttejoe.github.io/post/ggximportancesamplingpart1/)
 * [Lights And Shadows (Interactive Blog Post)](https://ciechanow.ski/lights-and-shadows/)
 * [Multiple Importance Sampling (Blog Post)](https://blog.yiningkarlli.com/2015/02/multiple-importance-sampling.html)
+* [Light Attenuation (Blog Post)](https://imdoingitwrong.wordpress.com/2011/01/31/light-attenuation/)
 
 ##### Papers
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
