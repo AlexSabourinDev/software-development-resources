@@ -181,6 +181,7 @@ Maybe we'll gather a list of top resources.
 * [Multiple Importance Sampling (Blog Post)](https://blog.yiningkarlli.com/2015/02/multiple-importance-sampling.html)
 * [Light Attenuation (Blog Post)](https://imdoingitwrong.wordpress.com/2011/01/31/light-attenuation/)
 * [Light Attenuation Formula Derivation (Stack Exchange)](https://gamedev.stackexchange.com/questions/131372/light-attenuation-formula-derivation)
+* [Multiple Scattering BRDF (Blog Post)](https://patapom.com/blog/BRDF/MSBRDF/)
 
 ##### Papers
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
