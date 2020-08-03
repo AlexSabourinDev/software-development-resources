@@ -149,6 +149,7 @@ Maybe we'll gather a list of top resources.
 * [Tile Based Optimization for Post Processing (Blog Post)](https://wickedengine.net/2020/01/05/tile-based-optimization-for-post-processing/)
 * [Learning From Failure (Blog Post)](http://media.lolrus.mediamolecule.com/AlexEvans_SIGGRAPH-2015-sml.pdf)
 * [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
+* [Variance Shadow Maps (Paper)](http://www.punkuser.net/vsm/vsm_paper.pdf)
 
 #### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
