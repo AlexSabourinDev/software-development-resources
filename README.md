@@ -182,6 +182,7 @@ Maybe we'll gather a list of top resources.
 * [Light Attenuation (Blog Post)](https://imdoingitwrong.wordpress.com/2011/01/31/light-attenuation/)
 * [Light Attenuation Formula Derivation (Stack Exchange)](https://gamedev.stackexchange.com/questions/131372/light-attenuation-formula-derivation)
 * [Multiple Scattering BRDF (Blog Post)](https://patapom.com/blog/BRDF/MSBRDF/)
+* [Adventures In Triangle Sampling Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
 
 ##### Papers
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
@@ -192,6 +193,7 @@ Maybe we'll gather a list of top resources.
 * [Bias In rendering (Paper)](https://www.cs.cmu.edu/~kmcrane/Projects/Other/BiasInRendering.pdf)
 * [Optimally Combining Sampling Techniques for Monte Carlo Rendering (Paper)](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf)
 * [Multiple Importance Sampling Techniques for Monte Carlo Rendering (Paper/Coure Notes)](https://graphics.stanford.edu/courses/cs348b-03/papers/veach-chapter9.pdf)
+* [Dynamic Many-Light Sampling for Real-Time Ray Tracing (Paper)](https://pdfs.semanticscholar.org/c201/a72c707d96c9fed65aad5f481443041d9de9.pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
