@@ -194,6 +194,7 @@ Maybe we'll gather a list of top resources.
 * [Optimally Combining Sampling Techniques for Monte Carlo Rendering (Paper)](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf)
 * [Multiple Importance Sampling Techniques for Monte Carlo Rendering (Paper/Coure Notes)](https://graphics.stanford.edu/courses/cs348b-03/papers/veach-chapter9.pdf)
 * [Dynamic Many-Light Sampling for Real-Time Ray Tracing (Paper)](https://pdfs.semanticscholar.org/c201/a72c707d96c9fed65aad5f481443041d9de9.pdf)
+* [Importance Sampling of Many Lights with Adaptive TreeSplitting (Paper)](http://www.aconty.com/pdf/many-lights-hpg2018.pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
