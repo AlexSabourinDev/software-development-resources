@@ -186,7 +186,7 @@ Maybe we'll gather a list of top resources.
 * [Adaptive Exposure from Luminance Histograms (Blog Post)](http://www.alextardif.com/HistogramLuminance.html)
 * [Automatic Exposure Using a Luminance Histogram (Blog Post)](https://bruop.github.io/exposure/)
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
-* [Tone Mapping (Blog Post By 64)(https://64.github.io/tonemapping/)
+* [Tone Mapping (Blog Post By 64)](https://64.github.io/tonemapping/)
 * [Image Based Lighting With Multiple Scattering](https://bruop.github.io/ibl/)
 
 ##### Papers
