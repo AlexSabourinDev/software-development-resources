@@ -187,6 +187,7 @@ Maybe we'll gather a list of top resources.
 * [Automatic Exposure Using a Luminance Histogram (Blog Post)](https://bruop.github.io/exposure/)
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
 * [Tone Mapping (Blog Post By 64)(https://64.github.io/tonemapping/)
+* [Image Based Lighting With Multiple Scattering](https://bruop.github.io/ibl/)
 
 ##### Papers
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
