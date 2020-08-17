@@ -80,7 +80,7 @@ Maybe we'll gather a list of top resources.
 * [AI and Games (Blog)](https://aiandgames.com/)
 
 ### Rendering
-#### Vulkan
+#### Vulkan/DX12
 * [Single Renderpass Deferred Shading on Mobile](https://www.khronos.org/assets/uploads/developers/library/2017-gdc/GDC_Vulkan-on-Mobile_Vulkan-Multipass-ARM_Mar17.pdf)
 * [Vulkan Subpasses](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/6-Vulkan-subpasses.pdf)
 * [Yet another blog explaining Vulkan synchronization](http://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
@@ -89,6 +89,8 @@ Maybe we'll gather a list of top resources.
 * [Vulkan Fast Paths (Slides)](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
 * [Using Arrays of Textures in Vulkan (Blog Post)](http://kylehalladay.com/blog/tutorial/vulkan/2018/01/28/Textue-Arrays-Vulkan.html)
 * [Vulkan Textures Unbound (Blog Post)](http://roar11.com/2019/06/vulkan-textures-unbound/)
+* [Binding Bindlessly (Blog Post)](http://alextardif.com/Bindless.html)
+* [Render Target APIs (Blog Post)](https://erfan-ahmadi.github.io/blog/Yugen/RenderTargets)
 
 #### GPU
 * [A Trip Through the Graphics Pipeline (Blog Series)](https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-2011-part-1/)
