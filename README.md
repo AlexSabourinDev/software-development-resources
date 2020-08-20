@@ -105,6 +105,12 @@ Maybe we'll gather a list of top resources.
 * [Writting An Efficient Vulkan Renderer (Blog Post/Article)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Optimizing Compute Shaders for L2 Locality (Blog Post)](https://developer.nvidia.com/blog/optimizing-compute-shaders-for-l2-locality-using-thread-group-id-swizzling/)
 * [GPU Memory Aliasing (Blog Post)](https://medium.com/@pavlo.muratov/gpu-memory-aliasing-45933681a15e)
+* [Rasterization Rules (MSDN)](https://docs.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-rasterizer-stage-rules#triangle-rasterization-rules-without-multisampling)
+* [Overdraw in Overdrive (Blog Post)](https://blog.selfshadow.com/publications/overdraw-in-overdrive/)
+* [Counting Quads (Blog Post)](https://blog.selfshadow.com/2012/11/12/counting-quads/)
+* [How bad are small triangles on GPU and why? (Blog Post)](https://www.g-truc.net/post-0662.html)
+* [Depth in-depth (PDF)](http://developer.amd.com/wordpress/media/2012/10/Depth_in-depth.pdf)
+* [Optimizing the graphics pipeline with compute (Slides)](https://frostbite-wp-prd.s3.amazonaws.com/wp-content/uploads/2016/03/29204330/GDC_2016_Compute.pdf)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
