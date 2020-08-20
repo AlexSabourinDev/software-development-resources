@@ -111,6 +111,7 @@ Maybe we'll gather a list of top resources.
 * [How bad are small triangles on GPU and why? (Blog Post)](https://www.g-truc.net/post-0662.html)
 * [Depth in-depth (PDF)](http://developer.amd.com/wordpress/media/2012/10/Depth_in-depth.pdf)
 * [Optimizing the graphics pipeline with compute (Slides)](https://frostbite-wp-prd.s3.amazonaws.com/wp-content/uploads/2016/03/29204330/GDC_2016_Compute.pdf)
+* [Compressed GPU Texture Formats - A Review And Comute Shader Decoders Part 1 (Blog Post)](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
