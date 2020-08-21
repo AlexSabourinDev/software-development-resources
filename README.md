@@ -198,6 +198,7 @@ Maybe we'll gather a list of top resources.
 * [Tone Mapping (Blog Post By 64)](https://64.github.io/tonemapping/)
 * [Image Based Lighting With Multiple Scattering](https://bruop.github.io/ibl/)
 * [Light Trees And The Many Lights Problem (Blog Post)](https://psychopath.io/post/2020_04_20_light_trees)
+* [Nonsingular Point Light Attenuation (Video)](http://www.cemyuksel.com/research/pointlightattenuation/)
 
 ##### Papers
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
