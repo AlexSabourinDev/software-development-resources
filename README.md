@@ -45,6 +45,7 @@ Maybe we'll gather a list of top resources.
 * [Shared Libraries (Blog Post)](https://www.ibm.com/developerworks/library/l-shlibs/index.html)
 * [Linkers (Blog Series)](https://www.airs.com/blog/archives/38)
 * [Fast floating point rand (Blog Post)](http://www.iquilezles.org/www/articles/sfrand/sfrand.htm)
+* [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux (Blog Post)](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 
 #### C++
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
