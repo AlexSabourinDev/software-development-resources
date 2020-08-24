@@ -315,6 +315,12 @@ Maybe we'll gather a list of top resources.
 ### Sound
 * [Digital Media Primer (Videos)](https://xiph.org/video/)
 
+### Collision
+* [Simple Intersection Tests For Games (Blog Post)](https://www.gamasutra.com/view/feature/3383/simple_intersection_tests_for_games.php?page=3)
+* [2D AABB vs AABB how to calculate normal (Stack Exchange)](https://gamedev.stackexchange.com/questions/28577/2d-aabb-vs-aabb-sweep-how-to-calculate-hit-normal)
+* [What's the fastest way of checking if 2 AABB intersect? (Stack Exchange)](https://gamedev.stackexchange.com/questions/93035/whats-the-fastest-way-checking-if-two-moving-aabbs-intersect)
+* [Swept AABB and response (Blog Post)](https://www.gamedev.net/tutorials/_/technical/game-programming/swept-aabb-collision-detection-and-response-r3084/)
+
 ### Misc
 * [Aras P (Blog)](https://aras-p.info/blog/)
 * [Demo Scene and more (Blog)](https://blog.demofox.org/)
