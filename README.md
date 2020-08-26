@@ -337,6 +337,8 @@ Maybe we'll gather a list of top resources.
 * [How LLVM optimizes power sums (Article)](https://kristerw.blogspot.com/2019/04/how-llvm-optimizes-geometric-sums.html?m=1)
 * [Thinking About Technical Debt (Twitter Thread)](https://twitter.com/RonJeffries/status/1194279406530957312?s=20)
 * [Data Compression - Bit Packing 101 (Blog Post)](https://www.kinematicsoup.com/news/2016/9/6/data-compression-bit-packing-101)
+* [Fibersunder the magnifying glass (Paper)](http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
+* [Fibers aren’t useful for much any more; there’s just one corner of it that remains useful for a reason unrelated to fibers (Blog Post)](https://devblogs.microsoft.com/oldnewthing/20191011-00/?p=102989)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
