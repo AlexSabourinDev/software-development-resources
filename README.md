@@ -224,13 +224,12 @@ Maybe we'll gather a list of top resources.
 * [Rendering Graphics Studies (Blog)](http://www.adriancourreges.com/blog/)
 * [Multi Channel SDF (Codebase)](https://github.com/Chlumsky/msdfgen)
 * [Arian Courreges, Game Studies (Blog)](http://www.adriancourreges.com/blog/)
-* [Advances in realtime renderind (Courses)](http://advances.realtimerendering.com/)
+* [Advances in realtime rendering(Courses)](http://advances.realtimerendering.com/)
 * [Huge rendering resource repository (Website)](http://kesen.realtimerendering.com/)
 * [Fabien Sanglard (Website)](http://fabiensanglard.net/)
-* [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 * [Shadertoy Discord](https://discord.gg/XtmMN6E)
 * [Raytracing a tiny procedural planet (Slides)](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
-* [Profiling: Measurement and Analysis (League Of Legends Blog Post)](https://technology.riotgames.com/news/profiling-measurement-and-analysis)
+* [How Unreal Renders A Frame (Blog Post)](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
@@ -331,7 +330,8 @@ Maybe we'll gather a list of top resources.
 * [Why the way we look at technical debt is wrong](https://www.bigeng.io/why-the-way-we-look-at-technical-debt-is-wrong)
 * [The Story behind The Truth: Designing a Data Model](https://ourmachinery.com/post/the-story-behind-the-truth-designing-a-data-model/)
 * [A queue of page faults (Blog Post)](https://zeux.io/2014/12/21/page-fault-queue/#fn:1)
-* [Hidden cost of Memort Allocation (Blog Post)](https://randomascii.wordpress.com/2014/12/10/hidden-costs-of-memory-allocation/)
+* [Profiling: Measurement and Analysis (League Of Legends Blog Post)](https://technology.riotgames.com/news/profiling-measurement-and-analysis)
+* [Hidden cost of MemoryAllocation (Blog Post)](https://randomascii.wordpress.com/2014/12/10/hidden-costs-of-memory-allocation/)
 * [A question about avoiding page faults the first time newly-allocated memory is accessed (Blog post)](https://devblogs.microsoft.com/oldnewthing/?p=96146)
 * [AOSOA (Blog Post)](https://twitter.com/grujicbr/status/1150459559909220352?s=19)
 * [Over-engineering (the root of all evil)](http://c0de517e.blogspot.com/2016/10/over-engineering-root-of-all-evil.html)
@@ -340,6 +340,7 @@ Maybe we'll gather a list of top resources.
 * [Data Compression - Bit Packing 101 (Blog Post)](https://www.kinematicsoup.com/news/2016/9/6/data-compression-bit-packing-101)
 * [Fibersunder the magnifying glass (Paper)](http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 * [Fibers aren’t useful for much any more; there’s just one corner of it that remains useful for a reason unrelated to fibers (Blog Post)](https://devblogs.microsoft.com/oldnewthing/20191011-00/?p=102989)
+* [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
