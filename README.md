@@ -162,6 +162,7 @@ Maybe we'll gather a list of top resources.
 * [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
 * [Variance Shadow Maps (Paper)](http://www.punkuser.net/vsm/vsm_paper.pdf)
 * [A Pixel Is Not a Little Square (Paper)](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf - A pixel is not a little square)
+* [Sampling Reconstruction (Slides)](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/Lectures/SamplingReconstruction.pdf)
 
 #### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
