@@ -1,15 +1,41 @@
 # software-development-resources
 
-### Why?
-Because it's fun!
+### What?
+A collection of links for various fields of software development. Mainly game related, most have been read and vetted. If you find any dead links, please submit an issue and I will try to address it as soon as possible.
 
-### How?
-Contributing is simple! Just add a link to the list and off you go!
-
-### TODO
-Maybe we'll gather a list of top resources.
-
-## Links!
+### Table Of Contents
+* [Links!](#links-)
+  + [Project Management](#project-management)
+    - [Estimation](#estimation)
+  + [Math](#math)
+  + [Game Design](#game-design)
+  + [Languages](#languages)
+    - [C](#c)
+    - [C++](#c-plus-plus)
+    - [C#](#c-sharp)
+    - [Misc](#misc)
+  + [AI](#ai)
+  + [Rendering](#rendering)
+    - [Vulkan/DX12](#vulkan-and-dx12)
+    - [GPU](#gpu)
+    - [Code](#code)
+    - [Concepts](#concepts)
+    - [Shading](#shading)
+      * [Papers](#papers)
+    - [Misc](#misc-1)
+    - [Depth](#depth)
+    - [Tutorials](#tutorials)
+    - [Shader Editors](#shader-editors)
+  + [Floating Point](#floating-point)
+  + [Algorithms](#algorithms)
+  + [Networking](#networking)
+  + [CPUs](#cpus)
+  + [Retro](#retro)
+  + [Threading](#threading)
+  + [Sound](#sound)
+  + [Collision](#collision)
+  + [Misc](#misc-2)
+  + [Unity](#unity)
 
 ### Project Management
 #### Estimation
@@ -28,7 +54,7 @@ Maybe we'll gather a list of top resources.
 * [Thin triangle and other tricks (REVEALED!) (Blog Post)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
 * [Another View on the classic ray-aabb intersection algorithm for BVH traversal](https://medium.com/@bromanz/another-view-on-the-classic-ray-aabb-intersection-algorithm-for-bvh-traversal-41125138b525)
 
-### Design
+### Game Design
 * [Extra Creditz (Youtube Channel)](https://www.youtube.com/user/ExtraCreditz)
 * [Designing For Coziness (Article)](https://www.gamasutra.com/blogs/TanyaXShort/20180305/315179/Designing_for_Coziness.php)
 * [Learning From The Masters: Level Design In The Legend Of Zelda (Article)](https://www.gamasutra.com/view/feature/134949/learning_from_the_masters_level_.php)
@@ -48,7 +74,7 @@ Maybe we'll gather a list of top resources.
 * [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux (Blog Post)](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 * [Basics of futexes (Blog Post)](https://eli.thegreenplace.net/2018/basics-of-futexes/)
 
-#### C++
+#### C plus plus
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
 * [Perfect Forwarding (Article Series)](http://thbecker.net/articles/rvalue_references/section_01.html)
 * [DLL Hot Reloading (Article)](http://ourmachinery.com/post/dll-hot-reloading-in-theory-and-practice/)
@@ -65,7 +91,7 @@ Maybe we'll gather a list of top resources.
 * [Linkers (Blog Series)](https://www.airs.com/blog/archives/38)
 * [Optimizations in C++ Compilers (Blog Post)](https://queue.acm.org/detail.cfm?id=3372264)
 
-#### C#
+#### C Sharp
 * [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
 * [Everyone thinks about garbage collection the wrong way (Blog)](https://devblogs.microsoft.com/oldnewthing/20100809-00/?p=13203)
 * [The stack is an implementation detail (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2009/04/27/the-stack-is-an-implementation-detail-part-one/)
@@ -82,7 +108,7 @@ Maybe we'll gather a list of top resources.
 * [AI and Games (Blog)](https://aiandgames.com/)
 
 ### Rendering
-#### Vulkan/DX12
+#### Vulkan and DX12
 * [Single Renderpass Deferred Shading on Mobile](https://www.khronos.org/assets/uploads/developers/library/2017-gdc/GDC_Vulkan-on-Mobile_Vulkan-Multipass-ARM_Mar17.pdf)
 * [Vulkan Subpasses](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/6-Vulkan-subpasses.pdf)
 * [Yet another blog explaining Vulkan synchronization](http://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
@@ -343,6 +369,7 @@ Maybe we'll gather a list of top resources.
 * [Fibersunder the magnifying glass (Paper)](http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 * [Fibers aren’t useful for much any more; there’s just one corner of it that remains useful for a reason unrelated to fibers (Blog Post)](https://devblogs.microsoft.com/oldnewthing/20191011-00/?p=102989)
 * [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
+* [The Size Of Tracing Data (Blog Post)](https://richardstartin.github.io/posts/the-size-of-tracing-data)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
