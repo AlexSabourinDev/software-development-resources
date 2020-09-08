@@ -187,7 +187,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Learning From Failure (Blog Post)](http://media.lolrus.mediamolecule.com/AlexEvans_SIGGRAPH-2015-sml.pdf)
 * [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
 * [Variance Shadow Maps (Paper)](http://www.punkuser.net/vsm/vsm_paper.pdf)
-* [A Pixel Is Not a Little Square (Paper)](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf - A pixel is not a little square)
+* [A Pixel Is Not a Little Square (Paper)](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
 * [Sampling Reconstruction (Slides)](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/Lectures/SamplingReconstruction.pdf)
 
 #### Shading
@@ -258,6 +258,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Shadertoy Discord](https://discord.gg/XtmMN6E)
 * [Raytracing a tiny procedural planet (Slides)](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 * [How Unreal Renders A Frame (Blog Post)](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
+* [Doom Eternal Graphics Study (Blog Post)](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
