@@ -102,6 +102,7 @@ A collection of links for various fields of software development. Mainly game re
 #### Misc
 * [How LLVM Optimizes a function (Blog Post)](https://blog.regehr.org/archives/1603)
 * [Crafting Interpreters (Online Book)](http://www.craftinginterpreters.com/)
+* [How To Speed Up The Rust Compiler (Blog Post)](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
 
 ### AI
 * [The AI of DOOM 2016](http://www.gamasutra.com/blogs/TommyThompson/20180806/323715/Cyber_Demons__The_AI_of_DOOM_2016.php)
