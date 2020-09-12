@@ -373,6 +373,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Fibers aren’t useful for much any more; there’s just one corner of it that remains useful for a reason unrelated to fibers (Blog Post)](https://devblogs.microsoft.com/oldnewthing/20191011-00/?p=102989)
 * [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 * [The Size Of Tracing Data (Blog Post)](https://richardstartin.github.io/posts/the-size-of-tracing-data)
+* [Axis-Aligned Bounding Dual Simplex (Google Doc)](https://docs.google.com/document/d/15F1ujW8ROTDMtQFkn29_ZybhkvSJcGGzzuyPWcVsToU/edit)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
