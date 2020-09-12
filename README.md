@@ -243,7 +243,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Multiple Importance Sampling Techniques for Monte Carlo Rendering (Paper/Coure Notes)](https://graphics.stanford.edu/courses/cs348b-03/papers/veach-chapter9.pdf)
 * [Dynamic Many-Light Sampling for Real-Time Ray Tracing (Paper)](https://pdfs.semanticscholar.org/c201/a72c707d96c9fed65aad5f481443041d9de9.pdf)
 * [Importance Sampling of Many Lights with Adaptive TreeSplitting (Paper)](http://www.aconty.com/pdf/many-lights-hpg2018.pdf)
-* [A Reflectance Model For Computer Graphics (Paper)] (https://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
+* [A Reflectance Model For Computer Graphics (Paper)](https://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
