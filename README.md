@@ -190,6 +190,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Variance Shadow Maps (Paper)](http://www.punkuser.net/vsm/vsm_paper.pdf)
 * [A Pixel Is Not a Little Square (Paper)](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
 * [Sampling Reconstruction (Slides)](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/Lectures/SamplingReconstruction.pdf)
+* [Interpolating Data Over Arbitrary Surfaces (Blog Post)](https://blog.demofox.org/2020/07/11/interpolating-data-over-arbitrary-shapes-with-laplaces-equation-and-walk-on-spheres/)
 
 #### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
