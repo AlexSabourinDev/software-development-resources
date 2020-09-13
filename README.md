@@ -334,6 +334,7 @@ A collection of links for various fields of software development. Mainly game re
 * [This Goes To Eleven (Blog Post)](https://bits.houmus.org/2020-01-28/this-goes-to-eleven-pt1)
 * [Mutexes Vs Spinlocks (Blog Post)](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189723)
 * [The Significance Of The x86 lfence Instruction (Blog Post)](https://hadibrais.wordpress.com/2018/05/14/the-significance-of-the-x86-lfence-instruction/)
+* [SMACNI to AVX512 the life cycle of an instruction set (PDF)](http://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf)
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
@@ -352,6 +353,7 @@ A collection of links for various fields of software development. Mainly game re
 * [2D AABB vs AABB how to calculate normal (Stack Exchange)](https://gamedev.stackexchange.com/questions/28577/2d-aabb-vs-aabb-sweep-how-to-calculate-hit-normal)
 * [What's the fastest way of checking if 2 AABB intersect? (Stack Exchange)](https://gamedev.stackexchange.com/questions/93035/whats-the-fastest-way-checking-if-two-moving-aabbs-intersect)
 * [Swept AABB and response (Blog Post)](https://www.gamedev.net/tutorials/_/technical/game-programming/swept-aabb-collision-detection-and-response-r3084/)
+* [Axis-Aligned Bounding Dual Simplex (Google Doc)](https://docs.google.com/document/d/15F1ujW8ROTDMtQFkn29_ZybhkvSJcGGzzuyPWcVsToU/edit)
 
 ### Misc
 * [Aras P (Blog)](https://aras-p.info/blog/)
@@ -374,7 +376,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Fibers aren’t useful for much any more; there’s just one corner of it that remains useful for a reason unrelated to fibers (Blog Post)](https://devblogs.microsoft.com/oldnewthing/20191011-00/?p=102989)
 * [Write comining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 * [The Size Of Tracing Data (Blog Post)](https://richardstartin.github.io/posts/the-size-of-tracing-data)
-* [Axis-Aligned Bounding Dual Simplex (Google Doc)](https://docs.google.com/document/d/15F1ujW8ROTDMtQFkn29_ZybhkvSJcGGzzuyPWcVsToU/edit)
+* [Reading Research: A Guide For Software Engineers (Blog Post)](https://brooker.co.za/blog/2020/05/25/reading.html)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
