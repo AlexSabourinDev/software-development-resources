@@ -24,6 +24,7 @@ A collection of links for various fields of software development. Mainly game re
       * [Papers](#papers)
     - [Misc](#misc-1)
     - [Depth](#depth)
+    - [Transparency](#transparency)
     - [Tutorials](#tutorials)
     - [Shader Editors](#shader-editors)
   + [Floating Point](#floating-point)
