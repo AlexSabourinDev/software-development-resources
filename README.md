@@ -278,6 +278,10 @@ A collection of links for various fields of software development. Mainly game re
 * [A couple of notes about Z (Blog Post)](http://www.humus.name/index.php?ID=255)
 * [Depth Precision Visualized (Blog Post)](https://developer.nvidia.com/content/depth-precision-visualized)
 
+#### Transparency
+* [WBOIT in OpenGL: transparency without sorting (Blog Post)](https://habr.com/en/post/457292/)
+* [Order Independent Transparency (Slides)](http://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf)
+
 #### Tutorials
 * [Learn OpenGL (Tutorial)](https://learnopengl.com/)
 * [Fragment Foundry (Tutorial)](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
