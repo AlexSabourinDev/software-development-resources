@@ -388,6 +388,7 @@ A collection of links for various fields of software development. Mainly game re
 * [The Size Of Tracing Data (Blog Post)](https://richardstartin.github.io/posts/the-size-of-tracing-data)
 * [Reading Research: A Guide For Software Engineers (Blog Post)](https://brooker.co.za/blog/2020/05/25/reading.html)
 * [Challenges of Debugging Optimized x64 Code (Blog Post)](https://docs.microsoft.com/en-us/archive/blogs/ntdebugging/challenges-of-debugging-optimized-x64-code)
+* [Step By Step Programming (Blog Post)](https://ourmachinery.com/post/step-by-step-programming-incrementally/)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
