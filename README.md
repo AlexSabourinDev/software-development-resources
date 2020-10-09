@@ -143,6 +143,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Optimizing the graphics pipeline with compute (Slides)](https://frostbite-wp-prd.s3.amazonaws.com/wp-content/uploads/2016/03/29204330/GDC_2016_Compute.pdf)
 * [Compressed GPU Texture Formats - A Review And Comute Shader Decoders Part 1 (Blog Post)](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
 * [Understanding Modern GPUs - Part 1 (Blog Post)](https://traxnet.wordpress.com/2011/07/16/understanding-modern-gpus-1/)
+* [Half The Precision, Twice The Fun: Working With FP16 In HLSL (Blog Post)](https://therealmjp.github.io/posts/shader-fp16/)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
