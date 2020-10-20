@@ -270,6 +270,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Raytracing a tiny procedural planet (Slides)](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 * [How Unreal Renders A Frame (Blog Post)](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
 * [Doom Eternal Graphics Study (Blog Post)](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html)
+* [The Technical Art of The Last of Us Part II (Slides)](http://advances.realtimerendering.com/s2020/index.htm)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
