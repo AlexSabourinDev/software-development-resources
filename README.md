@@ -144,6 +144,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Compressed GPU Texture Formats - A Review And Comute Shader Decoders Part 1 (Blog Post)](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
 * [Understanding Modern GPUs - Part 1 (Blog Post)](https://traxnet.wordpress.com/2011/07/16/understanding-modern-gpus-1/)
 * [Half The Precision, Twice The Fun: Working With FP16 In HLSL (Blog Post)](https://therealmjp.github.io/posts/shader-fp16/)
+* [GPU Processing Budget Approach To Game Development (Blog Post)](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/gpu-processing-budget-approach-to-game-development)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
