@@ -201,6 +201,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Compressing PBR texture sets with sparsity and dictionary learning (Blog Post)](https://bartwronski.com/2020/08/30/compressing-pbr-texture-sets-with-sparsity-and-dictionary-learning/)
 * [Raytraced Shadows in Call of Duty Modern Warfare (Slides)](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf)
 * [Downsampled Particle Effects (GPUGems)](https://developer.nvidia.com/gpugems/gpugems3/part-iv-image-effects/chapter-23-high-speed-screen-particles)
+* [Automatic Exposure (Blog Post)](https://knarkowicz.wordpress.com/2016/01/09/automatic-exposure/)
 
 #### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
