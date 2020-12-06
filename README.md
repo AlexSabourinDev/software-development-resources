@@ -74,6 +74,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Fast floating point rand (Blog Post)](http://www.iquilezles.org/www/articles/sfrand/sfrand.htm)
 * [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux (Blog Post)](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 * [Basics of futexes (Blog Post)](https://eli.thegreenplace.net/2018/basics-of-futexes/)
+* [Anybody who writes #pragma pack(1) may as well just wear a sign on their forehead that says “I hate RISC” (Blog Post](https://devblogs.microsoft.com/oldnewthing/20200103-00/?p=103290)
 
 #### C plus plus
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
