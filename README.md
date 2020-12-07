@@ -148,6 +148,7 @@ A collection of links for various fields of software development. Mainly game re
 * [GPU Processing Budget Approach To Game Development (Blog Post)](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/gpu-processing-budget-approach-to-game-development)
 * [The Mali GPU An Abstract Machine - Part 3 (Blog Post)](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-3---the-midgard-shader-core)
 * [What is shader occupancy and why do we care about it? (Blog Post)](https://interplayoflight.wordpress.com/2020/11/11/what-is-shader-occupancy-and-why-do-we-care-about-it/)
+* [What's up with my branch on GPU? (Blog Post)](https://aschrein.github.io/jekyll/update/2019/06/13/whatsup-with-my-branches-on-gpu.html)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
