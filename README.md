@@ -375,6 +375,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Why Does A std::atomic Store With Sequential Consistency Use xchg (Stack Overflow)](https://stackoverflow.com/questions/49107683/why-does-a-stdatomic-store-with-sequential-consistency-use-xchg)
 * [Does The Intel Memory Model Make sfence and lfence Redundant? (Stack Overflow)](https://stackoverflow.com/questions/32705169/does-the-intel-memory-model-make-sfence-and-lfence-redundant)
 * [Why Is A Store Load Barrier Considered Expensive? (Stack Overflow)](https://stackoverflow.com/questions/27475025/why-is-a-store-load-barrier-considered-expensive)
+* [Does Lock xchg Have The Same Behaviour As mfence? (Stack Overflow)](https://stackoverflow.com/questions/40409297/does-lock-xchg-have-the-same-behavior-as-mfence)
 
 ### Sound
 * [Digital Media Primer (Videos)](https://xiph.org/video/)
