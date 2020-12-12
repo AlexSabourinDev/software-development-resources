@@ -365,6 +365,16 @@ A collection of links for various fields of software development. Mainly game re
 
 ### Threading
 * [Thread Sanitizer A thread debugging tool (Repo)](https://github.com/google/sanitizers/wiki/ThreadSanitizerCppManual)
+* [Acquire And Release Semantics (Blog Post)](https://preshing.com/20120913/acquire-and-release-semantics/)
+* [Acquire And Release Fences Don't Work The Way You'd Expect (Blog Post)](https://preshing.com/20131125/acquire-and-release-fences-dont-work-the-way-youd-expect/)
+* [The Synchronizes With Relation (Blog Post)](https://preshing.com/20130823/the-synchronizes-with-relation/)
+* [Memory Reordering Caught In The Act (Blog Post)](https://preshing.com/20120515/memory-reordering-caught-in-the-act/)
+* [Memory Barriers Are Like Source Control (Blog Post)](https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/)
+* [Who Ordered Memory Fences On An x86? (Blog Post)](https://bartoszmilewski.com/2008/11/05/who-ordered-memory-fences-on-an-x86/)
+* [Are Loads And Stores The Only Instructions That Get Reordered? (Stack Overflow)](https://stackoverflow.com/questions/50494658/are-loads-and-stores-the-only-instructions-that-gets-reordered)
+* [Why Does A std::atomic Store With Sequential Consistency Use xchg (Stack Overflow)](https://stackoverflow.com/questions/49107683/why-does-a-stdatomic-store-with-sequential-consistency-use-xchg)
+* [Does The Intel Memory Model Make sfence and lfence Redundant? (Stack Overflow)](https://stackoverflow.com/questions/32705169/does-the-intel-memory-model-make-sfence-and-lfence-redundant)
+* [Why Is A Store Load Barrier Considered Expensive? (Stack Overflow)](https://stackoverflow.com/questions/27475025/why-is-a-store-load-barrier-considered-expensive)
 
 ### Sound
 * [Digital Media Primer (Videos)](https://xiph.org/video/)
