@@ -205,6 +205,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Downsampled Particle Effects (GPUGems)](https://developer.nvidia.com/gpugems/gpugems3/part-iv-image-effects/chapter-23-high-speed-screen-particles)
 * [Automatic Exposure (Blog Post)](https://knarkowicz.wordpress.com/2016/01/09/automatic-exposure/)
 * [Cameras And Lenses (Blog Post)](https://ciechanow.ski/cameras-and-lenses/)
+* [Texture Compression In 2020 (Blog Post)](https://aras-p.info/blog/2020/12/08/Texture-Compression-in-2020/)
 
 #### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
