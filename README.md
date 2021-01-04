@@ -206,6 +206,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Automatic Exposure (Blog Post)](https://knarkowicz.wordpress.com/2016/01/09/automatic-exposure/)
 * [Cameras And Lenses (Blog Post)](https://ciechanow.ski/cameras-and-lenses/)
 * [Texture Compression In 2020 (Blog Post)](https://aras-p.info/blog/2020/12/08/Texture-Compression-in-2020/)
+* [A perceptual color space for image processing (Blog Post)](https://bottosson.github.io/posts/oklab/)
 
 #### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
@@ -281,6 +282,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Doom Eternal Graphics Study (Blog Post)](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html)
 * [The Technical Art of The Last of Us Part II (Slides)](http://advances.realtimerendering.com/s2020/index.htm)
 * [Mesh Shader Possibilities (Blog Post)](http://reedbeta.com/blog/mesh-shader-possibilities/)
+* [Why are video games graphics (still) a challenge? Productionizing rendering algorithms (Blog Post)](https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
