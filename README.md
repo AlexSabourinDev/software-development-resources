@@ -291,6 +291,10 @@ A collection of links for various fields of software development. Mainly game re
 * [Light Trees And The Many Lights Problem (Blog Post)](https://psychopath.io/post/2020_04_20_light_trees)
 * [Nonsingular Point Light Attenuation (Video)](http://www.cemyuksel.com/research/pointlightattenuation/)
 * [Adventures in Sampling Points on Triangles - Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
+* [Introduction to Lighting (Blog Post)](http://math.hws.edu/graphicsbook/c4/s1.html)
+* [Screen Space Ambient Occlusion (Doc)](https://developer.download.nvidia.com/SDK/10.5/direct3d/Source/ScreenSpaceAO/doc/ScreenSpaceAO.pdf)
+* [Screen Space Ambient Occlusion - OGL Dev (Tutorial)](http://ogldev.atspace.co.uk/www/tutorial45/tutorial45.html)
+* [Screen Space Ambient Occlusion - Learn OpenGL (Tutorial)](https://learnopengl.com/Advanced-Lighting/SSAO)
 
 ##### Papers
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
