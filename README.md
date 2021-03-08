@@ -210,6 +210,25 @@ A collection of links for various fields of software development. Mainly game re
 * [Cameras And Lenses (Blog Post)](https://ciechanow.ski/cameras-and-lenses/)
 * [Texture Compression In 2020 (Blog Post)](https://aras-p.info/blog/2020/12/08/Texture-Compression-in-2020/)
 * [A perceptual color space for image processing (Blog Post)](https://bottosson.github.io/posts/oklab/)
+* [Understanding BCn Texture Compression Formats (Blog Post)](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
+* [How the CIE 1931 RGB Color Matching Functions Were Developed (Blog Post)](https://yzhu.medium.com/how-the-cie-1931-rgb-color-matching-functions-were-developed-from-the-initial-color-matching-a98696d9cf37)
+* [Preparing For Analysis with NVidia NSight Compute (Blog Post)](https://developer.nvidia.com/blog/analysis-driven-optimization-preparing-for-analysis-with-nvidia-nsight-compute-part-1
+* [Smoke Lighting And Texture Re-usability in Skull And Bones (Blog Post)](https://realtimevfx.com/t/smoke-lighting-and-texture-re-usability-in-skull-bones/5339)
+
+#### Geometry Shaders
+* [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
+* [Geometry Shader - Advanced OpenGL (Blog Post)](https://learnopengl.com/Advanced-OpenGL/Geometry-Shader)
+* [My Take On Shaders - Geometry Shaders (Blog Post)](https://halisavakis.com/my-take-on-shaders-geometry-shaders/)
+* [Geometry Shader Adventures (Blog Post)](http://vfxmike.blogspot.com/2018/07/geometry-shader-adventures-mesh.html)
+* [Geometry Shader Stage (Docs)](https://docs.microsoft.com/en-us/windows/win32/direct3d11/geometry-shader-stage)
+
+#### Tesselation Shaders
+* [A Trip Through The Graphics Pipeline 2011, Part 12 (Blog Post)](https://fgiesen.wordpress.com/2011/09/06/a-trip-through-the-graphics-pipeline-2011-part-12/)
+* [Tessellation - Catlike Coding (Blog Post)](https://catlikecoding.com/unity/tutorials/advanced-rendering/tessellation/)
+* [Surface Displacement (Blog Post)](https://catlikecoding.com/unity/tutorials/advanced-rendering/surface-displacement/)
+* [Tesselation Optimizations (Blog Post)](https://erkaman.github.io/posts/tess_opt.html)
+* [Tesselation Shaders (Blog Post)](http://ogldev.atspace.co.uk/www/tutorial30/tutorial30.html)
+* [Advanced Stages - Tessellation (Docs)](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-tessellation)
 
 #### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
@@ -252,6 +271,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Nonsingular Point Light Attenuation (Video)](http://www.cemyuksel.com/research/pointlightattenuation/)
 * [A Primer On Efficient Rendering Algorithms & Clustered Shading. (Blog Post)](http://www.aortiz.me/2018/12/21/CG.html)
 * [Adventures in Sampling Points on Triangles - Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
+* [Horizon Split Ambient Occlusion (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.557.4596&rep=rep1&type=pdf)
+* [Forward+ Decal Rendering (Blog Post)](https://wickedengine.net/2017/10/12/forward-decal-rendering/)
 
 ##### Papers
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
