@@ -291,15 +291,6 @@ A collection of links for various fields of software development. Mainly game re
 * [Light Trees And The Many Lights Problem (Blog Post)](https://psychopath.io/post/2020_04_20_light_trees)
 * [Nonsingular Point Light Attenuation (Video)](http://www.cemyuksel.com/research/pointlightattenuation/)
 * [Adventures in Sampling Points on Triangles - Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
-* [Horizon Split Ambient Occlusion (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.557.4596&rep=rep1&type=pdf)
-
-#### Cameras, Exposure, Tonemapping
-* [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
-* [Tone Mapping (Blog Post By 64)](https://64.github.io/tonemapping/)
-* [Adaptive Exposure from Luminance Histograms (Blog Post)](http://www.alextardif.com/HistogramLuminance.html)
-* [Automatic Exposure Using a Luminance Histogram (Blog Post)](https://bruop.github.io/exposure/)
-* [Automatic Exposure (Blog Post)](https://knarkowicz.wordpress.com/2016/01/09/automatic-exposure/)
-* [Cameras And Lenses (Blog Post)](https://ciechanow.ski/cameras-and-lenses/)
 
 ##### Papers
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
@@ -313,6 +304,15 @@ A collection of links for various fields of software development. Mainly game re
 * [Dynamic Many-Light Sampling for Real-Time Ray Tracing (Paper)](https://pdfs.semanticscholar.org/c201/a72c707d96c9fed65aad5f481443041d9de9.pdf)
 * [Importance Sampling of Many Lights with Adaptive TreeSplitting (Paper)](http://www.aconty.com/pdf/many-lights-hpg2018.pdf)
 * [A Reflectance Model For Computer Graphics (Paper)](https://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
+* [Horizon Split Ambient Occlusion (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.557.4596&rep=rep1&type=pdf)
+
+#### Cameras, Exposure, Tonemapping
+* [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
+* [Tone Mapping (Blog Post By 64)](https://64.github.io/tonemapping/)
+* [Adaptive Exposure from Luminance Histograms (Blog Post)](http://www.alextardif.com/HistogramLuminance.html)
+* [Automatic Exposure Using a Luminance Histogram (Blog Post)](https://bruop.github.io/exposure/)
+* [Automatic Exposure (Blog Post)](https://knarkowicz.wordpress.com/2016/01/09/automatic-exposure/)
+* [Cameras And Lenses (Blog Post)](https://ciechanow.ski/cameras-and-lenses/)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
