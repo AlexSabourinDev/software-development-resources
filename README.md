@@ -148,6 +148,7 @@ A collection of links for various fields of software development. Mainly game re
 #### Colors
 * [A perceptual color space for image processing (Blog Post)](https://bottosson.github.io/posts/oklab/)
 * [How the CIE 1931 RGB Color Matching Functions Were Developed (Blog Post)](https://yzhu.medium.com/how-the-cie-1931-rgb-color-matching-functions-were-developed-from-the-initial-color-matching-a98696d9cf37)
+* [RGBM Color Encoding (Blog Post)](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
 
 #### Forward, Deferred, Etc
 * [Forward+ Decal Rendering (Blog Post)](https://wickedengine.net/2017/10/12/forward-decal-rendering/)
@@ -337,6 +338,7 @@ A collection of links for various fields of software development. Mainly game re
 * [The Technical Art of The Last of Us Part II (Slides)](http://advances.realtimerendering.com/s2020/index.htm)
 * [Mesh Shader Possibilities (Blog Post)](http://reedbeta.com/blog/mesh-shader-possibilities/)
 * [Why are video games graphics (still) a challenge? Productionizing rendering algorithms (Blog Post)](https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/)
+* [Computing Gradients On Grids - Forward, Central and diagonal differences (Blog Post)](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
