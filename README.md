@@ -32,7 +32,6 @@ A collection of links for various fields of software development. Mainly game re
   * [Shading](#shading)
     + [Papers](#papers)
     + [Ambient Occlusion](#ambient-occlusion)
-    + [Path Tracing](#path-tracing)
   * [Cameras/Exposure/Tonemapping](#cameras-exposure-tonemapping)
   * [Misc](#misc-1)
   * [Depth](#depth)
@@ -209,6 +208,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Ray Tracing In A Weekend (Book)](https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
 * [Ray Tracing The Rest of Your Life (Book)](https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)
 * [Raytracing a tiny procedural planet (Slides)](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
+* [Importance Sampling Visible Wavelengths (Blog Post)](http://simonstechblog.blogspot.com/2021/03/importance-sampling-visible-wavelength.html)
 
 #### Concepts
 * [Summed Area Tables (Research Paper)](https://www.google.ca/url?sa=t&source=web&rct=j&url=http://www.florian-oeser.de/wordpress/wp-content/2012/10/crow-1984.pdf&ved=2ahUKEwjEpdHzta3ZAhWDm1kKHQenBXAQFjAAegQIExAB&usg=AOvVaw3k-SJwguBUsBS5x5lX7C1u)
@@ -296,10 +296,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Adventures in Sampling Points on Triangles - Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
 * [Introduction to Lighting (Blog Post)](http://math.hws.edu/graphicsbook/c4/s1.html)
 
-#### Path Tracing
-* [Importance Sampling Visible Wavelengths (Blog Post)](http://simonstechblog.blogspot.com/2021/03/importance-sampling-visible-wavelength.html)
-
-#### Ambient Occlusion
+##### Ambient Occlusion
 * [Screen Space Ambient Occlusion (Doc)](https://developer.download.nvidia.com/SDK/10.5/direct3d/Source/ScreenSpaceAO/doc/ScreenSpaceAO.pdf)
 * [Screen Space Ambient Occlusion - OGL Dev (Tutorial)](http://ogldev.atspace.co.uk/www/tutorial45/tutorial45.html)
 * [Screen Space Ambient Occlusion - Learn OpenGL (Tutorial)](https://learnopengl.com/Advanced-Lighting/SSAO)
