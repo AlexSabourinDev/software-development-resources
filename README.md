@@ -310,6 +310,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Importance Sampling of Many Lights with Adaptive TreeSplitting (Paper)](http://www.aconty.com/pdf/many-lights-hpg2018.pdf)
 * [A Reflectance Model For Computer Graphics (Paper)](https://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
 * [Horizon Split Ambient Occlusion (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.557.4596&rep=rep1&type=pdf)
+* [Real Shading in Unreal Engine 4 (Paper)](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf)
 
 #### Cameras, Exposure, Tonemapping
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
