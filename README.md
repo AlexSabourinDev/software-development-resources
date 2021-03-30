@@ -319,6 +319,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Automatic Exposure Using a Luminance Histogram (Blog Post)](https://bruop.github.io/exposure/)
 * [Automatic Exposure (Blog Post)](https://knarkowicz.wordpress.com/2016/01/09/automatic-exposure/)
 * [Cameras And Lenses (Blog Post)](https://ciechanow.ski/cameras-and-lenses/)
+* [Temporal ReprojectionAnti-Aliasing in INSIDE (Slides)](http://s3.amazonaws.com/arena-attachments/655504/c5c71c5507f0f8bf344252958254fb7d.pdf?1468341463)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
