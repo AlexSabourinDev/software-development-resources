@@ -31,6 +31,8 @@ A collection of links for various fields of software development. Mainly game re
   * [Tesselation Shaders](#tesselation-shaders)
   * [Shading](#shading)
     + [Papers](#papers)
+    + [Ambient Occlusion](#ambient-occlusion)
+    + [Path Tracing](#path-tracing)
   * [Cameras/Exposure/Tonemapping](#cameras-exposure-tonemapping)
   * [Misc](#misc-1)
   * [Depth](#depth)
@@ -293,6 +295,11 @@ A collection of links for various fields of software development. Mainly game re
 * [Nonsingular Point Light Attenuation (Video)](http://www.cemyuksel.com/research/pointlightattenuation/)
 * [Adventures in Sampling Points on Triangles - Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
 * [Introduction to Lighting (Blog Post)](http://math.hws.edu/graphicsbook/c4/s1.html)
+
+#### Path Tracing
+* [Importance Sampling Visible Wavelengths (Blog Post)](http://simonstechblog.blogspot.com/2021/03/importance-sampling-visible-wavelength.html)
+
+#### Ambient Occlusion
 * [Screen Space Ambient Occlusion (Doc)](https://developer.download.nvidia.com/SDK/10.5/direct3d/Source/ScreenSpaceAO/doc/ScreenSpaceAO.pdf)
 * [Screen Space Ambient Occlusion - OGL Dev (Tutorial)](http://ogldev.atspace.co.uk/www/tutorial45/tutorial45.html)
 * [Screen Space Ambient Occlusion - Learn OpenGL (Tutorial)](https://learnopengl.com/Advanced-Lighting/SSAO)
