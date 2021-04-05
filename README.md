@@ -102,6 +102,7 @@ A collection of links for various fields of software development. Mainly game re
 * [References - Simply (Blog Post)](https://herbsutter.com/2020/02/23/references-simply/)
 * [Linkers (Blog Series)](https://www.airs.com/blog/archives/38)
 * [Optimizations in C++ Compilers (Blog Post)](https://queue.acm.org/detail.cfm?id=3372264)
+* [How C++ Resolves A Function Call (Blog Post)](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
 
 #### C Sharp
 * [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
