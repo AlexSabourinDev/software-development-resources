@@ -245,6 +245,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Sampling Reconstruction (Slides)](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/Lectures/SamplingReconstruction.pdf)
 * [Interpolating Data Over Arbitrary Surfaces (Blog Post)](https://blog.demofox.org/2020/07/11/interpolating-data-over-arbitrary-shapes-with-laplaces-equation-and-walk-on-spheres/)
 * [Smoke Lighting And Texture Re-usability in Skull And Bones (Blog Post)](https://realtimevfx.com/t/smoke-lighting-and-texture-re-usability-in-skull-bones/5339)
+* [Improved Normal Reconstruction From Depth (Blog Post)](https://wickedengine.net/2019/09/22/improved-normal-reconstruction-from-depth/)
+* [Accurate Normal Reconstruction From Depth Buffer (Blog Post)](https://atyuwen.github.io/posts/normal-reconstruction/)
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
