@@ -201,7 +201,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Variance Shadow Maps (Paper)](http://www.punkuser.net/vsm/vsm_paper.pdf)
 * [A Sampling of Shadow Techniques (Blog Post)](https://therealmjp.github.io/posts/shadow-maps/)
 * [Raytraced Shadows in Call of Duty Modern Warfare (Slides)](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf)
-* [Combining Analytic Direct Illumination and Stochastic Shadows](http://casual-effects.com/research/Heitz2018Shadow/index.html)
+* [Combining Analytic Direct Illumination and Stochastic Shadows (Paper)](http://casual-effects.com/research/Heitz2018Shadow/index.html)
+* [Experiments in Hybrid Raytraced Shadows (Blog Post)](https://interplayoflight.wordpress.com/2021/05/15/experiments-in-hybrid-raytraced-shadows/)
 
 #### Raytracing
 * [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
