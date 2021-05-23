@@ -212,6 +212,10 @@ A collection of links for various fields of software development. Mainly game re
 * [Raytracing a tiny procedural planet (Slides)](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 * [Importance Sampling Visible Wavelengths (Blog Post)](http://simonstechblog.blogspot.com/2021/03/importance-sampling-visible-wavelength.html)
 
+#### Blue Noise
+* [Distributing Monte Carlo errors as Blue Noise in Screen Space - Part 1 (Blog Post)](https://gamehacker1999.github.io/posts/bluenoiseerrors/)
+* [What the heck is blue noise? (Blog Post)](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
+
 #### Concepts
 * [Summed Area Tables (Research Paper)](https://www.google.ca/url?sa=t&source=web&rct=j&url=http://www.florian-oeser.de/wordpress/wp-content/2012/10/crow-1984.pdf&ved=2ahUKEwjEpdHzta3ZAhWDm1kKHQenBXAQFjAAegQIExAB&usg=AOvVaw3k-SJwguBUsBS5x5lX7C1u)
 * [Material Pipeline for The Order: 1886 (PDF)](http://blog.selfshadow.com/publications/s2013-shading-course/rad/s2013_pbs_rad_notes.pdf)
@@ -236,7 +240,6 @@ A collection of links for various fields of software development. Mainly game re
 * [Distance Fields (Blog Post)](https://prideout.net/blog/distance_fields/)
 * [Normals revisited (Blog Post)](https://github.com/graphitemaster/normals_revisited/blob/master/README.md)
 * [Text Hates you (Blog Post)](https://gankra.github.io/blah/text-hates-you/)
-* [What the heck is blue noise? (Blog Post)](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
 * [Rendering Abstraction Layers (Blog Post)](http://alextardif.com/RenderingAbstractionLayers.html)
 * [Digesting The Elephant (Paper)](https://ingowald.blog/2020/01/09/digesting-the-elephant/amp/?__twitter_impression=true)
 * [Tile Based Optimization for Post Processing (Blog Post)](https://wickedengine.net/2020/01/05/tile-based-optimization-for-post-processing/)
