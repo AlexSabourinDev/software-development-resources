@@ -302,6 +302,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Nonsingular Point Light Attenuation (Video)](http://www.cemyuksel.com/research/pointlightattenuation/)
 * [Adventures in Sampling Points on Triangles - Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
 * [Introduction to Lighting (Blog Post)](http://math.hws.edu/graphicsbook/c4/s1.html)
+* [Crash Course In BRDFs (Doc)](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 
 ##### Ambient Occlusion
 * [Screen Space Ambient Occlusion (Doc)](https://developer.download.nvidia.com/SDK/10.5/direct3d/Source/ScreenSpaceAO/doc/ScreenSpaceAO.pdf)
