@@ -324,6 +324,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Horizon Split Ambient Occlusion (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.557.4596&rep=rep1&type=pdf)
 * [Real Shading in Unreal Engine 4 (Paper)](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf)
 * [Reducing Shading on GPUs using Quad-Fragment Merging (Paper)](http://graphics.stanford.edu/papers/fragmerging/shade_sig10.pdf)
+* [The Visibility Buffer: A Cache-Friendly Approach to Deferred Shading (Paper)](http://jcgt.org/published/0002/02/04/)
 
 #### Cameras, Exposure, Tonemapping
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
