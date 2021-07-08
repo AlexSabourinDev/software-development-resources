@@ -153,9 +153,11 @@ A collection of links for various fields of software development. Mainly game re
 * [How the CIE 1931 RGB Color Matching Functions Were Developed (Blog Post)](https://yzhu.medium.com/how-the-cie-1931-rgb-color-matching-functions-were-developed-from-the-initial-color-matching-a98696d9cf37)
 * [RGBM Color Encoding (Blog Post)](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
 
-#### Forward, Deferred, Etc
+#### Forward, Deferred, Visibility, Etc
 * [Forward+ Decal Rendering (Blog Post)](https://wickedengine.net/2017/10/12/forward-decal-rendering/)
 * [A Primer On Efficient Rendering Algorithms & Clustered Shading. (Blog Post)](http://www.aortiz.me/2018/12/21/CG.html)
+* [Visibility Buffer Rendering With Material Graphs (Blog Post)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
+* [The Visibility Buffer: A Cache-Friendly Approach to Deferred Shading (Paper)](http://jcgt.org/published/0002/02/04/)
 
 #### Transparency, Blending
 * [WBOIT in OpenGL: transparency without sorting (Blog Post)](https://habr.com/en/post/457292/)
@@ -325,7 +327,6 @@ A collection of links for various fields of software development. Mainly game re
 * [Horizon Split Ambient Occlusion (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.557.4596&rep=rep1&type=pdf)
 * [Real Shading in Unreal Engine 4 (Paper)](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf)
 * [Reducing Shading on GPUs using Quad-Fragment Merging (Paper)](http://graphics.stanford.edu/papers/fragmerging/shade_sig10.pdf)
-* [The Visibility Buffer: A Cache-Friendly Approach to Deferred Shading (Paper)](http://jcgt.org/published/0002/02/04/)
 * [Rearchitecting Spatiotemporal Resampling for Production (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/hpg21_rearchitectingReSTIR.pdf)
 
 #### Cameras, Exposure, Tonemapping
