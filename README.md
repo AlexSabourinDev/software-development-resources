@@ -254,6 +254,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Smoke Lighting And Texture Re-usability in Skull And Bones (Blog Post)](https://realtimevfx.com/t/smoke-lighting-and-texture-re-usability-in-skull-bones/5339)
 * [Improved Normal Reconstruction From Depth (Blog Post)](https://wickedengine.net/2019/09/22/improved-normal-reconstruction-from-depth/)
 * [Accurate Normal Reconstruction From Depth Buffer (Blog Post)](https://atyuwen.github.io/posts/normal-reconstruction/)
+* [Temporal Anti-Aliasing Starter Pack (Blog Post)](http://alextardif.com/TAA.html)
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
