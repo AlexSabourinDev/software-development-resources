@@ -189,7 +189,8 @@ A collection of links for various fields of software development. Mainly game re
 * [What's up with my branch on GPU? (Blog Post)](https://aschrein.github.io/jekyll/update/2019/06/13/whatsup-with-my-branches-on-gpu.html)
 * [Into To GPU Scalarization - Part 1 (Blog Post)](https://flashypixels.wordpress.com/2018/11/10/intro-to-gpu-scalarization-part-1/)
 * [Analysis Driven Optimization: Preparing for analysis with NVidia Nsight Compute (Blog Series)](https://developer.nvidia.com/blog/analysis-driven-optimization-preparing-for-analysis-with-nvidia-nsight-compute-part-1/)
-* 
+* [The AMD GCN Architecture - A Crash Course (Slides)](https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah) 
+
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
 * [The Forge (Codebase)](https://github.com/ConfettiFX/The-Forge)
