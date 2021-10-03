@@ -187,9 +187,10 @@ A collection of links for various fields of software development. Mainly game re
 * [The Mali GPU An Abstract Machine - Part 3 (Blog Post)](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-3---the-midgard-shader-core)
 * [What is shader occupancy and why do we care about it? (Blog Post)](https://interplayoflight.wordpress.com/2020/11/11/what-is-shader-occupancy-and-why-do-we-care-about-it/)
 * [What's up with my branch on GPU? (Blog Post)](https://aschrein.github.io/jekyll/update/2019/06/13/whatsup-with-my-branches-on-gpu.html)
-* [Into To GPU Scalarization - Part 1 (Blog Post)](https://flashypixels.wordpress.com/2018/11/10/intro-to-gpu-scalarization-part-1/)
+* [Intro To GPU Scalarization - Part 1 (Blog Post)](https://flashypixels.wordpress.com/2018/11/10/intro-to-gpu-scalarization-part-1/)
 * [Analysis Driven Optimization: Preparing for analysis with NVidia Nsight Compute (Blog Series)](https://developer.nvidia.com/blog/analysis-driven-optimization-preparing-for-analysis-with-nvidia-nsight-compute-part-1/)
 * [The AMD GCN Architecture - A Crash Course (Slides)](https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah) 
+* [Gentle Introduction To GPU Inner Workings (Blog Post)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
