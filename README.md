@@ -191,6 +191,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Analysis Driven Optimization: Preparing for analysis with NVidia Nsight Compute (Blog Series)](https://developer.nvidia.com/blog/analysis-driven-optimization-preparing-for-analysis-with-nvidia-nsight-compute-part-1/)
 * [The AMD GCN Architecture - A Crash Course (Slides)](https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah) 
 * [Gentle Introduction To GPU Inner Workings (Blog Post)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
+* [Advanced Shader Programming On GCN (Slides)](https://gpuopen.com/wp-content/uploads/2017/03/GDC2017-Advanced-Shader-Programming-On-GCN.pdf)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
