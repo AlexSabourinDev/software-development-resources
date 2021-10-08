@@ -192,6 +192,7 @@ A collection of links for various fields of software development. Mainly game re
 * [The AMD GCN Architecture - A Crash Course (Slides)](https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah) 
 * [Gentle Introduction To GPU Inner Workings (Blog Post)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 * [Advanced Shader Programming On GCN (Slides)](https://gpuopen.com/wp-content/uploads/2017/03/GDC2017-Advanced-Shader-Programming-On-GCN.pdf)
+* [GPU BCn Decoding (Blog Post)](https://fgiesen.wordpress.com/2021/10/04/gpu-bcn-decoding/)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
