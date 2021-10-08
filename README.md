@@ -259,6 +259,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Accurate Normal Reconstruction From Depth Buffer (Blog Post)](https://atyuwen.github.io/posts/normal-reconstruction/)
 * [Temporal Anti-Aliasing Starter Pack (Blog Post)](http://alextardif.com/TAA.html)
 * [Nanite Overview (Slides)](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
+* [A Gentle Introduction To Fluid Simulation (Blog Post)](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
