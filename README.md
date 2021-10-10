@@ -366,6 +366,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Why are video games graphics (still) a challenge? Productionizing rendering algorithms (Blog Post)](https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/)
 * [Computing Gradients On Grids - Forward, Central and diagonal differences (Blog Post)](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
 * [Graphics Pipelines For Young Bloods (Blog Post)](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/)
+* [Geometric Derivation of the Irradiance of Polygonal Lights (Paper)](https://hal.archives-ouvertes.fr/hal-01458129/document)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
