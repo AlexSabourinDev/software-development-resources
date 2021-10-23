@@ -195,6 +195,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Advanced Shader Programming On GCN (Slides)](https://gpuopen.com/wp-content/uploads/2017/03/GDC2017-Advanced-Shader-Programming-On-GCN.pdf)
 * [GPU BCn Decoding (Blog Post)](https://fgiesen.wordpress.com/2021/10/04/gpu-bcn-decoding/)
 * [GPU Architectures Explained (Blog Post)](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
+* [The Shader Permutations Problem (Blog Series)](https://therealmjp.github.io/posts/shader-permutations-part1/)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
@@ -315,6 +316,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Adventures in Sampling Points on Triangles - Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
 * [Introduction to Lighting (Blog Post)](http://math.hws.edu/graphicsbook/c4/s1.html)
 * [Crash Course In BRDFs (Doc)](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
+* [Spherical Gaussians Series (Blog Series)](https://therealmjp.github.io/posts/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
 
 ##### Ambient Occlusion
 * [Screen Space Ambient Occlusion (Doc)](https://developer.download.nvidia.com/SDK/10.5/direct3d/Source/ScreenSpaceAO/doc/ScreenSpaceAO.pdf)
