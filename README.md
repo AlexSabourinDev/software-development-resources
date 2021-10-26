@@ -349,6 +349,9 @@ A collection of links for various fields of software development. Mainly game re
 * [Automatic Exposure (Blog Post)](https://knarkowicz.wordpress.com/2016/01/09/automatic-exposure/)
 * [Cameras And Lenses (Blog Post)](https://ciechanow.ski/cameras-and-lenses/)
 * [Temporal ReprojectionAnti-Aliasing in INSIDE (Slides)](http://s3.amazonaws.com/arena-attachments/655504/c5c71c5507f0f8bf344252958254fb7d.pdf?1468341463)
+* [ISO Sensitivity and Exposure Index (Blog Post)](https://www.imatest.com/docs/sensitivity_ei/)
+* [Where does 78 come from in exposure calculations? (Forum)](https://www.dpreview.com/forums/thread/4579986?page=2)
+* [Moving Frostbite to PBR (PDF)](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/course-notes-moving-frostbite-to-pbr-v2.pdf)
 
 #### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
