@@ -159,6 +159,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Visibility Buffer Rendering With Material Graphs (Blog Post)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
 * [The Visibility Buffer: A Cache-Friendly Approach to Deferred Shading (Paper)](http://jcgt.org/published/0002/02/04/)
 * [Visibility Buffer Rendering Approaches and Benefits (Blog Series)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
+* [A Primer On Efficient Rendering Algorithms & Clustered Shading. (Blog Post)](http://www.aortiz.me/2018/12/21/CG.html)
 
 #### Transparency, Blending
 * [WBOIT in OpenGL: transparency without sorting (Blog Post)](https://habr.com/en/post/457292/)
