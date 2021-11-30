@@ -135,6 +135,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Render Target APIs (Blog Post)](https://erfan-ahmadi.github.io/blog/Yugen/RenderTargets)
 * [Writting An Efficient Vulkan Renderer (Blog Post/Article)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [The Missing Guide to Modern Graphics APIs – 2. PSOs (Blog Post)](https://blog.mecheye.net/2021/06/the-missing-guide-to-modern-graphics-apis-2-psos/)
+* [Shader Assembly and D3D12 Root Signatures (Blog Post)](https://boogy90.github.io/2021/11/24/root-signatures-assembly.html)
 
 #### Textures
 * [Understanding BCn Texture Compression Formats (Blog Post)](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
@@ -197,6 +198,7 @@ A collection of links for various fields of software development. Mainly game re
 * [GPU BCn Decoding (Blog Post)](https://fgiesen.wordpress.com/2021/10/04/gpu-bcn-decoding/)
 * [GPU Architectures Explained (Blog Post)](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
 * [The Shader Permutations Problem (Blog Series)](https://therealmjp.github.io/posts/shader-permutations-part1/)
+* [Floating-point in mobile shaders (Blog Post)](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
@@ -377,6 +379,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Computing Gradients On Grids - Forward, Central and diagonal differences (Blog Post)](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
 * [Graphics Pipelines For Young Bloods (Blog Post)](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/)
 * [Geometric Derivation of the Irradiance of Polygonal Lights (Paper)](https://hal.archives-ouvertes.fr/hal-01458129/document)
+* [Lossless Image Compression in O(n) Time (Blog Post)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
