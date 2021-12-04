@@ -199,6 +199,7 @@ A collection of links for various fields of software development. Mainly game re
 * [GPU Architectures Explained (Blog Post)](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
 * [The Shader Permutations Problem (Blog Series)](https://therealmjp.github.io/posts/shader-permutations-part1/)
 * [Floating-point in mobile shaders (Blog Post)](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
+* [Triangle Setup And Rasterization For FGPA (Blog Post)](http://js3.maisonikkoku.com/uncategorized/triangle_setup_and_rasterization/)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
