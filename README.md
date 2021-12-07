@@ -382,6 +382,9 @@ A collection of links for various fields of software development. Mainly game re
 * [Graphics Pipelines For Young Bloods (Blog Post)](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/)
 * [Geometric Derivation of the Irradiance of Polygonal Lights (Paper)](https://hal.archives-ouvertes.fr/hal-01458129/document)
 * [Lossless Image Compression in O(n) Time (Blog Post)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+* [fma: A faster, more accurate instruction (Blog Post)](https://momentsingraphics.de/FMA.html)
+* [Gradients in linear space aren't better (Blog Post)](https://aras-p.info/blog/2021/11/29/Gradients-in-linear-space-arent-better/)
+* [Debugging Your Renderer (3/n): Assertions (and on not sweeping things under the rug) (Blog Post)](https://pharr.org/matt/blog/2021/12/02/debugging-renderers-assertions)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
