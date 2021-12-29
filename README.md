@@ -153,6 +153,7 @@ A collection of links for various fields of software development. Mainly game re
 * [A perceptual color space for image processing (Blog Post)](https://bottosson.github.io/posts/oklab/)
 * [How the CIE 1931 RGB Color Matching Functions Were Developed (Blog Post)](https://yzhu.medium.com/how-the-cie-1931-rgb-color-matching-functions-were-developed-from-the-initial-color-matching-a98696d9cf37)
 * [RGBM Color Encoding (Blog Post)](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
+* [The Hitchikers Guide To Digital Color (Website)](https://hg2dc.com/)
 
 #### Forward, Deferred, Visibility, Etc
 * [Forward+ Decal Rendering (Blog Post)](https://wickedengine.net/2017/10/12/forward-decal-rendering/)
@@ -385,6 +386,7 @@ A collection of links for various fields of software development. Mainly game re
 * [fma: A faster, more accurate instruction (Blog Post)](https://momentsingraphics.de/FMA.html)
 * [Gradients in linear space aren't better (Blog Post)](https://aras-p.info/blog/2021/11/29/Gradients-in-linear-space-arent-better/)
 * [Debugging Your Renderer (3/n): Assertions (and on not sweeping things under the rug) (Blog Post)](https://pharr.org/matt/blog/2021/12/02/debugging-renderers-assertions)
+* [Frickin Shaders With Frickin Laser Beams (Shader composition framework) (Blog Post)](https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
