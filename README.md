@@ -270,6 +270,8 @@ A collection of links for various fields of software development. Mainly game re
 * [A Gentle Introduction To Fluid Simulation (Blog Post)](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
 * [My toy renderer: Overview (Blog Series)](https://momentsingraphics.de/ToyRendererOverview.html)
 * [Doom 2016 - The Devil Is In The Details (Slides)](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
+* [Notes on occlusion and directionality in image based lighting. (Blog Post)](https://interplayoflight.wordpress.com/2021/12/28/notes-on-occlusion-and-directionality-in-image-based-lighting/)
+* [Temporal AA and the quest for the Holy Trail (Blog Post)](https://www.elopezr.com/temporal-aa-and-the-quest-for-the-holy-trail/)
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
