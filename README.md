@@ -326,6 +326,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Crash Course In BRDFs (Doc)](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 * [Spherical Gaussians Series (Blog Series)](https://therealmjp.github.io/posts/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
 * [Adventures in Hybrid Rendering (Blog Post)](https://diharaw.github.io/post/adventures_in_hybrid_rendering/)
+* [The Irradiance Volume (Paper)](http://www.sci.utah.edu/~bigler/images/msthesis/The%20irradiance%20volume.pdf)
 
 ##### Ambient Occlusion
 * [Screen Space Ambient Occlusion (Doc)](https://developer.download.nvidia.com/SDK/10.5/direct3d/Source/ScreenSpaceAO/doc/ScreenSpaceAO.pdf)
