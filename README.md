@@ -391,6 +391,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Gradients in linear space aren't better (Blog Post)](https://aras-p.info/blog/2021/11/29/Gradients-in-linear-space-arent-better/)
 * [Debugging Your Renderer (3/n): Assertions (and on not sweeping things under the rug) (Blog Post)](https://pharr.org/matt/blog/2021/12/02/debugging-renderers-assertions)
 * [Frickin Shaders With Frickin Laser Beams (Shader composition framework) (Blog Post)](https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/)
+* [Let’s Close the Buffer Zoo (Blog Post)](http://www.joshbarczak.com/blog/?p=1260)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
