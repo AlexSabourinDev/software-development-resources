@@ -225,6 +225,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Ray Tracing The Rest of Your Life (Book)](https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)
 * [Raytracing a tiny procedural planet (Slides)](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 * [Importance Sampling Visible Wavelengths (Blog Post)](http://simonstechblog.blogspot.com/2021/03/importance-sampling-visible-wavelength.html)
+* [Increasing wave coherence with ray binning (Blog Post)](https://interplayoflight.wordpress.com/2022/05/08/increasing-wave-coherence-with-ray-binning/)
+* [Spherical Area Light Sampling (Blog Post)](https://schuttejoe.github.io/post/arealightsampling/)
 
 #### Blue Noise
 * [Distributing Monte Carlo errors as Blue Noise in Screen Space - Part 1 (Blog Post)](https://gamehacker1999.github.io/posts/bluenoiseerrors/)
@@ -351,6 +353,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Reducing Shading on GPUs using Quad-Fragment Merging (Paper)](http://graphics.stanford.edu/papers/fragmerging/shade_sig10.pdf)
 * [Rearchitecting Spatiotemporal Resampling for Production (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/hpg21_rearchitectingReSTIR.pdf)
 * [BRDF Importance Sampling for Polygonal Lights (Paper)](https://momentsingraphics.de/Siggraph2021.html)
+* [An Area-Preserving Parametrization for Spherical Rectangles (Paper)](https://www.arnoldrenderer.com/research/egsr2013_spherical_rectangle.pdf)
+* [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting (Paper)](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.pdf)
 
 #### Cameras, Exposure, Tonemapping
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
