@@ -470,6 +470,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Mutexes Vs Spinlocks (Blog Post)](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189723)
 * [The Significance Of The x86 lfence Instruction (Blog Post)](https://hadibrais.wordpress.com/2018/05/14/the-significance-of-the-x86-lfence-instruction/)
 * [SMACNI to AVX512 the life cycle of an instruction set (PDF)](http://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf)
+* [Branch/cmove and compiler optimizations (Blog Post)](https://kristerw.github.io/2022/05/24/branchless/)
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
