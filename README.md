@@ -275,6 +275,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Notes on occlusion and directionality in image based lighting. (Blog Post)](https://interplayoflight.wordpress.com/2021/12/28/notes-on-occlusion-and-directionality-in-image-based-lighting/)
 * [Temporal AA and the quest for the Holy Trail (Blog Post)](https://www.elopezr.com/temporal-aa-and-the-quest-for-the-holy-trail/)
 * [Exposure Fusion Local Tonemapping For Real-Time Rendering (Blog Post)](https://bartwronski.com/2022/02/28/exposure-fusion-local-tonemapping-for-real-time-rendering/)
+* [Removing blur from images – deconvolution and using optimized simple filters (Blog Post)](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
