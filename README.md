@@ -228,6 +228,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Importance Sampling Visible Wavelengths (Blog Post)](http://simonstechblog.blogspot.com/2021/03/importance-sampling-visible-wavelength.html)
 * [Increasing wave coherence with ray binning (Blog Post)](https://interplayoflight.wordpress.com/2022/05/08/increasing-wave-coherence-with-ray-binning/)
 * [Spherical Area Light Sampling (Blog Post)](https://schuttejoe.github.io/post/arealightsampling/)
+* [Raytracing In Hybrid Real-time Rendering (Slides)](http://h3.gd/raytracing-in-hybrid-real-time-rendering/)
 
 #### Blue Noise
 * [Distributing Monte Carlo errors as Blue Noise in Screen Space - Part 1 (Blog Post)](https://gamehacker1999.github.io/posts/bluenoiseerrors/)
