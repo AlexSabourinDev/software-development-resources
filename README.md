@@ -85,6 +85,7 @@ A collection of links for various fields of software development. Mainly game re
 * [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux (Blog Post)](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 * [Basics of futexes (Blog Post)](https://eli.thegreenplace.net/2018/basics-of-futexes/)
 * [Anybody who writes #pragma pack(1) may as well just wear a sign on their forehead that says “I hate RISC” (Blog Post](https://devblogs.microsoft.com/oldnewthing/20200103-00/?p=103290)
+* [Benchmarking Malloc with Doom 3 (Blog Post)](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 
 #### C plus plus
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
@@ -356,6 +357,7 @@ A collection of links for various fields of software development. Mainly game re
 * [BRDF Importance Sampling for Polygonal Lights (Paper)](https://momentsingraphics.de/Siggraph2021.html)
 * [An Area-Preserving Parametrization for Spherical Rectangles (Paper)](https://www.arnoldrenderer.com/research/egsr2013_spherical_rectangle.pdf)
 * [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting (Paper)](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.pdf)
+* [ReSTIR GI: Path Resampling for Real-Time Path Tracing (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/ReSTIR%20GI.pdf)
 
 #### Cameras, Exposure, Tonemapping
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
