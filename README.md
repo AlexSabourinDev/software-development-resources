@@ -483,6 +483,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Old-School Raycasting Pt2 (Series)](https://lodev.org/cgtutor/raycasting2.html)
 * [Old-School Raycasting Pt3 (Series)](https://lodev.org/cgtutor/raycasting3.html)
 * [Old-School Raycasting Pt4 (Series)](https://lodev.org/cgtutor/raycasting4.html)
+* [PlayStation 3 Architecture (Blog Post)](https://www.copetti.org/writings/consoles/playstation-3/)
+* [Xbox 360 Architecture (Blog Post)](https://www.copetti.org/writings/consoles/xbox-360/)
 
 ### Threading
 * [Thread Sanitizer A thread debugging tool (Repo)](https://github.com/google/sanitizers/wiki/ThreadSanitizerCppManual)
