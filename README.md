@@ -171,6 +171,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Alpha Blending: To Pre or Not To Pre (Blog Post)](https://developer.nvidia.com/content/alpha-blending-pre-or-not-pre)
 * [Alpha Compositing (Blog Post)](https://ciechanow.ski/alpha-compositing/)
 * [Premultiplied Alpha (Blog Post)](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
+* [Order independent transparency, part 1 (Blog Post)](https://interplayoflight.wordpress.com/2022/06/25/order-independent-transparency-part-1/)
 
 #### GPU
 * [A Trip Through the Graphics Pipeline (Blog Series)](https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-2011-part-1/)
