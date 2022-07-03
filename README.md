@@ -204,6 +204,7 @@ A collection of links for various fields of software development. Mainly game re
 * [The Shader Permutations Problem (Blog Series)](https://therealmjp.github.io/posts/shader-permutations-part1/)
 * [Floating-point in mobile shaders (Blog Post)](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
 * [Triangle Setup And Rasterization For FGPA (Blog Post)](http://js3.maisonikkoku.com/uncategorized/triangle_setup_and_rasterization/)
+* [Compute Shader Optimizations for AMD GPUs: Parallel Reduction (Blog Post)](https://diaryofagraphicsprogrammer.blogspot.com/2014/03/compute-shader-optimizations-for-amd.html)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
