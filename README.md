@@ -222,6 +222,11 @@ A collection of links for various fields of software development. Mainly game re
 * [Combining Analytic Direct Illumination and Stochastic Shadows (Paper)](http://casual-effects.com/research/Heitz2018Shadow/index.html)
 * [Experiments in Hybrid Raytraced Shadows (Blog Post)](https://interplayoflight.wordpress.com/2021/05/15/experiments-in-hybrid-raytraced-shadows/)
 
+#### Spherical Harmonics
+* [Spherical Harmonic Gradients for Mid-Range Illumination (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.1462&rep=rep1&type=pdf)
+* [Spherical Harmonic Irradiance Gradients (Slides)](http://chrisoat.com/papers/Oat_GDC2005_IrradianceVolumesForGames.pdf#page=21&zoom=auto,42,-175)
+* [Stupid Spherical Harmonic Tricks (Paper)](https://www.ppsloan.org/publications/StupidSH36.pdf#%5B%7B%22num%22%3A229%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C177%2C0%5D)
+
 #### Raytracing
 * [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
 * [Raytracing Reflection, Refraction, Fresnel, Total Internal Reflection, and Beer's Law (Blog Post)](https://blog.demofox.org/2017/01/09/raytracing-reflection-refraction-fresnel-total-internal-reflection-and-beers-law/)
