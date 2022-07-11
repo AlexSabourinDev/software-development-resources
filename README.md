@@ -25,6 +25,7 @@ A collection of links for various fields of software development. Mainly game re
   * [Code](#code)
   * [Particles](#particles)
   * [Shadows](#shadows)
+  * [Spherical Harmonics](#spherical-harmonics)
   * [Raytracing](#raytracing)
   * [Concepts](#concepts)
   * [Geometry Shaders](#geometry-shaders)
