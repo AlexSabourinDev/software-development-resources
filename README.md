@@ -227,6 +227,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Spherical Harmonic Gradients for Mid-Range Illumination (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.1462&rep=rep1&type=pdf)
 * [Spherical Harmonic Irradiance Gradients (Slides)](http://chrisoat.com/papers/Oat_GDC2005_IrradianceVolumesForGames.pdf#page=21&zoom=auto,42,-175)
 * [Stupid Spherical Harmonic Tricks (Paper)](https://www.ppsloan.org/publications/StupidSH36.pdf#%5B%7B%22num%22%3A229%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C177%2C0%5D)
+* [Spherical Harmonic Lighting: The Gritty Details (Paper)](https://3dvar.com/Green2003Spherical.pdf)
+* [Spherical Harmonics - Patapom (Blog Post)](https://patapom.com/blog/SHPortal/)
 
 #### Raytracing
 * [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
