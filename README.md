@@ -139,6 +139,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Writting An Efficient Vulkan Renderer (Blog Post/Article)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [The Missing Guide to Modern Graphics APIs – 2. PSOs (Blog Post)](https://blog.mecheye.net/2021/06/the-missing-guide-to-modern-graphics-apis-2-psos/)
 * [Shader Assembly and D3D12 Root Signatures (Blog Post)](https://boogy90.github.io/2021/11/24/root-signatures-assembly.html)
+* [GPU Memory Pools in D3D12 (Blog Post)](https://therealmjp.github.io/posts/gpu-memory-pool/)
 
 #### Textures
 * [Understanding BCn Texture Compression Formats (Blog Post)](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
