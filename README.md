@@ -242,6 +242,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Increasing wave coherence with ray binning (Blog Post)](https://interplayoflight.wordpress.com/2022/05/08/increasing-wave-coherence-with-ray-binning/)
 * [Spherical Area Light Sampling (Blog Post)](https://schuttejoe.github.io/post/arealightsampling/)
 * [Raytracing In Hybrid Real-time Rendering (Slides)](http://h3.gd/raytracing-in-hybrid-real-time-rendering/)
+* [Real-Time Path Tracing And Beyond (Slides)](https://research.nvidia.com/publication/2022-07_real-time-path-tracing-and-beyond)
 
 #### Blue Noise
 * [Distributing Monte Carlo errors as Blue Noise in Screen Space - Part 1 (Blog Post)](https://gamehacker1999.github.io/posts/bluenoiseerrors/)
