@@ -555,6 +555,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Step By Step Programming (Blog Post)](https://ourmachinery.com/post/step-by-step-programming-incrementally/)
 * [Insider guide to tech interviews (Blog Post)](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/)
 * [Optimizing astcenc (Blog Post)](https://solidpixel.github.io/2022/04/22/astc_optimization.html)
+* [You And Your Research (Blog Post)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
