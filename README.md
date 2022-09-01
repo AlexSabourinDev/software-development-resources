@@ -378,8 +378,8 @@ A collection of links for various fields of software development. Mainly game re
 * [An Area-Preserving Parametrization for Spherical Rectangles (Paper)](https://www.arnoldrenderer.com/research/egsr2013_spherical_rectangle.pdf)
 * [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting (Paper)](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.pdf)
 * [ReSTIR GI: Path Resampling for Real-Time Path Tracing (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/ReSTIR%20GI.pdf)
-* [Permutation Coding for Vertex-Blend Attribute Compression](https://momentsingraphics.de/Media/I3D2022/peters2022_permutation_coding_paper.pdf)
-    * Readers note: Interesting insights on approaches to quantization and permutation coding.
+* [Permutation Coding for Vertex-Blend Attribute Compression (Paper)](https://momentsingraphics.de/Media/I3D2022/peters2022_permutation_coding_paper.pdf)
+    * Readers note: Interesting insights on approaches to quantization and storing information through permutations of a sorted list.
 
 #### Cameras, Exposure, Tonemapping
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
