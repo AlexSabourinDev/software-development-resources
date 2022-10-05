@@ -297,6 +297,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Physical Units for Lights (Blog Post)](https://www.realtimerendering.com/blog/physical-units-for-lights/)
 * [Journey To Lumen (Blog Post)](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)
 * [Journey To Nanite (Slides)](https://highperformancegraphics.org/slides22/Journey_to_Nanite.pdf)
+* [Notes on screenspace reflections with FidelityFX SSSR (Blog Post)](https://interplayoflight.wordpress.com/2022/09/28/notes-on-screenspace-reflections-with-fidelityfx-sssr/)
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
@@ -559,6 +560,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Insider guide to tech interviews (Blog Post)](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/)
 * [Optimizing astcenc (Blog Post)](https://solidpixel.github.io/2022/04/22/astc_optimization.html)
 * [You And Your Research (Blog Post)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+* [X64 Function Hooking by Example (Blog Post)](http://kylehalladay.com/blog/2020/11/13/Hooking-By-Example.html)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
