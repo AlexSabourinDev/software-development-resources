@@ -501,6 +501,9 @@ A collection of links for various fields of software development. Mainly game re
 * [The Significance Of The x86 lfence Instruction (Blog Post)](https://hadibrais.wordpress.com/2018/05/14/the-significance-of-the-x86-lfence-instruction/)
 * [SMACNI to AVX512 the life cycle of an instruction set (PDF)](http://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf)
 * [Branch/cmove and compiler optimizations (Blog Post)](https://kristerw.github.io/2022/05/24/branchless/)
+* [Why Use LEA instead of ADD (Stack Overflow Answer)](https://stackoverflow.com/a/6328441)
+* [Using the LEA instruction for arbitrary arithmetic (Blog Post)](https://handmade.network/forums/articles/t/7111-using_the_lea_instruction_for_arbitrary_arithmetic)
+
 
 ### Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
