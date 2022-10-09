@@ -210,6 +210,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Triangle Setup And Rasterization For FGPA (Blog Post)](http://js3.maisonikkoku.com/uncategorized/triangle_setup_and_rasterization/)
 * [Compute Shader Optimizations for AMD GPUs: Parallel Reduction (Blog Post)](https://diaryofagraphicsprogrammer.blogspot.com/2014/03/compute-shader-optimizations-for-amd.html)
 * [Boosting Application Performance with GPU Memory Prefetching (Blog Post)](https://developer.nvidia.com/blog/boosting-application-performance-with-gpu-memory-prefetching/)
+* [Linear-Speed Vertex Cache Optimisation (Paper)](http://tomforsyth1000.github.io/papers/fast_vert_cache_opt.html)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
