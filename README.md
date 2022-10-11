@@ -566,6 +566,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Optimizing astcenc (Blog Post)](https://solidpixel.github.io/2022/04/22/astc_optimization.html)
 * [You And Your Research (Blog Post)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [X64 Function Hooking by Example (Blog Post)](http://kylehalladay.com/blog/2020/11/13/Hooking-By-Example.html)
+* [Mike Acton’s Expectations of Professional Software Engineers (Blog Post)](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
