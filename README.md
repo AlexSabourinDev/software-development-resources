@@ -300,6 +300,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Journey To Lumen (Blog Post)](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)
 * [Journey To Nanite (Slides)](https://highperformancegraphics.org/slides22/Journey_to_Nanite.pdf)
 * [Notes on screenspace reflections with FidelityFX SSSR (Blog Post)](https://interplayoflight.wordpress.com/2022/09/28/notes-on-screenspace-reflections-with-fidelityfx-sssr/)
+* [A mathematical take on Premultiplied alpha (Blog Post)](https://iquilezles.org/articles/premultipliedalpha/)
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
