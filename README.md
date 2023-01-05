@@ -109,6 +109,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Linkers (Blog Series)](https://www.airs.com/blog/archives/38)
 * [Optimizations in C++ Compilers (Blog Post)](https://queue.acm.org/detail.cfm?id=3372264)
 * [How C++ Resolves A Function Call (Blog Post)](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
+* [The Subtle Dangers of Temporaries in for Loops (Blog Post)](https://www.fluentcpp.com/2021/05/22/the-subtle-dangers-of-temporaries-in-for-loops/)
+* [Incrementing Vectors (Blog Post)](https://travisdowns.github.io/blog/2019/08/26/vector-inc.html)
 
 #### C Sharp
 * [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
