@@ -309,6 +309,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Binary Search For SDFs (Blog Post)](https://iquilezles.org/articles/binarysearchsdf/)
 * [Two-Pass Occlusion Culling (Blog Post)](https://medium.com/@mil_kru/two-pass-occlusion-culling-4100edcad501)
 * [Meshlet Sizing Theory (Blog Post)](https://cohost.org/zeux/post/659687-meshlet-sizing-theor)
+* [Spatio-Temporal Blue Noise (Video)](https://www.youtube.com/watch?v=4nM2FbLnOqQ)
+
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
