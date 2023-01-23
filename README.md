@@ -217,6 +217,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Boosting Application Performance with GPU Memory Prefetching (Blog Post)](https://developer.nvidia.com/blog/boosting-application-performance-with-gpu-memory-prefetching/)
 * [Linear-Speed Vertex Cache Optimisation (Paper)](http://tomforsyth1000.github.io/papers/fast_vert_cache_opt.html)
 * [Stream compaction using wave intrinsics (Blog Post)](https://interplayoflight.wordpress.com/2022/12/25/stream-compaction-using-wave-intrinsics/)
+* [RDNA3 ISA (Paper)](https://developer.amd.com/wp-content/resources/RDNA3_Shader_ISA_December2022.pdf)
+* [RDNA Architecture (Paper)](https://www.amd.com/system/files/documents/rdna-whitepaper.pdf)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
