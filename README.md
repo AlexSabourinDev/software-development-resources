@@ -581,6 +581,7 @@ A collection of links for various fields of software development. Mainly game re
 * [You And Your Research (Blog Post)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [X64 Function Hooking by Example (Blog Post)](http://kylehalladay.com/blog/2020/11/13/Hooking-By-Example.html)
 * [Mike Acton’s Expectations of Professional Software Engineers (Blog Post)](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
+* [MAKING TOOLS FOR BIG GAMES (Slides)](https://d3d3g8mu99pzk9.cloudfront.net/MichielVanDerLeeuw/CEDEC%202019%20-%20Making%20Tools%20for%20Big%20Games.pdf)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
