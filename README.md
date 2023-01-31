@@ -48,6 +48,7 @@ A collection of links for various fields of software development. Mainly game re
 - [Collision](#collision)
 - [Misc](#misc-2)
 - [Unity](#unity)
+- [Unreal](#unreal)
 
 ### Project Management
 * [How We Ended Up With Microservices (Blog Post)](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
@@ -585,3 +586,6 @@ A collection of links for various fields of software development. Mainly game re
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
+
+### Unreal
+* [Unreal Engine Game Optimization on a Budget (Blog Post)](https://www.tomlooman.com/unrealengine-optimization-talk/)
