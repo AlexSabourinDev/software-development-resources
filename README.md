@@ -369,6 +369,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Spherical Gaussians Series (Blog Series)](https://therealmjp.github.io/posts/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
 * [Adventures in Hybrid Rendering (Blog Post)](https://diharaw.github.io/post/adventures_in_hybrid_rendering/)
 * [The Irradiance Volume (Paper)](http://www.sci.utah.edu/~bigler/images/msthesis/The%20irradiance%20volume.pdf)
+* [Advances In Rendendering, Graphics Research And Video Game Production (Slides)](https://i3dsymposium.org/2019/keynotes/I3D2019_keynote_StephenMcAuley.pdf)
 
 ##### Ambient Occlusion
 * [Screen Space Ambient Occlusion (Doc)](https://developer.download.nvidia.com/SDK/10.5/direct3d/Source/ScreenSpaceAO/doc/ScreenSpaceAO.pdf)
