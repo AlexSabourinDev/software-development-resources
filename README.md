@@ -475,6 +475,7 @@ A collection of links for various fields of software development. Mainly game re
 * [There are Only Four Billion Floats so Test Them All (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
 * [Floating Point Determinism (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
 * [Floating Point (White Paper)](http://www.cse.hcmut.edu.vn/~hungnq/courses/501120/docthem/Single%20precision%20floating-point%20format%20-%20Wikipedia.pdf)
+* [NaNs cause the craziest bugs (Blog Post)](https://cohost.org/tomforsyth/post/1068776-na-ns-cause-the-crazi)
 
 ### Algorithms
 * [Visualizing Algorithms (Blog Port)](https://bost.ocks.org/mike/algorithms/)
