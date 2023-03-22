@@ -444,6 +444,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Kajiya GI Overview (Blog Post)](https://github.com/EmbarkStudios/kajiya/blob/main/docs/gi-overview.md)
 * [Slang Shading Language Advances (Slides)](https://research.nvidia.com/publication/2022-04_slang-shading-language-advances)
 * [In defense of NIR (Blog Post)](https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/)
+* [Half baked: Dynamic Occlusion Culling (Blog Post)](http://c0de517e.blogspot.com/2023/03/half-baked-dynamic-occlusion-culling.html)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
@@ -588,6 +589,7 @@ A collection of links for various fields of software development. Mainly game re
 * [MAKING TOOLS FOR BIG GAMES (Slides)](https://d3d3g8mu99pzk9.cloudfront.net/MichielVanDerLeeuw/CEDEC%202019%20-%20Making%20Tools%20for%20Big%20Games.pdf)
 * [A Matter Of Precision (Blog Post)](https://cohost.org/tomforsyth/post/943070-a-matter-of-precisio)
 * [The power of asking why, why, why, why, why (Blog Post)](https://rystorm.com/blog/why-why-why-why-why)
+* [Efficient Parallel Prefix Sum in Metal for Apple M1 (Blog Post)](https://kieber-emmons.medium.com/efficient-parallel-prefix-sum-in-metal-for-apple-m1-9e60b974d62)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
