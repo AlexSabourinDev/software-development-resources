@@ -121,6 +121,10 @@ A collection of links for various fields of software development. Mainly game re
 * [The Truth About Value Types (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2010/09/30/the-truth-about-value-types/)
 * [Debunking another myth about value types (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2010/10/11/debunking-another-myth-about-value-types/)
 * [How Generics are implemented in C# (Blog Post)](https://github.com/dotnet/corert/issues/7248#issuecomment-508431669)
+* [Construction Destruction (Blog Post)](https://ericlippert.com/2013/06/10/construction-destruction/#more-1203)
+* [Lock And Exceptions Do Not Mix (Blog Post)](https://ericlippert.com/2009/03/06/locks-and-exceptions-do-not-mix/#more-1873)
+* [Atomacity, Volatility and Immutability Are Different (Blog Post)](https://ericlippert.com/2011/06/16/atomicity-volatility-and-immutability-are-different-part-three/#more-2019)
+* [Understanding Low Lock Techniques In Multi-threaded Apps (Blog Post)](https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/october/understanding-low-lock-techniques-in-multithreaded-apps)
 
 #### Misc
 * [How LLVM Optimizes a function (Blog Post)](https://blog.regehr.org/archives/1603)
