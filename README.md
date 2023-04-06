@@ -154,6 +154,7 @@ A collection of links for various fields of software development. Mainly game re
 * [GPU Memory Pools in D3D12 (Blog Post)](https://therealmjp.github.io/posts/gpu-memory-pool/)
 * [Graphics API secrets: format casting (Blog Post)](https://wickedengine.net/2022/11/08/graphics-api-secrets-format-casting/)
 * [VK_EXT_descriptor_buffer (Blog Post)](https://www.khronos.org/blog/vk-ext-descriptor-buffer)
+* [Descriptors are hard (Blog Post)](https://www.gfxstrand.net/faith/blog/2022/08/descriptors-are-hard/)
 
 #### Textures
 * [Understanding BCn Texture Compression Formats (Blog Post)](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
