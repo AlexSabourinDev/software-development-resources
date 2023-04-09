@@ -199,7 +199,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Tile Based Renderers](https://developer.samsung.com/game/gpu-framebuffer)
 * [Register Spilling](https://developer.download.nvidia.com/CUDA/training/register_spilling.pdf)
 * [GPU Resources (Twitter Thread)](https://twitter.com/KostasAAA/status/1213908535039401984?s=20)
-* [GPU Architecutre Resources (Blog Post)](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
+* [GPU Architecture Resources (Blog Post)](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
 * [GPU Memory Aliasing (Blog Post)](https://medium.com/@pavlo.muratov/gpu-memory-aliasing-45933681a15e)
 * [Rasterization Rules (MSDN)](https://docs.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-rasterizer-stage-rules#triangle-rasterization-rules-without-multisampling)
 * [Overdraw in Overdrive (Blog Post)](https://blog.selfshadow.com/publications/overdraw-in-overdrive/)
@@ -321,6 +321,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Meshlet Sizing Theory (Blog Post)](https://cohost.org/zeux/post/659687-meshlet-sizing-theor)
 * [Spatio-Temporal Blue Noise (Video)](https://www.youtube.com/watch?v=4nM2FbLnOqQ)
 * [A Blend Of GCN Optimization And Color Processing (Slides)](https://gpuopen.com/gdc-presentations/2019/gdc-2019-s5-blend-of-gcn-optimization-and-color-processing.pdf)
+* [Texture Tiling And Swizzling (Blog Post)](https://github.com/rygorous/rygblog-src/blob/master/posts/texture-tiling-and-swizzling.md)
 
 
 #### Geometry Shaders
