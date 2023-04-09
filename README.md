@@ -320,6 +320,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Two-Pass Occlusion Culling (Blog Post)](https://medium.com/@mil_kru/two-pass-occlusion-culling-4100edcad501)
 * [Meshlet Sizing Theory (Blog Post)](https://cohost.org/zeux/post/659687-meshlet-sizing-theor)
 * [Spatio-Temporal Blue Noise (Video)](https://www.youtube.com/watch?v=4nM2FbLnOqQ)
+* [A Blend Of GCN Optimization And Color Processing (Slides)](https://gpuopen.com/gdc-presentations/2019/gdc-2019-s5-blend-of-gcn-optimization-and-color-processing.pdf)
 
 
 #### Geometry Shaders
