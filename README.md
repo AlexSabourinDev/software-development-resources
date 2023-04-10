@@ -322,7 +322,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Spatio-Temporal Blue Noise (Video)](https://www.youtube.com/watch?v=4nM2FbLnOqQ)
 * [A Blend Of GCN Optimization And Color Processing (Slides)](https://gpuopen.com/gdc-presentations/2019/gdc-2019-s5-blend-of-gcn-optimization-and-color-processing.pdf)
 * [Texture Tiling And Swizzling (Blog Post)](https://github.com/rygorous/rygblog-src/blob/master/posts/texture-tiling-and-swizzling.md)
-
+* [Multiresolution Ambient Occlusion (Blog Post)](https://iquilezles.org/articles/multiresaocc/)
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
