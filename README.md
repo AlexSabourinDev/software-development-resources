@@ -323,6 +323,8 @@ A collection of links for various fields of software development. Mainly game re
 * [A Blend Of GCN Optimization And Color Processing (Slides)](https://gpuopen.com/gdc-presentations/2019/gdc-2019-s5-blend-of-gcn-optimization-and-color-processing.pdf)
 * [Texture Tiling And Swizzling (Blog Post)](https://github.com/rygorous/rygblog-src/blob/master/posts/texture-tiling-and-swizzling.md)
 * [Multiresolution Ambient Occlusion (Blog Post)](https://iquilezles.org/articles/multiresaocc/)
+* [Assassin’s Creed 4: Black Flag - Lighting, Weather and Atmospheric Effects (slides)](https://bartwronski.files.wordpress.com/2014/05/assassin_s-creed-4-digital-dragons-2014-no_notes.pdf)
+* [Rendering The World Of Far Cry 4 (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2015/presentations/McAuley_Stephen_Rendering_the_World.pdf)
 
 #### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
