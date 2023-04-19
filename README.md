@@ -601,6 +601,7 @@ A collection of links for various fields of software development. Mainly game re
 * [The power of asking why, why, why, why, why (Blog Post)](https://rystorm.com/blog/why-why-why-why-why)
 * [Efficient Parallel Prefix Sum in Metal for Apple M1 (Blog Post)](https://kieber-emmons.medium.com/efficient-parallel-prefix-sum-in-metal-for-apple-m1-9e60b974d62)
 * [Systems design 2: What we hope we know (Blog Post)](https://apenwarr.ca/log/20230415)
+* [The Tyranny of structurelessness(Blog Post)](https://www.jofreeman.com/joreen/tyranny.htm)
 
 ### Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
