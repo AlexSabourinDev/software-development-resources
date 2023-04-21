@@ -94,6 +94,8 @@ A collection of links for various fields of software development. Mainly game re
 * [Anybody who writes #pragma pack(1) may as well just wear a sign on their forehead that says “I hate RISC” (Blog Post](https://devblogs.microsoft.com/oldnewthing/20200103-00/?p=103290)
 * [Benchmarking Malloc with Doom 3 (Blog Post)](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 * [Undefined behavior, and the Sledgehammer Principle (Blog Post)](https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline)
+* [A bit of background on compilers exploiting signed overflow (Blog Post)](https://gist.github.com/rygorous/e0f055bfb74e3d5f0af20690759de5a7)
+* [C Isn't A Programming Language Anymore (Blog Post)](https://faultlore.com/blah/c-isnt-a-language/)
 
 #### C plus plus
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
