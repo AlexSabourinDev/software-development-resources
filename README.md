@@ -96,6 +96,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Undefined behavior, and the Sledgehammer Principle (Blog Post)](https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline)
 * [A bit of background on compilers exploiting signed overflow (Blog Post)](https://gist.github.com/rygorous/e0f055bfb74e3d5f0af20690759de5a7)
 * [C Isn't A Programming Language Anymore (Blog Post)](https://faultlore.com/blah/c-isnt-a-language/)
+* [How can a program survive a corrupted stack? (Blog Post)](https://devblogs.microsoft.com/oldnewthing/20040116-00/?p=41023)
 
 #### C plus plus
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
