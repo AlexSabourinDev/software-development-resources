@@ -54,6 +54,7 @@ A collection of links for various fields of software development. Mainly game re
 * [How We Ended Up With Microservices (Blog Post)](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * [Maker's Schedule, Manager's Schedule (Blog Post)](http://www.paulgraham.com/makersschedule.html)
 * [An epic treatise on scheduling, bug tracking, and triage (Blog Post)](https://apenwarr.ca/log/20171213)
+* [Characterizing Software Developers by Perceptions of Productivity (Paper)](https://www.researchgate.net/publication/320959053_Characterizing_Software_Developers_by_Perceptions_of_Productivity)
 
 #### Estimation
 * [Why Software Projects Take Longer Than You Think (Blog Post)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
@@ -413,6 +414,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Permutation Coding for Vertex-Blend Attribute Compression (Paper)](https://momentsingraphics.de/Media/I3D2022/peters2022_permutation_coding_paper.pdf)
     * Readers note: Interesting insights on approaches to quantization and storing information through permutations of a sorted list.
 * [Moment-Based Order-Independent Transparency (Paper)](https://momentsingraphics.de/Media/I3D2018/Muenstermann2018-MBOIT.pdf)
+* [Average irregularity representation of a rough surface for ray reflection (Paper)](https://pharr.org/matt/blog/images/average-irregularity-representation-of-a-rough-surface-for-ray-reflection.pdf)
 
 #### Cameras, Exposure, Tonemapping
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
