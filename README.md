@@ -159,6 +159,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Graphics API secrets: format casting (Blog Post)](https://wickedengine.net/2022/11/08/graphics-api-secrets-format-casting/)
 * [VK_EXT_descriptor_buffer (Blog Post)](https://www.khronos.org/blog/vk-ext-descriptor-buffer)
 * [Descriptors are hard (Blog Post)](https://www.gfxstrand.net/faith/blog/2022/08/descriptors-are-hard/)
+* [Arkham Quixote (Blog Post)](https://sherief.fyi/post/arkham-quixote/)
 
 #### Textures
 * [Understanding BCn Texture Compression Formats (Blog Post)](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
