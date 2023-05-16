@@ -233,6 +233,7 @@ A collection of links for various fields of software development. Mainly game re
 * [RDNA3 ISA (Paper)](https://developer.amd.com/wp-content/resources/RDNA3_Shader_ISA_December2022.pdf)
 * [RDNA Architecture (Paper)](https://www.amd.com/system/files/documents/rdna-whitepaper.pdf)
 * [Fine-grained backface culling (Blog Post)](https://zeux.io/2023/04/28/triangle-backface-culling/)
+* [GPU Hang Exploration: Splitgate (Blog Post)](https://pixelcluster.github.io/Hang-Exploration-Splitgate/)
 
 #### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
