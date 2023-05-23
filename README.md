@@ -464,6 +464,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Slang Shading Language Advances (Slides)](https://research.nvidia.com/publication/2022-04_slang-shading-language-advances)
 * [In defense of NIR (Blog Post)](https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/)
 * [Half baked: Dynamic Occlusion Culling (Blog Post)](http://c0de517e.blogspot.com/2023/03/half-baked-dynamic-occlusion-culling.html)
+* [Realistic Real-time Sky Dome Rendering in Gran Turismo 7 (Slides)](https://www.gdcvault.com/play/1029434/Advanced-Graphics-Summit-Realistic-Real)
 
 #### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
