@@ -419,6 +419,7 @@ A collection of links for various fields of software development. Mainly game re
     * Readers note: Interesting insights on approaches to quantization and storing information through permutations of a sorted list.
 * [Moment-Based Order-Independent Transparency (Paper)](https://momentsingraphics.de/Media/I3D2018/Muenstermann2018-MBOIT.pdf)
 * [Average irregularity representation of a rough surface for ray reflection (Paper)](https://pharr.org/matt/blog/images/average-irregularity-representation-of-a-rough-surface-for-ray-reflection.pdf)
+* [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering (Paper)](https://www.jcgt.org/published/0010/02/02/paper-lowres.pdf)
 
 #### Cameras, Exposure, Tonemapping
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
