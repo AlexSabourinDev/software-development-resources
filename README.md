@@ -426,6 +426,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Misunderstanding Multiscattering (Blog Post)](http://c0de517e.blogspot.com/2019/08/misunderstanding-multiscattering.html)
 * [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 * [Average irregularity representation of a rough surface for ray reflection (Paper)](https://pharr.org/matt/blog/images/average-irregularity-representation-of-a-rough-surface-for-ray-reflection.pdf)
+* [Sampling Visible GGX Normals with Spherical Caps (Paper)](https://arxiv.org/pdf/2306.05044.pdf)
 
 ### Ambient Occlusion
 
