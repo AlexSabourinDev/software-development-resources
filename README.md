@@ -1,9 +1,11 @@
 # software-development-resources
 
-### What?
-A collection of links for various fields of software development. Mainly game related, most have been read and vetted. If you find any dead links, please submit an issue and I will try to address it as soon as possible.
+## What?
 
-### Table Of Contents
+A collection of links for various fields of software development (Mostlt Graphics). Mainly game related, most have been read and vetted. If you find any dead links, please submit an issue and I will try to address it as soon as possible.
+
+## Table Of Contents
+
 - [Project Management](#project-management)
   * [Estimation](#estimation)
 - [Math](#math)
@@ -50,20 +52,23 @@ A collection of links for various fields of software development. Mainly game re
 - [Unity](#unity)
 - [Unreal](#unreal)
 
-### Project Management
+## Project Management
+
 * [How We Ended Up With Microservices (Blog Post)](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * [Maker's Schedule, Manager's Schedule (Blog Post)](http://www.paulgraham.com/makersschedule.html)
 * [An epic treatise on scheduling, bug tracking, and triage (Blog Post)](https://apenwarr.ca/log/20171213)
 * [Characterizing Software Developers by Perceptions of Productivity (Paper)](https://www.researchgate.net/publication/320959053_Characterizing_Software_Developers_by_Perceptions_of_Productivity)
 
-#### Estimation
+### Estimation
+
 * [Why Software Projects Take Longer Than You Think (Blog Post)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
 * [Evidence Based Scheduling (Blog Post)](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)
 * [Programmer Time Translation Table (Blog Post)](https://coding.abel.nu/2012/06/programmer-time-translation-table/)
 * [2015 Chaos Report (Data)](https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf)
 * [17 theses software estimation (Blog Post)](https://stevemcconnell.com/blog/17-theses-software-estimation/)
 
-### Math
+## Math
+
 * [Fourier Transform: A Visualization (Video)](https://www.youtube.com/watch?v=spUNpyF58BY)
 * [Waveforms: An Introduction (Article)](http://waveforms.surge.sh/waveforms-intro)
 * [Faster Quaternion-Vector Multiplication (Blog Post)](https://blog.molecular-matters.com/2013/05/24/a-faster-quaternion-vector-multiplication/)
@@ -73,13 +78,15 @@ A collection of links for various fields of software development. Mainly game re
 * [Another View on the classic ray-aabb intersection algorithm for BVH traversal](https://medium.com/@bromanz/another-view-on-the-classic-ray-aabb-intersection-algorithm-for-bvh-traversal-41125138b525)
 * [Visualizing Variance (Blog Post)](http://perfdynamics.blogspot.com/2013/01/visualizing-variance.html)
 
-### Game Design
+## Game Design
+
 * [Extra Creditz (Youtube Channel)](https://www.youtube.com/user/ExtraCreditz)
 * [Designing For Coziness (Article)](https://www.gamasutra.com/blogs/TanyaXShort/20180305/315179/Designing_for_Coziness.php)
 * [Learning From The Masters: Level Design In The Legend Of Zelda (Article)](https://www.gamasutra.com/view/feature/134949/learning_from_the_masters_level_.php)
 
-### Languages
-#### C
+## Languages
+
+### C
 * [Strict Aliasing (Article)](https://cellperformance.beyond3d.com/articles/2006/06/understanding-strict-aliasing.html)
 * [Minimalist Containers in C(P1) (Blog post)](http://ourmachinery.com/post/minimalist-container-library-in-c-part-1/)
 * [Minimalist Containers in C(P2) (Blog post)](http://ourmachinery.com/post/minimalist-container-library-in-c-part-2/)
@@ -99,7 +106,7 @@ A collection of links for various fields of software development. Mainly game re
 * [C Isn't A Programming Language Anymore (Blog Post)](https://faultlore.com/blah/c-isnt-a-language/)
 * [How can a program survive a corrupted stack? (Blog Post)](https://devblogs.microsoft.com/oldnewthing/20040116-00/?p=41023)
 
-#### C plus plus
+### C plus plus
 * [Molecular Musings (C++ Blog)](https://blog.molecular-matters.com/)
 * [Perfect Forwarding (Article Series)](http://thbecker.net/articles/rvalue_references/section_01.html)
 * [DLL Hot Reloading (Article)](http://ourmachinery.com/post/dll-hot-reloading-in-theory-and-practice/)
@@ -119,7 +126,7 @@ A collection of links for various fields of software development. Mainly game re
 * [The Subtle Dangers of Temporaries in for Loops (Blog Post)](https://www.fluentcpp.com/2021/05/22/the-subtle-dangers-of-temporaries-in-for-loops/)
 * [Incrementing Vectors (Blog Post)](https://travisdowns.github.io/blog/2019/08/26/vector-inc.html)
 
-#### C Sharp
+### C Sharp
 * [Marshaling in C# (Blog)](https://stackoverflow.com/questions/20600380/how-does-marshal-getfunctionpointerfordelegate-work-on-instance-members)
 * [Everyone thinks about garbage collection the wrong way (Blog)](https://devblogs.microsoft.com/oldnewthing/20100809-00/?p=13203)
 * [The stack is an implementation detail (Blog)](https://blogs.msdn.microsoft.com/ericlippert/2009/04/27/the-stack-is-an-implementation-detail-part-one/)
@@ -131,17 +138,17 @@ A collection of links for various fields of software development. Mainly game re
 * [Atomacity, Volatility and Immutability Are Different (Blog Post)](https://ericlippert.com/2011/06/16/atomicity-volatility-and-immutability-are-different-part-three/#more-2019)
 * [Understanding Low Lock Techniques In Multi-threaded Apps (Blog Post)](https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/october/understanding-low-lock-techniques-in-multithreaded-apps)
 
-#### Misc
+### Misc
 * [How LLVM Optimizes a function (Blog Post)](https://blog.regehr.org/archives/1603)
 * [Crafting Interpreters (Online Book)](http://www.craftinginterpreters.com/)
 * [How To Speed Up The Rust Compiler (Blog Post)](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
 
-### AI
+## AI
 * [The AI of DOOM 2016](http://www.gamasutra.com/blogs/TommyThompson/20180806/323715/Cyber_Demons__The_AI_of_DOOM_2016.php)
 * [AI and Games (Blog)](https://aiandgames.com/)
 
-### Rendering
-#### Vulkan and DX12
+## Rendering
+### Vulkan and DX12
 * [Single Renderpass Deferred Shading on Mobile](https://www.khronos.org/assets/uploads/developers/library/2017-gdc/GDC_Vulkan-on-Mobile_Vulkan-Multipass-ARM_Mar17.pdf)
 * [Vulkan Subpasses](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/6-Vulkan-subpasses.pdf)
 * [Yet another blog explaining Vulkan synchronization](http://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
@@ -161,25 +168,25 @@ A collection of links for various fields of software development. Mainly game re
 * [Descriptors are hard (Blog Post)](https://www.gfxstrand.net/faith/blog/2022/08/descriptors-are-hard/)
 * [Arkham Quixote (Blog Post)](https://sherief.fyi/post/arkham-quixote/)
 
-#### Textures
+### Textures
 * [Understanding BCn Texture Compression Formats (Blog Post)](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
 * [Compressed GPU Texture Formats - A Review And Comute Shader Decoders Part 1 (Blog Post)](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
 * [Bindless Texturing for Deferred texturing and Decals (Blog Post)](https://mynameismjp.wordpress.com/2016/03/25/bindless-texturing-for-deferred-rendering-and-decals/)
 * [Compressing PBR texture sets with sparsity and dictionary learning (Blog Post)](https://bartwronski.com/2020/08/30/compressing-pbr-texture-sets-with-sparsity-and-dictionary-learning/)
 * [Texture Compression In 2020 (Blog Post)](https://aras-p.info/blog/2020/12/08/Texture-Compression-in-2020/)
 
-#### Compute Shaders
+### Compute Shaders
 * [Intro To Compute Shaders (Blog Post)](https://anteru.net/blog/2018/intro-to-compute-shaders/index.html)
 * [Optimizing the graphics pipeline with compute (Slides)](https://frostbite-wp-prd.s3.amazonaws.com/wp-content/uploads/2016/03/29204330/GDC_2016_Compute.pdf)
 * [Optimizing Compute Shaders for L2 Locality (Blog Post)](https://developer.nvidia.com/blog/optimizing-compute-shaders-for-l2-locality-using-thread-group-id-swizzling/)
 
-#### Colors
+### Colors
 * [A perceptual color space for image processing (Blog Post)](https://bottosson.github.io/posts/oklab/)
 * [How the CIE 1931 RGB Color Matching Functions Were Developed (Blog Post)](https://yzhu.medium.com/how-the-cie-1931-rgb-color-matching-functions-were-developed-from-the-initial-color-matching-a98696d9cf37)
 * [RGBM Color Encoding (Blog Post)](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
 * [The Hitchikers Guide To Digital Color (Website)](https://hg2dc.com/)
 
-#### Forward, Deferred, Visibility, Etc
+### Forward, Deferred, Visibility, Etc
 * [Forward+ Decal Rendering (Blog Post)](https://wickedengine.net/2017/10/12/forward-decal-rendering/)
 * [A Primer On Efficient Rendering Algorithms & Clustered Shading. (Blog Post)](http://www.aortiz.me/2018/12/21/CG.html)
 * [Visibility Buffer Rendering With Material Graphs (Blog Post)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
@@ -187,7 +194,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Visibility Buffer Rendering Approaches and Benefits (Blog Series)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
 * [A Primer On Efficient Rendering Algorithms & Clustered Shading. (Blog Post)](http://www.aortiz.me/2018/12/21/CG.html)
 
-#### Transparency, Blending
+### Transparency, Blending
 * [WBOIT in OpenGL: transparency without sorting (Blog Post)](https://habr.com/en/post/457292/)
 * [Order Independent Transparency (Slides)](http://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf)
 * [Alpha Blending: To Pre or Not To Pre (Blog Post)](https://developer.nvidia.com/content/alpha-blending-pre-or-not-pre)
@@ -195,7 +202,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Premultiplied Alpha (Blog Post)](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
 * [Order independent transparency, part 1 (Blog Post)](https://interplayoflight.wordpress.com/2022/06/25/order-independent-transparency-part-1/)
 
-#### GPU
+### GPU
 * [A Trip Through the Graphics Pipeline (Blog Series)](https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-2011-part-1/)
 * [Understanding GPU Context Rolls (Article)](https://gpuopen.com/understanding-gpu-context-rolls/)
 * [Revisiting the Vertex Cache (Article)](https://erkaman.github.io/posts/kerbl2018_tldr.html)
@@ -235,30 +242,30 @@ A collection of links for various fields of software development. Mainly game re
 * [Fine-grained backface culling (Blog Post)](https://zeux.io/2023/04/28/triangle-backface-culling/)
 * [GPU Hang Exploration: Splitgate (Blog Post)](https://pixelcluster.github.io/Hang-Exploration-Splitgate/)
 
-#### Code
+### Code
 * [Path Graph (Codebase)](https://github.com/daseyb/pathgraph/blob/master/README.md)
 * [The Forge (Codebase)](https://github.com/ConfettiFX/The-Forge)
 * [Single Header Backend Renderer (Codebase)](https://www.gamedev.net/news/px_render-single-header-backend-renderer-r461)
 
-#### Particles
+### Particles
 * [The New Particle (Article)](http://www.simppa.fi/blog/the-new-particle/)
 * [Downsampled Particle Effects (GPUGems)](https://developer.nvidia.com/gpugems/gpugems3/part-iv-image-effects/chapter-23-high-speed-screen-particles)
 
-#### Shadows
+### Shadows
 * [Variance Shadow Maps (Paper)](http://www.punkuser.net/vsm/vsm_paper.pdf)
 * [A Sampling of Shadow Techniques (Blog Post)](https://therealmjp.github.io/posts/shadow-maps/)
 * [Raytraced Shadows in Call of Duty Modern Warfare (Slides)](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf)
 * [Combining Analytic Direct Illumination and Stochastic Shadows (Paper)](http://casual-effects.com/research/Heitz2018Shadow/index.html)
 * [Experiments in Hybrid Raytraced Shadows (Blog Post)](https://interplayoflight.wordpress.com/2021/05/15/experiments-in-hybrid-raytraced-shadows/)
 
-#### Spherical Harmonics
+### Spherical Harmonics
 * [Spherical Harmonic Gradients for Mid-Range Illumination (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.1462&rep=rep1&type=pdf)
 * [Spherical Harmonic Irradiance Gradients (Slides)](http://chrisoat.com/papers/Oat_GDC2005_IrradianceVolumesForGames.pdf#page=21&zoom=auto,42,-175)
 * [Stupid Spherical Harmonic Tricks (Paper)](https://www.ppsloan.org/publications/StupidSH36.pdf#%5B%7B%22num%22%3A229%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C177%2C0%5D)
 * [Spherical Harmonic Lighting: The Gritty Details (Paper)](https://3dvar.com/Green2003Spherical.pdf)
 * [Spherical Harmonics - Patapom (Blog Post)](https://patapom.com/blog/SHPortal/)
 
-#### Raytracing
+### Raytracing
 * [Ray Tracing Denoising (Blog Post)](https://alain.xyz/blog/raytracing-denoising)
 * [Raytracing Reflection, Refraction, Fresnel, Total Internal Reflection, and Beer's Law (Blog Post)](https://blog.demofox.org/2017/01/09/raytracing-reflection-refraction-fresnel-total-internal-reflection-and-beers-law/)
 * [Ray Tracing In A Weekend (Book)](https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
@@ -270,11 +277,11 @@ A collection of links for various fields of software development. Mainly game re
 * [Raytracing In Hybrid Real-time Rendering (Slides)](http://h3.gd/raytracing-in-hybrid-real-time-rendering/)
 * [Real-Time Path Tracing And Beyond (Slides)](https://research.nvidia.com/publication/2022-07_real-time-path-tracing-and-beyond)
 
-#### Blue Noise
+### Blue Noise
 * [Distributing Monte Carlo errors as Blue Noise in Screen Space - Part 1 (Blog Post)](https://gamehacker1999.github.io/posts/bluenoiseerrors/)
 * [What the heck is blue noise? (Blog Post)](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
 
-#### Concepts
+### Concepts
 * [Summed Area Tables (Research Paper)](https://www.google.ca/url?sa=t&source=web&rct=j&url=http://www.florian-oeser.de/wordpress/wp-content/2012/10/crow-1984.pdf&ved=2ahUKEwjEpdHzta3ZAhWDm1kKHQenBXAQFjAAegQIExAB&usg=AOvVaw3k-SJwguBUsBS5x5lX7C1u)
 * [Material Pipeline for The Order: 1886 (PDF)](http://blog.selfshadow.com/publications/s2013-shading-course/rad/s2013_pbs_rad_notes.pdf)
 * [Checkerboard rendering (Blog Post)](https://bartwronski.com/2018/05/14/checkerboard-rendering-rotated-anti-aliasing-and-grid-frequencies/amp/)
@@ -334,14 +341,14 @@ A collection of links for various fields of software development. Mainly game re
 * [Rendering The World Of Far Cry 4 (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2015/presentations/McAuley_Stephen_Rendering_the_World.pdf)
 * [Tangent Spaces and Diamond Encoding (Blog Post)](https://www.jeremyong.com/graphics/2023/01/09/tangent-spaces-and-diamond-encoding/)
 
-#### Geometry Shaders
+### Geometry Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
 * [Geometry Shader - Advanced OpenGL (Blog Post)](https://learnopengl.com/Advanced-OpenGL/Geometry-Shader)
 * [My Take On Shaders - Geometry Shaders (Blog Post)](https://halisavakis.com/my-take-on-shaders-geometry-shaders/)
 * [Geometry Shader Adventures (Blog Post)](http://vfxmike.blogspot.com/2018/07/geometry-shader-adventures-mesh.html)
 * [Geometry Shader Stage (Docs)](https://docs.microsoft.com/en-us/windows/win32/direct3d11/geometry-shader-stage)
 
-#### Tesselation Shaders
+### Tesselation Shaders
 * [A Trip Through The Graphics Pipeline 2011, Part 12 (Blog Post)](https://fgiesen.wordpress.com/2011/09/06/a-trip-through-the-graphics-pipeline-2011-part-12/)
 * [Tessellation - Catlike Coding (Blog Post)](https://catlikecoding.com/unity/tutorials/advanced-rendering/tessellation/)
 * [Surface Displacement (Blog Post)](https://catlikecoding.com/unity/tutorials/advanced-rendering/surface-displacement/)
@@ -349,7 +356,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Tesselation Shaders (Blog Post)](http://ogldev.atspace.co.uk/www/tutorial30/tutorial30.html)
 * [Advanced Stages - Tessellation (Docs)](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-tessellation)
 
-#### Shading
+### Shading
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
 * [Sampling Microfacet BRDFs (Blog Post)](https://www.google.com/amp/s/agraphicsguy.wordpress.com/2015/11/01/sampling-microfacet-brdf/amp/)
 * [Importance Sampling Adventure (Tweets)](https://twitter.com/KostasAAA/status/1246936564556537865?s=20)
@@ -390,12 +397,12 @@ A collection of links for various fields of software development. Mainly game re
 * [The Irradiance Volume (Paper)](http://www.sci.utah.edu/~bigler/images/msthesis/The%20irradiance%20volume.pdf)
 * [Advances In Rendendering, Graphics Research And Video Game Production (Slides)](https://i3dsymposium.org/2019/keynotes/I3D2019_keynote_StephenMcAuley.pdf)
 
-##### Ambient Occlusion
+#### Ambient Occlusion
 * [Screen Space Ambient Occlusion (Doc)](https://developer.download.nvidia.com/SDK/10.5/direct3d/Source/ScreenSpaceAO/doc/ScreenSpaceAO.pdf)
 * [Screen Space Ambient Occlusion - OGL Dev (Tutorial)](http://ogldev.atspace.co.uk/www/tutorial45/tutorial45.html)
 * [Screen Space Ambient Occlusion - Learn OpenGL (Tutorial)](https://learnopengl.com/Advanced-Lighting/SSAO)
 
-##### Papers
+#### Papers
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
 * [Can't invert the CDF? Triangle Cut Parametirzation of the Region Under The Curve (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf14058/v39i4pp121-132.pdf)
 * [Efficient Screen-space SSS (Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
@@ -421,7 +428,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Average irregularity representation of a rough surface for ray reflection (Paper)](https://pharr.org/matt/blog/images/average-irregularity-representation-of-a-rough-surface-for-ray-reflection.pdf)
 * [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering (Paper)](https://www.jcgt.org/published/0010/02/02/paper-lowres.pdf)
 
-#### Cameras, Exposure, Tonemapping
+### Cameras, Exposure, Tonemapping
 * [Tone Mapping (Blog Post By Bruno Opsenica)](https://bruop.github.io/tonemapping/)
 * [Tone Mapping (Blog Post By 64)](https://64.github.io/tonemapping/)
 * [Adaptive Exposure from Luminance Histograms (Blog Post)](http://www.alextardif.com/HistogramLuminance.html)
@@ -433,7 +440,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Where does 78 come from in exposure calculations? (Forum)](https://www.dpreview.com/forums/thread/4579986?page=2)
 * [Moving Frostbite to PBR (PDF)](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/course-notes-moving-frostbite-to-pbr-v2.pdf)
 
-#### Misc
+### Misc
 * [Real-Time Rendering Resources (Holy grail of resources)](http://www.realtimerendering.com/)
 * [Walt Disney Datasets (Data)](https://www.disneyanimation.com/technology/datasets)
 * [Aras P - Rendering(Blog)](https://aras-p.info/tags/rendering/)
@@ -467,7 +474,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Half baked: Dynamic Occlusion Culling (Blog Post)](http://c0de517e.blogspot.com/2023/03/half-baked-dynamic-occlusion-culling.html)
 * [Realistic Real-time Sky Dome Rendering in Gran Turismo 7 (Slides)](https://www.gdcvault.com/play/1029434/Advanced-Graphics-Summit-Realistic-Real)
 
-#### Depth
+### Depth
 * [Linearize the depth buffer (Forum)](https://community.khronos.org/t/linearize-the-depth-buffer/72335/2)
 * [Maximizing depth buffer range and precision (Blog Post)](https://outerra.blogspot.com/2012/11/maximizing-depth-buffer-range-and.html)
 * [Reversed-Z in OpenGL (Blog Post)](https://nlguillemot.wordpress.com/2016/12/07/reversed-z-in-opengl/)
@@ -478,7 +485,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Depth Precision Visualized (Blog Post)](https://developer.nvidia.com/content/depth-precision-visualized)
 * [Depth in-depth (PDF)](http://developer.amd.com/wordpress/media/2012/10/Depth_in-depth.pdf)
 
-#### Tutorials
+### Tutorials
 * [Learn OpenGL (Tutorial)](https://learnopengl.com/)
 * [Fragment Foundry (Tutorial)](http://hughsk.io/fragment-foundry/chapters/01-hello-world.html)
 * [Intro to compute shaders (Blog Post)](https://anteru.net/blog/2018/intro-to-compute-shaders/)
@@ -486,12 +493,12 @@ A collection of links for various fields of software development. Mainly game re
 * [PBR Theory (Tutorial)](https://learnopengl.com/PBR/Theory)
 * [FWidth (Tutorial)](https://www.ronja-tutorials.com/2019/11/29/fwidth.html)
 
-#### Shader Editors
+### Shader Editors
 * [Shadertoy](https://www.shadertoy.com/)
 * [Shdr Editor](http://shdr.bkcore.com/)
 * [Shader Frog](https://shaderfrog.com/)
 
-### Floating Point
+## Floating Point
 * [Floating Point Error (Blog Post)](https://matthew-brett.github.io/teaching/floating_error.html)
 * [What every computer scientist should know about floating point (Paper)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [There are Only Four Billion Floats so Test Them All (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
@@ -499,17 +506,17 @@ A collection of links for various fields of software development. Mainly game re
 * [Floating Point (White Paper)](http://www.cse.hcmut.edu.vn/~hungnq/courses/501120/docthem/Single%20precision%20floating-point%20format%20-%20Wikipedia.pdf)
 * [NaNs cause the craziest bugs (Blog Post)](https://cohost.org/tomforsyth/post/1068776-na-ns-cause-the-crazi)
 
-### Algorithms
+## Algorithms
 * [Visualizing Algorithms (Blog Port)](https://bost.ocks.org/mike/algorithms/)
 * [Pathfinding with Cellular automota (Blog Post)](https://nullprogram.com/blog/2014/06/22/)
 * [QGrep Internals (Blog Post)](https://zeux.io/2019/04/20/qgrep-internals/)
 
-### Networking
+## Networking
 * [Gaffer On Games (Blog)](https://gafferongames.com/)
 * [VR Networked Physics (Article)](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/)
 * [Poor Man's Netcode (Article)](https://www.gamedev.net/articles/programming/networking-and-multiplayer/the-poor-mans-netcode-r4851/)
 
-### CPUs
+## CPUs
 * [Branch Prediction Rundown (Blog Post)](http://danluu.com/branch-prediction/)
 * [Introduction to dataflow graphs (Blog Post)](https://wp.me/pF1Ai-1Qg)
 * [SIMD at Insomniac Games (PDF)](https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf)
@@ -545,8 +552,7 @@ A collection of links for various fields of software development. Mainly game re
 * [Why Use LEA instead of ADD (Stack Overflow Answer)](https://stackoverflow.com/a/6328441)
 * [Using the LEA instruction for arbitrary arithmetic (Blog Post)](https://handmade.network/forums/articles/t/7111-using_the_lea_instruction_for_arbitrary_arithmetic)
 
-
-### Retro
+## Retro
 * [Old-School Raycasting Pt1 (Series)](https://lodev.org/cgtutor/raycasting.html)
 * [Old-School Raycasting Pt2 (Series)](https://lodev.org/cgtutor/raycasting2.html)
 * [Old-School Raycasting Pt3 (Series)](https://lodev.org/cgtutor/raycasting3.html)
@@ -554,7 +560,7 @@ A collection of links for various fields of software development. Mainly game re
 * [PlayStation 3 Architecture (Blog Post)](https://www.copetti.org/writings/consoles/playstation-3/)
 * [Xbox 360 Architecture (Blog Post)](https://www.copetti.org/writings/consoles/xbox-360/)
 
-### Threading
+## Threading
 * [Thread Sanitizer A thread debugging tool (Repo)](https://github.com/google/sanitizers/wiki/ThreadSanitizerCppManual)
 * [Acquire And Release Semantics (Blog Post)](https://preshing.com/20120913/acquire-and-release-semantics/)
 * [Acquire And Release Fences Don't Work The Way You'd Expect (Blog Post)](https://preshing.com/20131125/acquire-and-release-fences-dont-work-the-way-youd-expect/)
@@ -568,17 +574,17 @@ A collection of links for various fields of software development. Mainly game re
 * [Why Is A Store Load Barrier Considered Expensive? (Stack Overflow)](https://stackoverflow.com/questions/27475025/why-is-a-store-load-barrier-considered-expensive)
 * [Does Lock xchg Have The Same Behaviour As mfence? (Stack Overflow)](https://stackoverflow.com/questions/40409297/does-lock-xchg-have-the-same-behavior-as-mfence)
 
-### Sound
+## Sound
 * [Digital Media Primer (Videos)](https://xiph.org/video/)
 
-### Collision
+## Collision
 * [Simple Intersection Tests For Games (Blog Post)](https://www.gamasutra.com/view/feature/3383/simple_intersection_tests_for_games.php?page=3)
 * [2D AABB vs AABB how to calculate normal (Stack Exchange)](https://gamedev.stackexchange.com/questions/28577/2d-aabb-vs-aabb-sweep-how-to-calculate-hit-normal)
 * [What's the fastest way of checking if 2 AABB intersect? (Stack Exchange)](https://gamedev.stackexchange.com/questions/93035/whats-the-fastest-way-checking-if-two-moving-aabbs-intersect)
 * [Swept AABB and response (Blog Post)](https://www.gamedev.net/tutorials/_/technical/game-programming/swept-aabb-collision-detection-and-response-r3084/)
 * [Axis-Aligned Bounding Dual Simplex (Google Doc)](https://docs.google.com/document/d/15F1ujW8ROTDMtQFkn29_ZybhkvSJcGGzzuyPWcVsToU/edit)
 
-### Misc
+## Misc
 * [Aras P (Blog)](https://aras-p.info/blog/)
 * [Demo Scene and more (Blog)](https://blog.demofox.org/)
 * [Semantic Compression (Blog Post)](https://caseymuratori.com/blog_0015)
@@ -615,8 +621,8 @@ A collection of links for various fields of software development. Mainly game re
 * [The Tyranny of structurelessness(Blog Post)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [How I made Tracy 30× faster (Blog Post)](https://wolf.nereid.pl/posts/how-tracy-faster/)
 
-### Unity
+## Unity
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
 
-### Unreal
+## Unreal
 * [Unreal Engine Game Optimization on a Budget (Blog Post)](https://www.tomlooman.com/unrealengine-optimization-talk/)
