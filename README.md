@@ -17,33 +17,45 @@ A collection of links for various fields of software development (Mostlt Graphic
   * [Misc](#misc)
 - [AI](#ai)
 - [Rendering](#rendering)
-  * [Vulkan and DX12](#vulkan-and-dx12)
-  * [Textures](#textures)
-  * [Compute Shaders](#compute-shaders)
+  * [Vulkan](#vulkan)
+  * [DX12](#dx12)
+  * [Textures And Compression](#textures-and-compression)
   * [Colors](#colors)
-  * [Forward/Deferred/Etc](#forward-deferred-etc)
-  * [Transparency/Blending](#transparency-blending)
-  * [GPU](#gpu)
+  * [Forward, Deferred, Visibility, Etc](#forward-deferred-visibility-etc)
+  * [Transparency, Blending](#transparency-blending)
+  * [GPU Architecture](#gpu-architecture)
   * [Code](#code)
   * [Particles](#particles)
   * [Shadows](#shadows)
   * [Spherical Harmonics](#spherical-harmonics)
   * [Raytracing](#raytracing)
-  * [Concepts](#concepts)
-  * [Geometry Shaders](#geometry-shaders)
-  * [Tesselation Shaders](#tesselation-shaders)
-  * [Shading](#shading)
-    + [Papers](#papers)
-    + [Ambient Occlusion](#ambient-occlusion)
-  * [Cameras/Exposure/Tonemapping](#cameras-exposure-tonemapping)
+  * [Blue Noise](#blue-noise)
+  * [Graphics Codebases](#graphics-codebases)
+  * [Normals And Tangent Spaces](#normals-and-tangent-spaces)
+  * [Shaders](#shaders)
+    + [Compute Shaders](#compute-shaders)
+    + [Geometry Shaders](#geometry-shaders)
+    + [Tesselation Shaders](#tesselation-shaders)
+    + [Mesh Shaders](#mesh-shaders)
+  * [Lighting/Shading](#lightingshading)
+    + [Lights](#lights)
+    + [BRDFs](#brdfs)
+  * [Ambient Occlusion](#ambient-occlusion)
+  * [Subsurface Scattering](#subsurface-scattering)
+  * [Importance Sampling](#importance-sampling)
+    + [ReSTIR](#restir)
+  * [Cameras, Exposure, Tonemapping](#cameras-exposure-tonemapping)
   * [Misc](#misc-1)
+  * [Occlusion](#occlusion)
+  * [Sky Lighting](#sky-lighting)
   * [Depth](#depth)
   * [Tutorials](#tutorials)
   * [Shader Editors](#shader-editors)
 - [Floating Point](#floating-point)
 - [Algorithms](#algorithms)
 - [Networking](#networking)
-- [CPUs](#cpus)
+- [CPU Archicture](#cpu-archicture)
+  * [Vectorization](#vectorization)
 - [Retro](#retro)
 - [Threading](#threading)
 - [Sound](#sound)
@@ -154,7 +166,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 
 ## Rendering
 
-### Vulkan and DX12
+### Vulkan
 
 * [Single Renderpass Deferred Shading on Mobile](https://www.khronos.org/assets/uploads/developers/library/2017-gdc/GDC_Vulkan-on-Mobile_Vulkan-Multipass-ARM_Mar17.pdf)
 * [Vulkan Subpasses](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/6-Vulkan-subpasses.pdf)
@@ -168,26 +180,29 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Render Target APIs (Blog Post)](https://erfan-ahmadi.github.io/blog/Yugen/RenderTargets)
 * [Writting An Efficient Vulkan Renderer (Blog Post/Article)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [The Missing Guide to Modern Graphics APIs – 2. PSOs (Blog Post)](https://blog.mecheye.net/2021/06/the-missing-guide-to-modern-graphics-apis-2-psos/)
-* [Shader Assembly and D3D12 Root Signatures (Blog Post)](https://boogy90.github.io/2021/11/24/root-signatures-assembly.html)
-* [GPU Memory Pools in D3D12 (Blog Post)](https://therealmjp.github.io/posts/gpu-memory-pool/)
 * [Graphics API secrets: format casting (Blog Post)](https://wickedengine.net/2022/11/08/graphics-api-secrets-format-casting/)
 * [VK_EXT_descriptor_buffer (Blog Post)](https://www.khronos.org/blog/vk-ext-descriptor-buffer)
 * [Descriptors are hard (Blog Post)](https://www.gfxstrand.net/faith/blog/2022/08/descriptors-are-hard/)
-* [Arkham Quixote (Blog Post)](https://sherief.fyi/post/arkham-quixote/)
 
-### Textures
+### DX12
+
+* [Shader Assembly and D3D12 Root Signatures (Blog Post)](https://boogy90.github.io/2021/11/24/root-signatures-assembly.html)
+* [GPU Memory Pools in D3D12 (Blog Post)](https://therealmjp.github.io/posts/gpu-memory-pool/)
+* [Arkham Quixote (Blog Post)](https://sherief.fyi/post/arkham-quixote/)
+* [Managing Memory for Acceleration Structures in DirectX Raytracing (Blog Post)](https://developer.nvidia.com/blog/managing-memory-for-acceleration-structures-in-dxr/)
+* [Tips: Acceleration Structure Compaction (Blog Post)](https://developer.nvidia.com/blog/tips-acceleration-structure-compaction/)
+* [Advanced Graphics moving to DirectX 12 (GDC slides)](https://www.gdcvault.com/play/1024656/Advanced-Graphics-Tech-Moving-to)
+
+### Textures And Compression
 
 * [Understanding BCn Texture Compression Formats (Blog Post)](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
 * [Compressed GPU Texture Formats - A Review And Comute Shader Decoders Part 1 (Blog Post)](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
 * [Bindless Texturing for Deferred texturing and Decals (Blog Post)](https://mynameismjp.wordpress.com/2016/03/25/bindless-texturing-for-deferred-rendering-and-decals/)
 * [Compressing PBR texture sets with sparsity and dictionary learning (Blog Post)](https://bartwronski.com/2020/08/30/compressing-pbr-texture-sets-with-sparsity-and-dictionary-learning/)
 * [Texture Compression In 2020 (Blog Post)](https://aras-p.info/blog/2020/12/08/Texture-Compression-in-2020/)
-
-### Compute Shaders
-
-* [Intro To Compute Shaders (Blog Post)](https://anteru.net/blog/2018/intro-to-compute-shaders/index.html)
-* [Optimizing the graphics pipeline with compute (Slides)](https://frostbite-wp-prd.s3.amazonaws.com/wp-content/uploads/2016/03/29204330/GDC_2016_Compute.pdf)
-* [Optimizing Compute Shaders for L2 Locality (Blog Post)](https://developer.nvidia.com/blog/optimizing-compute-shaders-for-l2-locality-using-thread-group-id-swizzling/)
+* [GPU BCn Decoding (Blog Post)](https://fgiesen.wordpress.com/2021/10/04/gpu-bcn-decoding/)
+* [Texture Tiling And Swizzling (Blog Post)](https://github.com/rygorous/rygblog-src/blob/master/posts/texture-tiling-and-swizzling.md)
+* [Lossless Image Compression in O(n) Time (Blog Post)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 
 ### Colors
 
@@ -213,8 +228,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Alpha Compositing (Blog Post)](https://ciechanow.ski/alpha-compositing/)
 * [Premultiplied Alpha (Blog Post)](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
 * [Order independent transparency, part 1 (Blog Post)](https://interplayoflight.wordpress.com/2022/06/25/order-independent-transparency-part-1/)
+* [Moment-Based Order-Independent Transparency (Paper)](https://momentsingraphics.de/Media/I3D2018/Muenstermann2018-MBOIT.pdf)
 
-### GPU
+### GPU Architecture
 
 * [A Trip Through the Graphics Pipeline (Blog Series)](https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-2011-part-1/)
 * [Understanding GPU Context Rolls (Article)](https://gpuopen.com/understanding-gpu-context-rolls/)
@@ -231,7 +247,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Counting Quads (Blog Post)](https://blog.selfshadow.com/2012/11/12/counting-quads/)
 * [How bad are small triangles on GPU and why? (Blog Post)](https://www.g-truc.net/post-0662.html)
 * [Understanding Modern GPUs - Part 1 (Blog Post)](https://traxnet.wordpress.com/2011/07/16/understanding-modern-gpus-1/)
-* [Half The Precision, Twice The Fun: Working With FP16 In HLSL (Blog Post)](https://therealmjp.github.io/posts/shader-fp16/)
 * [GPU Processing Budget Approach To Game Development (Blog Post)](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/gpu-processing-budget-approach-to-game-development)
 * [The Mali GPU An Abstract Machine - Part 3 (Blog Post)](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-3---the-midgard-shader-core)
 * [What is shader occupancy and why do we care about it? (Blog Post)](https://interplayoflight.wordpress.com/2020/11/11/what-is-shader-occupancy-and-why-do-we-care-about-it/)
@@ -241,15 +256,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The AMD GCN Architecture - A Crash Course (Slides)](https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah) 
 * [Gentle Introduction To GPU Inner Workings (Blog Post)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 * [Advanced Shader Programming On GCN (Slides)](https://gpuopen.com/wp-content/uploads/2017/03/GDC2017-Advanced-Shader-Programming-On-GCN.pdf)
-* [GPU BCn Decoding (Blog Post)](https://fgiesen.wordpress.com/2021/10/04/gpu-bcn-decoding/)
 * [GPU Architectures Explained (Blog Post)](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
-* [The Shader Permutations Problem (Blog Series)](https://therealmjp.github.io/posts/shader-permutations-part1/)
-* [Floating-point in mobile shaders (Blog Post)](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
 * [Triangle Setup And Rasterization For FGPA (Blog Post)](http://js3.maisonikkoku.com/uncategorized/triangle_setup_and_rasterization/)
-* [Compute Shader Optimizations for AMD GPUs: Parallel Reduction (Blog Post)](https://diaryofagraphicsprogrammer.blogspot.com/2014/03/compute-shader-optimizations-for-amd.html)
-* [Boosting Application Performance with GPU Memory Prefetching (Blog Post)](https://developer.nvidia.com/blog/boosting-application-performance-with-gpu-memory-prefetching/)
 * [Linear-Speed Vertex Cache Optimisation (Paper)](http://tomforsyth1000.github.io/papers/fast_vert_cache_opt.html)
-* [Stream compaction using wave intrinsics (Blog Post)](https://interplayoflight.wordpress.com/2022/12/25/stream-compaction-using-wave-intrinsics/)
 * [RDNA3 ISA (Paper)](https://developer.amd.com/wp-content/resources/RDNA3_Shader_ISA_December2022.pdf)
 * [RDNA Architecture (Paper)](https://www.amd.com/system/files/documents/rdna-whitepaper.pdf)
 * [Fine-grained backface culling (Blog Post)](https://zeux.io/2023/04/28/triangle-backface-culling/)
@@ -294,74 +303,50 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Spherical Area Light Sampling (Blog Post)](https://schuttejoe.github.io/post/arealightsampling/)
 * [Raytracing In Hybrid Real-time Rendering (Slides)](http://h3.gd/raytracing-in-hybrid-real-time-rendering/)
 * [Real-Time Path Tracing And Beyond (Slides)](https://research.nvidia.com/publication/2022-07_real-time-path-tracing-and-beyond)
+* [STOCHASTIC ALL THE THINGS: RAYTRACING IN HYBRID REAL-TIME RENDERING](https://www.ea.com/seed/news/seed-dd18-presentation-slides-raytracing)
+* [Adventures in Hybrid Rendering (Blog Post)](https://diharaw.github.io/post/adventures_in_hybrid_rendering/)
 
 ### Blue Noise
 
 * [Distributing Monte Carlo errors as Blue Noise in Screen Space - Part 1 (Blog Post)](https://gamehacker1999.github.io/posts/bluenoiseerrors/)
 * [What the heck is blue noise? (Blog Post)](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
+* [Spatio-Temporal Blue Noise (Video)](https://www.youtube.com/watch?v=4nM2FbLnOqQ)
 
-### Concepts
+### Graphics Codebases
 
-* [Summed Area Tables (Research Paper)](https://www.google.ca/url?sa=t&source=web&rct=j&url=http://www.florian-oeser.de/wordpress/wp-content/2012/10/crow-1984.pdf&ved=2ahUKEwjEpdHzta3ZAhWDm1kKHQenBXAQFjAAegQIExAB&usg=AOvVaw3k-SJwguBUsBS5x5lX7C1u)
-* [Material Pipeline for The Order: 1886 (PDF)](http://blog.selfshadow.com/publications/s2013-shading-course/rad/s2013_pbs_rad_notes.pdf)
-* [Checkerboard rendering (Blog Post)](https://bartwronski.com/2018/05/14/checkerboard-rendering-rotated-anti-aliasing-and-grid-frequencies/amp/)
-* [GPU based occlusion culling (Blog Post)](https://interplayoflight.wordpress.com/2017/11/15/experiments-in-gpu-based-occlusion-culling/)
 * [Molecular Matters - Stateless Threaded Rendering Series](https://blog.molecular-matters.com/2014/11/06/stateless-layered-multi-threaded-rendering-part-1/)
 * [Molecular Matters - DoD Series](https://blog.molecular-matters.com/2011/11/03/adventures-in-data-oriented-design-part-1-mesh-data-3/)
-* [Volumetric Light Effects in Killzone: Shadow Fall (Series)](http://what-when-how.com/Tutorial/topic-547pjramj8/GPU-Pro-Advanced-Rendering-Techniques-146.html)
-* [STOCHASTIC ALL THE THINGS: RAYTRACING IN HYBRID REAL-TIME RENDERING](https://www.ea.com/seed/news/seed-dd18-presentation-slides-raytracing)
-* [Checkerboard Rendering (White Paper)](https://software.intel.com/en-us/articles/checkerboard-rendering-for-real-time-upscaling-on-intel-integrated-graphics-v-12)
-* [Normal Mapping without Precomputed Tangents (Blog Post)](http://www.thetenthplanet.de/archives/1180)
-* [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines (Article)](https://eheitzresearch.wordpress.com/415-2/)
-* [Advances in Real-time Rendering 2018 (List)](http://advances.realtimerendering.com/s2018/index.htm)
-* [A Ray-Box Intersection Algorithm and Efficient Dynamic Voxel Rendering (White Paper)](http://www.jcgt.org/published/0007/03/04/)
-* [Dreams - The tech behind the magic (Video)](https://www.youtube.com/watch?v=yZM_Ij9aeOA)
 * [High-level rendering using render graphs (Blog Post)](https://ourmachinery.com/post/high-level-rendering-using-render-graphs/)
-* [Advanced Graphics moving to DirectX 12 (GDC slides)](https://www.gdcvault.com/play/1024656/Advanced-Graphics-Tech-Moving-to)
 * [Framegraphs extensible render framework in frostbite (Slides)](https://www.ea.com/frostbite/news/framegraph-extensible-rendering-architecture-in-frostbite)
-* [GPU... stuff (Slides)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view)
-* [Spectral rendering with bounded MESE and sRGB data (Research Paper)](http://momentsingraphics.de/?page_id=257)
-* [How (not) to test graphics code (Blog Post)](https://bartwronski.com/2019/08/14/how-not-to-test-graphics-algorithms/)
-* [Distance Fields (Blog Post)](https://prideout.net/blog/distance_fields/)
-* [Normals revisited (Blog Post)](https://github.com/graphitemaster/normals_revisited/blob/master/README.md)
-* [Text Hates you (Blog Post)](https://gankra.github.io/blah/text-hates-you/)
 * [Rendering Abstraction Layers (Blog Post)](http://alextardif.com/RenderingAbstractionLayers.html)
-* [Digesting The Elephant (Paper)](https://ingowald.blog/2020/01/09/digesting-the-elephant/amp/?__twitter_impression=true)
-* [Tile Based Optimization for Post Processing (Blog Post)](https://wickedengine.net/2020/01/05/tile-based-optimization-for-post-processing/)
-* [Learning From Failure (Blog Post)](http://media.lolrus.mediamolecule.com/AlexEvans_SIGGRAPH-2015-sml.pdf)
-* [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
-* [A Pixel Is Not a Little Square (Paper)](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
-* [Sampling Reconstruction (Slides)](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/Lectures/SamplingReconstruction.pdf)
-* [Interpolating Data Over Arbitrary Surfaces (Blog Post)](https://blog.demofox.org/2020/07/11/interpolating-data-over-arbitrary-shapes-with-laplaces-equation-and-walk-on-spheres/)
-* [Smoke Lighting And Texture Re-usability in Skull And Bones (Blog Post)](https://realtimevfx.com/t/smoke-lighting-and-texture-re-usability-in-skull-bones/5339)
+* [How (not) to test graphics code (Blog Post)](https://bartwronski.com/2019/08/14/how-not-to-test-graphics-algorithms/)
+* [My toy renderer: Overview (Blog Series)](https://momentsingraphics.de/ToyRendererOverview.html)
+
+### Normals And Tangent Spaces
+
+* [Tangent Spaces and Diamond Encoding (Blog Post)](https://www.jeremyong.com/graphics/2023/01/09/tangent-spaces-and-diamond-encoding/)
 * [Improved Normal Reconstruction From Depth (Blog Post)](https://wickedengine.net/2019/09/22/improved-normal-reconstruction-from-depth/)
 * [Accurate Normal Reconstruction From Depth Buffer (Blog Post)](https://atyuwen.github.io/posts/normal-reconstruction/)
-* [Temporal Anti-Aliasing Starter Pack (Blog Post)](http://alextardif.com/TAA.html)
-* [Nanite Overview (Slides)](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
-* [A Gentle Introduction To Fluid Simulation (Blog Post)](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
-* [My toy renderer: Overview (Blog Series)](https://momentsingraphics.de/ToyRendererOverview.html)
-* [Doom 2016 - The Devil Is In The Details (Slides)](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
-* [Notes on occlusion and directionality in image based lighting. (Blog Post)](https://interplayoflight.wordpress.com/2021/12/28/notes-on-occlusion-and-directionality-in-image-based-lighting/)
-* [Temporal AA and the quest for the Holy Trail (Blog Post)](https://www.elopezr.com/temporal-aa-and-the-quest-for-the-holy-trail/)
-* [Exposure Fusion Local Tonemapping For Real-Time Rendering (Blog Post)](https://bartwronski.com/2022/02/28/exposure-fusion-local-tonemapping-for-real-time-rendering/)
-* [Removing blur from images – deconvolution and using optimized simple filters (Blog Post)](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
-* [Physical Units for Lights (Blog Post)](https://www.realtimerendering.com/blog/physical-units-for-lights/)
-* [Journey To Lumen (Blog Post)](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)
-* [Journey To Nanite (Slides)](https://highperformancegraphics.org/slides22/Journey_to_Nanite.pdf)
-* [Notes on screenspace reflections with FidelityFX SSSR (Blog Post)](https://interplayoflight.wordpress.com/2022/09/28/notes-on-screenspace-reflections-with-fidelityfx-sssr/)
-* [A mathematical take on Premultiplied alpha (Blog Post)](https://iquilezles.org/articles/premultipliedalpha/)
-* [Binary Search For SDFs (Blog Post)](https://iquilezles.org/articles/binarysearchsdf/)
-* [Two-Pass Occlusion Culling (Blog Post)](https://medium.com/@mil_kru/two-pass-occlusion-culling-4100edcad501)
-* [Meshlet Sizing Theory (Blog Post)](https://cohost.org/zeux/post/659687-meshlet-sizing-theor)
-* [Spatio-Temporal Blue Noise (Video)](https://www.youtube.com/watch?v=4nM2FbLnOqQ)
-* [A Blend Of GCN Optimization And Color Processing (Slides)](https://gpuopen.com/gdc-presentations/2019/gdc-2019-s5-blend-of-gcn-optimization-and-color-processing.pdf)
-* [Texture Tiling And Swizzling (Blog Post)](https://github.com/rygorous/rygblog-src/blob/master/posts/texture-tiling-and-swizzling.md)
-* [Multiresolution Ambient Occlusion (Blog Post)](https://iquilezles.org/articles/multiresaocc/)
-* [Assassin’s Creed 4: Black Flag - Lighting, Weather and Atmospheric Effects (slides)](https://bartwronski.files.wordpress.com/2014/05/assassin_s-creed-4-digital-dragons-2014-no_notes.pdf)
-* [Rendering The World Of Far Cry 4 (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2015/presentations/McAuley_Stephen_Rendering_the_World.pdf)
-* [Tangent Spaces and Diamond Encoding (Blog Post)](https://www.jeremyong.com/graphics/2023/01/09/tangent-spaces-and-diamond-encoding/)
+* [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
+* [Normals revisited (Blog Post)](https://github.com/graphitemaster/normals_revisited/blob/master/README.md)
+* [Normal Mapping without Precomputed Tangents (Blog Post)](http://www.thetenthplanet.de/archives/1180)
 
-### Geometry Shaders
+### Shaders
+
+* [The Shader Permutations Problem (Blog Series)](https://therealmjp.github.io/posts/shader-permutations-part1/)
+* [Half The Precision, Twice The Fun: Working With FP16 In HLSL (Blog Post)](https://therealmjp.github.io/posts/shader-fp16/)
+* [Floating-point in mobile shaders (Blog Post)](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
+
+#### Compute Shaders
+
+* [Intro To Compute Shaders (Blog Post)](https://anteru.net/blog/2018/intro-to-compute-shaders/index.html)
+* [Optimizing the graphics pipeline with compute (Slides)](https://frostbite-wp-prd.s3.amazonaws.com/wp-content/uploads/2016/03/29204330/GDC_2016_Compute.pdf)
+* [Optimizing Compute Shaders for L2 Locality (Blog Post)](https://developer.nvidia.com/blog/optimizing-compute-shaders-for-l2-locality-using-thread-group-id-swizzling/)
+* [Compute Shader Optimizations for AMD GPUs: Parallel Reduction (Blog Post)](https://diaryofagraphicsprogrammer.blogspot.com/2014/03/compute-shader-optimizations-for-amd.html)
+* [Stream compaction using wave intrinsics (Blog Post)](https://interplayoflight.wordpress.com/2022/12/25/stream-compaction-using-wave-intrinsics/)
+* [Boosting Application Performance with GPU Memory Prefetching (Blog Post)](https://developer.nvidia.com/blog/boosting-application-performance-with-gpu-memory-prefetching/)
+
+#### Geometry Shaders
 
 * [A Trip Through The Graphics Pipeline 2011, Part 10 (Blog Post)](https://fgiesen.wordpress.com/2011/07/20/a-trip-through-the-graphics-pipeline-2011-part-10/)
 * [Geometry Shader - Advanced OpenGL (Blog Post)](https://learnopengl.com/Advanced-OpenGL/Geometry-Shader)
@@ -369,7 +354,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Geometry Shader Adventures (Blog Post)](http://vfxmike.blogspot.com/2018/07/geometry-shader-adventures-mesh.html)
 * [Geometry Shader Stage (Docs)](https://docs.microsoft.com/en-us/windows/win32/direct3d11/geometry-shader-stage)
 
-### Tesselation Shaders
+#### Tesselation Shaders
 
 * [A Trip Through The Graphics Pipeline 2011, Part 12 (Blog Post)](https://fgiesen.wordpress.com/2011/09/06/a-trip-through-the-graphics-pipeline-2011-part-12/)
 * [Tessellation - Catlike Coding (Blog Post)](https://catlikecoding.com/unity/tutorials/advanced-rendering/tessellation/)
@@ -378,13 +363,57 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Tesselation Shaders (Blog Post)](http://ogldev.atspace.co.uk/www/tutorial30/tutorial30.html)
 * [Advanced Stages - Tessellation (Docs)](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-tessellation)
 
-### Shading
+#### Mesh Shaders
 
+* [Mesh Shader Possibilities (Blog Post)](http://reedbeta.com/blog/mesh-shader-possibilities/)
+* [Mesh and task shaders intro and basics (Blog Post)](https://timur.hu/blog/2022/mesh-and-task-shaders)
+* [How mesh shaders are implemented in an AMD driver (Blog Post)](https://timur.hu/blog/2022/how-mesh-shaders-are-implemented)
+* [Task shader driver implementation on AMD HW (Blog Post)](https://timur.hu/blog/2022/how-task-shaders-are-implemented)
+
+### Lighting/Shading
+
+* [Introduction to Lighting (Blog Post)](http://math.hws.edu/graphicsbook/c4/s1.html)
+* [Mathematics of shading (Course Notes)](https://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_physics_math_notes.pdf)
+* [Introduction to shading (Tutorial)](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/reflection-refraction-fresnel)
+* [PI or not to PI in game lighting equation (Blog Post)](https://seblagarde.wordpress.com/2012/01/08/pi-or-not-to-pi-in-game-lighting-equation/)
+* [PBR Diffuse Lighting for GGX (Slides)](https://www.gdcvault.com/play/1024478/PBR-Diffuse-Lighting-for-GGX)
+* [Physically Based Rendering References At The End of 2019 (Blog Post)](http://lousodrome.net/blog/light/2020/01/04/physically-based-rendering-references-at-the-end-of-2019/)
+* [Google Filament PBR (Code base breakdown)](https://google.github.io/filament/Filament.md.html)
+* [Game Environments Parta Remember Me Rendering (Blog Post)](https://www.fxguide.com/fxfeatured/game-environments-parta-remember-me-rendering/)
+* [Moving Frostbite to Physically Based Rendering V3](https://seblagarde.wordpress.com/tag/physically-based-rendering/)
+* [Fresnel Equations Schlick Approximations (Blog Post)](http://psgraphics.blogspot.com/2020/03/fresnel-equations-schlick-approximation.html)
+* [Lights And Shadows (Interactive Blog Post)](https://ciechanow.ski/lights-and-shadows/)
+* [Adventures In Triangle Sampling Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
+* [Image Based Lighting With Multiple Scattering](https://bruop.github.io/ibl/)
+* [Adventures in Sampling Points on Triangles - Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
+* [Spherical Gaussians Series (Blog Series)](https://therealmjp.github.io/posts/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
+* [The Irradiance Volume (Paper)](http://www.sci.utah.edu/~bigler/images/msthesis/The%20irradiance%20volume.pdf)
+* [Advances In Rendendering, Graphics Research And Video Game Production (Slides)](https://i3dsymposium.org/2019/keynotes/I3D2019_keynote_StephenMcAuley.pdf)
+* [Real Shading in Unreal Engine 4 (Paper)](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf)
+* [Discrepancy as a Quality Measure for Sample Distributions (Paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.1601&rep=rep1&type=pdf)
+* [Bias In rendering (Paper)](https://www.cs.cmu.edu/~kmcrane/Projects/Other/BiasInRendering.pdf)
+* [Reducing Shading on GPUs using Quad-Fragment Merging (Paper)](http://graphics.stanford.edu/papers/fragmerging/shade_sig10.pdf)
+* [An Area-Preserving Parametrization for Spherical Rectangles (Paper)](https://www.arnoldrenderer.com/research/egsr2013_spherical_rectangle.pdf)
+* [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering (Paper)](https://www.jcgt.org/published/0010/02/02/paper-lowres.pdf)
+* [Moving Frostbite to PBR (PDF)](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/course-notes-moving-frostbite-to-pbr-v2.pdf)
+* [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines (Article)](https://eheitzresearch.wordpress.com/415-2/)
+
+#### Lights
+
+* [Light Trees And The Many Lights Problem (Blog Post)](https://psychopath.io/post/2020_04_20_light_trees)
+* [Light Attenuation (Blog Post)](https://imdoingitwrong.wordpress.com/2011/01/31/light-attenuation/)
+* [Light Attenuation Formula Derivation (Stack Exchange)](https://gamedev.stackexchange.com/questions/131372/light-attenuation-formula-derivation)
+* [Nonsingular Point Light Attenuation (Video)](http://www.cemyuksel.com/research/pointlightattenuation/)
+* [Dynamic Many-Light Sampling for Real-Time Ray Tracing (Paper)](https://pdfs.semanticscholar.org/c201/a72c707d96c9fed65aad5f481443041d9de9.pdf)
+* [Importance Sampling of Many Lights with Adaptive Tree Splitting (Paper)](http://www.aconty.com/pdf/many-lights-hpg2018.pdf)
+* [Geometric Derivation of the Irradiance of Polygonal Lights (Paper)](https://hal.archives-ouvertes.fr/hal-01458129/document)
+
+#### BRDFs
+
+* [A Reflectance Model For Computer Graphics (Paper)](https://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
 * [How is the NDF defined? (Blog Post)](http://www.reedbeta.com/blog/hows-the-ndf-really-defined/)
 * [Sampling Microfacet BRDFs (Blog Post)](https://www.google.com/amp/s/agraphicsguy.wordpress.com/2015/11/01/sampling-microfacet-brdf/amp/)
-* [Importance Sampling Adventure (Tweets)](https://twitter.com/KostasAAA/status/1246936564556537865?s=20)
 * [BRDF Definition (Blog Post)](https://patapom.com/blog/BRDF/BRDF%20Definition/)
-* [Mathematics of shading (Course Notes)](https://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_physics_math_notes.pdf)
 * [Fresnel Equations Considered Harmful (Slides)](http://renderwonk.com/publications/mam2019/)
 * [BRDF Normalization (Q&A)](https://computergraphics.stackexchange.com/questions/7578/brdf-normalization)
 * [BRDF Normalization (Forum)](https://www.gamedev.net/forums/topic/600301-normalized-brdf/4802960/)
@@ -392,66 +421,41 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Energy Conserving Wrapped Diffuse (Blog Post)](http://blog.stevemcauley.com/2011/12/03/energy-conserving-wrapped-diffuse/)
 * [Phong Normalization Derivation (PDF)](http://www.farbrausch.de/~fg/stuff/phong.pdf)
 * [Blinn Phong Normalization Zoo (Blog Post)](http://www.thetenthplanet.de/archives/2550)
-* [Introduction to shading (Tutorial)](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/reflection-refraction-fresnel)
-* [PI or not to PI in game lighting equation (Blog Post)](https://seblagarde.wordpress.com/2012/01/08/pi-or-not-to-pi-in-game-lighting-equation/)
-* [PBR Diffuse Lighting for GGX (Slides)](https://www.gdcvault.com/play/1024478/PBR-Diffuse-Lighting-for-GGX)
-* [Physically Based Rendering References At The End of 2019 (Blog Post)](http://lousodrome.net/blog/light/2020/01/04/physically-based-rendering-references-at-the-end-of-2019/)
-* [Real-Time Subsurface Scattering Intro (Blog Post)](https://therealmjp.github.io/posts/sss-intro/)
-* [Misunderstanding Multiscattering (Blog Post)](http://c0de517e.blogspot.com/2019/08/misunderstanding-multiscattering.html)
-* [Google Filament PBR (Code base breakdown)](https://google.github.io/filament/Filament.md.html)
-* [Game Environments Parta Remember Me Rendering (Blog Post)](https://www.fxguide.com/fxfeatured/game-environments-parta-remember-me-rendering/)
-* [Moving Frostbite to Physically Based Rendering V3](https://seblagarde.wordpress.com/tag/physically-based-rendering/)
-* [Fresnel Equations Schlick Approximations (Blog Post)](http://psgraphics.blogspot.com/2020/03/fresnel-equations-schlick-approximation.html)
-* [Importance Sampling Techniques for GGX with Smith masking-shadowing (Blog Post)](https://schuttejoe.github.io/post/ggximportancesamplingpart1/)
-* [Lights And Shadows (Interactive Blog Post)](https://ciechanow.ski/lights-and-shadows/)
-* [Multiple Importance Sampling (Blog Post)](https://blog.yiningkarlli.com/2015/02/multiple-importance-sampling.html)
-* [Light Attenuation (Blog Post)](https://imdoingitwrong.wordpress.com/2011/01/31/light-attenuation/)
-* [Light Attenuation Formula Derivation (Stack Exchange)](https://gamedev.stackexchange.com/questions/131372/light-attenuation-formula-derivation)
-* [Multiple Scattering BRDF (Blog Post)](https://patapom.com/blog/BRDF/MSBRDF/)
-* [Adventures In Triangle Sampling Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
-* [Image Based Lighting With Multiple Scattering](https://bruop.github.io/ibl/)
-* [Light Trees And The Many Lights Problem (Blog Post)](https://psychopath.io/post/2020_04_20_light_trees)
-* [Nonsingular Point Light Attenuation (Video)](http://www.cemyuksel.com/research/pointlightattenuation/)
-* [Adventures in Sampling Points on Triangles - Part 1 (Blog Post)](https://pharr.org/matt/blog/2019/02/27/triangle-sampling-1.html)
-* [Introduction to Lighting (Blog Post)](http://math.hws.edu/graphicsbook/c4/s1.html)
 * [Crash Course In BRDFs (Doc)](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
-* [Spherical Gaussians Series (Blog Series)](https://therealmjp.github.io/posts/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
-* [Adventures in Hybrid Rendering (Blog Post)](https://diharaw.github.io/post/adventures_in_hybrid_rendering/)
-* [The Irradiance Volume (Paper)](http://www.sci.utah.edu/~bigler/images/msthesis/The%20irradiance%20volume.pdf)
-* [Advances In Rendendering, Graphics Research And Video Game Production (Slides)](https://i3dsymposium.org/2019/keynotes/I3D2019_keynote_StephenMcAuley.pdf)
+* [Multiple Scattering BRDF (Blog Post)](https://patapom.com/blog/BRDF/MSBRDF/)
+* [Misunderstanding Multiscattering (Blog Post)](http://c0de517e.blogspot.com/2019/08/misunderstanding-multiscattering.html)
+* [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
+* [Average irregularity representation of a rough surface for ray reflection (Paper)](https://pharr.org/matt/blog/images/average-irregularity-representation-of-a-rough-surface-for-ray-reflection.pdf)
 
-#### Ambient Occlusion
+### Ambient Occlusion
 
 * [Screen Space Ambient Occlusion (Doc)](https://developer.download.nvidia.com/SDK/10.5/direct3d/Source/ScreenSpaceAO/doc/ScreenSpaceAO.pdf)
 * [Screen Space Ambient Occlusion - OGL Dev (Tutorial)](http://ogldev.atspace.co.uk/www/tutorial45/tutorial45.html)
 * [Screen Space Ambient Occlusion - Learn OpenGL (Tutorial)](https://learnopengl.com/Advanced-Lighting/SSAO)
-
-#### Papers
-
+* [Multiresolution Ambient Occlusion (Blog Post)](https://iquilezles.org/articles/multiresaocc/)
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
-* [Can't invert the CDF? Triangle Cut Parametirzation of the Region Under The Curve (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf14058/v39i4pp121-132.pdf)
-* [Efficient Screen-space SSS (Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
-* [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
-* [Discrepancy as a Quality Measure for Sample Distributions (Paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.1601&rep=rep1&type=pdf)
-* [Bias In rendering (Paper)](https://www.cs.cmu.edu/~kmcrane/Projects/Other/BiasInRendering.pdf)
-* [Optimally Combining Sampling Techniques for Monte Carlo Rendering (Paper)](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf)
-* [Multiple Importance Sampling Techniques for Monte Carlo Rendering (Paper/Coure Notes)](https://graphics.stanford.edu/courses/cs348b-03/papers/veach-chapter9.pdf)
-* [Dynamic Many-Light Sampling for Real-Time Ray Tracing (Paper)](https://pdfs.semanticscholar.org/c201/a72c707d96c9fed65aad5f481443041d9de9.pdf)
-* [Importance Sampling of Many Lights with Adaptive TreeSplitting (Paper)](http://www.aconty.com/pdf/many-lights-hpg2018.pdf)
-* [A Reflectance Model For Computer Graphics (Paper)](https://inst.eecs.berkeley.edu/~cs283/sp13/lectures/cookpaper.pdf)
 * [Horizon Split Ambient Occlusion (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.557.4596&rep=rep1&type=pdf)
-* [Real Shading in Unreal Engine 4 (Paper)](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf)
-* [Reducing Shading on GPUs using Quad-Fragment Merging (Paper)](http://graphics.stanford.edu/papers/fragmerging/shade_sig10.pdf)
-* [Rearchitecting Spatiotemporal Resampling for Production (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/hpg21_rearchitectingReSTIR.pdf)
+
+### Subsurface Scattering
+
+* [Efficient Screen-space SSS (Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
+* [Real-Time Subsurface Scattering Intro (Blog Post)](https://therealmjp.github.io/posts/sss-intro/)
+
+### Importance Sampling
+
+* [Multiple Importance Sampling Techniques for Monte Carlo Rendering (Paper/Coure Notes)](https://graphics.stanford.edu/courses/cs348b-03/papers/veach-chapter9.pdf)
+* [Importance Sampling Techniques for GGX with Smith masking-shadowing (Blog Post)](https://schuttejoe.github.io/post/ggximportancesamplingpart1/)
+* [Importance Sampling Adventure (Tweets)](https://twitter.com/KostasAAA/status/1246936564556537865?s=20)
+* [Multiple Importance Sampling (Blog Post)](https://blog.yiningkarlli.com/2015/02/multiple-importance-sampling.html)
+* [Can't invert the CDF? Triangle Cut Parametirzation of the Region Under The Curve (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf14058/v39i4pp121-132.pdf)
+* [Optimally Combining Sampling Techniques for Monte Carlo Rendering (Paper)](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf)
 * [BRDF Importance Sampling for Polygonal Lights (Paper)](https://momentsingraphics.de/Siggraph2021.html)
-* [An Area-Preserving Parametrization for Spherical Rectangles (Paper)](https://www.arnoldrenderer.com/research/egsr2013_spherical_rectangle.pdf)
+
+#### ReSTIR
+
+* [Rearchitecting Spatiotemporal Resampling for Production (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/hpg21_rearchitectingReSTIR.pdf)
 * [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting (Paper)](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.pdf)
 * [ReSTIR GI: Path Resampling for Real-Time Path Tracing (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/ReSTIR%20GI.pdf)
-* [Permutation Coding for Vertex-Blend Attribute Compression (Paper)](https://momentsingraphics.de/Media/I3D2022/peters2022_permutation_coding_paper.pdf)
-    * Readers note: Interesting insights on approaches to quantization and storing information through permutations of a sorted list.
-* [Moment-Based Order-Independent Transparency (Paper)](https://momentsingraphics.de/Media/I3D2018/Muenstermann2018-MBOIT.pdf)
-* [Average irregularity representation of a rough surface for ray reflection (Paper)](https://pharr.org/matt/blog/images/average-irregularity-representation-of-a-rough-surface-for-ray-reflection.pdf)
-* [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering (Paper)](https://www.jcgt.org/published/0010/02/02/paper-lowres.pdf)
 
 ### Cameras, Exposure, Tonemapping
 
@@ -464,7 +468,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Temporal ReprojectionAnti-Aliasing in INSIDE (Slides)](http://s3.amazonaws.com/arena-attachments/655504/c5c71c5507f0f8bf344252958254fb7d.pdf?1468341463)
 * [ISO Sensitivity and Exposure Index (Blog Post)](https://www.imatest.com/docs/sensitivity_ei/)
 * [Where does 78 come from in exposure calculations? (Forum)](https://www.dpreview.com/forums/thread/4579986?page=2)
-* [Moving Frostbite to PBR (PDF)](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/course-notes-moving-frostbite-to-pbr-v2.pdf)
+* [Exposure Fusion Local Tonemapping For Real-Time Rendering (Blog Post)](https://bartwronski.com/2022/02/28/exposure-fusion-local-tonemapping-for-real-time-rendering/)
 
 ### Misc
 
@@ -484,12 +488,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How Unreal Renders A Frame (Blog Post)](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
 * [Doom Eternal Graphics Study (Blog Post)](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html)
 * [The Technical Art of The Last of Us Part II (Slides)](http://advances.realtimerendering.com/s2020/index.htm)
-* [Mesh Shader Possibilities (Blog Post)](http://reedbeta.com/blog/mesh-shader-possibilities/)
 * [Why are video games graphics (still) a challenge? Productionizing rendering algorithms (Blog Post)](https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/)
 * [Computing Gradients On Grids - Forward, Central and diagonal differences (Blog Post)](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
 * [Graphics Pipelines For Young Bloods (Blog Post)](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/)
-* [Geometric Derivation of the Irradiance of Polygonal Lights (Paper)](https://hal.archives-ouvertes.fr/hal-01458129/document)
-* [Lossless Image Compression in O(n) Time (Blog Post)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 * [fma: A faster, more accurate instruction (Blog Post)](https://momentsingraphics.de/FMA.html)
 * [Gradients in linear space aren't better (Blog Post)](https://aras-p.info/blog/2021/11/29/Gradients-in-linear-space-arent-better/)
 * [Debugging Your Renderer (3/n): Assertions (and on not sweeping things under the rug) (Blog Post)](https://pharr.org/matt/blog/2021/12/02/debugging-renderers-assertions)
@@ -498,8 +499,51 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Kajiya GI Overview (Blog Post)](https://github.com/EmbarkStudios/kajiya/blob/main/docs/gi-overview.md)
 * [Slang Shading Language Advances (Slides)](https://research.nvidia.com/publication/2022-04_slang-shading-language-advances)
 * [In defense of NIR (Blog Post)](https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/)
+* [Summed Area Tables (Research Paper)](https://www.google.ca/url?sa=t&source=web&rct=j&url=http://www.florian-oeser.de/wordpress/wp-content/2012/10/crow-1984.pdf&ved=2ahUKEwjEpdHzta3ZAhWDm1kKHQenBXAQFjAAegQIExAB&usg=AOvVaw3k-SJwguBUsBS5x5lX7C1u)
+* [Material Pipeline for The Order: 1886 (PDF)](http://blog.selfshadow.com/publications/s2013-shading-course/rad/s2013_pbs_rad_notes.pdf)
+* [Checkerboard rendering (Blog Post)](https://bartwronski.com/2018/05/14/checkerboard-rendering-rotated-anti-aliasing-and-grid-frequencies/amp/)
+* [Volumetric Light Effects in Killzone: Shadow Fall (Series)](http://what-when-how.com/Tutorial/topic-547pjramj8/GPU-Pro-Advanced-Rendering-Techniques-146.html)
+* [Checkerboard Rendering (White Paper)](https://software.intel.com/en-us/articles/checkerboard-rendering-for-real-time-upscaling-on-intel-integrated-graphics-v-12)
+* [Advances in Real-time Rendering 2018 (List)](http://advances.realtimerendering.com/s2018/index.htm)
+* [A Ray-Box Intersection Algorithm and Efficient Dynamic Voxel Rendering (White Paper)](http://www.jcgt.org/published/0007/03/04/)
+* [Dreams - The tech behind the magic (Video)](https://www.youtube.com/watch?v=yZM_Ij9aeOA)
+* [GPU... stuff (Slides)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view)
+* [Spectral rendering with bounded MESE and sRGB data (Research Paper)](http://momentsingraphics.de/?page_id=257)
+* [Distance Fields (Blog Post)](https://prideout.net/blog/distance_fields/)
+* [Text Hates you (Blog Post)](https://gankra.github.io/blah/text-hates-you/)
+* [Digesting The Elephant (Paper)](https://ingowald.blog/2020/01/09/digesting-the-elephant/amp/?__twitter_impression=true)
+* [Tile Based Optimization for Post Processing (Blog Post)](https://wickedengine.net/2020/01/05/tile-based-optimization-for-post-processing/)
+* [Learning From Failure (Blog Post)](http://media.lolrus.mediamolecule.com/AlexEvans_SIGGRAPH-2015-sml.pdf)
+* [A Pixel Is Not a Little Square (Paper)](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
+* [Sampling Reconstruction (Slides)](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/Lectures/SamplingReconstruction.pdf)
+* [Interpolating Data Over Arbitrary Surfaces (Blog Post)](https://blog.demofox.org/2020/07/11/interpolating-data-over-arbitrary-shapes-with-laplaces-equation-and-walk-on-spheres/)
+* [Smoke Lighting And Texture Re-usability in Skull And Bones (Blog Post)](https://realtimevfx.com/t/smoke-lighting-and-texture-re-usability-in-skull-bones/5339)
+* [Temporal Anti-Aliasing Starter Pack (Blog Post)](http://alextardif.com/TAA.html)
+* [A Gentle Introduction To Fluid Simulation (Blog Post)](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
+* [Doom 2016 - The Devil Is In The Details (Slides)](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
+* [Notes on occlusion and directionality in image based lighting. (Blog Post)](https://interplayoflight.wordpress.com/2021/12/28/notes-on-occlusion-and-directionality-in-image-based-lighting/)
+* [Temporal AA and the quest for the Holy Trail (Blog Post)](https://www.elopezr.com/temporal-aa-and-the-quest-for-the-holy-trail/)
+* [Removing blur from images – deconvolution and using optimized simple filters (Blog Post)](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
+* [Physical Units for Lights (Blog Post)](https://www.realtimerendering.com/blog/physical-units-for-lights/)
+* [Notes on screenspace reflections with FidelityFX SSSR (Blog Post)](https://interplayoflight.wordpress.com/2022/09/28/notes-on-screenspace-reflections-with-fidelityfx-sssr/)
+* [A mathematical take on Premultiplied alpha (Blog Post)](https://iquilezles.org/articles/premultipliedalpha/)
+* [Binary Search For SDFs (Blog Post)](https://iquilezles.org/articles/binarysearchsdf/)
+* [Meshlet Sizing Theory (Blog Post)](https://cohost.org/zeux/post/659687-meshlet-sizing-theor)
+* [A Blend Of GCN Optimization And Color Processing (Slides)](https://gpuopen.com/gdc-presentations/2019/gdc-2019-s5-blend-of-gcn-optimization-and-color-processing.pdf)
+* [Permutation Coding for Vertex-Blend Attribute Compression (Paper)](https://momentsingraphics.de/Media/I3D2022/peters2022_permutation_coding_paper.pdf)
+    * Readers note: Interesting insights on approaches to quantization and storing information through permutations of a sorted list.
+
+### Occlusion
+
 * [Half baked: Dynamic Occlusion Culling (Blog Post)](http://c0de517e.blogspot.com/2023/03/half-baked-dynamic-occlusion-culling.html)
+* [Two-Pass Occlusion Culling (Blog Post)](https://medium.com/@mil_kru/two-pass-occlusion-culling-4100edcad501)
+* [GPU based occlusion culling (Blog Post)](https://interplayoflight.wordpress.com/2017/11/15/experiments-in-gpu-based-occlusion-culling/)
+
+### Sky Lighting
+
 * [Realistic Real-time Sky Dome Rendering in Gran Turismo 7 (Slides)](https://www.gdcvault.com/play/1029434/Advanced-Graphics-Summit-Realistic-Real)
+* [Assassin’s Creed 4: Black Flag - Lighting, Weather and Atmospheric Effects (slides)](https://bartwronski.files.wordpress.com/2014/05/assassin_s-creed-4-digital-dragons-2014-no_notes.pdf)
+* [Rendering The World Of Far Cry 4 (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2015/presentations/McAuley_Stephen_Rendering_the_World.pdf)
 
 ### Depth
 
@@ -549,20 +593,16 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [VR Networked Physics (Article)](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/)
 * [Poor Man's Netcode (Article)](https://www.gamedev.net/articles/programming/networking-and-multiplayer/the-poor-mans-netcode-r4851/)
 
-## CPUs
+## CPU Archicture
 
 * [Branch Prediction Rundown (Blog Post)](http://danluu.com/branch-prediction/)
 * [Introduction to dataflow graphs (Blog Post)](https://wp.me/pF1Ai-1Qg)
-* [SIMD at Insomniac Games (PDF)](https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf)
-* [SSE Mind the gaps! (Blog Post)](https://fgiesen.wordpress.com/2016/04/03/sse-mind-the-gap/)
 * [Hardware Effects (Repo)](https://github.com/Kobzol/hardware-effects)
 * [Write Combining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 * [Why do CPUs have multiple cache levels? (Blog Post)](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
 * [Software Optimization Resources (Guides) - Recommended](https://www.agner.org/optimize/)
 * [Assembly Intrinsics (Blog Post)](https://danluu.com/assembly-intrinsics/)
 * [Cores don't like to share (Blog Post)](https://fgiesen.wordpress.com/2013/01/31/cores-dont-like-to-share/)
-* [AVX-512: When and how to use these new instructions](https://lemire.me/blog/2018/09/07/avx-512-when-and-how-to-use-these-new-instructions/)
-* [By how much does AVX-512 slow down your CPU?](https://lemire.me/blog/2018/04/19/by-how-much-does-avx-512-slow-down-your-cpu-a-first-experiment/)
 * [Modern Microprocessors - A 90-Minute Guide! (Blog Post)](http://www.lighterra.com/papers/modernmicroprocessors/)
 * [Speed Limits (Blog Post) - Recommended](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
 * [Memory Disambiguation and Store Forwarding (Blog Post)](http://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/)
@@ -577,14 +617,21 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Notes on non-temporal (aka streaming) stores (Blog Post)](https://sites.utexas.edu/jdm4372/2018/01/01/notes-on-non-temporal-aka-streaming-stores/)
 * [Cache Coherence Protocols (Blog Post)](https://sites.utexas.edu/jdm4372/category/computer-architecture/cache-coherence-protocols/)
 * [Comments on timing short code sections on intel processors (Blog Post)](https://sites.utexas.edu/jdm4372/2018/07/23/comments-on-timing-short-code-sections-on-intel-processors/)
-* [A note on mask registers (Blog Post)](https://travisdowns.github.io/blog/2019/12/05/kreg-facts.html)
-* [This Goes To Eleven (Blog Post)](https://bits.houmus.org/2020-01-28/this-goes-to-eleven-pt1)
 * [Mutexes Vs Spinlocks (Blog Post)](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189723)
 * [The Significance Of The x86 lfence Instruction (Blog Post)](https://hadibrais.wordpress.com/2018/05/14/the-significance-of-the-x86-lfence-instruction/)
-* [SMACNI to AVX512 the life cycle of an instruction set (PDF)](http://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf)
 * [Branch/cmove and compiler optimizations (Blog Post)](https://kristerw.github.io/2022/05/24/branchless/)
 * [Why Use LEA instead of ADD (Stack Overflow Answer)](https://stackoverflow.com/a/6328441)
 * [Using the LEA instruction for arbitrary arithmetic (Blog Post)](https://handmade.network/forums/articles/t/7111-using_the_lea_instruction_for_arbitrary_arithmetic)
+
+### Vectorization
+
+* [SIMD at Insomniac Games (PDF)](https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf)
+* [SSE Mind the gaps! (Blog Post)](https://fgiesen.wordpress.com/2016/04/03/sse-mind-the-gap/)
+* [AVX-512: When and how to use these new instructions](https://lemire.me/blog/2018/09/07/avx-512-when-and-how-to-use-these-new-instructions/)
+* [By how much does AVX-512 slow down your CPU?](https://lemire.me/blog/2018/04/19/by-how-much-does-avx-512-slow-down-your-cpu-a-first-experiment/)
+* [SMACNI to AVX512 the life cycle of an instruction set (PDF)](http://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf)
+* [A note on mask registers (Blog Post)](https://travisdowns.github.io/blog/2019/12/05/kreg-facts.html)
+* [This Goes To Eleven (Blog Post)](https://bits.houmus.org/2020-01-28/this-goes-to-eleven-pt1)
 
 ## Retro
 
@@ -667,3 +714,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 ## Unreal
 
 * [Unreal Engine Game Optimization on a Budget (Blog Post)](https://www.tomlooman.com/unrealengine-optimization-talk/)
+* [Journey To Lumen (Blog Post)](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)
+* [Journey To Nanite (Slides)](https://highperformancegraphics.org/slides22/Journey_to_Nanite.pdf)
+* [Nanite Overview (Slides)](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
