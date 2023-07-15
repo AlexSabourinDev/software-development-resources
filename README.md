@@ -56,6 +56,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 - [Networking](#networking)
 - [CPU Archicture](#cpu-archicture)
   * [Vectorization](#vectorization)
+  * [Optimizations](#optimizations)
 - [Retro](#retro)
 - [Threading](#threading)
 - [Sound](#sound)
@@ -192,6 +193,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Managing Memory for Acceleration Structures in DirectX Raytracing (Blog Post)](https://developer.nvidia.com/blog/managing-memory-for-acceleration-structures-in-dxr/)
 * [Tips: Acceleration Structure Compaction (Blog Post)](https://developer.nvidia.com/blog/tips-acceleration-structure-compaction/)
 * [Advanced Graphics moving to DirectX 12 (GDC slides)](https://www.gdcvault.com/play/1024656/Advanced-Graphics-Tech-Moving-to)
+* [In-Game GPU Profiling for DirectX 12 Using SetBackgroundProcessingMode (Blog Post)](https://developer.nvidia.com/blog/in-game-gpu-profiling-for-dx12-using-setbackgroundprocessingmode/)
 
 ### Textures And Compression
 
@@ -601,28 +603,32 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Hardware Effects (Repo)](https://github.com/Kobzol/hardware-effects)
 * [Write Combining is not your friend (Blog Post)](https://fgiesen.wordpress.com/2013/01/29/write-combining-is-not-your-friend/)
 * [Why do CPUs have multiple cache levels? (Blog Post)](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
-* [Software Optimization Resources (Guides) - Recommended](https://www.agner.org/optimize/)
 * [Assembly Intrinsics (Blog Post)](https://danluu.com/assembly-intrinsics/)
 * [Cores don't like to share (Blog Post)](https://fgiesen.wordpress.com/2013/01/31/cores-dont-like-to-share/)
 * [Modern Microprocessors - A 90-Minute Guide! (Blog Post)](http://www.lighterra.com/papers/modernmicroprocessors/)
-* [Speed Limits (Blog Post) - Recommended](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
 * [Memory Disambiguation and Store Forwarding (Blog Post)](http://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/)
 * [Henry - StuffedCow (Blog)](http://blog.stuffedcow.net/category/measurements/)
 * [Measuring Reorder Buffer Capacity (Blog Post)](http://blog.stuffedcow.net/2013/05/measuring-rob-capacity/)
 * [Avoiding Instruction Cache Misses (Blog Post)](https://pdziepak.github.io/2019/06/21/avoiding-icache-misses/)
-* [It's done in hardware so it's cheap (Blog Post)](http://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
 * [The surprising subtleties of zeroing a register (Blog Post)](https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/)
 * [What is the best way to set a register to zero in x86? (Stack Overflow)](https://stackoverflow.com/questions/33666617/what-is-the-best-way-to-set-a-register-to-zero-in-x86-assembly-xor-mov-or-and/33668295#33668295)
 * [Parallel Computer Architecture And Programming (Lectures)](http://15418.courses.cs.cmu.edu/spring2017/lectures)
 * [Cache Coherence Implementation (Blog Post)](https://sites.utexas.edu/jdm4372/category/computer-hardware/cache-coherence-implementations/)
 * [Notes on non-temporal (aka streaming) stores (Blog Post)](https://sites.utexas.edu/jdm4372/2018/01/01/notes-on-non-temporal-aka-streaming-stores/)
 * [Cache Coherence Protocols (Blog Post)](https://sites.utexas.edu/jdm4372/category/computer-architecture/cache-coherence-protocols/)
-* [Comments on timing short code sections on intel processors (Blog Post)](https://sites.utexas.edu/jdm4372/2018/07/23/comments-on-timing-short-code-sections-on-intel-processors/)
 * [Mutexes Vs Spinlocks (Blog Post)](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189723)
 * [The Significance Of The x86 lfence Instruction (Blog Post)](https://hadibrais.wordpress.com/2018/05/14/the-significance-of-the-x86-lfence-instruction/)
-* [Branch/cmove and compiler optimizations (Blog Post)](https://kristerw.github.io/2022/05/24/branchless/)
 * [Why Use LEA instead of ADD (Stack Overflow Answer)](https://stackoverflow.com/a/6328441)
 * [Using the LEA instruction for arbitrary arithmetic (Blog Post)](https://handmade.network/forums/articles/t/7111-using_the_lea_instruction_for_arbitrary_arithmetic)
+
+### Optimizations
+
+* [Decreasing the Number of Memory Accesses (Blog Series)](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
+* [Comments on timing short code sections on intel processors (Blog Post)](https://sites.utexas.edu/jdm4372/2018/07/23/comments-on-timing-short-code-sections-on-intel-processors/)
+* [Branch/cmove and compiler optimizations (Blog Post)](https://kristerw.github.io/2022/05/24/branchless/)
+* [It's done in hardware so it's cheap (Blog Post)](http://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
+* [Speed Limits (Blog Post) - Recommended](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
+* [Software Optimization Resources (Guides) - Recommended](https://www.agner.org/optimize/)
 
 ### Vectorization
 
