@@ -184,6 +184,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Graphics API secrets: format casting (Blog Post)](https://wickedengine.net/2022/11/08/graphics-api-secrets-format-casting/)
 * [VK_EXT_descriptor_buffer (Blog Post)](https://www.khronos.org/blog/vk-ext-descriptor-buffer)
 * [Descriptors are hard (Blog Post)](https://www.gfxstrand.net/faith/blog/2022/08/descriptors-are-hard/)
+* [Improving shader performance with Vulkan’s specialization constants (Blog Post)](https://blogs.igalia.com/itoral/2018/03/20/improving-shader-performance-with-vulkans-specialization-constants/)
 
 ### DX12
 
