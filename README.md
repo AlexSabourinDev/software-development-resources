@@ -714,6 +714,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Systems design 2: What we hope we know (Blog Post)](https://apenwarr.ca/log/20230415)
 * [The Tyranny of structurelessness(Blog Post)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [How I made Tracy 30× faster (Blog Post)](https://wolf.nereid.pl/posts/how-tracy-faster/)
+* [Learnings As a Graphics Lead (Blog Post)](https://alextardif.com/Leading.html)
 
 ## Unity
 
