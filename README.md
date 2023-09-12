@@ -535,9 +535,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Binary Search For SDFs (Blog Post)](https://iquilezles.org/articles/binarysearchsdf/)
 * [Meshlet Sizing Theory (Blog Post)](https://cohost.org/zeux/post/659687-meshlet-sizing-theor)
 * [A Blend Of GCN Optimization And Color Processing (Slides)](https://gpuopen.com/gdc-presentations/2019/gdc-2019-s5-blend-of-gcn-optimization-and-color-processing.pdf)
+* [Constant Time Stateless Shuffling and Grouping (Blog Post)](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
 * [Permutation Coding for Vertex-Blend Attribute Compression (Paper)](https://momentsingraphics.de/Media/I3D2022/peters2022_permutation_coding_paper.pdf)
     * Readers note: Interesting insights on approaches to quantization and storing information through permutations of a sorted list.
-* [Constant Time Stateless Shuffling and Grouping (Blog Post)](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
 
 ### Occlusion
 
