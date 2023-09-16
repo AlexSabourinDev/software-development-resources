@@ -666,6 +666,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Does The Intel Memory Model Make sfence and lfence Redundant? (Stack Overflow)](https://stackoverflow.com/questions/32705169/does-the-intel-memory-model-make-sfence-and-lfence-redundant)
 * [Why Is A Store Load Barrier Considered Expensive? (Stack Overflow)](https://stackoverflow.com/questions/27475025/why-is-a-store-load-barrier-considered-expensive)
 * [Does Lock xchg Have The Same Behaviour As mfence? (Stack Overflow)](https://stackoverflow.com/questions/40409297/does-lock-xchg-have-the-same-behavior-as-mfence)
+* [What is RCU? -- "Read, Copy, Update" (Blog Post)](https://www.kernel.org/doc/html/next/RCU/whatisRCU.html)
 
 ## Sound
 
