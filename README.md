@@ -717,6 +717,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Tyranny of structurelessness(Blog Post)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [How I made Tracy 30× faster (Blog Post)](https://wolf.nereid.pl/posts/how-tracy-faster/)
 * [Learnings As a Graphics Lead (Blog Post)](https://alextardif.com/Leading.html)
+* [How I Evaluate Game Engines (Blog Post)](https://www.jeremyong.com/game%20engines/2023/09/15/how-i-evaluate-game-engines/)
 
 ## Unity
 
