@@ -538,6 +538,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Constant Time Stateless Shuffling and Grouping (Blog Post)](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
 * [Permutation Coding for Vertex-Blend Attribute Compression (Paper)](https://momentsingraphics.de/Media/I3D2022/peters2022_permutation_coding_paper.pdf)
     * Readers note: Interesting insights on approaches to quantization and storing information through permutations of a sorted list.
+* [Dynamic Occlusion with Signed Distance Fields (Slides)](https://advances.realtimerendering.com/s2015/DynamicOcclusionWithSignedDistanceFields.pdf)
 
 ### Occlusion
 
