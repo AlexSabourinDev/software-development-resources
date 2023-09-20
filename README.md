@@ -720,6 +720,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How I made Tracy 30× faster (Blog Post)](https://wolf.nereid.pl/posts/how-tracy-faster/)
 * [Learnings As a Graphics Lead (Blog Post)](https://alextardif.com/Leading.html)
 * [How I Evaluate Game Engines (Blog Post)](https://www.jeremyong.com/game%20engines/2023/09/15/how-i-evaluate-game-engines/)
+* [Anti-Debug: Process Memory (Blog Post)](https://anti-debug.checkpoint.com/techniques/process-memory.html)
 
 ## Unity
 
