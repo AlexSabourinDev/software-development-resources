@@ -185,6 +185,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [VK_EXT_descriptor_buffer (Blog Post)](https://www.khronos.org/blog/vk-ext-descriptor-buffer)
 * [Descriptors are hard (Blog Post)](https://www.gfxstrand.net/faith/blog/2022/08/descriptors-are-hard/)
 * [Improving shader performance with Vulkan’s specialization constants (Blog Post)](https://blogs.igalia.com/itoral/2018/03/20/improving-shader-performance-with-vulkans-specialization-constants/)
+* [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU (Blog Post)](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
 
 ### DX12
 
