@@ -722,6 +722,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Learnings As a Graphics Lead (Blog Post)](https://alextardif.com/Leading.html)
 * [How I Evaluate Game Engines (Blog Post)](https://www.jeremyong.com/game%20engines/2023/09/15/how-i-evaluate-game-engines/)
 * [Anti-Debug: Process Memory (Blog Post)](https://anti-debug.checkpoint.com/techniques/process-memory.html)
+* [Recognizing patterns in memory (Blog Post)](https://www.timdbg.com/posts/recognizing-patterns/)
 
 ## Unity
 
