@@ -736,3 +736,4 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Journey To Nanite (Slides)](https://highperformancegraphics.org/slides22/Journey_to_Nanite.pdf)
 * [Nanite Overview (Slides)](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
 * [Debugging and Optimizing Memory (Blog Post)](https://www.unrealengine.com/en-US/blog/debugging-and-optimizing-memory)
+* [Distance Field Ray Tracing Part 1: Volume Textures and Ray Marching Primer (Blog Post)](https://shaderbits.com/blog/distance-field-ray-tracing-part1)
