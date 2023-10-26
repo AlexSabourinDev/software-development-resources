@@ -309,6 +309,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Real-Time Path Tracing And Beyond (Slides)](https://research.nvidia.com/publication/2022-07_real-time-path-tracing-and-beyond)
 * [STOCHASTIC ALL THE THINGS: RAYTRACING IN HYBRID REAL-TIME RENDERING](https://www.ea.com/seed/news/seed-dd18-presentation-slides-raytracing)
 * [Adventures in Hybrid Rendering (Blog Post)](https://diharaw.github.io/post/adventures_in_hybrid_rendering/)
+* [RE: 2023 - Advances in Ray Tracing (Video)](https://www.youtube.com/watch?v=X8TvRKRWirE)
+* [RE: 2023 - New Rendering Features Rundown, SDFs (Video)](https://www.youtube.com/watch?v=aEpklsGKVmQ)
 
 ### Blue Noise
 
