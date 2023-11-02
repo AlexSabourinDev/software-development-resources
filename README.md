@@ -543,6 +543,7 @@ A collection of links for various fields of software development (Mostlt Graphic
     * Readers note: Interesting insights on approaches to quantization and storing information through permutations of a sorted list.
 * [Dynamic Occlusion with Signed Distance Fields (Slides)](https://advances.realtimerendering.com/s2015/DynamicOcclusionWithSignedDistanceFields.pdf)
 * [Make Your Game Friendly for Graphics Debugging and Optimization (Slides)](https://gpuopen.com/presentations/2019/digital-dragons-2019-make-your-game-friendly.pdf)
+* [GPU driven rendering in AnKi: A high level overview (Blog Post)](https://anki3d.org/gpu-driven-rendering-in-anki-a-high-level-overview/)
 
 ### Occlusion
 
