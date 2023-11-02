@@ -286,6 +286,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Raytraced Shadows in Call of Duty Modern Warfare (Slides)](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf)
 * [Combining Analytic Direct Illumination and Stochastic Shadows (Paper)](http://casual-effects.com/research/Heitz2018Shadow/index.html)
 * [Experiments in Hybrid Raytraced Shadows (Blog Post)](https://interplayoflight.wordpress.com/2021/05/15/experiments-in-hybrid-raytraced-shadows/)
+* [Shadow Techniques from Final Fantasy XVI (Blog Post)](http://www.jp.square-enix.com/tech/library/pdf/2023_FFXVIShadowTechPaper.pdf)
 
 ### Spherical Harmonics
 
