@@ -728,6 +728,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How I Evaluate Game Engines (Blog Post)](https://www.jeremyong.com/game%20engines/2023/09/15/how-i-evaluate-game-engines/)
 * [Anti-Debug: Process Memory (Blog Post)](https://anti-debug.checkpoint.com/techniques/process-memory.html)
 * [Recognizing patterns in memory (Blog Post)](https://www.timdbg.com/posts/recognizing-patterns/)
+* [Technical debt… or technical weight/burden? (Blog Post)](https://bartwronski.com/2016/06/26/technical-weight/)
 
 ## Unity
 
