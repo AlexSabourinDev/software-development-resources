@@ -545,6 +545,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Dynamic Occlusion with Signed Distance Fields (Slides)](https://advances.realtimerendering.com/s2015/DynamicOcclusionWithSignedDistanceFields.pdf)
 * [Make Your Game Friendly for Graphics Debugging and Optimization (Slides)](https://gpuopen.com/presentations/2019/digital-dragons-2019-make-your-game-friendly.pdf)
 * [GPU driven rendering in AnKi: A high level overview (Blog Post)](https://anki3d.org/gpu-driven-rendering-in-anki-a-high-level-overview/)
+* [Rendering God Of War Ragnarok (Slides)](https://sms.playstation.com/media/documents/GOWR_Stephen_Mcauley_RenderingGOWR_GDC23.pdf)
 
 ### Occlusion
 
