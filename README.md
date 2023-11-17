@@ -196,6 +196,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Tips: Acceleration Structure Compaction (Blog Post)](https://developer.nvidia.com/blog/tips-acceleration-structure-compaction/)
 * [Advanced Graphics moving to DirectX 12 (GDC slides)](https://www.gdcvault.com/play/1024656/Advanced-Graphics-Tech-Moving-to)
 * [In-Game GPU Profiling for DirectX 12 Using SetBackgroundProcessingMode (Blog Post)](https://developer.nvidia.com/blog/in-game-gpu-profiling-for-dx12-using-setbackgroundprocessingmode/)
+* [Tier 2 Variable Rate Shading in Gears (Video)](https://www.youtube.com/watch?v=-exWLpgnOJ4)
 
 ### Textures And Compression
 
