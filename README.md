@@ -215,6 +215,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How the CIE 1931 RGB Color Matching Functions Were Developed (Blog Post)](https://yzhu.medium.com/how-the-cie-1931-rgb-color-matching-functions-were-developed-from-the-initial-color-matching-a98696d9cf37)
 * [RGBM Color Encoding (Blog Post)](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
 * [The Hitchikers Guide To Digital Color (Website)](https://hg2dc.com/)
+* [Color Enhancement And Rendering In Film And Game Production (Slides)](https://renderwonk.com/publications/s2010-color-course/pines/s2010_color_pines_slides.pdf)
 
 ### Forward, Deferred, Visibility, Etc
 
