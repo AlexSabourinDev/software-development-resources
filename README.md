@@ -438,6 +438,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Microfacet models for refraction through rough surfaces (Paper)](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 * [Average irregularity representation of a rough surface for ray reflection (Paper)](https://pharr.org/matt/blog/images/average-irregularity-representation-of-a-rough-surface-for-ray-reflection.pdf)
 * [Sampling Visible GGX Normals with Spherical Caps (Paper)](https://arxiv.org/pdf/2306.05044.pdf)
+* [A Micrograin BSDF Model for the Rendering of Porous Layers (Paper)](https://hal.science/hal-04220006)
 
 ### Ambient Occlusion
 
