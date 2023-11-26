@@ -298,6 +298,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Stupid Spherical Harmonic Tricks (Paper)](https://www.ppsloan.org/publications/StupidSH36.pdf#%5B%7B%22num%22%3A229%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C177%2C0%5D)
 * [Spherical Harmonic Lighting: The Gritty Details (Paper)](https://3dvar.com/Green2003Spherical.pdf)
 * [Spherical Harmonics - Patapom (Blog Post)](https://patapom.com/blog/SHPortal/)
+* [Alternative definition of Spherical Harmonics for Lighting (Blog Post)](https://grahamhazel.com/blog/2017/12/18/alternative-definition-of-spherical-harmonics-for-lighting/)
+* [Converting SH Radiance to Irradiance (Blog Post)](https://grahamhazel.com/blog/2017/12/22/converting-sh-radiance-to-irradiance/)
 
 ### Raytracing
 
