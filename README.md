@@ -553,6 +553,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [GPU driven rendering in AnKi: A high level overview (Blog Post)](https://anki3d.org/gpu-driven-rendering-in-anki-a-high-level-overview/)
 * [Rendering God Of War Ragnarok (Slides)](https://sms.playstation.com/media/documents/GOWR_Stephen_Mcauley_RenderingGOWR_GDC23.pdf)
 * [Re-inventing The Wheel For Snow Rendering (Slides)](https://www.gdcvault.com/play/1028844/Advanced-Graphics-Summit-Reinventing-the)
+* [Hammersley Points on the Hemisphere (Blog Post)](http://holger.dammertz.org/stuff/notes_HammersleyOnHemisphere.html)
 
 ### Occlusion
 
