@@ -225,6 +225,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Visibility Buffer: A Cache-Friendly Approach to Deferred Shading (Paper)](http://jcgt.org/published/0002/02/04/)
 * [Visibility Buffer Rendering Approaches and Benefits (Blog Series)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
 * [A Primer On Efficient Rendering Algorithms & Clustered Shading. (Blog Post)](http://www.aortiz.me/2018/12/21/CG.html)
+* [Non-interleaved Deferred Shading of Interleaved Sample Patterns (Paper)](https://liris.cnrs.fr/Documents/Liris-2476.pdf)
 
 ### Transparency, Blending
 
