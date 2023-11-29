@@ -755,3 +755,4 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Unreal Engine 4 Rendering (Blog Series)](https://medium.com/@lordned/unreal-engine-4-rendering-overview-part-1-c47f2da65346)
 * [Lumen, Real-time Global Illumination in Unreal Engine 5 (Slides)](<https://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Lumen-Wright et al.pdf>)
 * [Unreal Engine Substrate: Authoring Materials That Matter (Slides)](https://advances.realtimerendering.com/s2023/2023%20Siggraph%20-%20Substrate.pdf)
+* [Render Dependency Graph (Documentation)](https://docs.unrealengine.com/5.1/en-US/render-dependency-graph-in-unreal-engine/)
