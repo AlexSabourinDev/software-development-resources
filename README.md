@@ -555,6 +555,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Rendering God Of War Ragnarok (Slides)](https://sms.playstation.com/media/documents/GOWR_Stephen_Mcauley_RenderingGOWR_GDC23.pdf)
 * [Re-inventing The Wheel For Snow Rendering (Slides)](https://www.gdcvault.com/play/1028844/Advanced-Graphics-Summit-Reinventing-the)
 * [Hammersley Points on the Hemisphere (Blog Post)](http://holger.dammertz.org/stuff/notes_HammersleyOnHemisphere.html)
+* [The Rendering Of The Callisto Protoco (Slides)](https://advances.realtimerendering.com/s2023/SIGGRAPH2023-Advances-The-Rendering-of-The-Callisto-Protocol-JimenezPetersen.pdf)
 
 ### Occlusion
 
