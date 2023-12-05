@@ -556,6 +556,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Re-inventing The Wheel For Snow Rendering (Slides)](https://www.gdcvault.com/play/1028844/Advanced-Graphics-Summit-Reinventing-the)
 * [Hammersley Points on the Hemisphere (Blog Post)](http://holger.dammertz.org/stuff/notes_HammersleyOnHemisphere.html)
 * [The Rendering Of The Callisto Protoco (Slides)](https://advances.realtimerendering.com/s2023/SIGGRAPH2023-Advances-The-Rendering-of-The-Callisto-Protocol-JimenezPetersen.pdf)
+* [Coverage Bitmasks for Efficient Rendering Algorithms (Slides)](https://www.ea.com/seed/news/coverage-bitmasks)
 
 ### Occlusion
 
