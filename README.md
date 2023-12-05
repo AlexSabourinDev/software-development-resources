@@ -741,6 +741,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Anti-Debug: Process Memory (Blog Post)](https://anti-debug.checkpoint.com/techniques/process-memory.html)
 * [Recognizing patterns in memory (Blog Post)](https://www.timdbg.com/posts/recognizing-patterns/)
 * [Technical debt… or technical weight/burden? (Blog Post)](https://bartwronski.com/2016/06/26/technical-weight/)
+* [Making a Mesh: Global Mesh Destruction in First Encounters (Blog Post)](https://developer.oculus.com/blog/scene-mesh-destruction-first-encounters-meta-quest-developers-mixed-reality/)
 
 ## Unity
 
