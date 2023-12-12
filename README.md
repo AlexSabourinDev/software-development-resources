@@ -384,6 +384,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Mesh and task shaders intro and basics (Blog Post)](https://timur.hu/blog/2022/mesh-and-task-shaders)
 * [How mesh shaders are implemented in an AMD driver (Blog Post)](https://timur.hu/blog/2022/how-mesh-shaders-are-implemented)
 * [Task shader driver implementation on AMD HW (Blog Post)](https://timur.hu/blog/2022/how-task-shaders-are-implemented)
+* [Performance Comparison of Meshlet Generation Strategies (Paper)](https://jcgt.org/published/0012/02/01/)
 
 ### Lighting/Shading
 
