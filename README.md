@@ -343,6 +343,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Orthonormal Basis (Paper)](https://graphics.pixar.com/library/OrthonormalB/paper.pdf)
 * [Normals revisited (Blog Post)](https://github.com/graphitemaster/normals_revisited/blob/master/README.md)
 * [Normal Mapping without Precomputed Tangents (Blog Post)](http://www.thetenthplanet.de/archives/1180)
+* [Survey of Efficient Representations for Independent Unit Vectors (Paper)](https://jcgt.org/published/0003/02/01/)
 
 ### Shaders
 
