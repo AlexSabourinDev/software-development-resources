@@ -745,6 +745,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Recognizing patterns in memory (Blog Post)](https://www.timdbg.com/posts/recognizing-patterns/)
 * [Technical debt… or technical weight/burden? (Blog Post)](https://bartwronski.com/2016/06/26/technical-weight/)
 * [Making a Mesh: Global Mesh Destruction in First Encounters (Blog Post)](https://developer.oculus.com/blog/scene-mesh-destruction-first-encounters-meta-quest-developers-mixed-reality/)
+* [The Grug Brained Developer - A layman's guide to thinking like the self-aware smol brained (Blog Post)](https://grugbrain.dev/)
 
 ## Unity
 
