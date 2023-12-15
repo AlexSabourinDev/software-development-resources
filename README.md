@@ -49,6 +49,7 @@ A collection of links for various fields of software development (Mostlt Graphic
   * [Occlusion](#occlusion)
   * [Sky Lighting](#sky-lighting)
   * [Depth](#depth)
+  * [Signed Distance Fields](#signed-distance-fields)
   * [Tutorials](#tutorials)
   * [Shader Editors](#shader-editors)
 - [Floating Point](#floating-point)
@@ -584,6 +585,11 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A couple of notes about Z (Blog Post)](http://www.humus.name/index.php?ID=255)
 * [Depth Precision Visualized (Blog Post)](https://developer.nvidia.com/content/depth-precision-visualized)
 * [Depth in-depth (PDF)](http://developer.amd.com/wordpress/media/2012/10/Depth_in-depth.pdf)
+
+### Signed Distance Fields
+
+* [GPU-based clay simulation and ray-tracing tech in Claybook (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2018/presentations/Aaltonen_Sebastian_GPU_Based_Clay.pdf)
+* [Ray Tracing of Signed Distance Function Grids (Paper)](https://jcgt.org/published/0011/03/06/paper-lowres.pdf)
 
 ### Tutorials
 
