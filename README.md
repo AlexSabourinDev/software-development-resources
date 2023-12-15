@@ -72,6 +72,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Maker's Schedule, Manager's Schedule (Blog Post)](http://www.paulgraham.com/makersschedule.html)
 * [An epic treatise on scheduling, bug tracking, and triage (Blog Post)](https://apenwarr.ca/log/20171213)
 * [Characterizing Software Developers by Perceptions of Productivity (Paper)](https://www.researchgate.net/publication/320959053_Characterizing_Software_Developers_by_Perceptions_of_Productivity)
+* [When Culture Doesn’t Translate (Blog Post)](https://hbr.org/2015/10/when-culture-doesnt-translate)
 
 ### Estimation
 
@@ -120,6 +121,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A bit of background on compilers exploiting signed overflow (Blog Post)](https://gist.github.com/rygorous/e0f055bfb74e3d5f0af20690759de5a7)
 * [C Isn't A Programming Language Anymore (Blog Post)](https://faultlore.com/blah/c-isnt-a-language/)
 * [How can a program survive a corrupted stack? (Blog Post)](https://devblogs.microsoft.com/oldnewthing/20040116-00/?p=41023)
+* [To Save C, We Must Save ABI (Blog Post)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 
 ### C plus plus
 
@@ -160,6 +162,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How LLVM Optimizes a function (Blog Post)](https://blog.regehr.org/archives/1603)
 * [Crafting Interpreters (Online Book)](http://www.craftinginterpreters.com/)
 * [How To Speed Up The Rust Compiler (Blog Post)](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
+* [Async Rust Is A Bad Language (Blog Post)](https://bitbashing.io/async-rust.html)
 
 ## AI
 
@@ -459,6 +462,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 
 * [Efficient Screen-space SSS (Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
 * [Real-Time Subsurface Scattering Intro (Blog Post)](https://therealmjp.github.io/posts/sss-intro/)
+* [Approximating Translucency for a Fast, Cheap and Convincing Subsurface Scattering Look (Slides)](https://www.ea.com/frostbite/news/approximating-translucency-for-a-fast-cheap-and-convincing-subsurface-scattering-look)
 
 ### Importance Sampling
 
