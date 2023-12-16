@@ -565,6 +565,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Rendering Of The Callisto Protoco (Slides)](https://advances.realtimerendering.com/s2023/SIGGRAPH2023-Advances-The-Rendering-of-The-Callisto-Protocol-JimenezPetersen.pdf)
 * [Coverage Bitmasks for Efficient Rendering Algorithms (Slides)](https://www.ea.com/seed/news/coverage-bitmasks)
 * [Radiance Cascades: A Novel Approach to Calculating Global Illumination (Paper)](https://drive.google.com/file/d/1L6v1_7HY2X-LV3Ofb6oyTIxgEaP4LOI6/view?pli=1)
+* [Efficient GPU Screen-Space Ray Tracing (Paper)](https://jcgt.org/published/0003/04/04/paper.pdf)
 
 ### Occlusion
 
