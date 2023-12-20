@@ -389,6 +389,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How mesh shaders are implemented in an AMD driver (Blog Post)](https://timur.hu/blog/2022/how-mesh-shaders-are-implemented)
 * [Task shader driver implementation on AMD HW (Blog Post)](https://timur.hu/blog/2022/how-task-shaders-are-implemented)
 * [Performance Comparison of Meshlet Generation Strategies (Paper)](https://jcgt.org/published/0012/02/01/)
+* [Mesh Shaders on RDNA™ Graphics Cards (Blog Post)](https://gpuopen.com/learn/mesh-shaders-on-rdna-graphics-cards/?utm_source=mastodon&utm_medium=social&utm_campaign=mesh-shaders-on-rdna)
 
 ### Lighting/Shading
 
