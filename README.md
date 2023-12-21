@@ -275,6 +275,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Fine-grained backface culling (Blog Post)](https://zeux.io/2023/04/28/triangle-backface-culling/)
 * [GPU Hang Exploration: Splitgate (Blog Post)](https://pixelcluster.github.io/Hang-Exploration-Splitgate/)
 * [Explore GPU advancements in M3 and A17 Pro (Video)](https://developer.apple.com/videos/play/tech-talks/111375)
+* [Occupancy explained (Blog Post)](https://gpuopen.com/learn/occupancy-explained/)
 
 ### Code
 
