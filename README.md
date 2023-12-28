@@ -143,6 +143,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How C++ Resolves A Function Call (Blog Post)](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
 * [The Subtle Dangers of Temporaries in for Loops (Blog Post)](https://www.fluentcpp.com/2021/05/22/the-subtle-dangers-of-temporaries-in-for-loops/)
 * [Incrementing Vectors (Blog Post)](https://travisdowns.github.io/blog/2019/08/26/vector-inc.html)
+* [The C++20 Naughty and Nice List for Game Devs (Blog Post)](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/)
 
 ### C Sharp
 
@@ -323,6 +324,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Adventures in Hybrid Rendering (Blog Post)](https://diharaw.github.io/post/adventures_in_hybrid_rendering/)
 * [RE: 2023 - Advances in Ray Tracing (Video)](https://www.youtube.com/watch?v=X8TvRKRWirE)
 * [RE: 2023 - New Rendering Features Rundown, SDFs (Video)](https://www.youtube.com/watch?v=aEpklsGKVmQ)
+* [Ray tracing animated crowds (Blog Post)](https://blog.traverseresearch.nl/ray-tracing-animated-crowds-bc0e775c74ad)
+* [Beyond SAH — Building Optimal BVHs (Blog Post)](https://blog.traverseresearch.nl/beyond-sah-building-optimal-bvhs-fdef1878d6ed)
 
 ### Blue Noise
 
@@ -568,6 +571,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Coverage Bitmasks for Efficient Rendering Algorithms (Slides)](https://www.ea.com/seed/news/coverage-bitmasks)
 * [Radiance Cascades: A Novel Approach to Calculating Global Illumination (Paper)](https://drive.google.com/file/d/1L6v1_7HY2X-LV3Ofb6oyTIxgEaP4LOI6/view?pli=1)
 * [Efficient GPU Screen-Space Ray Tracing (Paper)](https://jcgt.org/published/0003/04/04/paper.pdf)
+* [Creating a Directed Acyclic Graph from a Mesh (Blog Post)](https://blog.traverseresearch.nl/creating-a-directed-acyclic-graph-from-a-mesh-1329e57286e5)
 
 ### Occlusion
 
@@ -759,6 +763,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Technical debt… or technical weight/burden? (Blog Post)](https://bartwronski.com/2016/06/26/technical-weight/)
 * [Making a Mesh: Global Mesh Destruction in First Encounters (Blog Post)](https://developer.oculus.com/blog/scene-mesh-destruction-first-encounters-meta-quest-developers-mixed-reality/)
 * [The Grug Brained Developer - A layman's guide to thinking like the self-aware smol brained (Blog Post)](https://grugbrain.dev/)
+* [A dive into the making of Immersion (Blog Post)](https://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion/)
+* [Making floating point numbers smaller (Blog Post)](https://www.ctrl-alt-test.fr/2018/making-floating-point-numbers-smaller/)
+* [How can demoscene productions be so small? (Blog Post)](https://www.ctrl-alt-test.fr/2017/how-can-demoscene-productions-be-so-small/)
 
 ## Unity
 
