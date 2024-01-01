@@ -569,6 +569,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Radiance Cascades: A Novel Approach to Calculating Global Illumination (Paper)](https://drive.google.com/file/d/1L6v1_7HY2X-LV3Ofb6oyTIxgEaP4LOI6/view?pli=1)
 * [Efficient GPU Screen-Space Ray Tracing (Paper)](https://jcgt.org/published/0003/04/04/paper.pdf)
 * [Creating a Directed Acyclic Graph from a Mesh (Blog Post)](https://blog.traverseresearch.nl/creating-a-directed-acyclic-graph-from-a-mesh-1329e57286e5)
+* [Low-level thinking in high-level shading languages 2023 (Blog Post)](https://interplayoflight.wordpress.com/2023/12/29/low-level-thinking-in-high-level-shading-languages-2023/)
 
 ### Occlusion
 
@@ -787,3 +788,4 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Lumen, Real-time Global Illumination in Unreal Engine 5 (Slides)](<https://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Lumen-Wright et al.pdf>)
 * [Unreal Engine Substrate: Authoring Materials That Matter (Slides)](https://advances.realtimerendering.com/s2023/2023%20Siggraph%20-%20Substrate.pdf)
 * [Render Dependency Graph (Documentation)](https://docs.unrealengine.com/5.1/en-US/render-dependency-graph-in-unreal-engine/)
+* [Optimizing Shaders in Unreal Engine (Blog Post)](https://calvinatorrtech.art.blog/2023/12/20/optimizing-shaders-in-unreal-engine/)
