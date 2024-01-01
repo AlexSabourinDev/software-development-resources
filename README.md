@@ -480,6 +480,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Rearchitecting Spatiotemporal Resampling for Production (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/hpg21_rearchitectingReSTIR.pdf)
 * [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting (Paper)](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.pdf)
 * [ReSTIR GI: Path Resampling for Real-Time Path Tracing (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/ReSTIR%20GI.pdf)
+* [A Gentler Introduction To ReSTIR (Blog Post)](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
 
 ### Cameras, Exposure, Tonemapping
 
