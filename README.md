@@ -178,7 +178,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Vulkan Subpasses](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/6-Vulkan-subpasses.pdf)
 * [Yet another blog explaining Vulkan synchronization](http://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 * [A Tour Of Granite's Vulkan Backend (Blog Series)](http://themaister.net/blog/2019/04/14/a-tour-of-granites-vulkan-backend-part-1/)
-* [Render graphs and Vulkan a deep dive (Blog Post)](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 * [Vulkan Fast Paths (Slides)](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
 * [Using Arrays of Textures in Vulkan (Blog Post)](http://kylehalladay.com/blog/tutorial/vulkan/2018/01/28/Textue-Arrays-Vulkan.html)
 * [Vulkan Textures Unbound (Blog Post)](http://roar11.com/2019/06/vulkan-textures-unbound/)
@@ -227,7 +226,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Forward+ Decal Rendering (Blog Post)](https://wickedengine.net/2017/10/12/forward-decal-rendering/)
 * [Visibility Buffer Rendering With Material Graphs (Blog Post)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
 * [The Visibility Buffer: A Cache-Friendly Approach to Deferred Shading (Paper)](http://jcgt.org/published/0002/02/04/)
-* [Visibility Buffer Rendering Approaches and Benefits (Blog Series)](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
 * [A Primer On Efficient Rendering Algorithms & Clustered Shading. (Blog Post)](http://www.aortiz.me/2018/12/21/CG.html)
 * [Non-interleaved Deferred Shading of Interleaved Sample Patterns (Paper)](https://liris.cnrs.fr/Documents/Liris-2476.pdf)
 * [Adventures with Deferred Texturing in Horizon Forbidden West (Blog Post)](https://www.guerrilla-games.com/read/adventures-with-deferred-texturing-in-horizon-forbidden-west)
@@ -337,8 +335,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 
 * [Molecular Matters - Stateless Threaded Rendering Series](https://blog.molecular-matters.com/2014/11/06/stateless-layered-multi-threaded-rendering-part-1/)
 * [Molecular Matters - DoD Series](https://blog.molecular-matters.com/2011/11/03/adventures-in-data-oriented-design-part-1-mesh-data-3/)
-* [High-level rendering using render graphs (Blog Post)](https://ourmachinery.com/post/high-level-rendering-using-render-graphs/)
-* [Framegraphs extensible render framework in frostbite (Slides)](https://www.ea.com/frostbite/news/framegraph-extensible-rendering-architecture-in-frostbite)
 * [Rendering Abstraction Layers (Blog Post)](http://alextardif.com/RenderingAbstractionLayers.html)
 * [How (not) to test graphics code (Blog Post)](https://bartwronski.com/2019/08/14/how-not-to-test-graphics-algorithms/)
 * [My toy renderer: Overview (Blog Series)](https://momentsingraphics.de/ToyRendererOverview.html)
@@ -616,6 +612,13 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Shadertoy](https://www.shadertoy.com/)
 * [Shdr Editor](http://shdr.bkcore.com/)
 * [Shader Frog](https://shaderfrog.com/)
+
+### Render Graphs
+
+* [Render graphs and Vulkan — a deep dive (Blog Post)](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+* [An update to our Render Graph - Traverse Research (Blog Post)](https://blog.traverseresearch.nl/an-update-to-our-render-graph-17ca4154fd23)
+* [High-level rendering using render graphs (Blog Post)](https://ourmachinery.com/post/high-level-rendering-using-render-graphs/)
+* [Framegraphs extensible render framework in frostbite (Slides)](https://www.ea.com/frostbite/news/framegraph-extensible-rendering-architecture-in-frostbite)
 
 ## Floating Point
 
