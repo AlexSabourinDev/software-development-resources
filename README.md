@@ -570,6 +570,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Efficient GPU Screen-Space Ray Tracing (Paper)](https://jcgt.org/published/0003/04/04/paper.pdf)
 * [Creating a Directed Acyclic Graph from a Mesh (Blog Post)](https://blog.traverseresearch.nl/creating-a-directed-acyclic-graph-from-a-mesh-1329e57286e5)
 * [Low-level thinking in high-level shading languages 2023 (Blog Post)](https://interplayoflight.wordpress.com/2023/12/29/low-level-thinking-in-high-level-shading-languages-2023/)
+* [High Performance Voxel Engine: Vertex Pooling (Blog Post)](https://nickmcd.me/2021/04/04/high-performance-voxel-engine/)
 
 ### Occlusion
 
