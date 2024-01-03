@@ -92,6 +92,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Thin triangle and other tricks (REVEALED!) (Blog Post)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
 * [Another View on the classic ray-aabb intersection algorithm for BVH traversal](https://medium.com/@bromanz/another-view-on-the-classic-ray-aabb-intersection-algorithm-for-bvh-traversal-41125138b525)
 * [Visualizing Variance (Blog Post)](http://perfdynamics.blogspot.com/2013/01/visualizing-variance.html)
+* [Implementing Needlets (Blog Post)](https://basesandframes.wordpress.com/2016/05/22/implementing-needlets/)
+* [Frames, Quadratures and Global Illumination: New Math for Games (Slides)](https://basesandframes.files.wordpress.com/2016/05/gdc2012-frames-sparsity-and-global-illumination-1.pdf)
 
 ## Game Design
 
