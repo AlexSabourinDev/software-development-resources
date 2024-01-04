@@ -483,6 +483,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting (Paper)](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.pdf)
 * [ReSTIR GI: Path Resampling for Real-Time Path Tracing (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/ReSTIR%20GI.pdf)
 * [A Gentler Introduction To ReSTIR (Blog Post)](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
+* [Dynamic diffuse global illumination (Blog Post)](https://blog.traverseresearch.nl/dynamic-diffuse-global-illumination-b56dc0525a0a)
 
 ### Cameras, Exposure, Tonemapping
 
@@ -775,6 +776,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A dive into the making of Immersion (Blog Post)](https://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion/)
 * [Making floating point numbers smaller (Blog Post)](https://www.ctrl-alt-test.fr/2018/making-floating-point-numbers-smaller/)
 * [How can demoscene productions be so small? (Blog Post)](https://www.ctrl-alt-test.fr/2017/how-can-demoscene-productions-be-so-small/)
+* [OMBRE Dev-Blog Year 1 (Blog Post)](https://www.froyok.fr/blog/2023-12-ombre-dev-blog-1/)
 
 ## Unity
 
