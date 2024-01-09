@@ -327,6 +327,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [RE: 2023 - New Rendering Features Rundown, SDFs (Video)](https://www.youtube.com/watch?v=aEpklsGKVmQ)
 * [Ray tracing animated crowds (Blog Post)](https://blog.traverseresearch.nl/ray-tracing-animated-crowds-bc0e775c74ad)
 * [Beyond SAH — Building Optimal BVHs (Blog Post)](https://blog.traverseresearch.nl/beyond-sah-building-optimal-bvhs-fdef1878d6ed)
+* [Improving raytracing performance with the Radeon™ Raytracing Analyzer (RRA) (Blog Post)](https://gpuopen.com/learn/improving-rt-perf-with-rra/)
 
 ### Blue Noise
 
