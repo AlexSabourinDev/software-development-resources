@@ -146,6 +146,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Subtle Dangers of Temporaries in for Loops (Blog Post)](https://www.fluentcpp.com/2021/05/22/the-subtle-dangers-of-temporaries-in-for-loops/)
 * [Incrementing Vectors (Blog Post)](https://travisdowns.github.io/blog/2019/08/26/vector-inc.html)
 * [The C++20 Naughty and Nice List for Game Devs (Blog Post)](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/)
+* [Optimizing the unoptimizable: a journey to faster C++ compile times (Blog Post)](https://vitaut.net/posts/2024/faster-cpp-compile-times/)
 
 ### C Sharp
 
@@ -777,6 +778,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Making floating point numbers smaller (Blog Post)](https://www.ctrl-alt-test.fr/2018/making-floating-point-numbers-smaller/)
 * [How can demoscene productions be so small? (Blog Post)](https://www.ctrl-alt-test.fr/2017/how-can-demoscene-productions-be-so-small/)
 * [OMBRE Dev-Blog Year 1 (Blog Post)](https://www.froyok.fr/blog/2023-12-ombre-dev-blog-1/)
+* [Speed up your code: don't pass structs bigger than 16 bytes on AMD64 (Blog Post)](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
+* [Handle Lookup Container (Sparse Set) (Blog Post)](https://tomhultonharrop.com/c++/lookup/handle/2024/01/07/handle-lookup-container.html)
 
 ## Unity
 
