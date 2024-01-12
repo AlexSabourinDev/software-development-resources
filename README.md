@@ -359,6 +359,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Half The Precision, Twice The Fun: Working With FP16 In HLSL (Blog Post)](https://therealmjp.github.io/posts/shader-fp16/)
 * [Floating-point in mobile shaders (Blog Post)](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
 * [Interlocked min/max on HLSL single precision floats (Blog Post)](https://www.jeremyong.com/graphics/2023/09/05/f32-interlocked-min-max-hlsl/)
+* [Shader Printf in HLSL and DX12 (Blog Post)](https://therealmjp.github.io/posts/hlsl-printf/)
 
 #### Compute Shaders
 
