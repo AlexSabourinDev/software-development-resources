@@ -242,6 +242,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Premultiplied Alpha (Blog Post)](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
 * [Order independent transparency, part 1 (Blog Post)](https://interplayoflight.wordpress.com/2022/06/25/order-independent-transparency-part-1/)
 * [Moment-Based Order-Independent Transparency (Paper)](https://momentsingraphics.de/Media/I3D2018/Muenstermann2018-MBOIT.pdf)
+* [Channeling Alpha (Blog Post)](https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa)
 
 ### GPU Architecture
 
@@ -782,6 +783,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [OMBRE Dev-Blog Year 1 (Blog Post)](https://www.froyok.fr/blog/2023-12-ombre-dev-blog-1/)
 * [Speed up your code: don't pass structs bigger than 16 bytes on AMD64 (Blog Post)](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [Handle Lookup Container (Sparse Set) (Blog Post)](https://tomhultonharrop.com/c++/lookup/handle/2024/01/07/handle-lookup-container.html)
+* [Micro-optimizations in Kotlin (Blog Series)](https://www.romainguy.dev/posts/2024/micro-optimizations-in-kotlin-1/)
 
 ## Unity
 
