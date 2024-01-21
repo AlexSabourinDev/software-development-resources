@@ -580,6 +580,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Low-level thinking in high-level shading languages 2023 (Blog Post)](https://interplayoflight.wordpress.com/2023/12/29/low-level-thinking-in-high-level-shading-languages-2023/)
 * [High Performance Voxel Engine: Vertex Pooling (Blog Post)](https://nickmcd.me/2021/04/04/high-performance-voxel-engine/)
 * [Schneider VFX Portfolio (Lots of cloud research) (Blog Post)](https://www.schneidervfx.com/)
+* [Recreating Nanite: LOD generation (Blog Post)](https://jglrxavpok.github.io/2024/01/19/recreating-nanite-lod-generation.html)
 
 ### Occlusion
 
