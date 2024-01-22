@@ -786,6 +786,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Speed up your code: don't pass structs bigger than 16 bytes on AMD64 (Blog Post)](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [Handle Lookup Container (Sparse Set) (Blog Post)](https://tomhultonharrop.com/c++/lookup/handle/2024/01/07/handle-lookup-container.html)
 * [Micro-optimizations in Kotlin (Blog Series)](https://www.romainguy.dev/posts/2024/micro-optimizations-in-kotlin-1/)
+* [The Hiring Post (Blog Post)](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 
 ## Unity
 
