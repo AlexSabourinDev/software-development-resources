@@ -397,6 +397,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Task shader driver implementation on AMD HW (Blog Post)](https://timur.hu/blog/2022/how-task-shaders-are-implemented)
 * [Performance Comparison of Meshlet Generation Strategies (Paper)](https://jcgt.org/published/0012/02/01/)
 * [Mesh Shaders on RDNA™ Graphics Cards (Blog Post)](https://gpuopen.com/learn/mesh-shaders-on-rdna-graphics-cards/?utm_source=mastodon&utm_medium=social&utm_campaign=mesh-shaders-on-rdna)
+* [Modernizing Granite’s mesh rendering (Blog Post)](https://themaister.net/blog/2024/01/17/modernizing-granites-mesh-rendering/)
 
 ### Lighting/Shading
 
