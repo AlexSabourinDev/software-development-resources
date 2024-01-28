@@ -362,6 +362,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Interlocked min/max on HLSL single precision floats (Blog Post)](https://www.jeremyong.com/graphics/2023/09/05/f32-interlocked-min-max-hlsl/)
 * [Shader Printf in HLSL and DX12 (Blog Post)](https://therealmjp.github.io/posts/hlsl-printf/)
 * [HLSL Constant Buffer Packing Rules (Blog Post)](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
+* [Khronos Releases Maximal Reconvergence and Quad Control Extensions for Vulkan and SPIR-V (Blog Post)](https://www.khronos.org/blog/khronos-releases-maximal-reconvergence-and-quad-control-extensions-for-vulkan-and-spir-v)
 
 #### Compute Shaders
 
@@ -398,6 +399,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Performance Comparison of Meshlet Generation Strategies (Paper)](https://jcgt.org/published/0012/02/01/)
 * [Mesh Shaders on RDNA™ Graphics Cards (Blog Post)](https://gpuopen.com/learn/mesh-shaders-on-rdna-graphics-cards/?utm_source=mastodon&utm_medium=social&utm_campaign=mesh-shaders-on-rdna)
 * [Modernizing Granite’s mesh rendering (Blog Post)](https://themaister.net/blog/2024/01/17/modernizing-granites-mesh-rendering/)
+* [Optimization and best practices (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-optimization_and_best_practices/)
 
 ### Lighting/Shading
 
