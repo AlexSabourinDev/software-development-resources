@@ -279,6 +279,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [GPU Hang Exploration: Splitgate (Blog Post)](https://pixelcluster.github.io/Hang-Exploration-Splitgate/)
 * [Explore GPU advancements in M3 and A17 Pro (Video)](https://developer.apple.com/videos/play/tech-talks/111375)
 * [Occupancy explained (Blog Post)](https://gpuopen.com/learn/occupancy-explained/)
+* [Examining AMD’s RDNA 4 Changes in LLVM (Blog Post)](https://chipsandcheese.com/2024/01/28/examining-amds-rdna-4-changes-in-llvm/)
 
 ### Code
 
