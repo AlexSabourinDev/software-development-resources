@@ -585,6 +585,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [High Performance Voxel Engine: Vertex Pooling (Blog Post)](https://nickmcd.me/2021/04/04/high-performance-voxel-engine/)
 * [Schneider VFX Portfolio (Lots of cloud research) (Blog Post)](https://www.schneidervfx.com/)
 * [Recreating Nanite: LOD generation (Blog Post)](https://jglrxavpok.github.io/2024/01/19/recreating-nanite-lod-generation.html)
+* [Occluding Contour Breakthroughs (Blog Post)](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 
 ### Occlusion
 
