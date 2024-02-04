@@ -94,6 +94,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Visualizing Variance (Blog Post)](http://perfdynamics.blogspot.com/2013/01/visualizing-variance.html)
 * [Implementing Needlets (Blog Post)](https://basesandframes.wordpress.com/2016/05/22/implementing-needlets/)
 * [Frames, Quadratures and Global Illumination: New Math for Games (Slides)](https://basesandframes.files.wordpress.com/2016/05/gdc2012-frames-sparsity-and-global-illumination-1.pdf)
+* [Don't Use Moving Averages (Blog Post)](https://observablehq.com/d/a51954c61a72e1ef)
 
 ## Game Design
 
@@ -587,6 +588,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Recreating Nanite: LOD generation (Blog Post)](https://jglrxavpok.github.io/2024/01/19/recreating-nanite-lod-generation.html)
 * [Occluding Contour Breakthroughs (Blog Post)](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [Dead Space Remake - Environmental Shaders (Blog Post)](https://www.artstation.com/artwork/elPxyw)
+* [Breakdown: Syndicate (2012) (Blog Post)](https://www.froyok.fr/blog/2024-01-breakdown-syndicate/)
 
 ### Occlusion
 
@@ -793,6 +795,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Handle Lookup Container (Sparse Set) (Blog Post)](https://tomhultonharrop.com/c++/lookup/handle/2024/01/07/handle-lookup-container.html)
 * [Micro-optimizations in Kotlin (Blog Series)](https://www.romainguy.dev/posts/2024/micro-optimizations-in-kotlin-1/)
 * [The Hiring Post (Blog Post)](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
+* [No one can teach you to have conviction (Blog Post)](https://www.benkuhn.net/conviction/)
+* [My favourite Git commit (Blog Post)](https://dhwthompson.com/2019/my-favourite-git-commit)
 
 ## Unity
 
