@@ -586,6 +586,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Schneider VFX Portfolio (Lots of cloud research) (Blog Post)](https://www.schneidervfx.com/)
 * [Recreating Nanite: LOD generation (Blog Post)](https://jglrxavpok.github.io/2024/01/19/recreating-nanite-lod-generation.html)
 * [Occluding Contour Breakthroughs (Blog Post)](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
+* [Dead Space Remake - Environmental Shaders (Blog Post)](https://www.artstation.com/artwork/elPxyw)
 
 ### Occlusion
 
