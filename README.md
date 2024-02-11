@@ -591,6 +591,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Occluding Contour Breakthroughs (Blog Post)](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [Dead Space Remake - Environmental Shaders (Blog Post)](https://www.artstation.com/artwork/elPxyw)
 * [Breakdown: Syndicate (2012) (Blog Post)](https://www.froyok.fr/blog/2024-01-breakdown-syndicate/)
+* [ExileCon Dev Talk - Evolving Path of Exile's Renderer (Video)](https://www.youtube.com/watch?v=whyJzrVEgVc)
 
 ### Occlusion
 
