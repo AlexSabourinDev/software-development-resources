@@ -216,6 +216,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [GPU BCn Decoding (Blog Post)](https://fgiesen.wordpress.com/2021/10/04/gpu-bcn-decoding/)
 * [Texture Tiling And Swizzling (Blog Post)](https://github.com/rygorous/rygblog-src/blob/master/posts/texture-tiling-and-swizzling.md)
 * [Lossless Image Compression in O(n) Time (Blog Post)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+* [An Introduction To BCn Texture Compression, Part 1: BC4 (Blog Post)](https://acefanatic02.github.io/posts/intro_bcn_part1/)
 
 ### Colors
 
@@ -224,6 +225,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [RGBM Color Encoding (Blog Post)](http://graphicrants.blogspot.com/2009/04/rgbm-color-encoding.html)
 * [The Hitchikers Guide To Digital Color (Website)](https://hg2dc.com/)
 * [Color Enhancement And Rendering In Film And Game Production (Slides)](https://renderwonk.com/publications/s2010-color-course/pines/s2010_color_pines_slides.pdf)
+* [The Apparent Simplicity of RGB Rendering (Blog Post)](https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering)
 
 ### Forward, Deferred, Visibility, Etc
 
