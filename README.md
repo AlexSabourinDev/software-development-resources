@@ -227,6 +227,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Color Enhancement And Rendering In Film And Game Production (Slides)](https://renderwonk.com/publications/s2010-color-course/pines/s2010_color_pines_slides.pdf)
 * [The Apparent Simplicity of RGB Rendering (Blog Post)](https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering)
 * [On Light, Colors, Mixing Paints, and Numerical Optimization. (Blog Post)](https://github.com/miciwan/PaintMixing)
+* [How video games use LUTs and how you can too (Blog Post)](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 
 ### Forward, Deferred, Visibility, Etc
 
@@ -284,6 +285,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Explore GPU advancements in M3 and A17 Pro (Video)](https://developer.apple.com/videos/play/tech-talks/111375)
 * [Occupancy explained (Blog Post)](https://gpuopen.com/learn/occupancy-explained/)
 * [Examining AMD’s RDNA 4 Changes in LLVM (Blog Post)](https://chipsandcheese.com/2024/01/28/examining-amds-rdna-4-changes-in-llvm/)
+* [Conformant OpenGL 4.6 on the M1 (Blog Post)](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 
 ### Code
 
