@@ -226,6 +226,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Hitchikers Guide To Digital Color (Website)](https://hg2dc.com/)
 * [Color Enhancement And Rendering In Film And Game Production (Slides)](https://renderwonk.com/publications/s2010-color-course/pines/s2010_color_pines_slides.pdf)
 * [The Apparent Simplicity of RGB Rendering (Blog Post)](https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering)
+* [On Light, Colors, Mixing Paints, and Numerical Optimization. (Blog Post)](https://github.com/miciwan/PaintMixing)
 
 ### Forward, Deferred, Visibility, Etc
 
@@ -592,6 +593,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Dead Space Remake - Environmental Shaders (Blog Post)](https://www.artstation.com/artwork/elPxyw)
 * [Breakdown: Syndicate (2012) (Blog Post)](https://www.froyok.fr/blog/2024-01-breakdown-syndicate/)
 * [ExileCon Dev Talk - Evolving Path of Exile's Renderer (Video)](https://www.youtube.com/watch?v=whyJzrVEgVc)
+* [Animation Blend Spaces without Triangulation (Blog Post)](https://theorangeduck.com/page/animation-blend-spaces-without-triangulation)
 
 ### Occlusion
 
@@ -733,6 +735,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Why Is A Store Load Barrier Considered Expensive? (Stack Overflow)](https://stackoverflow.com/questions/27475025/why-is-a-store-load-barrier-considered-expensive)
 * [Does Lock xchg Have The Same Behaviour As mfence? (Stack Overflow)](https://stackoverflow.com/questions/40409297/does-lock-xchg-have-the-same-behavior-as-mfence)
 * [What is RCU? -- "Read, Copy, Update" (Blog Post)](https://www.kernel.org/doc/html/next/RCU/whatisRCU.html)
+* [A Deep dive into (implicit) Thread Local Storage (Blog Post)](https://chao-tic.github.io/blog/2018/12/25/tls)
 
 ## Sound
 
