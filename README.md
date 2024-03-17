@@ -596,6 +596,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Breakdown: Syndicate (2012) (Blog Post)](https://www.froyok.fr/blog/2024-01-breakdown-syndicate/)
 * [ExileCon Dev Talk - Evolving Path of Exile's Renderer (Video)](https://www.youtube.com/watch?v=whyJzrVEgVc)
 * [Animation Blend Spaces without Triangulation (Blog Post)](https://theorangeduck.com/page/animation-blend-spaces-without-triangulation)
+* [Hash Functions for GPU Rendering (Blog Post)](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/)
+* [About fast 2D CDF construction (Blog Post)](https://maxliani.wordpress.com/2024/03/09/about-fast-2d-cdf-construction/)
 
 ### Occlusion
 
