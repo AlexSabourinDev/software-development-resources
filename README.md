@@ -809,6 +809,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Hiring Post (Blog Post)](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 * [No one can teach you to have conviction (Blog Post)](https://www.benkuhn.net/conviction/)
 * [My favourite Git commit (Blog Post)](https://dhwthompson.com/2019/my-favourite-git-commit)
+* [Memory Allocation Strategies (Blog Series)](https://www.gingerbill.org/series/memory-allocation-strategies/)
 
 ## Unity
 
