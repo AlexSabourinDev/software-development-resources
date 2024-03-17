@@ -598,6 +598,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Animation Blend Spaces without Triangulation (Blog Post)](https://theorangeduck.com/page/animation-blend-spaces-without-triangulation)
 * [Hash Functions for GPU Rendering (Blog Post)](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/)
 * [About fast 2D CDF construction (Blog Post)](https://maxliani.wordpress.com/2024/03/09/about-fast-2d-cdf-construction/)
+* [Rotation with three shears (Blog Post)](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 
 ### Occlusion
 
