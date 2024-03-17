@@ -599,6 +599,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Hash Functions for GPU Rendering (Blog Post)](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/)
 * [About fast 2D CDF construction (Blog Post)](https://maxliani.wordpress.com/2024/03/09/about-fast-2d-cdf-construction/)
 * [Rotation with three shears (Blog Post)](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
+* [Font and vector art rendering with mesh shaders (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-font_and_vector_art_rendering_with_mesh_shaders/)
 
 ### Occlusion
 
