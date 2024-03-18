@@ -828,3 +828,4 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Unreal Engine Substrate: Authoring Materials That Matter (Slides)](https://advances.realtimerendering.com/s2023/2023%20Siggraph%20-%20Substrate.pdf)
 * [Render Dependency Graph (Documentation)](https://docs.unrealengine.com/5.1/en-US/render-dependency-graph-in-unreal-engine/)
 * [Optimizing Shaders in Unreal Engine (Blog Post)](https://calvinatorrtech.art.blog/2023/12/20/optimizing-shaders-in-unreal-engine/)
+* [RDG 101 (Slides)](https://epicgames.ent.box.com/s/ul1h44ozs0t2850ug0hrohlzm53kxwrz)
