@@ -408,6 +408,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Mesh Shaders on RDNA™ Graphics Cards (Blog Post)](https://gpuopen.com/learn/mesh-shaders-on-rdna-graphics-cards/?utm_source=mastodon&utm_medium=social&utm_campaign=mesh-shaders-on-rdna)
 * [Modernizing Granite’s mesh rendering (Blog Post)](https://themaister.net/blog/2024/01/17/modernizing-granites-mesh-rendering/)
 * [Optimization and best practices (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-optimization_and_best_practices/)
+* [Procedural grass rendering (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-procedural_grass_rendering/)
 
 ### Lighting/Shading
 
@@ -601,6 +602,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [About fast 2D CDF construction (Blog Post)](https://maxliani.wordpress.com/2024/03/09/about-fast-2d-cdf-construction/)
 * [Rotation with three shears (Blog Post)](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [Font and vector art rendering with mesh shaders (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-font_and_vector_art_rendering_with_mesh_shaders/)
+* [GPU Programming Primitives for Computer Graphics (Slides)](https://gpu-primitives-course.github.io/sa-course-notes.pdf)
 
 ### Occlusion
 
@@ -811,6 +813,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [No one can teach you to have conviction (Blog Post)](https://www.benkuhn.net/conviction/)
 * [My favourite Git commit (Blog Post)](https://dhwthompson.com/2019/my-favourite-git-commit)
 * [Memory Allocation Strategies (Blog Series)](https://www.gingerbill.org/series/memory-allocation-strategies/)
+* [Bringing Verse Transactional Memory Semantics to C++ (Blog Post)](https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c)
 
 ## Unity
 
