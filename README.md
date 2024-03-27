@@ -815,6 +815,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Memory Allocation Strategies (Blog Series)](https://www.gingerbill.org/series/memory-allocation-strategies/)
 * [Bringing Verse Transactional Memory Semantics to C++ (Blog Post)](https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c)
 * [Debugging as a Process of Isolating Assumptions (Blog Post)](https://debugagent.com/debugging-as-a-process-of-isolating-assumptions)
+* [Learning to Debug: Stop Making Assumptions (Blog Post)](https://drupalize.me/blog/learning-debug-stop-making-assumptions)
 
 ## Unity
 
