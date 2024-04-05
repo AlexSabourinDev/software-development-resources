@@ -700,6 +700,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Significance Of The x86 lfence Instruction (Blog Post)](https://hadibrais.wordpress.com/2018/05/14/the-significance-of-the-x86-lfence-instruction/)
 * [Why Use LEA instead of ADD (Stack Overflow Answer)](https://stackoverflow.com/a/6328441)
 * [Using the LEA instruction for arbitrary arithmetic (Blog Post)](https://handmade.network/forums/articles/t/7111-using_the_lea_instruction_for_arbitrary_arithmetic)
+* [Why x86 Doesn’t Need to Die (Blog Post)](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 
 ### Optimizations
 
@@ -745,6 +746,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Does Lock xchg Have The Same Behaviour As mfence? (Stack Overflow)](https://stackoverflow.com/questions/40409297/does-lock-xchg-have-the-same-behavior-as-mfence)
 * [What is RCU? -- "Read, Copy, Update" (Blog Post)](https://www.kernel.org/doc/html/next/RCU/whatisRCU.html)
 * [A Deep dive into (implicit) Thread Local Storage (Blog Post)](https://chao-tic.github.io/blog/2018/12/25/tls)
+* [Condvars and atomics do not mix (Blog Post)](https://zeux.io/2024/03/23/condvars-atomic/)
 
 ## Sound
 
