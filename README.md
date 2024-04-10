@@ -47,7 +47,7 @@ A collection of links for various fields of software development (Mostlt Graphic
   * [Cameras, Exposure, Tonemapping](#cameras-exposure-tonemapping)
   * [Misc](#misc-1)
   * [Occlusion](#occlusion)
-  * [Sky Lighting](#sky-lighting)
+  * [Atmosphere/Clouds](#atmosphereclouds)
   * [Depth](#depth)
   * [Signed Distance Fields](#signed-distance-fields)
   * [Tutorials](#tutorials)
@@ -591,7 +591,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Creating a Directed Acyclic Graph from a Mesh (Blog Post)](https://blog.traverseresearch.nl/creating-a-directed-acyclic-graph-from-a-mesh-1329e57286e5)
 * [Low-level thinking in high-level shading languages 2023 (Blog Post)](https://interplayoflight.wordpress.com/2023/12/29/low-level-thinking-in-high-level-shading-languages-2023/)
 * [High Performance Voxel Engine: Vertex Pooling (Blog Post)](https://nickmcd.me/2021/04/04/high-performance-voxel-engine/)
-* [Schneider VFX Portfolio (Lots of cloud research) (Blog Post)](https://www.schneidervfx.com/)
 * [Recreating Nanite: LOD generation (Blog Post)](https://jglrxavpok.github.io/2024/01/19/recreating-nanite-lod-generation.html)
 * [Occluding Contour Breakthroughs (Blog Post)](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [Dead Space Remake - Environmental Shaders (Blog Post)](https://www.artstation.com/artwork/elPxyw)
@@ -610,11 +609,14 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Two-Pass Occlusion Culling (Blog Post)](https://medium.com/@mil_kru/two-pass-occlusion-culling-4100edcad501)
 * [GPU based occlusion culling (Blog Post)](https://interplayoflight.wordpress.com/2017/11/15/experiments-in-gpu-based-occlusion-culling/)
 
-### Sky Lighting
+### Atmosphere/Clouds
 
 * [Realistic Real-time Sky Dome Rendering in Gran Turismo 7 (Slides)](https://www.gdcvault.com/play/1029434/Advanced-Graphics-Summit-Realistic-Real)
 * [Assassin’s Creed 4: Black Flag - Lighting, Weather and Atmospheric Effects (slides)](https://bartwronski.files.wordpress.com/2014/05/assassin_s-creed-4-digital-dragons-2014-no_notes.pdf)
 * [Rendering The World Of Far Cry 4 (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2015/presentations/McAuley_Stephen_Rendering_the_World.pdf)
+* [Physically Based And Scalable Atmospheres In Unreal Engine (Slides)](https://blog.selfshadow.com/publications/s2020-shading-course/hillaire/s2020_pbs_hillaire_slides.pdf)
+* [A Scalable and Production Ready Sky and Atmosphere Rendering Technique (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf14050/v39i4pp013-022.pdf)
+* [Schneider VFX Portfolio (Lots of cloud research) (Blog Post)](https://www.schneidervfx.com/)
 
 ### Depth
 
