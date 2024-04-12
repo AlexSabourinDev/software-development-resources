@@ -206,6 +206,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [In-Game GPU Profiling for DirectX 12 Using SetBackgroundProcessingMode (Blog Post)](https://developer.nvidia.com/blog/in-game-gpu-profiling-for-dx12-using-setbackgroundprocessingmode/)
 * [Tier 2 Variable Rate Shading in Gears (Video)](https://www.youtube.com/watch?v=-exWLpgnOJ4)
 * [Work Graphs in Direct3D 12: A Case Study of Deferred Shading (Blog Post)](https://developer.nvidia.com/blog/work-graphs-in-direct3d-12-a-case-study-of-deferred-shading/)
+* [Copy Queue Woes (Blog Post)](http://danglingpointers.com/post/copy-queues/)
 
 ### Textures And Compression
 
@@ -287,6 +288,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Occupancy explained (Blog Post)](https://gpuopen.com/learn/occupancy-explained/)
 * [Examining AMD’s RDNA 4 Changes in LLVM (Blog Post)](https://chipsandcheese.com/2024/01/28/examining-amds-rdna-4-changes-in-llvm/)
 * [Conformant OpenGL 4.6 on the M1 (Blog Post)](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
+* [Meshlet triangle locality matters (Blog Post)](https://zeux.io/2024/04/09/meshlet-triangle-locality/)
 
 ### Code
 
