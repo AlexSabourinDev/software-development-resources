@@ -288,7 +288,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Occupancy explained (Blog Post)](https://gpuopen.com/learn/occupancy-explained/)
 * [Examining AMD’s RDNA 4 Changes in LLVM (Blog Post)](https://chipsandcheese.com/2024/01/28/examining-amds-rdna-4-changes-in-llvm/)
 * [Conformant OpenGL 4.6 on the M1 (Blog Post)](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
-* [Meshlet triangle locality matters (Blog Post)](https://zeux.io/2024/04/09/meshlet-triangle-locality/)
 
 ### Code
 
@@ -411,6 +410,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Modernizing Granite’s mesh rendering (Blog Post)](https://themaister.net/blog/2024/01/17/modernizing-granites-mesh-rendering/)
 * [Optimization and best practices (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-optimization_and_best_practices/)
 * [Procedural grass rendering (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-procedural_grass_rendering/)
+* [Meshlet triangle locality matters (Blog Post)](https://zeux.io/2024/04/09/meshlet-triangle-locality/)
 
 ### Lighting/Shading
 
@@ -604,6 +604,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Rotation with three shears (Blog Post)](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [Font and vector art rendering with mesh shaders (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-font_and_vector_art_rendering_with_mesh_shaders/)
 * [GPU Programming Primitives for Computer Graphics (Slides)](https://gpu-primitives-course.github.io/sa-course-notes.pdf)
+* [Recreating Nanite: Runtime LOD selection (Blog Post)](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html)
 
 ### Occlusion
 
