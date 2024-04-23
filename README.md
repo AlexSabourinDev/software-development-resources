@@ -606,6 +606,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Font and vector art rendering with mesh shaders (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-font_and_vector_art_rendering_with_mesh_shaders/)
 * [GPU Programming Primitives for Computer Graphics (Slides)](https://gpu-primitives-course.github.io/sa-course-notes.pdf)
 * [Recreating Nanite: Runtime LOD selection (Blog Post)](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html)
+* [Physically Based - Material Parameter Website (Website)](https://physicallybased.info/)
 
 ### Occlusion
 
