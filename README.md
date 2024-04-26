@@ -373,6 +373,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Shader Printf in HLSL and DX12 (Blog Post)](https://therealmjp.github.io/posts/hlsl-printf/)
 * [HLSL Constant Buffer Packing Rules (Blog Post)](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
 * [Khronos Releases Maximal Reconvergence and Quad Control Extensions for Vulkan and SPIR-V (Blog Post)](https://www.khronos.org/blog/khronos-releases-maximal-reconvergence-and-quad-control-extensions-for-vulkan-and-spir-v)
+* [Re-converging control flow on NVIDIA GPUs - What went wrong, and how we fixed it (Blog Post)](https://www.collabora.com/news-and-blog/blog/2024/04/25/re-converging-control-flow-on-nvidia-gpus/)
 
 #### Compute Shaders
 
@@ -844,3 +845,4 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Render Dependency Graph (Documentation)](https://docs.unrealengine.com/5.1/en-US/render-dependency-graph-in-unreal-engine/)
 * [Optimizing Shaders in Unreal Engine (Blog Post)](https://calvinatorrtech.art.blog/2023/12/20/optimizing-shaders-in-unreal-engine/)
 * [RDG 101 (Slides)](https://epicgames.ent.box.com/s/ul1h44ozs0t2850ug0hrohlzm53kxwrz)
+* [Take a deep dive into Nanite GPU-driven materials (Slides)](https://www.unrealengine.com/en-US/blog/take-a-deep-dive-into-nanite-gpu-driven-materials)
