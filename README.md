@@ -345,6 +345,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Distributing Monte Carlo errors as Blue Noise in Screen Space - Part 1 (Blog Post)](https://gamehacker1999.github.io/posts/bluenoiseerrors/)
 * [What the heck is blue noise? (Blog Post)](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
 * [Spatio-Temporal Blue Noise (Video)](https://www.youtube.com/watch?v=4nM2FbLnOqQ)
+* [Sample Elimination for Generating Poisson Disk Sample Sets (Paper)](http://www.cemyuksel.com/research/sampleelimination/sampleelimination.pdf)
 
 ### Graphics Codebases
 
