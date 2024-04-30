@@ -289,6 +289,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Occupancy explained (Blog Post)](https://gpuopen.com/learn/occupancy-explained/)
 * [Examining AMD’s RDNA 4 Changes in LLVM (Blog Post)](https://chipsandcheese.com/2024/01/28/examining-amds-rdna-4-changes-in-llvm/)
 * [Conformant OpenGL 4.6 on the M1 (Blog Post)](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
+* [Understanding Memory Coalescing on GCN (Blog Post)](https://gpuopen.com/learn/gcn-memory-coalescing/)
 
 ### Code
 
@@ -827,6 +828,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Bringing Verse Transactional Memory Semantics to C++ (Blog Post)](https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c)
 * [Debugging as a Process of Isolating Assumptions (Blog Post)](https://debugagent.com/debugging-as-a-process-of-isolating-assumptions)
 * [Learning to Debug: Stop Making Assumptions (Blog Post)](https://drupalize.me/blog/learning-debug-stop-making-assumptions)
+* [Leaving Rust gamedev after 3 years (Blog Post)](https://loglog.games/blog/leaving-rust-gamedev/)
 
 ## Unity
 
