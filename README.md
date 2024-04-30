@@ -453,6 +453,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Dynamic Many-Light Sampling for Real-Time Ray Tracing (Paper)](https://pdfs.semanticscholar.org/c201/a72c707d96c9fed65aad5f481443041d9de9.pdf)
 * [Importance Sampling of Many Lights with Adaptive Tree Splitting (Paper)](http://www.aconty.com/pdf/many-lights-hpg2018.pdf)
 * [Geometric Derivation of the Irradiance of Polygonal Lights (Paper)](https://hal.archives-ouvertes.fr/hal-01458129/document)
+* [Thoughts on light culling: stream compaction vs flat bit arrays (Blog Post)](https://wickedengine.net/2019/02/thoughts-on-light-culling-stream-compaction-vs-flat-bit-arrays/)
 
 #### BRDFs
 
