@@ -125,6 +125,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [C Isn't A Programming Language Anymore (Blog Post)](https://faultlore.com/blah/c-isnt-a-language/)
 * [How can a program survive a corrupted stack? (Blog Post)](https://devblogs.microsoft.com/oldnewthing/20040116-00/?p=41023)
 * [To Save C, We Must Save ABI (Blog Post)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
+* [The Purpose of memory_order_consume in C++11 (Blog Post)](https://preshing.com/20140709/the-purpose-of-memory_order_consume-in-cpp11/)
 
 ### C plus plus
 
@@ -612,6 +613,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [GPU Programming Primitives for Computer Graphics (Slides)](https://gpu-primitives-course.github.io/sa-course-notes.pdf)
 * [Recreating Nanite: Runtime LOD selection (Blog Post)](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html)
 * [Physically Based - Material Parameter Website (Website)](https://physicallybased.info/)
+* [The Shader graph contract (Blog Post)](https://apoorvaj.io/the-shader-graph-contract/)
 
 ### Occlusion
 
@@ -831,6 +833,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Debugging as a Process of Isolating Assumptions (Blog Post)](https://debugagent.com/debugging-as-a-process-of-isolating-assumptions)
 * [Learning to Debug: Stop Making Assumptions (Blog Post)](https://drupalize.me/blog/learning-debug-stop-making-assumptions)
 * [Leaving Rust gamedev after 3 years (Blog Post)](https://loglog.games/blog/leaving-rust-gamedev/)
+* [Readability of Optimized Kotlin Code (Blog Post)](https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
 
 ## Unity
 
