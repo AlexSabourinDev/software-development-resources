@@ -614,6 +614,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Recreating Nanite: Runtime LOD selection (Blog Post)](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html)
 * [Physically Based - Material Parameter Website (Website)](https://physicallybased.info/)
 * [The Shader graph contract (Blog Post)](https://apoorvaj.io/the-shader-graph-contract/)
+* [Constant Time Stateless Shuffling and Grouping (Blog Post)](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
 
 ### Occlusion
 
