@@ -835,6 +835,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Learning to Debug: Stop Making Assumptions (Blog Post)](https://drupalize.me/blog/learning-debug-stop-making-assumptions)
 * [Leaving Rust gamedev after 3 years (Blog Post)](https://loglog.games/blog/leaving-rust-gamedev/)
 * [Readability of Optimized Kotlin Code (Blog Post)](https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
+* [Reversing Choplifter (Blog Post)](https://blondihacks.com/reversing-choplifter/)
+* [Lanczos Interpolation Explained (Blog Post)](https://mazzo.li/posts/lanczos.html)
 
 ## Unity
 
