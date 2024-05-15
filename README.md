@@ -837,6 +837,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Readability of Optimized Kotlin Code (Blog Post)](https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
 * [Reversing Choplifter (Blog Post)](https://blondihacks.com/reversing-choplifter/)
 * [Lanczos Interpolation Explained (Blog Post)](https://mazzo.li/posts/lanczos.html)
+* [What Factors Explain the Nature of Software? (Blog Post)](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 
 ## Unity
 
