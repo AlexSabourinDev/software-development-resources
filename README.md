@@ -615,6 +615,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Physically Based - Material Parameter Website (Website)](https://physicallybased.info/)
 * [The Shader graph contract (Blog Post)](https://apoorvaj.io/the-shader-graph-contract/)
 * [Constant Time Stateless Shuffling and Grouping (Blog Post)](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
+* [Filtering After Shading With Stochastic Texture Filtering (Paper)](https://research.nvidia.com/labs/rtr/publication/pharr2024stochtex/stochtex.pdf)
 
 ### Occlusion
 
