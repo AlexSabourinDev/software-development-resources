@@ -839,6 +839,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Reversing Choplifter (Blog Post)](https://blondihacks.com/reversing-choplifter/)
 * [Lanczos Interpolation Explained (Blog Post)](https://mazzo.li/posts/lanczos.html)
 * [What Factors Explain the Nature of Software? (Blog Post)](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
+* [Space Filling Curves (Blog Post)](https://bertvandenbroucke.netlify.app/2019/01/18/space-filling-curves/#:~:text=As%20a%20result%2C%20the%20distance,remains%20for%20higher%20level%20curves.)
 
 ## Unity
 
