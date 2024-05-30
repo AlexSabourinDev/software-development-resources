@@ -616,6 +616,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Shader graph contract (Blog Post)](https://apoorvaj.io/the-shader-graph-contract/)
 * [Constant Time Stateless Shuffling and Grouping (Blog Post)](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
 * [Filtering After Shading With Stochastic Texture Filtering (Paper)](https://research.nvidia.com/labs/rtr/publication/pharr2024stochtex/stochtex.pdf)
+* ["Super Imposter" shader: my journey to make a high quality imposter shader (Blog Post)](https://www.landontownsend.com/single-post/super-imposter-shader-my-journey-to-make-a-high-quality-imposter-shader)
+* [Sponza in a Millisecond (Software Rasterization) (Blog Post)](https://threadlocalmutex.com/?p=144)
 
 ### Occlusion
 
