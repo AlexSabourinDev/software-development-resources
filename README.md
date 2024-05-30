@@ -95,6 +95,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Implementing Needlets (Blog Post)](https://basesandframes.wordpress.com/2016/05/22/implementing-needlets/)
 * [Frames, Quadratures and Global Illumination: New Math for Games (Slides)](https://basesandframes.files.wordpress.com/2016/05/gdc2012-frames-sparsity-and-global-illumination-1.pdf)
 * [Don't Use Moving Averages (Blog Post)](https://observablehq.com/d/a51954c61a72e1ef)
+* [Followup: Normal Mapping Without Precomputed Tangents (Blog Post)](http://www.thetenthplanet.de/archives/1180)
 
 ## Game Design
 
