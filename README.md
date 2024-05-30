@@ -618,6 +618,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Filtering After Shading With Stochastic Texture Filtering (Paper)](https://research.nvidia.com/labs/rtr/publication/pharr2024stochtex/stochtex.pdf)
 * ["Super Imposter" shader: my journey to make a high quality imposter shader (Blog Post)](https://www.landontownsend.com/single-post/super-imposter-shader-my-journey-to-make-a-high-quality-imposter-shader)
 * [Sponza in a Millisecond (Software Rasterization) (Blog Post)](https://threadlocalmutex.com/?p=144)
+* [The Near Plane Is A Lie (Blog Post)](https://threadlocalmutex.com/?p=35)
 
 ### Occlusion
 
@@ -842,6 +843,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Lanczos Interpolation Explained (Blog Post)](https://mazzo.li/posts/lanczos.html)
 * [What Factors Explain the Nature of Software? (Blog Post)](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [Space Filling Curves (Blog Post)](https://bertvandenbroucke.netlify.app/2019/01/18/space-filling-curves/#:~:text=As%20a%20result%2C%20the%20distance,remains%20for%20higher%20level%20curves.)
+* [2D Hilbert curves in O(1) (Blog Post)](https://threadlocalmutex.com/?p=188)
 
 ## Unity
 
