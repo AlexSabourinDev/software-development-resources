@@ -620,6 +620,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * ["Super Imposter" shader: my journey to make a high quality imposter shader (Blog Post)](https://www.landontownsend.com/single-post/super-imposter-shader-my-journey-to-make-a-high-quality-imposter-shader)
 * [Sponza in a Millisecond (Software Rasterization) (Blog Post)](https://threadlocalmutex.com/?p=144)
 * [The Near Plane Is A Lie (Blog Post)](https://threadlocalmutex.com/?p=35)
+* [A Parallel Algorithm for Polygon Rasterization (Paper)](https://www.cs.drexel.edu/~deb39/Classes/Papers/comp175-06-pineda.pdf)
 
 ### Occlusion
 
