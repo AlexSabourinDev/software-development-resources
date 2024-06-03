@@ -96,6 +96,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Frames, Quadratures and Global Illumination: New Math for Games (Slides)](https://basesandframes.files.wordpress.com/2016/05/gdc2012-frames-sparsity-and-global-illumination-1.pdf)
 * [Don't Use Moving Averages (Blog Post)](https://observablehq.com/d/a51954c61a72e1ef)
 * [Followup: Normal Mapping Without Precomputed Tangents (Blog Post)](http://www.thetenthplanet.de/archives/1180)
+* [Normals and the Inverse Transpose, Part 1: Grass﻿mann Algebra (Blog Post)](https://www.reedbeta.com/blog/normals-inverse-transpose-part-1/)
+* [Normals and the Inverse Transpose, Part 2: Dual Spaces (Blog Post)](https://www.reedbeta.com/blog/normals-inverse-transpose-part-2/)
 
 ## Game Design
 
