@@ -870,3 +870,4 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Optimizing Shaders in Unreal Engine (Blog Post)](https://calvinatorrtech.art.blog/2023/12/20/optimizing-shaders-in-unreal-engine/)
 * [RDG 101 (Slides)](https://epicgames.ent.box.com/s/ul1h44ozs0t2850ug0hrohlzm53kxwrz)
 * [Take a deep dive into Nanite GPU-driven materials (Slides)](https://www.unrealengine.com/en-US/blog/take-a-deep-dive-into-nanite-gpu-driven-materials)
+* [UE4 Guide (Website)](https://ikrima.dev/ue4guide/)
