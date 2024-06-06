@@ -199,6 +199,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Improving shader performance with Vulkan’s specialization constants (Blog Post)](https://blogs.igalia.com/itoral/2018/03/20/improving-shader-performance-with-vulkans-specialization-constants/)
 * [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU (Blog Post)](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
 * [Writing an efficient Vulkan renderer (Blog Post)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
+* [Vulkan 1.3 on the M1 in 1 month (Blog Post)](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 
 ### DX12
 
