@@ -481,6 +481,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Sampling Visible GGX Normals with Spherical Caps (Paper)](https://arxiv.org/pdf/2306.05044.pdf)
 * [A Micrograin BSDF Model for the Rendering of Porous Layers (Paper)](https://hal.science/hal-04220006)
 * [Construction of a Microfacet Specular BSDF: A Geometric Approach (Blog Post)](https://zero-radiance.github.io/post/microfacet-specular/)
+* [Physically Based Shading on Mobile (Blog Post)](https://www.unrealengine.com/en-US/blog/physically-based-shading-on-mobile)
 
 ### Ambient Occlusion
 
