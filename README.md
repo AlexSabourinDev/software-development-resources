@@ -627,6 +627,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Near Plane Is A Lie (Blog Post)](https://threadlocalmutex.com/?p=35)
 * [A Parallel Algorithm for Polygon Rasterization (Paper)](https://www.cs.drexel.edu/~deb39/Classes/Papers/comp175-06-pineda.pdf)
 * [Triangle Scan Conversion using 2D Homogeneous Coordinates (Paper)](https://redirect.cs.umbc.edu/~olano/papers/2dh-tri/2dh-tri.pdf)
+* [Texture Streaming (Blog Post)](https://wickedengine.net/2024/06/texture-streaming/)
 
 ### Occlusion
 
