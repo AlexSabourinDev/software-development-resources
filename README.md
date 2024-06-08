@@ -200,6 +200,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU (Blog Post)](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
 * [Writing an efficient Vulkan renderer (Blog Post)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Vulkan 1.3 on the M1 in 1 month (Blog Post)](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
+* [How I learned Vulkan and wrote a small game engine with it (Blog Post)](https://edw.is/learning-vulkan/)
 
 ### DX12
 
