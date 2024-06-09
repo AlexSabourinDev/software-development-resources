@@ -98,6 +98,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Followup: Normal Mapping Without Precomputed Tangents (Blog Post)](http://www.thetenthplanet.de/archives/1180)
 * [Normals and the Inverse Transpose, Part 1: Grass﻿mann Algebra (Blog Post)](https://www.reedbeta.com/blog/normals-inverse-transpose-part-1/)
 * [Normals and the Inverse Transpose, Part 2: Dual Spaces (Blog Post)](https://www.reedbeta.com/blog/normals-inverse-transpose-part-2/)
+* [Math in Game Development Summit: A Visual Guide to Quaternions and Dual Quaternions (Video)](https://www.youtube.com/watch?v=en2QcehKJd8)
 
 ## Game Design
 
