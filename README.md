@@ -226,6 +226,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Texture Tiling And Swizzling (Blog Post)](https://github.com/rygorous/rygblog-src/blob/master/posts/texture-tiling-and-swizzling.md)
 * [Lossless Image Compression in O(n) Time (Blog Post)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 * [An Introduction To BCn Texture Compression, Part 1: BC4 (Blog Post)](https://acefanatic02.github.io/posts/intro_bcn_part1/)
+* [I3D'24 Technical Paper: Filtering After Shading with Stochastic Texture Filtering (Video)](https://www.youtube.com/watch?v=e3391_C6aXE)
 
 ### Colors
 
