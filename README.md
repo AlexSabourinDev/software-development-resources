@@ -878,3 +878,4 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [RDG 101 (Slides)](https://epicgames.ent.box.com/s/ul1h44ozs0t2850ug0hrohlzm53kxwrz)
 * [Take a deep dive into Nanite GPU-driven materials (Slides)](https://www.unrealengine.com/en-US/blog/take-a-deep-dive-into-nanite-gpu-driven-materials)
 * [UE4 Guide (Website)](https://ikrima.dev/ue4guide/)
+* [Nanite for Artists | GDC 2024 (Video)](https://www.youtube.com/watch?v=eoxYceDfKEM)
