@@ -857,6 +857,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Space Filling Curves (Blog Post)](https://bertvandenbroucke.netlify.app/2019/01/18/space-filling-curves/#:~:text=As%20a%20result%2C%20the%20distance,remains%20for%20higher%20level%20curves.)
 * [2D Hilbert curves in O(1) (Blog Post)](https://threadlocalmutex.com/?p=188)
 * [Simple vs. easy (Blog Post)](https://blog.s-schoener.com/2024-06-03-simplicity/)
+* [Porting Takua Renderer to 64-bit ARM (Blog Post)](https://blog.yiningkarlli.com/2021/05/porting-takua-to-arm-pt1.html#motivation)
 
 ## Unity
 
