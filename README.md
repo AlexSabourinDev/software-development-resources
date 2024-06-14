@@ -485,6 +485,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A Micrograin BSDF Model for the Rendering of Porous Layers (Paper)](https://hal.science/hal-04220006)
 * [Construction of a Microfacet Specular BSDF: A Geometric Approach (Blog Post)](https://zero-radiance.github.io/post/microfacet-specular/)
 * [Physically Based Shading on Mobile (Blog Post)](https://www.unrealengine.com/en-US/blog/physically-based-shading-on-mobile)
+* [Alternative Take on the Split Sum Approximation for Cubemap Pre-filtering (Blog Post)](https://zero-radiance.github.io/post/split-sum/)
 
 ### Ambient Occlusion
 
