@@ -634,6 +634,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Triangle Scan Conversion using 2D Homogeneous Coordinates (Paper)](https://redirect.cs.umbc.edu/~olano/papers/2dh-tri/2dh-tri.pdf)
 * [Texture Streaming (Blog Post)](https://wickedengine.net/2024/06/texture-streaming/)
 * [Resources Management Architecture in 4A Engine (Slides)](https://enginearchitecture.org/downloads/REAC_2024_4A.pdf)
+* [From microfacets to participating media: A unified theory of light transport with stochastic geometry (Paper)](https://cs.dartmouth.edu/~wjarosz/publications/seyb24from.html)
 
 ### Occlusion
 
