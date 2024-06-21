@@ -487,6 +487,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Construction of a Microfacet Specular BSDF: A Geometric Approach (Blog Post)](https://zero-radiance.github.io/post/microfacet-specular/)
 * [Physically Based Shading on Mobile (Blog Post)](https://www.unrealengine.com/en-US/blog/physically-based-shading-on-mobile)
 * [Alternative Take on the Split Sum Approximation for Cubemap Pre-filtering (Blog Post)](https://zero-radiance.github.io/post/split-sum/)
+* [Understanding the Masking-Shadowing Function in Microfacet-Based BRDFs (Paper)](https://jcgt.org/published/0003/02/03/)
 
 ### Ambient Occlusion
 
