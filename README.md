@@ -636,6 +636,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Texture Streaming (Blog Post)](https://wickedengine.net/2024/06/texture-streaming/)
 * [Resources Management Architecture in 4A Engine (Slides)](https://enginearchitecture.org/downloads/REAC_2024_4A.pdf)
 * [From microfacets to participating media: A unified theory of light transport with stochastic geometry (Paper)](https://cs.dartmouth.edu/~wjarosz/publications/seyb24from.html)
+* [SIGGRAPH 2020 — High Quality, High Performance Rendering in Filament (Video)](https://www.youtube.com/watch?v=gbeN4lcjJDA)
 
 ### Occlusion
 
