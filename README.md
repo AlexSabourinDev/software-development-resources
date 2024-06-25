@@ -864,6 +864,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [2D Hilbert curves in O(1) (Blog Post)](https://threadlocalmutex.com/?p=188)
 * [Simple vs. easy (Blog Post)](https://blog.s-schoener.com/2024-06-03-simplicity/)
 * [Porting Takua Renderer to 64-bit ARM (Blog Post)](https://blog.yiningkarlli.com/2021/05/porting-takua-to-arm-pt1.html#motivation)
+* [How To Design An ISA (Blog Post)](https://cacm.acm.org/practice/how-to-design-an-isa/)
 
 ## Unity
 
