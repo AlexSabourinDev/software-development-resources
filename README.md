@@ -216,6 +216,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Tier 2 Variable Rate Shading in Gears (Video)](https://www.youtube.com/watch?v=-exWLpgnOJ4)
 * [Work Graphs in Direct3D 12: A Case Study of Deferred Shading (Blog Post)](https://developer.nvidia.com/blog/work-graphs-in-direct3d-12-a-case-study-of-deferred-shading/)
 * [Copy Queue Woes (Blog Post)](http://danglingpointers.com/post/copy-queues/)
+* [A quick introduction to workgraphs (Blog Post)](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 
 ### Textures And Compression
 
