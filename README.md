@@ -867,6 +867,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Simple vs. easy (Blog Post)](https://blog.s-schoener.com/2024-06-03-simplicity/)
 * [Porting Takua Renderer to 64-bit ARM (Blog Post)](https://blog.yiningkarlli.com/2021/05/porting-takua-to-arm-pt1.html#motivation)
 * [How To Design An ISA (Blog Post)](https://cacm.acm.org/practice/how-to-design-an-isa/)
+* [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP) (Blog Post)](https://gamesfromwithin.com/data-oriented-design)
 
 ## Unity
 
