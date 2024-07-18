@@ -455,6 +455,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering (Paper)](https://www.jcgt.org/published/0010/02/02/paper-lowres.pdf)
 * [Moving Frostbite to PBR (PDF)](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/course-notes-moving-frostbite-to-pbr-v2.pdf)
 * [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines (Article)](https://eheitzresearch.wordpress.com/415-2/)
+* [Fresnel Equations Considered Harmful (Paper)](https://diglib.eg.org/server/api/core/bitstreams/726dc384-d7dd-4c0e-8806-eadec0ff3886/content)
 
 #### Lights
 
@@ -492,6 +493,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Alternative Take on the Split Sum Approximation for Cubemap Pre-filtering (Blog Post)](https://zero-radiance.github.io/post/split-sum/)
 * [Understanding the Masking-Shadowing Function in Microfacet-Based BRDFs (Paper)](https://jcgt.org/published/0003/02/03/)
 * [Improving Schlick’s Approximation of the Fresnel Equations (Blog Post)](https://www.photometric.io/blog/improving-schlicks-approximation/)
+* [Image Based Lighting Pre-Integration Exploration(Blog Post)](https://patapom.com/blog/BRDF/PreIntegration/)
 
 ### Ambient Occlusion
 
@@ -641,6 +643,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Resources Management Architecture in 4A Engine (Slides)](https://enginearchitecture.org/downloads/REAC_2024_4A.pdf)
 * [From microfacets to participating media: A unified theory of light transport with stochastic geometry (Paper)](https://cs.dartmouth.edu/~wjarosz/publications/seyb24from.html)
 * [SIGGRAPH 2020 — High Quality, High Performance Rendering in Filament (Video)](https://www.youtube.com/watch?v=gbeN4lcjJDA)
+* [Compute shader wave intrinsics tricks (Blog Post)](https://medium.com/@marehtcone/compute-shader-wave-intrinsics-tricks-e237ffb159ef)
 
 ### Occlusion
 
