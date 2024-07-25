@@ -456,6 +456,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Moving Frostbite to PBR (PDF)](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/course-notes-moving-frostbite-to-pbr-v2.pdf)
 * [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines (Article)](https://eheitzresearch.wordpress.com/415-2/)
 * [Fresnel Equations Considered Harmful (Paper)](https://diglib.eg.org/server/api/core/bitstreams/726dc384-d7dd-4c0e-8806-eadec0ff3886/content)
+* [Real-Time Rendering of Glossy Reflections Using Ray Tracing and Two-Level Radiance Caching (Paper)](https://gpuopen.com/download/publications/SA2023_RealTimeReflection.pdf)
 
 #### Lights
 
