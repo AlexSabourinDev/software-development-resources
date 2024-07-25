@@ -493,7 +493,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Alternative Take on the Split Sum Approximation for Cubemap Pre-filtering (Blog Post)](https://zero-radiance.github.io/post/split-sum/)
 * [Understanding the Masking-Shadowing Function in Microfacet-Based BRDFs (Paper)](https://jcgt.org/published/0003/02/03/)
 * [Improving Schlick’s Approximation of the Fresnel Equations (Blog Post)](https://www.photometric.io/blog/improving-schlicks-approximation/)
-* [Image Based Lighting Pre-Integration Exploration(Blog Post)](https://patapom.com/blog/BRDF/PreIntegration/)
+* [Image Based Lighting Pre-Integration Exploration (Blog Post)](https://patapom.com/blog/BRDF/PreIntegration/)
+* [A Practical Real-Time Model for Diffraction on Rough Surfaces (Paper)](https://www.jcgt.org/published/0013/01/01/)
 
 ### Ambient Occlusion
 
