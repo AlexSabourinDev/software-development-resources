@@ -645,6 +645,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [From microfacets to participating media: A unified theory of light transport with stochastic geometry (Paper)](https://cs.dartmouth.edu/~wjarosz/publications/seyb24from.html)
 * [SIGGRAPH 2020 — High Quality, High Performance Rendering in Filament (Video)](https://www.youtube.com/watch?v=gbeN4lcjJDA)
 * [Compute shader wave intrinsics tricks (Blog Post)](https://medium.com/@marehtcone/compute-shader-wave-intrinsics-tricks-e237ffb159ef)
+* [Foliage in AMD FidelityFX Brixelizer GI (Blog Post)](https://gpuopen.com/learn/brix-foliage-gi/brix-foliage-gi-index/)
 
 ### Occlusion
 
