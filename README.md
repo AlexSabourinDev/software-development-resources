@@ -878,6 +878,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP) (Blog Post)](https://gamesfromwithin.com/data-oriented-design)
 * [Big Ball of Mud (Paper)](http://laputan.org/mud/)
 * [Programming Stamina (Blog Post)](https://blog.s-schoener.com/2024-07-21-programming-stamina/)
+* [Unsafe read beyond of death (Blog Post)](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
 
 ## Unity
 
