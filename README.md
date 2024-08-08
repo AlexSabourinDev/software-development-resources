@@ -748,6 +748,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Why Use LEA instead of ADD (Stack Overflow Answer)](https://stackoverflow.com/a/6328441)
 * [Using the LEA instruction for arbitrary arithmetic (Blog Post)](https://handmade.network/forums/articles/t/7111-using_the_lea_instruction_for_arbitrary_arithmetic)
 * [Why x86 Doesn’t Need to Die (Blog Post)](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
+* [Implementation of an Out-of-order RISC-V Vector Unit- Roger Espasa, SemiDynamics Technology Services (Video)](https://www.youtube.com/watch?v=WzID6kk8RNs)
 
 ### Optimizations
 
