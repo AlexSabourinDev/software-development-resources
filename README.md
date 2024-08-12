@@ -457,6 +457,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines (Article)](https://eheitzresearch.wordpress.com/415-2/)
 * [Fresnel Equations Considered Harmful (Paper)](https://diglib.eg.org/server/api/core/bitstreams/726dc384-d7dd-4c0e-8806-eadec0ff3886/content)
 * [Real-Time Rendering of Glossy Reflections Using Ray Tracing and Two-Level Radiance Caching (Paper)](https://gpuopen.com/download/publications/SA2023_RealTimeReflection.pdf)
+* [Screen Space Indirect Lighting with Visibility Bitmask: Improvement to GTAO/SSAO Real-Time Ambient Occlusion Algorithm (Blog Post)](https://cybereality.com/screen-space-indirect-lighting-with-visibility-bitmask-improvement-to-gtao-ssao-real-time-ambient-occlusion-algorithm-glsl-shader-implementation/)
 
 #### Lights
 
