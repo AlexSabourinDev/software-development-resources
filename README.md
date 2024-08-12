@@ -749,6 +749,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Using the LEA instruction for arbitrary arithmetic (Blog Post)](https://handmade.network/forums/articles/t/7111-using_the_lea_instruction_for_arbitrary_arithmetic)
 * [Why x86 Doesn’t Need to Die (Blog Post)](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 * [Implementation of an Out-of-order RISC-V Vector Unit- Roger Espasa, SemiDynamics Technology Services (Video)](https://www.youtube.com/watch?v=WzID6kk8RNs)
+* [Zen5's AVX512 Teardown (Blog Post)](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 
 ### Optimizations
 
