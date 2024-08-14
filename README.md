@@ -101,6 +101,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Math in Game Development Summit: A Visual Guide to Quaternions and Dual Quaternions (Video)](https://www.youtube.com/watch?v=en2QcehKJd8)
 * [5 Reasons Why Box Plots are the Better Default Choice for Visualizing Performance (Blog Post)](https://stefan-marr.de/2024/06/5-reasons-for-box-plots-as-default/)
 * [Quaternions to Homogeneous Points, Lines, and Planes (Video)](https://www.youtube.com/watch?v=dSe7eg8Dj98)
+* [Closed-Form 3x3 Matrix Decompositions (Blog Post)](https://theorangeduck.com/page/closed-form-matrix-decompositions)
 
 ## Game Design
 
