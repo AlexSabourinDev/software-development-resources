@@ -303,6 +303,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Examining AMD’s RDNA 4 Changes in LLVM (Blog Post)](https://chipsandcheese.com/2024/01/28/examining-amds-rdna-4-changes-in-llvm/)
 * [Conformant OpenGL 4.6 on the M1 (Blog Post)](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [Understanding Memory Coalescing on GCN (Blog Post)](https://gpuopen.com/learn/gcn-memory-coalescing/)
+* [A shifty tail about unit testing (Blog Post)](https://www.collabora.com/news-and-blog/blog/2024/08/15/a-shifty-tail-about-unit-testing/)
 
 ### Code
 
@@ -883,6 +884,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Big Ball of Mud (Paper)](http://laputan.org/mud/)
 * [Programming Stamina (Blog Post)](https://blog.s-schoener.com/2024-07-21-programming-stamina/)
 * [Unsafe read beyond of death (Blog Post)](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
+* [Compression and interpolation (Blog Post)](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
 
 ## Unity
 
