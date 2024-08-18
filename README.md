@@ -713,6 +713,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Floating Point Determinism (Blog Post)](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/)
 * [Floating Point (White Paper)](http://www.cse.hcmut.edu.vn/~hungnq/courses/501120/docthem/Single%20precision%20floating-point%20format%20-%20Wikipedia.pdf)
 * [NaNs cause the craziest bugs (Blog Post)](https://cohost.org/tomforsyth/post/1068776-na-ns-cause-the-crazi)
+* [Subtraction Is Functionally Complete (Blog Post)](https://orlp.net/blog/subtraction-is-functionally-complete/)
 
 ## Algorithms
 
