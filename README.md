@@ -73,6 +73,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [An epic treatise on scheduling, bug tracking, and triage (Blog Post)](https://apenwarr.ca/log/20171213)
 * [Characterizing Software Developers by Perceptions of Productivity (Paper)](https://www.researchgate.net/publication/320959053_Characterizing_Software_Developers_by_Perceptions_of_Productivity)
 * [When Culture Doesn’t Translate (Blog Post)](https://hbr.org/2015/10/when-culture-doesnt-translate)
+* [Building an Amazing Team Culture (Blog Post)](https://blog.alt-engineering.com/posts/2024-08-14-building-an-amzing-team-culture/)
 
 ### Estimation
 
