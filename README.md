@@ -888,6 +888,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Programming Stamina (Blog Post)](https://blog.s-schoener.com/2024-07-21-programming-stamina/)
 * [Unsafe read beyond of death (Blog Post)](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
 * [Compression and interpolation (Blog Post)](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
+* [A cheap normal distribution approximation (Blog Post)](https://marc-b-reynolds.github.io/distribution/2021/03/18/CheapGaussianApprox.html)
 
 ## Unity
 
