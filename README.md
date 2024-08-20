@@ -306,6 +306,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Conformant OpenGL 4.6 on the M1 (Blog Post)](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [Understanding Memory Coalescing on GCN (Blog Post)](https://gpuopen.com/learn/gcn-memory-coalescing/)
 * [A shifty tail about unit testing (Blog Post)](https://www.collabora.com/news-and-blog/blog/2024/08/15/a-shifty-tail-about-unit-testing/)
+* [Improving GPU Performance by Reducing Instruction Cache Misses (Blog Post)](https://developer.nvidia.com/blog/improving-gpu-performance-by-reducing-instruction-cache-misses-2/)
 
 ### Code
 
