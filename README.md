@@ -207,6 +207,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Writing an efficient Vulkan renderer (Blog Post)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Vulkan 1.3 on the M1 in 1 month (Blog Post)](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [How I learned Vulkan and wrote a small game engine with it (Blog Post)](https://edw.is/learning-vulkan/)
+* [VK_KHR_pipeline_binary (Document)](https://github.com/KhronosGroup/Vulkan-Docs/blob/fb9f45c5ee8f4e8cd6f2b19eeb751fd305773a67/proposals/VK_KHR_pipeline_binary.adoc)
 
 ### DX12
 
