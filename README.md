@@ -920,3 +920,4 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Take a deep dive into Nanite GPU-driven materials (Slides)](https://www.unrealengine.com/en-US/blog/take-a-deep-dive-into-nanite-gpu-driven-materials)
 * [UE4 Guide (Website)](https://ikrima.dev/ue4guide/)
 * [Nanite for Artists | GDC 2024 (Video)](https://www.youtube.com/watch?v=eoxYceDfKEM)
+* [How Small Open Doors Can Lead to Better CPU Utilization and Bigger Games (Video)](https://www.youtube.com/watch?v=JaCf2Qmvy18)
