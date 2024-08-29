@@ -657,6 +657,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Compute shader wave intrinsics tricks (Blog Post)](https://medium.com/@marehtcone/compute-shader-wave-intrinsics-tricks-e237ffb159ef)
 * [Foliage in AMD FidelityFX Brixelizer GI (Blog Post)](https://gpuopen.com/learn/brix-foliage-gi/brix-foliage-gi-index/)
 * [Synthesizing Realistic Clouds for Video Games (Video)](https://www.guerrilla-games.com/read/synthesizing-realistic-clouds-for-video-games)
+* [Recreating Nanite: Raytracing (Blog Post)](https://jglrxavpok.github.io/2024/08/21/recreating-nanite-raytracing.html)
 
 ### Occlusion
 
