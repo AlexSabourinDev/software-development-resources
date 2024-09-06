@@ -394,6 +394,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [HLSL Constant Buffer Packing Rules (Blog Post)](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)
 * [Khronos Releases Maximal Reconvergence and Quad Control Extensions for Vulkan and SPIR-V (Blog Post)](https://www.khronos.org/blog/khronos-releases-maximal-reconvergence-and-quad-control-extensions-for-vulkan-and-spir-v)
 * [Re-converging control flow on NVIDIA GPUs - What went wrong, and how we fixed it (Blog Post)](https://www.collabora.com/news-and-blog/blog/2024/04/25/re-converging-control-flow-on-nvidia-gpus/)
+* [Layers All The Way Down: The Untold Story of Shader Compilation (Blog Post)](https://moonside.games/posts/layers-all-the-way-down/)
 
 #### Compute Shaders
 
