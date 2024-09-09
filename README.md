@@ -467,6 +467,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Screen Space Indirect Lighting with Visibility Bitmask: Improvement to GTAO/SSAO Real-Time Ambient Occlusion Algorithm (Blog Post)](https://cybereality.com/screen-space-indirect-lighting-with-visibility-bitmask-improvement-to-gtao-ssao-real-time-ambient-occlusion-algorithm-glsl-shader-implementation/)
 * [Filtered Importance Sampling (Blog Post)](https://developer.nvidia.com/gpugems/gpugems3/part-iii-rendering/chapter-20-gpu-based-importance-sampling)
 * [Summary of Physically Based Shading in Call of Duty: Black Ops (Blog Post)](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_notes.pdf)
+* [Global Illumination Based on Surfels (Video)](https://www.ea.com/seed/news/siggraph21-global-illumination-surfels)
 
 #### Lights
 
