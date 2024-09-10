@@ -507,6 +507,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Improving Schlick’s Approximation of the Fresnel Equations (Blog Post)](https://www.photometric.io/blog/improving-schlicks-approximation/)
 * [Image Based Lighting Pre-Integration Exploration (Blog Post)](https://patapom.com/blog/BRDF/PreIntegration/)
 * [A Practical Real-Time Model for Diffraction on Rough Surfaces (Paper)](https://www.jcgt.org/published/0013/01/01/)
+* [Multiple-Scattering Microfacet BSDFs with the Smith Model (Paper)](https://eheitzresearch.wordpress.com/240-2/)
 
 ### Ambient Occlusion
 
