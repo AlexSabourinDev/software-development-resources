@@ -902,6 +902,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Variety of hacking based concepts (Blog Post)](http://phrack.org/issues/71/3.html#article)
 * [SIMD Matters (Box2D) (Blog Post)](https://box2d.org/posts/2024/08/simd-matters/)
 * [How To Make Good Small Games (Blog Post)](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
+* [Crash Course in Deep Learning (for Computer Graphics) (PDF)](https://boksajak.github.io/files/CrashCourseDL.pdf)
 
 ## Unity
 
