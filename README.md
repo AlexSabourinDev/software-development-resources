@@ -524,6 +524,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Efficient Screen-space SSS (Paper)](http://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
 * [Real-Time Subsurface Scattering Intro (Blog Post)](https://therealmjp.github.io/posts/sss-intro/)
 * [Approximating Translucency for a Fast, Cheap and Convincing Subsurface Scattering Look (Slides)](https://www.ea.com/frostbite/news/approximating-translucency-for-a-fast-cheap-and-convincing-subsurface-scattering-look)
+* [A Practical Model for Subsurface Light Transport (Paper)](http://www.graphics.stanford.edu/papers/bssrdf/bssrdf.pdf)
 
 ### Importance Sampling
 
