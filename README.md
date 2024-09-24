@@ -525,6 +525,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Real-Time Subsurface Scattering Intro (Blog Post)](https://therealmjp.github.io/posts/sss-intro/)
 * [Approximating Translucency for a Fast, Cheap and Convincing Subsurface Scattering Look (Slides)](https://www.ea.com/frostbite/news/approximating-translucency-for-a-fast-cheap-and-convincing-subsurface-scattering-look)
 * [A Practical Model for Subsurface Light Transport (Paper)](http://www.graphics.stanford.edu/papers/bssrdf/bssrdf.pdf)
+* [Efficient Screen-Space Subsurface Scattering Using Burley's Normalized Diffusion In Real-Time (Slides)](https://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
+* [Screen-Space Perceptual Rendering of Human Skin (Paper)](https://www.iryoku.com/sssss/downloads/Screen-Space-Perceptual-Rendering-of-Human-Skin.pdf)
+* [Approximating Subsurface Scattering With Spherical Gaussians (Blog Post)](https://therealmjp.github.io/posts/sss-sg/)
 
 ### Importance Sampling
 
