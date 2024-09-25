@@ -529,6 +529,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Efficient Screen-Space Subsurface Scattering Using Burley's Normalized Diffusion In Real-Time (Slides)](https://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf)
 * [Screen-Space Perceptual Rendering of Human Skin (Paper)](https://www.iryoku.com/sssss/downloads/Screen-Space-Perceptual-Rendering-of-Human-Skin.pdf)
 * [Approximating Subsurface Scattering With Spherical Gaussians (Blog Post)](https://therealmjp.github.io/posts/sss-sg/)
+* [Separable Subsurface Scattering (Paper)](https://www.iryoku.com/separable-sss/downloads/Separable-Subsurface-Scattering.pdf)
 
 ### Importance Sampling
 
