@@ -668,6 +668,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Foliage in AMD FidelityFX Brixelizer GI (Blog Post)](https://gpuopen.com/learn/brix-foliage-gi/brix-foliage-gi-index/)
 * [Synthesizing Realistic Clouds for Video Games (Video)](https://www.guerrilla-games.com/read/synthesizing-realistic-clouds-for-video-games)
 * [Recreating Nanite: Raytracing (Blog Post)](https://jglrxavpok.github.io/2024/08/21/recreating-nanite-raytracing.html)
+* [Light Path Guided Culling for Hybrid Real-Time Path Tracing (Paper)](https://headscratch.net/pdf/lipac-preprint.pdf)
 
 ### Occlusion
 
@@ -910,6 +911,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [SIMD Matters (Box2D) (Blog Post)](https://box2d.org/posts/2024/08/simd-matters/)
 * [How To Make Good Small Games (Blog Post)](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [Crash Course in Deep Learning (for Computer Graphics) (PDF)](https://boksajak.github.io/files/CrashCourseDL.pdf)
+* [Getting stuff done - practical solutions for pulling off large projects](https://gargaj.tumblr.com/post/618398787188211712/getting-stuff-done-practical-solutions-for)
 
 ## Unity
 
