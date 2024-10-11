@@ -248,6 +248,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Apparent Simplicity of RGB Rendering (Blog Post)](https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering)
 * [On Light, Colors, Mixing Paints, and Numerical Optimization. (Blog Post)](https://github.com/miciwan/PaintMixing)
 * [How video games use LUTs and how you can too (Blog Post)](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
+* [Transforming colors with matrices (Blog Post)](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 
 ### Forward, Deferred, Visibility, Etc
 
