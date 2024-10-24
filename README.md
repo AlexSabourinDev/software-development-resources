@@ -311,6 +311,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Understanding Memory Coalescing on GCN (Blog Post)](https://gpuopen.com/learn/gcn-memory-coalescing/)
 * [A shifty tail about unit testing (Blog Post)](https://www.collabora.com/news-and-blog/blog/2024/08/15/a-shifty-tail-about-unit-testing/)
 * [Improving GPU Performance by Reducing Instruction Cache Misses (Blog Post)](https://developer.nvidia.com/blog/improving-gpu-performance-by-reducing-instruction-cache-misses-2/)
+* [RDNA Architecture (Slides)](https://gpuopen.com/wp-content/uploads/2019/08/RDNA_Architecture_public.pdf)
+* [AMD GCN Assembly: Cross-Lane Operations (Blog Post)](https://gpuopen.com/learn/amd-gcn-assembly-cross-lane-operations/)
 
 ### Code
 
@@ -918,6 +920,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How To Make Good Small Games (Blog Post)](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [Crash Course in Deep Learning (for Computer Graphics) (PDF)](https://boksajak.github.io/files/CrashCourseDL.pdf)
 * [Getting stuff done - practical solutions for pulling off large projects](https://gargaj.tumblr.com/post/618398787188211712/getting-stuff-done-practical-solutions-for)
+* [Prefix Sums and Their Applications (Paper)](http://shelf2.library.cmu.edu/Tech/23445461.pdf)
+* [A Parallel Algorithm for the Efficient Solution of a General Class of Recurrence Equations (Paper)](https://gwern.net/doc/cs/algorithm/1973-kogge.pdf)
+* [The Power of Parallel Prefix (Paper)](https://www.computer.org/csdl/journal/tc/1985/10/06312202/13rRUy0HYQl)
 
 ## Unity
 
