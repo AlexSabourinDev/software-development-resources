@@ -314,6 +314,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [RDNA Architecture (Slides)](https://gpuopen.com/wp-content/uploads/2019/08/RDNA_Architecture_public.pdf)
 * [AMD GCN Assembly: Cross-Lane Operations (Blog Post)](https://gpuopen.com/learn/amd-gcn-assembly-cross-lane-operations/)
 * [Stream Reduction Operations for GPGPU Applications (Blog Post)](https://developer.nvidia.com/gpugems/gpugems2/part-iv-general-purpose-computation-gpus-primer/chapter-36-stream-reduction)
+* [HLSL pitfalls (Blog Post)](https://silvesthu.github.io/posts/2020/05/hlsl-pitfalls/)
+* [Reading Between Threads: Shader Intrinsics (Blog Post)](https://developer.nvidia.com/reading-between-threads-shader-intrinsics)
 
 ### Code
 
