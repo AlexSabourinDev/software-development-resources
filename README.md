@@ -923,6 +923,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Prefix Sums and Their Applications (Paper)](http://shelf2.library.cmu.edu/Tech/23445461.pdf)
 * [A Parallel Algorithm for the Efficient Solution of a General Class of Recurrence Equations (Paper)](https://gwern.net/doc/cs/algorithm/1973-kogge.pdf)
 * [The Power of Parallel Prefix (Paper)](https://www.computer.org/csdl/journal/tc/1985/10/06312202/13rRUy0HYQl)
+* [Zero or sign extend (Blog Post)](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
 
 ## Unity
 
