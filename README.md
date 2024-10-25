@@ -313,6 +313,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Improving GPU Performance by Reducing Instruction Cache Misses (Blog Post)](https://developer.nvidia.com/blog/improving-gpu-performance-by-reducing-instruction-cache-misses-2/)
 * [RDNA Architecture (Slides)](https://gpuopen.com/wp-content/uploads/2019/08/RDNA_Architecture_public.pdf)
 * [AMD GCN Assembly: Cross-Lane Operations (Blog Post)](https://gpuopen.com/learn/amd-gcn-assembly-cross-lane-operations/)
+* [Stream Reduction Operations for GPGPU Applications (Blog Post)](https://developer.nvidia.com/gpugems/gpugems2/part-iv-general-purpose-computation-gpus-primer/chapter-36-stream-reduction)
 
 ### Code
 
