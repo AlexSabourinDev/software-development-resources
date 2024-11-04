@@ -346,6 +346,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Spherical Harmonics - Patapom (Blog Post)](https://patapom.com/blog/SHPortal/)
 * [Alternative definition of Spherical Harmonics for Lighting (Blog Post)](https://grahamhazel.com/blog/2017/12/18/alternative-definition-of-spherical-harmonics-for-lighting/)
 * [Converting SH Radiance to Irradiance (Blog Post)](https://grahamhazel.com/blog/2017/12/22/converting-sh-radiance-to-irradiance/)
+* [ZH3: Quadratic Zonal Harmonics (Paper)](https://www.activision.com/cdn/research/ZH3-Publication.pdf)
 
 ### Raytracing
 
@@ -518,6 +519,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A Practical Real-Time Model for Diffraction on Rough Surfaces (Paper)](https://www.jcgt.org/published/0013/01/01/)
 * [Multiple-Scattering Microfacet BSDFs with the Smith Model (Paper)](https://eheitzresearch.wordpress.com/240-2/)
 * [Extending the Disney BRDF to a BSDF with Integrated Subsurface Scattering (Paper)](https://blog.selfshadow.com/publications/s2015-shading-course/burley/s2015_pbs_disney_bsdf_notes.pdf)
+* [Bounded VNDF Sampling for Smith–GGX Reflections (Paper)](https://gpuopen.com/download/publications/Bounded_VNDF_Sampling_for_Smith-GGX_Reflections.pdf)
 
 ### Ambient Occlusion
 
