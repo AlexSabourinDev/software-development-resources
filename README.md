@@ -928,7 +928,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A Parallel Algorithm for the Efficient Solution of a General Class of Recurrence Equations (Paper)](https://gwern.net/doc/cs/algorithm/1973-kogge.pdf)
 * [The Power of Parallel Prefix (Paper)](https://www.computer.org/csdl/journal/tc/1985/10/06312202/13rRUy0HYQl)
 * [Zero or sign extend (Blog Post)](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
-
+* [Breaking CityHash64, MurmurHash2/3, wyhash, and more... (Blog Post)](https://orlp.net/blog/breaking-hash-functions/)
+* [How NAT traversal works (Blog Post)](https://tailscale.com/blog/how-nat-traversal-works)
+  
 ## Unity
 
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
