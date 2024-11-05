@@ -933,6 +933,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Breaking CityHash64, MurmurHash2/3, wyhash, and more... (Blog Post)](https://orlp.net/blog/breaking-hash-functions/)
 * [How NAT traversal works (Blog Post)](https://tailscale.com/blog/how-nat-traversal-works)
 * [How to enable the Windows Segment Heap (Blog Post)](https://blog.s-schoener.com/2024-11-05-segment-heap/)
+* [Master Class: Being a Tech Art Detective (Video)](https://www.youtube.com/watch?v=etNmLiaLxb8)
   
 ## Unity
 
