@@ -932,10 +932,12 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Zero or sign extend (Blog Post)](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
 * [Breaking CityHash64, MurmurHash2/3, wyhash, and more... (Blog Post)](https://orlp.net/blog/breaking-hash-functions/)
 * [How NAT traversal works (Blog Post)](https://tailscale.com/blog/how-nat-traversal-works)
+* [How to enable the Windows Segment Heap (Blog Post)](https://blog.s-schoener.com/2024-11-05-segment-heap/)
   
 ## Unity
 
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
+* [Unmanaging Unity (Blog Post)](https://blog.s-schoener.com/2024-11-02-unmanaging-unity/)
 
 ## Unreal
 
