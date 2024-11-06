@@ -934,6 +934,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How NAT traversal works (Blog Post)](https://tailscale.com/blog/how-nat-traversal-works)
 * [How to enable the Windows Segment Heap (Blog Post)](https://blog.s-schoener.com/2024-11-05-segment-heap/)
 * [Master Class: Being a Tech Art Detective (Video)](https://www.youtube.com/watch?v=etNmLiaLxb8)
+* [Vegetation in COD:BO4 (Blog Post)](https://c0de517e.com/015_vegetation_system.htm)
   
 ## Unity
 
