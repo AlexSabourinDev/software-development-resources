@@ -679,6 +679,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Synthesizing Realistic Clouds for Video Games (Video)](https://www.guerrilla-games.com/read/synthesizing-realistic-clouds-for-video-games)
 * [Recreating Nanite: Raytracing (Blog Post)](https://jglrxavpok.github.io/2024/08/21/recreating-nanite-raytracing.html)
 * [Light Path Guided Culling for Hybrid Real-Time Path Tracing (Paper)](https://headscratch.net/pdf/lipac-preprint.pdf)
+* [The Littlest CPU Rasterizer (Blog Post)](https://web.archive.org/web/20160601104858/http://ginsweater.com/blog/2014/03/10/the-littlest-cpu-rasterizer/)
 
 ### Occlusion
 
