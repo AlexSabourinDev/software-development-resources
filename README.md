@@ -936,7 +936,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How to enable the Windows Segment Heap (Blog Post)](https://blog.s-schoener.com/2024-11-05-segment-heap/)
 * [Master Class: Being a Tech Art Detective (Video)](https://www.youtube.com/watch?v=etNmLiaLxb8)
 * [Vegetation in COD:BO4 (Blog Post)](https://c0de517e.com/015_vegetation_system.htm)
-  
+* [Exact UNORM8 to float (Blog Post)](https://fgiesen.wordpress.com/2024/11/06/exact-unorm8-to-float/)
+
 ## Unity
 
 * [Behind the burst compiler (Slides)](https://onedrive.live.com/View.aspx?resid=9ECC7012112E02DA!46903&wdSlideId=257&wdModeSwitchTime=1561813824914&authkey=!ACA8uHlLshdbrrU)
