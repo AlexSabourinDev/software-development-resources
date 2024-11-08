@@ -937,6 +937,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Master Class: Being a Tech Art Detective (Video)](https://www.youtube.com/watch?v=etNmLiaLxb8)
 * [Vegetation in COD:BO4 (Blog Post)](https://c0de517e.com/015_vegetation_system.htm)
 * [Exact UNORM8 to float (Blog Post)](https://fgiesen.wordpress.com/2024/11/06/exact-unorm8-to-float/)
+* [OMBRE Dev-Blog Year 2 (Blog Post)](https://www.froyok.fr/blog/2024-11-ombre-dev-blog-2/)
 
 ## Unity
 
