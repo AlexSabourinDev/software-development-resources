@@ -680,6 +680,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Recreating Nanite: Raytracing (Blog Post)](https://jglrxavpok.github.io/2024/08/21/recreating-nanite-raytracing.html)
 * [Light Path Guided Culling for Hybrid Real-Time Path Tracing (Paper)](https://headscratch.net/pdf/lipac-preprint.pdf)
 * [The Littlest CPU Rasterizer (Blog Post)](https://web.archive.org/web/20160601104858/http://ginsweater.com/blog/2014/03/10/the-littlest-cpu-rasterizer/)
+* [MRSSE (Texture Compression Error Metric) (Blog Post)](https://fgiesen.wordpress.com/2024/11/14/mrsse/)
 
 ### Occlusion
 
@@ -938,6 +939,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Vegetation in COD:BO4 (Blog Post)](https://c0de517e.com/015_vegetation_system.htm)
 * [Exact UNORM8 to float (Blog Post)](https://fgiesen.wordpress.com/2024/11/06/exact-unorm8-to-float/)
 * [OMBRE Dev-Blog Year 2 (Blog Post)](https://www.froyok.fr/blog/2024-11-ombre-dev-blog-2/)
+* [n times faster than C, Arm edition (Blog Post)](https://blog.xoria.org/n-times-faster/)
+* [{n} times faster than C (Series)](https://owen.cafe/posts/six-times-faster-than-c/)
 
 ## Unity
 
