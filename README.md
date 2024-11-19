@@ -805,6 +805,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [SMACNI to AVX512 the life cycle of an instruction set (PDF)](http://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf)
 * [A note on mask registers (Blog Post)](https://travisdowns.github.io/blog/2019/12/05/kreg-facts.html)
 * [This Goes To Eleven (Blog Post)](https://bits.houmus.org/2020-01-28/this-goes-to-eleven-pt1)
+* [Histogramming bytes with positional popcount (Blog Post)](https://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
+* [Use AVX512 Galois field affine transformation for bit shuffling (Blog Post)](http://0x80.pl/articles/avx512-galois-field-for-bit-shuffling.html)
+* [Permuting bits with GF2P8AFFINEQB (Blog Post)](http://bitmath.blogspot.com/2023/09/permuting-bits-with-gf2p8affineqb.html)
 
 ## Retro
 
