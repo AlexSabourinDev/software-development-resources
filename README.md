@@ -682,6 +682,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Littlest CPU Rasterizer (Blog Post)](https://web.archive.org/web/20160601104858/http://ginsweater.com/blog/2014/03/10/the-littlest-cpu-rasterizer/)
 * [MRSSE (Texture Compression Error Metric) (Blog Post)](https://fgiesen.wordpress.com/2024/11/14/mrsse/)
 * [Sampling From a Normal (Gaussian) Distribution on GPUs (Blog Post)](https://gpuopen.com/learn/sampling-normal-gaussian-distribution-gpus/)
+* [Virtual Geometry in Bevy 0.15 (Blog Post)](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
 
 ### Occlusion
 
