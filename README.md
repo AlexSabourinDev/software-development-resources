@@ -414,6 +414,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Compute Shader Optimizations for AMD GPUs: Parallel Reduction (Blog Post)](https://diaryofagraphicsprogrammer.blogspot.com/2014/03/compute-shader-optimizations-for-amd.html)
 * [Stream compaction using wave intrinsics (Blog Post)](https://interplayoflight.wordpress.com/2022/12/25/stream-compaction-using-wave-intrinsics/)
 * [Boosting Application Performance with GPU Memory Prefetching (Blog Post)](https://developer.nvidia.com/blog/boosting-application-performance-with-gpu-memory-prefetching/)
+* [Optimizing A 3x3x3 Box Blur (Twitter Thread)](https://bsky.app/profile/vassvik.bsky.social/post/3lb6j2rknyk2k)
 
 #### Geometry Shaders
 
