@@ -270,6 +270,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Order independent transparency, part 1 (Blog Post)](https://interplayoflight.wordpress.com/2022/06/25/order-independent-transparency-part-1/)
 * [Moment-Based Order-Independent Transparency (Paper)](https://momentsingraphics.de/Media/I3D2018/Muenstermann2018-MBOIT.pdf)
 * [Channeling Alpha (Blog Post)](https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa)
+* [Implementing Order-Independent Transparency (Blog Post)](https://osor.io/OIT)
 
 ### GPU Architecture
 
