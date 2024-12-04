@@ -319,7 +319,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [HLSL pitfalls (Blog Post)](https://silvesthu.github.io/posts/2020/05/hlsl-pitfalls/)
 * [Reading Between Threads: Shader Intrinsics (Blog Post)](https://developer.nvidia.com/reading-between-threads-shader-intrinsics)
 * [Mali Fragment Prepass (Blog Post)](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/immortalis-g925-the-fragment-prepass)
-* [](https://arxiv.org/pdf/1903.07486)
+* [Dissecting the NVidia Turing T4 GPU via Microbenchmarking (Paper)](https://arxiv.org/pdf/1903.07486)
+* [AMD RDNA 3.5’s LLVM Changes (Blog Post)](https://chipsandcheese.com/p/amd-rdna-3-5s-llvm-changes)
 
 ### Code
 
