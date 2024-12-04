@@ -271,6 +271,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Moment-Based Order-Independent Transparency (Paper)](https://momentsingraphics.de/Media/I3D2018/Muenstermann2018-MBOIT.pdf)
 * [Channeling Alpha (Blog Post)](https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa)
 * [Implementing Order-Independent Transparency (Blog Post)](https://osor.io/OIT)
+* [Refracting Pixels (Blog Post)](https://www.froyok.fr/blog/2024-12-refraction/)
 
 ### GPU Architecture
 
@@ -317,6 +318,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Stream Reduction Operations for GPGPU Applications (Blog Post)](https://developer.nvidia.com/gpugems/gpugems2/part-iv-general-purpose-computation-gpus-primer/chapter-36-stream-reduction)
 * [HLSL pitfalls (Blog Post)](https://silvesthu.github.io/posts/2020/05/hlsl-pitfalls/)
 * [Reading Between Threads: Shader Intrinsics (Blog Post)](https://developer.nvidia.com/reading-between-threads-shader-intrinsics)
+* [Mali Fragment Prepass (Blog Post)](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/immortalis-g925-the-fragment-prepass)
+* [](https://arxiv.org/pdf/1903.07486)
 
 ### Code
 
