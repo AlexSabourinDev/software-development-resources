@@ -323,6 +323,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [AMD RDNA 3.5’s LLVM Changes (Blog Post)](https://chipsandcheese.com/p/amd-rdna-3-5s-llvm-changes)
 * [Ivy Bridge’s Gen7 Graphics: Intel’s Modern iGPU Push (Blog Post)](https://chipsandcheese.com/p/ivy-bridges-gen7-graphics-intels-modern-igpu-push)
 * [You Compiled This, Driver. Trust Me…. (Blog Post)](http://www.joshbarczak.com/blog/?p=1028)
+* [SPMD Is Not Intel’s Cup Of Tea (Blog Post)](http://www.joshbarczak.com/blog/?p=1120)
 
 ### Code
 
@@ -692,6 +693,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [MRSSE (Texture Compression Error Metric) (Blog Post)](https://fgiesen.wordpress.com/2024/11/14/mrsse/)
 * [Sampling From a Normal (Gaussian) Distribution on GPUs (Blog Post)](https://gpuopen.com/learn/sampling-normal-gaussian-distribution-gpus/)
 * [Virtual Geometry in Bevy 0.15 (Blog Post)](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
+* [Beating The GPU At Its Own Game (By Stacking the Deck) (Blog Post)](http://www.joshbarczak.com/blog/?p=1012)
 
 ### Occlusion
 
