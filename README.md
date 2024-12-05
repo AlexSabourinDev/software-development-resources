@@ -321,6 +321,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Mali Fragment Prepass (Blog Post)](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/immortalis-g925-the-fragment-prepass)
 * [Dissecting the NVidia Turing T4 GPU via Microbenchmarking (Paper)](https://arxiv.org/pdf/1903.07486)
 * [AMD RDNA 3.5’s LLVM Changes (Blog Post)](https://chipsandcheese.com/p/amd-rdna-3-5s-llvm-changes)
+* [Ivy Bridge’s Gen7 Graphics: Intel’s Modern iGPU Push (Blog Post)](https://chipsandcheese.com/p/ivy-bridges-gen7-graphics-intels-modern-igpu-push)
 
 ### Code
 
@@ -410,6 +411,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Re-converging control flow on NVIDIA GPUs - What went wrong, and how we fixed it (Blog Post)](https://www.collabora.com/news-and-blog/blog/2024/04/25/re-converging-control-flow-on-nvidia-gpus/)
 * [Layers All The Way Down: The Untold Story of Shader Compilation (Blog Post)](https://moonside.games/posts/layers-all-the-way-down/)
 * [Emulating Workgraphs (Document)](https://github.com/HansKristian-Work/vkd3d-proton/blob/workgraphs/docs/workgraphs.md)
+* [The road to 16-bit floats GPU is paved with our blood (Blog Post)](https://www.yosoygames.com.ar/wp/2022/01/the-road-to-16-bit-floats-gpu-is-paved-with-our-blood/)
 
 #### Compute Shaders
 
