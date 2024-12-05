@@ -322,6 +322,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Dissecting the NVidia Turing T4 GPU via Microbenchmarking (Paper)](https://arxiv.org/pdf/1903.07486)
 * [AMD RDNA 3.5’s LLVM Changes (Blog Post)](https://chipsandcheese.com/p/amd-rdna-3-5s-llvm-changes)
 * [Ivy Bridge’s Gen7 Graphics: Intel’s Modern iGPU Push (Blog Post)](https://chipsandcheese.com/p/ivy-bridges-gen7-graphics-intels-modern-igpu-push)
+* [You Compiled This, Driver. Trust Me…. (Blog Post)](http://www.joshbarczak.com/blog/?p=1028)
 
 ### Code
 
