@@ -324,6 +324,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Ivy Bridge’s Gen7 Graphics: Intel’s Modern iGPU Push (Blog Post)](https://chipsandcheese.com/p/ivy-bridges-gen7-graphics-intels-modern-igpu-push)
 * [You Compiled This, Driver. Trust Me…. (Blog Post)](http://www.joshbarczak.com/blog/?p=1028)
 * [SPMD Is Not Intel’s Cup Of Tea (Blog Post)](http://www.joshbarczak.com/blog/?p=1120)
+* [Intel Graphics ISA (Slides)](https://www.intel.com/content/dam/develop/external/us/en/documents/micro2015-isa-igc-tutorial.pdf)
 
 ### Code
 
