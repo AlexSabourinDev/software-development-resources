@@ -697,6 +697,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Virtual Geometry in Bevy 0.15 (Blog Post)](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
 * [Beating The GPU At Its Own Game (By Stacking the Deck) (Blog Post)](http://www.joshbarczak.com/blog/?p=1012)
 * [Comments on Future Directions for Compute in Graphics (Blog Post)](http://www.joshbarczak.com/blog/?p=1317)
+* [Texture Gathers and Coordinate Precision (Blog Post)](https://www.reedbeta.com/blog/texture-gathers-and-coordinate-precision/)
 
 ### Occlusion
 
