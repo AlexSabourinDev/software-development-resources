@@ -822,6 +822,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Histogramming bytes with positional popcount (Blog Post)](https://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
 * [Use AVX512 Galois field affine transformation for bit shuffling (Blog Post)](http://0x80.pl/articles/avx512-galois-field-for-bit-shuffling.html)
 * [Permuting bits with GF2P8AFFINEQB (Blog Post)](http://bitmath.blogspot.com/2023/09/permuting-bits-with-gf2p8affineqb.html)
+* [Bit-permuting 16 u32s at once with AVX-512 (Blog Post)](https://bitmath.blogspot.com/2024/12/bit-permuting-16-u32s-at-once-with-avx.html)
 
 ## Retro
 
