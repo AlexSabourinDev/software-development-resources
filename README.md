@@ -962,6 +962,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [OMBRE Dev-Blog Year 2 (Blog Post)](https://www.froyok.fr/blog/2024-11-ombre-dev-blog-2/)
 * [n times faster than C, Arm edition (Blog Post)](https://blog.xoria.org/n-times-faster/)
 * [{n} times faster than C (Series)](https://owen.cafe/posts/six-times-faster-than-c/)
+* [UNORM and SNORM to float, hardware edition (Blog Post)](https://fgiesen.wordpress.com/2024/12/24/unorm-and-snorm-to-float-hardware-edition/)
 
 ## Unity
 
