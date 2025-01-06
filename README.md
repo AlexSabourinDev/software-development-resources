@@ -260,6 +260,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Non-interleaved Deferred Shading of Interleaved Sample Patterns (Paper)](https://liris.cnrs.fr/Documents/Liris-2476.pdf)
 * [Adventures with Deferred Texturing in Horizon Forbidden West (Blog Post)](https://www.guerrilla-games.com/read/adventures-with-deferred-texturing-in-horizon-forbidden-west)
 * [Virtual Geometry in Bevy 0.14 (Blog Post)](https://jms55.github.io/posts/2024-06-09-virtual-geometry-bevy-0-14/)
+* [Adventures in Avoiding DAIS Buffers (Blog Post)](https://games.acm.org/adventures-in-avoiding-dais-buffers/)
 
 ### Transparency, Blending
 
@@ -964,6 +965,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [n times faster than C, Arm edition (Blog Post)](https://blog.xoria.org/n-times-faster/)
 * [{n} times faster than C (Series)](https://owen.cafe/posts/six-times-faster-than-c/)
 * [UNORM and SNORM to float, hardware edition (Blog Post)](https://fgiesen.wordpress.com/2024/12/24/unorm-and-snorm-to-float-hardware-edition/)
+* [Tools for GPU Codec Development (Blog Post)](https://www.ludicon.com/castano/blog/2024/12/tools-for-gpu-codec-development/)
+* [Fixing the Loading in Myst IV: Revelation (Blog Series)](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
 
 ## Unity
 
