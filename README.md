@@ -105,6 +105,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Closed-Form 3x3 Matrix Decompositions (Blog Post)](https://theorangeduck.com/page/closed-form-matrix-decompositions)
 * [Exact Polygonal Filtering (Blog Post)](https://jonathanolson.net/exact-polygonal-filtering)
 * [Stupid is as Stupid Does: Taking the Square Root of the Square of a Floating-Point Number (Paper)](https://inria.hal.science/hal-01148409)
+* [Time series analysis: Basics (estimation and inference) (Video)](https://www.youtube.com/watch?v=pmnK0ibiYbM)
 
 ## Game Design
 
