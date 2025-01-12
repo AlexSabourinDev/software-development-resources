@@ -969,6 +969,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [UNORM and SNORM to float, hardware edition (Blog Post)](https://fgiesen.wordpress.com/2024/12/24/unorm-and-snorm-to-float-hardware-edition/)
 * [Tools for GPU Codec Development (Blog Post)](https://www.ludicon.com/castano/blog/2024/12/tools-for-gpu-codec-development/)
 * [Fixing the Loading in Myst IV: Revelation (Blog Series)](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
+* [On Long Term Software Development (Blog Post)](https://berthub.eu/articles/posts/on-long-term-software-development/)
 
 ## Unity
 
