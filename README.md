@@ -250,6 +250,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [On Light, Colors, Mixing Paints, and Numerical Optimization. (Blog Post)](https://github.com/miciwan/PaintMixing)
 * [How video games use LUTs and how you can too (Blog Post)](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [Transforming colors with matrices (Blog Post)](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
+* [Viewing images (Blog Post)](https://wolf.nereid.pl/posts/image-viewer/)
 
 ### Forward, Deferred, Visibility, Etc
 
