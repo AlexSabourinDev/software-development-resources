@@ -458,6 +458,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Optimization and best practices (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-optimization_and_best_practices/)
 * [Procedural grass rendering (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-procedural_grass_rendering/)
 * [Meshlet triangle locality matters (Blog Post)](https://zeux.io/2024/04/09/meshlet-triangle-locality/)
+* [Meshlet compression (Blog Post)](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-meshlet_compression/)
 
 ### Lighting/Shading
 
@@ -492,6 +493,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Filtered Importance Sampling (Blog Post)](https://developer.nvidia.com/gpugems/gpugems3/part-iii-rendering/chapter-20-gpu-based-importance-sampling)
 * [Summary of Physically Based Shading in Call of Duty: Black Ops (Blog Post)](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_notes.pdf)
 * [Global Illumination Based on Surfels (Video)](https://www.ea.com/seed/news/siggraph21-global-illumination-surfels)
+* [Radiometry, part 1: I got it backwards (Blog Post)](https://momentsingraphics.de/Radiometry1Backwards.html)
 
 #### Lights
 
@@ -703,6 +705,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Texture Gathers and Coordinate Precision (Blog Post)](https://www.reedbeta.com/blog/texture-gathers-and-coordinate-precision/)
 * [Behind the Pretty Frames: Detroit Become Human (Blog Post)](https://mamoniem.com/behind-the-pretty-frames-detroit-become-human/)
 * [Wicked Engine’s graphics in 2024 (Blog Post)](https://wickedengine.net/2024/12/wicked-engines-graphics-in-2024/)
+* [Dynamic Resolution Scaling (DRS) on PC (Blog Post)](https://martinfullerblog.wordpress.com/2025/01/06/dynamic-resolution-scaling-on-pc/)
 
 ### Occlusion
 
