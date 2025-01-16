@@ -706,6 +706,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Behind the Pretty Frames: Detroit Become Human (Blog Post)](https://mamoniem.com/behind-the-pretty-frames-detroit-become-human/)
 * [Wicked Engine’s graphics in 2024 (Blog Post)](https://wickedengine.net/2024/12/wicked-engines-graphics-in-2024/)
 * [Dynamic Resolution Scaling (DRS) on PC (Blog Post)](https://martinfullerblog.wordpress.com/2025/01/06/dynamic-resolution-scaling-on-pc/)
+* [AAA - Analytical Anti-Aliasing (Blog Post)](https://blog.frost.kiwi/analytical-anti-aliasing/)
 
 ### Occlusion
 
