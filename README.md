@@ -251,6 +251,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How video games use LUTs and how you can too (Blog Post)](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [Transforming colors with matrices (Blog Post)](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [Viewing images (Blog Post)](https://wolf.nereid.pl/posts/image-viewer/)
+* [Issues with Color Spaces and Perceptual Brightness (Blog Post)](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 
 ### Forward, Deferred, Visibility, Etc
 
@@ -418,6 +419,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Layers All The Way Down: The Untold Story of Shader Compilation (Blog Post)](https://moonside.games/posts/layers-all-the-way-down/)
 * [Emulating Workgraphs (Document)](https://github.com/HansKristian-Work/vkd3d-proton/blob/workgraphs/docs/workgraphs.md)
 * [The road to 16-bit floats GPU is paved with our blood (Blog Post)](https://www.yosoygames.com.ar/wp/2022/01/the-road-to-16-bit-floats-gpu-is-paved-with-our-blood/)
+* [Massaging the Shader Compiler to emit Optimum Instructions (Blog Post)](https://martinfullerblog.wordpress.com/2025/01/13/massaging-the-shader-compiler-to-emit-optimum-instructions/)
 
 #### Compute Shaders
 
