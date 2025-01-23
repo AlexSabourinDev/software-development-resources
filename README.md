@@ -161,6 +161,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Incrementing Vectors (Blog Post)](https://travisdowns.github.io/blog/2019/08/26/vector-inc.html)
 * [The C++20 Naughty and Nice List for Game Devs (Blog Post)](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/)
 * [Optimizing the unoptimizable: a journey to faster C++ compile times (Blog Post)](https://vitaut.net/posts/2024/faster-cpp-compile-times/)
+* [Debugging C++ is a UI nightmare (Blog Post)](https://core-explorer.github.io/blog/c++/debugging/2025/01/19/debugging-c++-is-a-ui.nightmare.html)
 
 ### C Sharp
 
