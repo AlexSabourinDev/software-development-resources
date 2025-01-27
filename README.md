@@ -499,6 +499,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Summary of Physically Based Shading in Call of Duty: Black Ops (Blog Post)](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_notes.pdf)
 * [Global Illumination Based on Surfels (Video)](https://www.ea.com/seed/news/siggraph21-global-illumination-surfels)
 * [Radiometry, part 1: I got it backwards (Blog Post)](https://momentsingraphics.de/Radiometry1Backwards.html)
+* [Surfel Maintenance for Global Illumination (Blog Post)](https://m4xc.dev/blog/surfel-maintenance/)
 
 #### Lights
 
