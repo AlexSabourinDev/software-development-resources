@@ -331,6 +331,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [You Compiled This, Driver. Trust Me…. (Blog Post)](http://www.joshbarczak.com/blog/?p=1028)
 * [SPMD Is Not Intel’s Cup Of Tea (Blog Post)](http://www.joshbarczak.com/blog/?p=1120)
 * [Intel Graphics ISA (Slides)](https://www.intel.com/content/dam/develop/external/us/en/documents/micro2015-isa-igc-tutorial.pdf)
+* [Does subgroup/wave size matter? (Blog Post)](https://www.gfxstrand.net/faith/blog/2020/10/does-subgroup-wave-size-matter/)
 
 ### Code
 
