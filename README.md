@@ -162,6 +162,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The C++20 Naughty and Nice List for Game Devs (Blog Post)](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/)
 * [Optimizing the unoptimizable: a journey to faster C++ compile times (Blog Post)](https://vitaut.net/posts/2024/faster-cpp-compile-times/)
 * [Debugging C++ is a UI nightmare (Blog Post)](https://core-explorer.github.io/blog/c++/debugging/2025/01/19/debugging-c++-is-a-ui.nightmare.html)
+* [How not to use DLLs (Blog Post)](https://h3.gd/how-not-to-use-dlls/)
 
 ### C Sharp
 
