@@ -715,6 +715,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Dynamic Resolution Scaling (DRS) on PC (Blog Post)](https://martinfullerblog.wordpress.com/2025/01/06/dynamic-resolution-scaling-on-pc/)
 * [AAA - Analytical Anti-Aliasing (Blog Post)](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [The hidden cost of shader instructions (Blog Post)](https://interplayoflight.wordpress.com/2025/01/19/the-hidden-cost-of-shader-instructions/)
+* [Raymarching The Gunk (Blog Post)](https://jarllarsson.github.io/gen/gunkraymarcher.html)
 
 ### Occlusion
 
