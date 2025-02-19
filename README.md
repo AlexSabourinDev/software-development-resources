@@ -717,6 +717,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [AAA - Analytical Anti-Aliasing (Blog Post)](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [The hidden cost of shader instructions (Blog Post)](https://interplayoflight.wordpress.com/2025/01/19/the-hidden-cost-of-shader-instructions/)
 * [Raymarching The Gunk (Blog Post)](https://jarllarsson.github.io/gen/gunkraymarcher.html)
+* [Learning to differentiably rasterize. (Blog Post)](https://c0de517e.com/019_autoinigo.htm)
 
 ### Occlusion
 
