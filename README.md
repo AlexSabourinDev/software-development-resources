@@ -242,6 +242,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [An Introduction To BCn Texture Compression, Part 1: BC4 (Blog Post)](https://acefanatic02.github.io/posts/intro_bcn_part1/)
 * [I3D'24 Technical Paper: Filtering After Shading with Stochastic Texture Filtering (Video)](https://www.youtube.com/watch?v=e3391_C6aXE)
 * [Writing to Compressed Textures (Blog Post)](https://gist.github.com/castano/6e517fde7ff8cf2652758ff55bf260cd#writing-to-compressed-textures)
+* [GPU Texture Compression Everywhere (Blog Post)](https://www.ludicon.com/castano/blog/2025/02/gpu-texture-compression-everywhere/)
 
 ### Colors
 
@@ -502,6 +503,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Global Illumination Based on Surfels (Video)](https://www.ea.com/seed/news/siggraph21-global-illumination-surfels)
 * [Radiometry, part 1: I got it backwards (Blog Post)](https://momentsingraphics.de/Radiometry1Backwards.html)
 * [Surfel Maintenance for Global Illumination (Blog Post)](https://m4xc.dev/blog/surfel-maintenance/)
+* [Anno 1800: Shadows of Beauty (Blog Post)](https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/)
 
 #### Lights
 
