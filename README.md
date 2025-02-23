@@ -720,6 +720,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The hidden cost of shader instructions (Blog Post)](https://interplayoflight.wordpress.com/2025/01/19/the-hidden-cost-of-shader-instructions/)
 * [Raymarching The Gunk (Blog Post)](https://jarllarsson.github.io/gen/gunkraymarcher.html)
 * [Learning to differentiably rasterize. (Blog Post)](https://c0de517e.com/019_autoinigo.htm)
+* [Surface-Stable Fractal Dithering Explained (Video)](https://www.youtube.com/watch?v=HPqGaIMVuLs)
 
 ### Occlusion
 
