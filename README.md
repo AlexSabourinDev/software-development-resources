@@ -184,6 +184,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Crafting Interpreters (Online Book)](http://www.craftinginterpreters.com/)
 * [How To Speed Up The Rust Compiler (Blog Post)](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
 * [Async Rust Is A Bad Language (Blog Post)](https://bitbashing.io/async-rust.html)
+* [How do Time Travel Debuggers Work? - Design and Implementation of a Time Travel Debugger (Video)](https://www.youtube.com/watch?v=NiGzdv84iDE)
 
 ## AI
 
