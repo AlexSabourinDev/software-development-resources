@@ -722,6 +722,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Raymarching The Gunk (Blog Post)](https://jarllarsson.github.io/gen/gunkraymarcher.html)
 * [Learning to differentiably rasterize. (Blog Post)](https://c0de517e.com/019_autoinigo.htm)
 * [Surface-Stable Fractal Dithering Explained (Video)](https://www.youtube.com/watch?v=HPqGaIMVuLs)
+* [FFT Bloom Optimized to the Bone in Nabla (Blog Post)](https://graphics-programming.org/blog/fft-bloom-optimized-to-the-bone-in-nabla)
 
 ### Occlusion
 
