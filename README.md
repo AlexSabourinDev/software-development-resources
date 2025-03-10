@@ -993,6 +993,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Fixing the Loading in Myst IV: Revelation (Blog Series)](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
 * [On Long Term Software Development (Blog Post)](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [Surface-Stable Fractal Dither on Playdate (Blog Post)](https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/)
+* [Performance of the Python 3.14 tail-call interpreter (Blog Post)](https://blog.nelhage.com/post/cpython-tail-call/)
 
 ## Unity
 
