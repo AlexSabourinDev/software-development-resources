@@ -579,6 +579,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Optimally Combining Sampling Techniques for Monte Carlo Rendering (Paper)](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf)
 * [BRDF Importance Sampling for Polygonal Lights (Paper)](https://momentsingraphics.de/Siggraph2021.html)
 * [Demystifying multiple importance sampling (Blog Post)](https://lisyarus.github.io/blog/posts/multiple-importance-sampling.html)
+* [Estimating variance reduction in importance sampling (Blog Post)](https://lisyarus.github.io/blog/posts/estimating-variance-reduction-in-importance-sampling.html)
 
 #### ReSTIR
 
