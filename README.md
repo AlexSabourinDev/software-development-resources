@@ -1020,3 +1020,4 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [UE4 Guide (Website)](https://ikrima.dev/ue4guide/)
 * [Nanite for Artists | GDC 2024 (Video)](https://www.youtube.com/watch?v=eoxYceDfKEM)
 * [How Small Open Doors Can Lead to Better CPU Utilization and Bigger Games (Video)](https://www.youtube.com/watch?v=JaCf2Qmvy18)
+* [Radiance Caching for Real-Time Global Illumination (Video)](https://www.youtube.com/watch?v=2GYXuM10riw)
