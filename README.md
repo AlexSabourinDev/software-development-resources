@@ -177,6 +177,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Lock And Exceptions Do Not Mix (Blog Post)](https://ericlippert.com/2009/03/06/locks-and-exceptions-do-not-mix/#more-1873)
 * [Atomacity, Volatility and Immutability Are Different (Blog Post)](https://ericlippert.com/2011/06/16/atomicity-volatility-and-immutability-are-different-part-three/#more-2019)
 * [Understanding Low Lock Techniques In Multi-threaded Apps (Blog Post)](https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/october/understanding-low-lock-techniques-in-multithreaded-apps)
+* [Finalizers are tricker than you might think. Part 2](https://sergeyteplyakov.github.io/Blog/2025/03/27/Finalizers_are_tricker_than_you_might_think_p2.html)
 
 ### Misc
 
