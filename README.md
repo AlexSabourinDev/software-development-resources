@@ -259,6 +259,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Transforming colors with matrices (Blog Post)](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [Viewing images (Blog Post)](https://wolf.nereid.pl/posts/image-viewer/)
 * [Issues with Color Spaces and Perceptual Brightness (Blog Post)](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
+* [A Beginner’s Guide to (CIE) Colorimetry (Blog Post)](https://medium.com/hipster-color-science/a-beginners-guide-to-colorimetry-401f1830b65a)
 
 ### Forward, Deferred, Visibility, Etc
 
