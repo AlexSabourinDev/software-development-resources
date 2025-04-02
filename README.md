@@ -553,6 +553,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Extending the Disney BRDF to a BSDF with Integrated Subsurface Scattering (Paper)](https://blog.selfshadow.com/publications/s2015-shading-course/burley/s2015_pbs_disney_bsdf_notes.pdf)
 * [Bounded VNDF Sampling for Smith–GGX Reflections (Paper)](https://gpuopen.com/download/publications/Bounded_VNDF_Sampling_for_Smith-GGX_Reflections.pdf)
 * [Energy Preserving Semi-Metallic BRDF (Blog Post)](http://www.zyanidelab.com/semi-metallic-brdf/)
+* [PBR Diffuse Lighting for GGX+Smith Microsurfaces (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2017/Presentations/Hammon_Earl_PBR_Diffuse_Lighting.pdf)
 
 ### Ambient Occlusion
 
