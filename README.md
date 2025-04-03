@@ -731,6 +731,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Surface-Stable Fractal Dithering Explained (Video)](https://www.youtube.com/watch?v=HPqGaIMVuLs)
 * [FFT Bloom Optimized to the Bone in Nabla (Blog Post)](https://graphics-programming.org/blog/fft-bloom-optimized-to-the-bone-in-nabla)
 * [Surface Gradient–Based Bump Mapping Framework (Paper)](https://jcgt.org/published/0009/03/04/paper.pdf)
+* [MATERIAL ADVANCES IN CALL OF DUTY: WWII (Slides)](https://www.activision.com/cdn/research/MaterialAdvancesInWWII.pdf)
 
 ### Occlusion
 
