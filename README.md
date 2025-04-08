@@ -748,6 +748,14 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Physically Based And Scalable Atmospheres In Unreal Engine (Slides)](https://blog.selfshadow.com/publications/s2020-shading-course/hillaire/s2020_pbs_hillaire_slides.pdf)
 * [A Scalable and Production Ready Sky and Atmosphere Rendering Technique (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf14050/v39i4pp013-022.pdf)
 * [Schneider VFX Portfolio (Lots of cloud research) (Blog Post)](https://www.schneidervfx.com/)
+* [The Real-time Volumetric Cloudscapes Of Horizon: Zero Dawn (Slides)](https://d3d3g8mu99pzk9.cloudfront.net/AndrewSchneider/The-Real-time-Volumetric-Cloudscapes-of-Horizon-Zero-Dawn.pdf)
+* [Nubis Evolved (Slides)](https://d3d3g8mu99pzk9.cloudfront.net/AndrewSchneider/NubisEvolved/NubisEvolved-NoVideos.pdf)
+* [Nubis^3 (Slides)](https://d3d3g8mu99pzk9.cloudfront.net/AndrewSchneider/Nubis%20Cubed.pdf)
+* [Shoot for the Sky: The Ambitious HDR Time-Lapse Skies of Forza Horizon 3 (Video)](https://www.youtube.com/watch?v=kquyK8pE81s)
+* [Physically Based Sky, Atmosphere & Cloud Rendering In Frostbite (Paper)](https://www.ea.com/frostbite/news/physically-based-sky-atmosphere-and-cloud-rendering)
+* [Creating the Atmospheric World of Red Dead Redemption 2: A Complete and Integrated Solution (Slides)](https://advances.realtimerendering.com/s2019/slides_public_release.pptx)
+* [Production Volume Rendering Systems Course 2011 (Paper)](https://cg.informatik.uni-freiburg.de/intern/seminar/volumeRenderingProductionSystems2011.pdf)
+* [Production Volume Rendering Course 2017 (Paper)](https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf)
 
 ### Depth
 
