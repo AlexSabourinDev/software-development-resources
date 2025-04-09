@@ -756,6 +756,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Creating the Atmospheric World of Red Dead Redemption 2: A Complete and Integrated Solution (Slides)](https://advances.realtimerendering.com/s2019/slides_public_release.pptx)
 * [Production Volume Rendering Systems Course 2011 (Paper)](https://cg.informatik.uni-freiburg.de/intern/seminar/volumeRenderingProductionSystems2011.pdf)
 * [Production Volume Rendering Course 2017 (Paper)](https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf)
+* [Oz: The Great and Volumetric (Paper)](https://fpsunflower.github.io/ckulla/data/oz_volumes.pdf)
+* [Art-Directable Multiple Volumetric Scattering (Paper)](https://www.researchgate.net/profile/Magnus-Wrenninge/publication/284693769_Art-Directable_Multiple_Volumetric_Scattering/links/565615b608aefe619b1d0c38/Art-Directable-Multiple-Volumetric-Scattering.pdf)
 
 ### Depth
 
