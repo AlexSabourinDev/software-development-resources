@@ -418,6 +418,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Normals revisited (Blog Post)](https://github.com/graphitemaster/normals_revisited/blob/master/README.md)
 * [Normal Mapping without Precomputed Tangents (Blog Post)](http://www.thetenthplanet.de/archives/1180)
 * [Survey of Efficient Representations for Independent Unit Vectors (Paper)](https://jcgt.org/published/0003/02/01/)
+* [Surface Gradient–Based Bump Mapping Framework (Paper)](https://jcgt.org/published/0009/03/04/paper.pdf)
+* [Surface Gradient Bump Mapping Framework Overview (Blog Post)](https://www.jeremyong.com/graphics/2023/12/16/surface-gradient-bump-mapping/)
 
 ### Shaders
 
@@ -731,7 +733,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Learning to differentiably rasterize. (Blog Post)](https://c0de517e.com/019_autoinigo.htm)
 * [Surface-Stable Fractal Dithering Explained (Video)](https://www.youtube.com/watch?v=HPqGaIMVuLs)
 * [FFT Bloom Optimized to the Bone in Nabla (Blog Post)](https://graphics-programming.org/blog/fft-bloom-optimized-to-the-bone-in-nabla)
-* [Surface Gradient–Based Bump Mapping Framework (Paper)](https://jcgt.org/published/0009/03/04/paper.pdf)
 * [MATERIAL ADVANCES IN CALL OF DUTY: WWII (Slides)](https://www.activision.com/cdn/research/MaterialAdvancesInWWII.pdf)
 
 ### Occlusion
