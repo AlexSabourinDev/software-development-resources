@@ -24,6 +24,9 @@ A collection of links for various fields of software development (Mostlt Graphic
   * [Forward, Deferred, Visibility, Etc](#forward-deferred-visibility-etc)
   * [Transparency, Blending](#transparency-blending)
   * [GPU Architecture](#gpu-architecture)
+    + [AMD](#amd)
+    + [Intel](#intel)
+    + [Nvidia](#nvidia)
   * [Code](#code)
   * [Particles](#particles)
   * [Shadows](#shadows)
@@ -309,38 +312,48 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [What's up with my branch on GPU? (Blog Post)](https://aschrein.github.io/jekyll/update/2019/06/13/whatsup-with-my-branches-on-gpu.html)
 * [Intro To GPU Scalarization - Part 1 (Blog Post)](https://flashypixels.wordpress.com/2018/11/10/intro-to-gpu-scalarization-part-1/)
 * [Analysis Driven Optimization: Preparing for analysis with NVidia Nsight Compute (Blog Series)](https://developer.nvidia.com/blog/analysis-driven-optimization-preparing-for-analysis-with-nvidia-nsight-compute-part-1/)
-* [The AMD GCN Architecture - A Crash Course (Slides)](https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah) 
 * [Gentle Introduction To GPU Inner Workings (Blog Post)](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
-* [Advanced Shader Programming On GCN (Slides)](https://gpuopen.com/wp-content/uploads/2017/03/GDC2017-Advanced-Shader-Programming-On-GCN.pdf)
 * [GPU Architectures Explained (Blog Post)](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
 * [Triangle Setup And Rasterization For FGPA (Blog Post)](http://js3.maisonikkoku.com/uncategorized/triangle_setup_and_rasterization/)
 * [Linear-Speed Vertex Cache Optimisation (Paper)](http://tomforsyth1000.github.io/papers/fast_vert_cache_opt.html)
-* [RDNA3 ISA (Paper)](https://developer.amd.com/wp-content/resources/RDNA3_Shader_ISA_December2022.pdf)
-* [RDNA Architecture (Paper)](https://www.amd.com/system/files/documents/rdna-whitepaper.pdf)
 * [Fine-grained backface culling (Blog Post)](https://zeux.io/2023/04/28/triangle-backface-culling/)
 * [GPU Hang Exploration: Splitgate (Blog Post)](https://pixelcluster.github.io/Hang-Exploration-Splitgate/)
 * [Explore GPU advancements in M3 and A17 Pro (Video)](https://developer.apple.com/videos/play/tech-talks/111375)
 * [Occupancy explained (Blog Post)](https://gpuopen.com/learn/occupancy-explained/)
-* [Examining AMD’s RDNA 4 Changes in LLVM (Blog Post)](https://chipsandcheese.com/2024/01/28/examining-amds-rdna-4-changes-in-llvm/)
 * [Conformant OpenGL 4.6 on the M1 (Blog Post)](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
-* [Understanding Memory Coalescing on GCN (Blog Post)](https://gpuopen.com/learn/gcn-memory-coalescing/)
 * [A shifty tail about unit testing (Blog Post)](https://www.collabora.com/news-and-blog/blog/2024/08/15/a-shifty-tail-about-unit-testing/)
 * [Improving GPU Performance by Reducing Instruction Cache Misses (Blog Post)](https://developer.nvidia.com/blog/improving-gpu-performance-by-reducing-instruction-cache-misses-2/)
-* [RDNA Architecture (Slides)](https://gpuopen.com/wp-content/uploads/2019/08/RDNA_Architecture_public.pdf)
-* [AMD GCN Assembly: Cross-Lane Operations (Blog Post)](https://gpuopen.com/learn/amd-gcn-assembly-cross-lane-operations/)
 * [Stream Reduction Operations for GPGPU Applications (Blog Post)](https://developer.nvidia.com/gpugems/gpugems2/part-iv-general-purpose-computation-gpus-primer/chapter-36-stream-reduction)
 * [HLSL pitfalls (Blog Post)](https://silvesthu.github.io/posts/2020/05/hlsl-pitfalls/)
 * [Reading Between Threads: Shader Intrinsics (Blog Post)](https://developer.nvidia.com/reading-between-threads-shader-intrinsics)
 * [Mali Fragment Prepass (Blog Post)](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/immortalis-g925-the-fragment-prepass)
-* [Dissecting the NVidia Turing T4 GPU via Microbenchmarking (Paper)](https://arxiv.org/pdf/1903.07486)
-* [AMD RDNA 3.5’s LLVM Changes (Blog Post)](https://chipsandcheese.com/p/amd-rdna-3-5s-llvm-changes)
-* [Ivy Bridge’s Gen7 Graphics: Intel’s Modern iGPU Push (Blog Post)](https://chipsandcheese.com/p/ivy-bridges-gen7-graphics-intels-modern-igpu-push)
 * [You Compiled This, Driver. Trust Me…. (Blog Post)](http://www.joshbarczak.com/blog/?p=1028)
-* [SPMD Is Not Intel’s Cup Of Tea (Blog Post)](http://www.joshbarczak.com/blog/?p=1120)
-* [Intel Graphics ISA (Slides)](https://www.intel.com/content/dam/develop/external/us/en/documents/micro2015-isa-igc-tutorial.pdf)
 * [Does subgroup/wave size matter? (Blog Post)](https://www.gfxstrand.net/faith/blog/2020/10/does-subgroup-wave-size-matter/)
-* [Deep Dive into Matrix Optimization on AMD GPUs (Blog Post)](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
 * [GRAMPS: A Programming Model for Graphics Pipelines (Paper)](https://graphics.stanford.edu/papers/gramps-tog/gramps-tog09.pdf)
+
+#### AMD
+
+* [Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture (Blog Post)](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds)
+* [Deep Dive into Matrix Optimization on AMD GPUs (Blog Post)](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
+* [AMD RDNA 3.5’s LLVM Changes (Blog Post)](https://chipsandcheese.com/p/amd-rdna-3-5s-llvm-changes)
+* [AMD GCN Assembly: Cross-Lane Operations (Blog Post)](https://gpuopen.com/learn/amd-gcn-assembly-cross-lane-operations/)
+* [RDNA Architecture (Slides)](https://gpuopen.com/wp-content/uploads/2019/08/RDNA_Architecture_public.pdf)
+* [Understanding Memory Coalescing on GCN (Blog Post)](https://gpuopen.com/learn/gcn-memory-coalescing/)
+* [Examining AMD’s RDNA 4 Changes in LLVM (Blog Post)](https://chipsandcheese.com/2024/01/28/examining-amds-rdna-4-changes-in-llvm/)
+* [RDNA Architecture (Paper)](https://www.amd.com/system/files/documents/rdna-whitepaper.pdf)
+* [RDNA3 ISA (Paper)](https://developer.amd.com/wp-content/resources/RDNA3_Shader_ISA_December2022.pdf)
+* [Advanced Shader Programming On GCN (Slides)](https://gpuopen.com/wp-content/uploads/2017/03/GDC2017-Advanced-Shader-Programming-On-GCN.pdf)
+* [The AMD GCN Architecture - A Crash Course (Slides)](https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah) 
+
+#### Intel
+
+* [Intel Graphics ISA (Slides)](https://www.intel.com/content/dam/develop/external/us/en/documents/micro2015-isa-igc-tutorial.pdf)
+* [Ivy Bridge’s Gen7 Graphics: Intel’s Modern iGPU Push (Blog Post)](https://chipsandcheese.com/p/ivy-bridges-gen7-graphics-intels-modern-igpu-push)
+* [SPMD Is Not Intel’s Cup Of Tea (Blog Post)](http://www.joshbarczak.com/blog/?p=1120)
+
+#### Nvidia
+
+* [Dissecting the NVidia Turing T4 GPU via Microbenchmarking (Paper)](https://arxiv.org/pdf/1903.07486)
 
 ### Code
 
