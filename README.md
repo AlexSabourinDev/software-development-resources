@@ -810,6 +810,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Floating Point (White Paper)](http://www.cse.hcmut.edu.vn/~hungnq/courses/501120/docthem/Single%20precision%20floating-point%20format%20-%20Wikipedia.pdf)
 * [NaNs cause the craziest bugs (Blog Post)](https://cohost.org/tomforsyth/post/1068776-na-ns-cause-the-crazi)
 * [Subtraction Is Functionally Complete (Blog Post)](https://orlp.net/blog/subtraction-is-functionally-complete/)
+* [Why Does Integer Addition Approximate Float Multiplication? (Blog Post)](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 
 ## Algorithms
 
