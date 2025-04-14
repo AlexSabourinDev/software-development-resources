@@ -748,6 +748,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Surface-Stable Fractal Dithering Explained (Video)](https://www.youtube.com/watch?v=HPqGaIMVuLs)
 * [FFT Bloom Optimized to the Bone in Nabla (Blog Post)](https://graphics-programming.org/blog/fft-bloom-optimized-to-the-bone-in-nabla)
 * [MATERIAL ADVANCES IN CALL OF DUTY: WWII (Slides)](https://www.activision.com/cdn/research/MaterialAdvancesInWWII.pdf)
+* [To Early-Z, or Not To Early-Z (Blog Post)](https://therealmjp.github.io/posts/to-earlyz-or-not-to-earlyz/)
 
 ### Occlusion
 
