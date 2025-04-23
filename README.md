@@ -1032,6 +1032,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Surface-Stable Fractal Dither on Playdate (Blog Post)](https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/)
 * [Performance of the Python 3.14 tail-call interpreter (Blog Post)](https://blog.nelhage.com/post/cpython-tail-call/)
 * [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon (Blog Post)](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
+* [Building a Fast, SIMD/GPU-friendly Random Number Generator For Fun And Profit (Blog Post)](https://vectrx.substack.com/p/lcg-xs-fast-gpu-rng)
 
 ## Unity
 
