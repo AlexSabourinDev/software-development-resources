@@ -527,6 +527,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Radiometry, part 1: I got it backwards (Blog Post)](https://momentsingraphics.de/Radiometry1Backwards.html)
 * [Surfel Maintenance for Global Illumination (Blog Post)](https://m4xc.dev/blog/surfel-maintenance/)
 * [Anno 1800: Shadows of Beauty (Blog Post)](https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/)
+* [LTC Fresnel Approximation (Paper)](https://blog.selfshadow.com/publications/s2016-advances/s2016_ltc_fresnel.pdf)
 
 #### Lights
 
