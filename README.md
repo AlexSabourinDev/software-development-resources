@@ -247,6 +247,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Lossless Image Compression in O(n) Time (Blog Post)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 * [An Introduction To BCn Texture Compression, Part 1: BC4 (Blog Post)](https://acefanatic02.github.io/posts/intro_bcn_part1/)
 * [I3D'24 Technical Paper: Filtering After Shading with Stochastic Texture Filtering (Video)](https://www.youtube.com/watch?v=e3391_C6aXE)
+* [Improved Stochastic Texture Filtering Through Sample Reuse (Paper)](https://arxiv.org/abs/2504.05562)
 * [Writing to Compressed Textures (Blog Post)](https://gist.github.com/castano/6e517fde7ff8cf2652758ff55bf260cd#writing-to-compressed-textures)
 * [GPU Texture Compression Everywhere (Blog Post)](https://www.ludicon.com/castano/blog/2025/02/gpu-texture-compression-everywhere/)
 
