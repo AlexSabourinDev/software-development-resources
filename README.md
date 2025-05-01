@@ -55,6 +55,8 @@ A collection of links for various fields of software development (Mostlt Graphic
   * [Signed Distance Fields](#signed-distance-fields)
   * [Tutorials](#tutorials)
   * [Shader Editors](#shader-editors)
+  * [Render Graphs](#render-graphs)
+  * [Denoising](#denoising)
 - [Floating Point](#floating-point)
 - [Algorithms](#algorithms)
 - [Networking](#networking)
@@ -816,6 +818,28 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [An update to our Render Graph - Traverse Research (Blog Post)](https://blog.traverseresearch.nl/an-update-to-our-render-graph-17ca4154fd23)
 * [High-level rendering using render graphs (Blog Post)](https://ourmachinery.com/post/high-level-rendering-using-render-graphs/)
 * [Framegraphs extensible render framework in frostbite (Slides)](https://www.ea.com/frostbite/news/framegraph-extensible-rendering-architecture-in-frostbite)
+
+### Denoising
+
+* [Ray Tracing Denoising Overview (Blog Post)](https://alain.xyz/blog/ray-tracing-denoising#ref_he2012)
+* [Rendering Tiny Glades With Entirely Too Much Ray Marching (Video)](https://www.youtube.com/watch?v=jusWW2pPnA0)
+* [Ray Tracing Filtering Overview (Blog Post)](https://alain.xyz/blog/ray-tracing-filtering)
+* [Raytraced global illumination denoising (Blog Post)](https://interplayoflight.wordpress.com/2022/03/26/raytraced-global-illumination-denoising/)
+* [Denoising in Cycles: Past, present and future - Blender Conference 2024 (Video)](https://www.youtube.com/watch?v=jirpTs8DBPY)
+* [Raytracing in Snowdrop (Slides)](https://media.gdcvault.com/gdc2024/Slides/GDC+slide+presentations/Kuenlib_Quentin_Raytracing_In_Snowdrop.pdf)
+* [FidelityFX Specular Denoiser Sample (Repo)](https://github.com/GPUOpen-Effects/FidelityFX-SSSR/tree/master/sample)
+* [Raytracing Gems (Book)](https://www.realtimerendering.com/raytracinggems/unofficial_RayTracingGems_v1.9.pdf)
+* [Stochastic Screen-Space Reflections In Frostbite (Slides)](https://advances.realtimerendering.com/s2015/Stochastic%20Screen-Space%20Reflections.pptx)
+* [Nvidia Real-time Denoiser (Repo)](https://github.com/NVIDIA-RTX/NRD)
+* [Fast Denoising With Self Stabilizing Recurrent Blurs (Video)](https://gdcvault.com/play/1026701/Fast-Denoising-With-Self-Stabilizing)
+* [Edge-Avoiding A-Trous Wavelet Transform for fast Global Illumination Filtering (Paper)](https://jo.dreggn.org/home/2010_atrous.pdf)
+* [A Fast GPU Schedule For A-Trous Wavelet-Based Denoisers (Paper)](https://dl.acm.org/doi/pdf/10.1145/3651299)
+* [Spatio-temporal Variance Guided Filtering (Paper)](https://research.nvidia.com/sites/default/files/pubs/2017-07_Spatiotemporal-Variance-Guided-Filtering%3A//svgf_preprint.pdf)
+* [Gradient Estimation for Real-Time Adaptive Temporal Filtering (Paper)](https://cg.ivd.kit.edu/publications/2018/adaptive_temporal_filtering/adaptive_temporal_filtering.pdf)
+* [Quake 2 RTX Denoiser (Repo)](https://github.com/NVIDIA/Q2RTX/blob/master/src/refresh/vkpt/shader/asvgf.glsl)
+* [Blockwise Multi-Order Feature Regression for Real-Time Path Tracing Reconstruction (Paper)](https://webpages.tuni.fi/foi/papers/Koskela-TOG-2019-Blockwise_Multi_Order_Feature_Regression_for_Real_Time_Path_Tracing_Reconstruction.pdf)
+* [REBLUR: A HIERARCHICAL RECURRENT DENOISER (Paper)](https://www.researchgate.net/publication/354065087_ReBLUR_A_Hierarchical_Recurrent_Denoiser)
+* [ReLAX: A Denoiser Tailored to Work with the ReSTIR Algorithm (Video)](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32759/)
 
 ## Floating Point
 
