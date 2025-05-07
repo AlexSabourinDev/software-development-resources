@@ -111,6 +111,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Exact Polygonal Filtering (Blog Post)](https://jonathanolson.net/exact-polygonal-filtering)
 * [Stupid is as Stupid Does: Taking the Square Root of the Square of a Floating-Point Number (Paper)](https://inria.hal.science/hal-01148409)
 * [Time series analysis: Basics (estimation and inference) (Video)](https://www.youtube.com/watch?v=pmnK0ibiYbM)
+* [Derivation and Intuition behind Poisson distribution (Blog Post)](https://antaripasaha.notion.site/Derivation-and-Intuition-behind-Poisson-distribution-1255314a56398062bf9dd9049fb1c396)
 
 ## Game Design
 
