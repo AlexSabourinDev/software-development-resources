@@ -753,6 +753,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [FFT Bloom Optimized to the Bone in Nabla (Blog Post)](https://graphics-programming.org/blog/fft-bloom-optimized-to-the-bone-in-nabla)
 * [MATERIAL ADVANCES IN CALL OF DUTY: WWII (Slides)](https://www.activision.com/cdn/research/MaterialAdvancesInWWII.pdf)
 * [To Early-Z, or Not To Early-Z (Blog Post)](https://therealmjp.github.io/posts/to-earlyz-or-not-to-earlyz/)
+* [Boosting GPU Radix Sort performance: A memory-efficient extension to Onesweep with circular buffers (Blog Post)](https://gpuopen.com/learn/boosting_gpu_radix_sort/?utm_source=mastodon&utm_medium=social&utm_campaign=radixsort)
 
 ### Occlusion
 
