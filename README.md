@@ -757,6 +757,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Boosting GPU Radix Sort performance: A memory-efficient extension to Onesweep with circular buffers (Blog Post)](https://gpuopen.com/learn/boosting_gpu_radix_sort/?utm_source=mastodon&utm_medium=social&utm_campaign=radixsort)
 * [Some Thoughts on the Fresnel Term (Video)](https://www.youtube.com/watch?v=kEcDbl7eS0w)
 * [Bringing an Accurate Fresnel to Real-Time Rendering: A Preintegrable Decomposition (Video)](https://www.youtube.com/watch?v=OXW-Kc2TWTM)
+* [Mipmap selection in too much detail (Blog Post)](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 
 ### Occlusion
 
