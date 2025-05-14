@@ -616,6 +616,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [ReSTIR GI: Path Resampling for Real-Time Path Tracing (Paper)](https://d1qx31qr3h6wln.cloudfront.net/publications/ReSTIR%20GI.pdf)
 * [A Gentler Introduction To ReSTIR (Blog Post)](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
 * [Dynamic diffuse global illumination (Blog Post)](https://blog.traverseresearch.nl/dynamic-diffuse-global-illumination-b56dc0525a0a)
+* [Understanding The Math Behind ReSTIR GI (Blog Post)](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_gi/)
 
 ### Cameras, Exposure, Tonemapping
 
