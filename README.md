@@ -760,6 +760,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Bringing an Accurate Fresnel to Real-Time Rendering: A Preintegrable Decomposition (Video)](https://www.youtube.com/watch?v=OXW-Kc2TWTM)
 * [Mipmap selection in too much detail (Blog Post)](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 * [Correct 2D Lanczos filter application (Blog Post)](https://github.com/pixelflinger/lanczos-2d)
+* [Rendering 'Assassin's Creed Shadows (Slides)](https://gdcvault.com/play/1035526/Rendering-Assassin-s-Creed-Shadows)
 
 ### Occlusion
 
@@ -1068,6 +1069,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon (Blog Post)](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [Building a Fast, SIMD/GPU-friendly Random Number Generator For Fun And Profit (Blog Post)](https://vectrx.substack.com/p/lcg-xs-fast-gpu-rng)
 * [Mimalloc Cigarette: Losing one week of my life catching a memory leak (Blog Post)](https://pwy.io/posts/mimalloc-cigarette/)
+* [Controller to display latency in Call of Duty (Slides)](https://www.activision.com/cdn/research/Hogge_Akimitsu_Controller_to_display.pdf)
 
 ## Unity
 
