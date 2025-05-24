@@ -761,6 +761,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Mipmap selection in too much detail (Blog Post)](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 * [Correct 2D Lanczos filter application (Blog Post)](https://github.com/pixelflinger/lanczos-2d)
 * [Rendering 'Assassin's Creed Shadows (Slides)](https://gdcvault.com/play/1035526/Rendering-Assassin-s-Creed-Shadows)
+* [Neural Graphics in an Afternoon (Blog Series)](https://shader-slang.org/blog/featured/2025/04/04/neural-gfx-in-an-afternoon/)
 
 ### Occlusion
 
