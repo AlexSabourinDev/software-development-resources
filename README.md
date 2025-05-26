@@ -905,6 +905,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Implementation of an Out-of-order RISC-V Vector Unit- Roger Espasa, SemiDynamics Technology Services (Video)](https://www.youtube.com/watch?v=WzID6kk8RNs)
 * [Zen5's AVX512 Teardown (Blog Post)](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [Load-store conflicts (Blog Post)](https://zeux.io/2025/05/03/load-store-conflicts/)
+* [FFMPEG Assembly Lessons (Blog Series)](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
 
 ### Optimizations
 
