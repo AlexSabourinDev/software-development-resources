@@ -580,6 +580,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Bounded VNDF Sampling for Smith–GGX Reflections (Paper)](https://gpuopen.com/download/publications/Bounded_VNDF_Sampling_for_Smith-GGX_Reflections.pdf)
 * [Energy Preserving Semi-Metallic BRDF (Blog Post)](http://www.zyanidelab.com/semi-metallic-brdf/)
 * [PBR Diffuse Lighting for GGX+Smith Microsurfaces (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2017/Presentations/Hammon_Earl_PBR_Diffuse_Lighting.pdf)
+* [EON: A practical energy-preserving rough diffuse BRDF (Paper)](https://arxiv.org/pdf/2410.18026)
 
 ### Ambient Occlusion
 
@@ -766,6 +767,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Correct 2D Lanczos filter application (Blog Post)](https://github.com/pixelflinger/lanczos-2d)
 * [Rendering 'Assassin's Creed Shadows (Slides)](https://gdcvault.com/play/1035526/Rendering-Assassin-s-Creed-Shadows)
 * [Neural Graphics in an Afternoon (Blog Series)](https://shader-slang.org/blog/featured/2025/04/04/neural-gfx-in-an-afternoon/)
+* [Reflectometer Material Capture (Paper)](https://www.activision.com/cdn/research/Reflectometer_Material_Capture.pdf)
 
 ### Occlusion
 
