@@ -581,6 +581,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Energy Preserving Semi-Metallic BRDF (Blog Post)](http://www.zyanidelab.com/semi-metallic-brdf/)
 * [PBR Diffuse Lighting for GGX+Smith Microsurfaces (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2017/Presentations/Hammon_Earl_PBR_Diffuse_Lighting.pdf)
 * [EON: A practical energy-preserving rough diffuse BRDF (Paper)](https://arxiv.org/pdf/2410.18026)
+* [Revisiting Physically Based Shading at Imageworks (Slides)](https://blog.selfshadow.com/publications/s2017-shading-course/imageworks/s2017_pbs_imageworks_slides_v2.pdf)
 
 ### Ambient Occlusion
 
