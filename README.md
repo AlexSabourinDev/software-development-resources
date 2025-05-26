@@ -112,6 +112,10 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Stupid is as Stupid Does: Taking the Square Root of the Square of a Floating-Point Number (Paper)](https://inria.hal.science/hal-01148409)
 * [Time series analysis: Basics (estimation and inference) (Video)](https://www.youtube.com/watch?v=pmnK0ibiYbM)
 * [Derivation and Intuition behind Poisson distribution (Blog Post)](https://antaripasaha.notion.site/Derivation-and-Intuition-behind-Poisson-distribution-1255314a56398062bf9dd9049fb1c396)
+* [Rethinking Probability (Blog Post)](https://jiha-kim.github.io/posts/rethinking-probability/)
+* [The Mean-ing of Loss Functions (Blog Post)](https://jiha-kim.github.io/posts/the-mean-ing-of-loss-functions/)
+* [Introduction To Stochastic Calculus (Blog Post)](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
+* [Automatic Stochastic Differentiation (Blog Post)](https://jiha-kim.github.io/posts/automatic-stochastic-differentiation/index.html)
 
 ## Game Design
 
