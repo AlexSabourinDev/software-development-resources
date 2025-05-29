@@ -769,6 +769,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Rendering 'Assassin's Creed Shadows (Slides)](https://gdcvault.com/play/1035526/Rendering-Assassin-s-Creed-Shadows)
 * [Neural Graphics in an Afternoon (Blog Series)](https://shader-slang.org/blog/featured/2025/04/04/neural-gfx-in-an-afternoon/)
 * [Reflectometer Material Capture (Paper)](https://www.activision.com/cdn/research/Reflectometer_Material_Capture.pdf)
+* [Thresholding Modern Blue Noise Textures (Blog Post)](https://blog.demofox.org/2025/05/27/thresholding-modern-blue-noise-textures/)
+* [Async compute all the things (Blog Post)](https://interplayoflight.wordpress.com/2025/05/27/async-compute-all-the-things/)
 
 ### Occlusion
 
@@ -867,6 +869,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [NaNs cause the craziest bugs (Blog Post)](https://cohost.org/tomforsyth/post/1068776-na-ns-cause-the-crazi)
 * [Subtraction Is Functionally Complete (Blog Post)](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [Why Does Integer Addition Approximate Float Multiplication? (Blog Post)](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
+* [The Secrets of Floating-Point Numbers (Blog Post)](https://asawicki.info/articles/secrets_of_floating_point_numbers_en.php)
+* [Beware of fast-math (Blog Post)](https://simonbyrne.github.io/notes/fastmath/)
 
 ## Algorithms
 
@@ -1079,6 +1083,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Building a Fast, SIMD/GPU-friendly Random Number Generator For Fun And Profit (Blog Post)](https://vectrx.substack.com/p/lcg-xs-fast-gpu-rng)
 * [Mimalloc Cigarette: Losing one week of my life catching a memory leak (Blog Post)](https://pwy.io/posts/mimalloc-cigarette/)
 * [Controller to display latency in Call of Duty (Slides)](https://www.activision.com/cdn/research/Hogge_Akimitsu_Controller_to_display.pdf)
+* [Zero-overhead checks with fake stack overflows (Blog Post)](https://bernsteinbear.com/blog/overflow-check/?utm_source=rss)
 
 ## Unity
 
