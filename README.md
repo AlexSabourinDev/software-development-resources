@@ -771,6 +771,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Reflectometer Material Capture (Paper)](https://www.activision.com/cdn/research/Reflectometer_Material_Capture.pdf)
 * [Thresholding Modern Blue Noise Textures (Blog Post)](https://blog.demofox.org/2025/05/27/thresholding-modern-blue-noise-textures/)
 * [Async compute all the things (Blog Post)](https://interplayoflight.wordpress.com/2025/05/27/async-compute-all-the-things/)
+* [Geometry Rendering Pipeline Architecture At Activision (Slides)](https://research.activision.com/publications/2021/09/geometry-rendering-pipeline-architecture)
 
 ### Occlusion
 
