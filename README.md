@@ -911,7 +911,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Using the LEA instruction for arbitrary arithmetic (Blog Post)](https://handmade.network/forums/articles/t/7111-using_the_lea_instruction_for_arbitrary_arithmetic)
 * [Why x86 Doesn’t Need to Die (Blog Post)](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 * [Implementation of an Out-of-order RISC-V Vector Unit- Roger Espasa, SemiDynamics Technology Services (Video)](https://www.youtube.com/watch?v=WzID6kk8RNs)
-* [Zen5's AVX512 Teardown (Blog Post)](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [Load-store conflicts (Blog Post)](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [FFMPEG Assembly Lessons (Blog Series)](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
 
@@ -937,6 +936,10 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Use AVX512 Galois field affine transformation for bit shuffling (Blog Post)](http://0x80.pl/articles/avx512-galois-field-for-bit-shuffling.html)
 * [Permuting bits with GF2P8AFFINEQB (Blog Post)](http://bitmath.blogspot.com/2023/09/permuting-bits-with-gf2p8affineqb.html)
 * [Bit-permuting 16 u32s at once with AVX-512 (Blog Post)](https://bitmath.blogspot.com/2024/12/bit-permuting-16-u32s-at-once-with-avx.html)
+* [Beating the kCTF PoW with AVX512IFMA for $51k (Blog Post)](https://anemato.de/blog/kctf-vdf)
+* [Zen5's AVX512 Teardown (Blog Post)](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
+* [SIMD Matters (Box2D) (Blog Post)](https://box2d.org/posts/2024/08/simd-matters/)
+* [Building a Fast, SIMD/GPU-friendly Random Number Generator For Fun And Profit (Blog Post)](https://vectrx.substack.com/p/lcg-xs-fast-gpu-rng)
 
 ## Retro
 
@@ -1057,7 +1060,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A cheap normal distribution approximation (Blog Post)](https://marc-b-reynolds.github.io/distribution/2021/03/18/CheapGaussianApprox.html)
 * [Random thoughts about Unity (Blog Post)](https://aras-p.info/blog/2024/08/11/Random-thoughts-about-Unity/)
 * [Variety of hacking based concepts (Blog Post)](http://phrack.org/issues/71/3.html#article)
-* [SIMD Matters (Box2D) (Blog Post)](https://box2d.org/posts/2024/08/simd-matters/)
 * [How To Make Good Small Games (Blog Post)](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [Crash Course in Deep Learning (for Computer Graphics) (PDF)](https://boksajak.github.io/files/CrashCourseDL.pdf)
 * [Getting stuff done - practical solutions for pulling off large projects](https://gargaj.tumblr.com/post/618398787188211712/getting-stuff-done-practical-solutions-for)
@@ -1081,7 +1083,6 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Surface-Stable Fractal Dither on Playdate (Blog Post)](https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/)
 * [Performance of the Python 3.14 tail-call interpreter (Blog Post)](https://blog.nelhage.com/post/cpython-tail-call/)
 * [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon (Blog Post)](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
-* [Building a Fast, SIMD/GPU-friendly Random Number Generator For Fun And Profit (Blog Post)](https://vectrx.substack.com/p/lcg-xs-fast-gpu-rng)
 * [Mimalloc Cigarette: Losing one week of my life catching a memory leak (Blog Post)](https://pwy.io/posts/mimalloc-cigarette/)
 * [Controller to display latency in Call of Duty (Slides)](https://www.activision.com/cdn/research/Hogge_Akimitsu_Controller_to_display.pdf)
 * [Zero-overhead checks with fake stack overflows (Blog Post)](https://bernsteinbear.com/blog/overflow-check/?utm_source=rss)
