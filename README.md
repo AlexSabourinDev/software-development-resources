@@ -116,6 +116,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Mean-ing of Loss Functions (Blog Post)](https://jiha-kim.github.io/posts/the-mean-ing-of-loss-functions/)
 * [Introduction To Stochastic Calculus (Blog Post)](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
 * [Automatic Stochastic Differentiation (Blog Post)](https://jiha-kim.github.io/posts/automatic-stochastic-differentiation/index.html)
+* [The math behind Extended Kalman Filtering (Blog Post)](https://medium.com/@sasha_przybylski/the-math-behind-extended-kalman-filtering-0df981a87453)
 
 ## Game Design
 
@@ -422,6 +423,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [What the heck is blue noise? (Blog Post)](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
 * [Spatio-Temporal Blue Noise (Video)](https://www.youtube.com/watch?v=4nM2FbLnOqQ)
 * [Sample Elimination for Generating Poisson Disk Sample Sets (Paper)](http://www.cemyuksel.com/research/sampleelimination/sampleelimination.pdf)
+* [Importance-Sampled Filter-Adapted Spatio-Temporal Sampling (Paper)](https://jcgt.org/published/0014/01/08/)
+* [Serial Gaussian-Blue-Noise Stippling (Paper)](https://diglib.eg.org/server/api/core/bitstreams/a82b2029-6c3a-45b1-9540-e7236f102b08/content)
 
 ### Graphics Codebases
 
