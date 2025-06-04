@@ -87,6 +87,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Programmer Time Translation Table (Blog Post)](https://coding.abel.nu/2012/06/programmer-time-translation-table/)
 * [2015 Chaos Report (Data)](https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf)
 * [17 theses software estimation (Blog Post)](https://stevemcconnell.com/blog/17-theses-software-estimation/)
+* [Task estimation: Conquering Hofstadter's Law (Blog Post)](https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters)
 
 ## Math
 
