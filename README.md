@@ -426,6 +426,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Sample Elimination for Generating Poisson Disk Sample Sets (Paper)](http://www.cemyuksel.com/research/sampleelimination/sampleelimination.pdf)
 * [Importance-Sampled Filter-Adapted Spatio-Temporal Sampling (Paper)](https://jcgt.org/published/0014/01/08/)
 * [Serial Gaussian-Blue-Noise Stippling (Paper)](https://diglib.eg.org/server/api/core/bitstreams/a82b2029-6c3a-45b1-9540-e7236f102b08/content)
+* [Free blue noise textures (Blog Post)](http://momentsingraphics.de/BlueNoise.html)
 
 ### Graphics Codebases
 
