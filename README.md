@@ -417,6 +417,11 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Improving raytracing performance with the Radeon™ Raytracing Analyzer (RRA) (Blog Post)](https://gpuopen.com/learn/improving-rt-perf-with-rra/)
 * [Cache Points for Production-Scale Occlusion-Aware Many-Lights Sampling and Volumetric Scattering (Video)](https://www.disneyanimation.com/publications/?drawer=/publications/cache-points-for-production-scale-occlusion-aware-many-lights-sampling-and-volumetric-scattering/)
 * [Measuring acceleration structures (Blog Post)](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
+* [PBRT - Path Regularization (Chapter)](https://pbr-book.org/4ed/Light_Transport_I_Surface_Reflection/A_Better_Path_Tracer#PathRegularization)
+* [PBRT - Firefly Clamping (Chapter)](https://pbr-book.org/4ed/Cameras_and_Film/Film_and_Imaging#RGBFilm)
+* [Microfacet Model Regularization for Robust Light Transport (Paper)](https://pdfs.semanticscholar.org/de40/be05dbc243d082181771df8de6e8e0d59ca8.pdf)
+* [Path Space Regularization for Holistic and Robust Light Transport (Paper)](https://cg.ivd.kit.edu/publications/p2013/PSR_Kaplanyan_2013/PSR_Kaplanyan_2013.pdf)
+* [Optimised Path Space Regularisation (Paper)](https://jo.dreggn.org/home/2021_opsr.pdf)
 
 ### Blue Noise
 
@@ -447,6 +452,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Survey of Efficient Representations for Independent Unit Vectors (Paper)](https://jcgt.org/published/0003/02/01/)
 * [Surface Gradient–Based Bump Mapping Framework (Paper)](https://jcgt.org/published/0009/03/04/paper.pdf)
 * [Surface Gradient Bump Mapping Framework Overview (Blog Post)](https://www.jeremyong.com/graphics/2023/12/16/surface-gradient-bump-mapping/)
+* [Filtering Distributions of Normals for Shading Antialiasing (Paper)](https://research.nvidia.com/sites/default/files/pubs/2016-06_Filtering-Distributions-of/NDFFiltering.pdf)
+* [Improved Geometric Specular AA (Slides)](http://www.jp.square-enix.com/tech/library/pdf/ImprovedGeometricSpecularAA(slides).pdf)
+* [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering (Paper)](https://www.jcgt.org/published/0010/02/02/)
 
 ### Shaders
 
