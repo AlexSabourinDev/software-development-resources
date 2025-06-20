@@ -455,6 +455,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Filtering Distributions of Normals for Shading Antialiasing (Paper)](https://research.nvidia.com/sites/default/files/pubs/2016-06_Filtering-Distributions-of/NDFFiltering.pdf)
 * [Improved Geometric Specular AA (Slides)](http://www.jp.square-enix.com/tech/library/pdf/ImprovedGeometricSpecularAA(slides).pdf)
 * [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering (Paper)](https://www.jcgt.org/published/0010/02/02/)
+* [LEAN Mapping (Paper)](https://userpages.cs.umbc.edu/olano/papers/lean/lean.pdf)
 
 ### Shaders
 
