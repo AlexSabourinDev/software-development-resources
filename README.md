@@ -786,6 +786,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Thresholding Modern Blue Noise Textures (Blog Post)](https://blog.demofox.org/2025/05/27/thresholding-modern-blue-noise-textures/)
 * [Async compute all the things (Blog Post)](https://interplayoflight.wordpress.com/2025/05/27/async-compute-all-the-things/)
 * [Geometry Rendering Pipeline Architecture At Activision (Slides)](https://research.activision.com/publications/2021/09/geometry-rendering-pipeline-architecture)
+* [Fair(er) DRM GPU scheduler (Blog Post)](https://blogs.igalia.com/tursulin/fair-er-drm-gpu-scheduler/)
+* [Sharing everything I could understand about gradient noise (Blog Post)](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 
 ### Occlusion
 
@@ -1100,6 +1102,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Mimalloc Cigarette: Losing one week of my life catching a memory leak (Blog Post)](https://pwy.io/posts/mimalloc-cigarette/)
 * [Controller to display latency in Call of Duty (Slides)](https://www.activision.com/cdn/research/Hogge_Akimitsu_Controller_to_display.pdf)
 * [Zero-overhead checks with fake stack overflows (Blog Post)](https://bernsteinbear.com/blog/overflow-check/?utm_source=rss)
+* [Understanding ANS (Blog Post)](https://cbloomrants.blogspot.com/2014/02/02-02-14-understanding-ans-4.html)
+* [rANS notes (Blog Post)](https://fgiesen.wordpress.com/2014/02/02/rans-notes/)
+* [Rant on New Arithmetic Coders (Blog Post)](https://cbloomrants.blogspot.com/2008/10/10-05-08-5.html)
 
 ## Unity
 
