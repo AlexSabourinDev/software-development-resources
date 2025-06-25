@@ -340,6 +340,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [You Compiled This, Driver. Trust Me…. (Blog Post)](http://www.joshbarczak.com/blog/?p=1028)
 * [Does subgroup/wave size matter? (Blog Post)](https://www.gfxstrand.net/faith/blog/2020/10/does-subgroup-wave-size-matter/)
 * [GRAMPS: A Programming Model for Graphics Pipelines (Paper)](https://graphics.stanford.edu/papers/gramps-tog/gramps-tog09.pdf)
+* [Subgroup Shuffle Reconvergence On Nvidia Volta (Blog Post)](https://github.com/Devsh-Graphics-Programming/blog/blob/786dcbce74fd34090ae068b3585c479069059cb8/blog/2025/2025-06-19-subgroup-shuffle-reconvergence-on-nvidia/index.md)
+* [Volta Independent Thread Scheduling (Paper)](https://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf#page=31&zoom=auto,-150,767)
 
 #### AMD
 
