@@ -274,6 +274,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Viewing images (Blog Post)](https://wolf.nereid.pl/posts/image-viewer/)
 * [Issues with Color Spaces and Perceptual Brightness (Blog Post)](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 * [A Beginner’s Guide to (CIE) Colorimetry (Blog Post)](https://medium.com/hipster-color-science/a-beginners-guide-to-colorimetry-401f1830b65a)
+* [From SDR to ‘Fake HDR’: Mario Kart World on Switch 2 Undermines Modern Display Potential (Blog Post)](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
 
 ### Forward, Deferred, Visibility, Etc
 
@@ -931,6 +932,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Implementation of an Out-of-order RISC-V Vector Unit- Roger Espasa, SemiDynamics Technology Services (Video)](https://www.youtube.com/watch?v=WzID6kk8RNs)
 * [Load-store conflicts (Blog Post)](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [FFMPEG Assembly Lessons (Blog Series)](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
+* [What Every Programmer Should Know About Memory (Paper)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ### Optimizations
 
