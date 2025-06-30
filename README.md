@@ -793,6 +793,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Fair(er) DRM GPU scheduler (Blog Post)](https://blogs.igalia.com/tursulin/fair-er-drm-gpu-scheduler/)
 * [Sharing everything I could understand about gradient noise (Blog Post)](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 * [Triangle Rejection Sampling for Density-Equipped Meshes on GPU (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf70217/cgf70217.pdf)
+* [Bicubic Filtering in Fewer Taps (Blog Post)](https://web.archive.org/web/20250520150715/https://vec3.ca/bicubic-filtering-in-fewer-taps/)
+* [2D Catmull-Rom in 4 samples (Blog Post)](https://www.decarpentier.nl/2d-catmull-rom-in-4-samples)
 
 ### Occlusion
 
