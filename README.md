@@ -275,6 +275,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Issues with Color Spaces and Perceptual Brightness (Blog Post)](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 * [A Beginner’s Guide to (CIE) Colorimetry (Blog Post)](https://medium.com/hipster-color-science/a-beginners-guide-to-colorimetry-401f1830b65a)
 * [From SDR to ‘Fake HDR’: Mario Kart World on Switch 2 Undermines Modern Display Potential (Blog Post)](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
+* [cICP in PNG, explained (Blog Post)](https://svgees.us/blog/cICP.html)
 
 ### Forward, Deferred, Visibility, Etc
 
@@ -791,6 +792,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Geometry Rendering Pipeline Architecture At Activision (Slides)](https://research.activision.com/publications/2021/09/geometry-rendering-pipeline-architecture)
 * [Fair(er) DRM GPU scheduler (Blog Post)](https://blogs.igalia.com/tursulin/fair-er-drm-gpu-scheduler/)
 * [Sharing everything I could understand about gradient noise (Blog Post)](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
+* [Triangle Rejection Sampling for Density-Equipped Meshes on GPU (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf70217/cgf70217.pdf)
 
 ### Occlusion
 
