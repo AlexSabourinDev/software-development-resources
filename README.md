@@ -795,6 +795,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Triangle Rejection Sampling for Density-Equipped Meshes on GPU (Paper)](https://diglib.eg.org/bitstream/handle/10.1111/cgf70217/cgf70217.pdf)
 * [Bicubic Filtering in Fewer Taps (Blog Post)](https://web.archive.org/web/20250520150715/https://vec3.ca/bicubic-filtering-in-fewer-taps/)
 * [2D Catmull-Rom in 4 samples (Blog Post)](https://www.decarpentier.nl/2d-catmull-rom-in-4-samples)
+* [Interpolation Algorithms in PixInsight (Blog Post)](https://pixinsight.com/doc/docs/InterpolationAlgorithms/InterpolationAlgorithms.html#interpolation_clamping)
 
 ### Occlusion
 
