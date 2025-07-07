@@ -797,6 +797,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Bicubic Filtering in Fewer Taps (Blog Post)](https://web.archive.org/web/20250520150715/https://vec3.ca/bicubic-filtering-in-fewer-taps/)
 * [2D Catmull-Rom in 4 samples (Blog Post)](https://www.decarpentier.nl/2d-catmull-rom-in-4-samples)
 * [Interpolation Algorithms in PixInsight (Blog Post)](https://pixinsight.com/doc/docs/InterpolationAlgorithms/InterpolationAlgorithms.html#interpolation_clamping)
+* [The Sad State of Hardware Virtual Textures (Paper)](https://hal.science/hal-05138369v1/document)
+* [Fast camera space to screen space direction transform (Blog Post)](https://www.forwardscattering.org/post/64)
+* [Around The World, Part 23: Hydraulic erosion (Blog Post)](https://frozenfractal.com/blog/2025/6/6/around-the-world-23-hydraulic-erosion/)
 
 ### Occlusion
 
