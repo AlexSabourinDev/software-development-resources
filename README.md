@@ -57,7 +57,7 @@ A collection of links for various fields of software development (Mostlt Graphic
   * [Shader Editors](#shader-editors)
   * [Render Graphs](#render-graphs)
   * [Denoising](#denoising)
-  * [Filtering](#filtering)
+  * [Filtering/Aliasing](#filteringaliasing)
 - [Floating Point](#floating-point)
 - [Algorithms](#algorithms)
 - [Networking](#networking)
