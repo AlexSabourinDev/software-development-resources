@@ -200,6 +200,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How To Speed Up The Rust Compiler (Blog Post)](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
 * [Async Rust Is A Bad Language (Blog Post)](https://bitbashing.io/async-rust.html)
 * [How do Time Travel Debuggers Work? - Design and Implementation of a Time Travel Debugger (Video)](https://www.youtube.com/watch?v=NiGzdv84iDE)
+* [What Color is Your Function? (Blog Post)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+* [What is Zig's “Colorblind” Async/Await? (Blog Post)](https://kristoff.it/blog/zig-colorblind-async-await/)
+* [Zig's New Async I/O (Blog Post)](https://kristoff.it/blog/zig-new-async-io/)
 
 ## AI
 
