@@ -558,6 +558,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Anno 1800: Shadows of Beauty (Blog Post)](https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/)
 * [LTC Fresnel Approximation (Paper)](https://blog.selfshadow.com/publications/s2016-advances/s2016_ltc_fresnel.pdf)
 * [The Technology Of The Tomorrow Children (Voxel Cone Tracing) (Slides)](https://fumufumu.q-games.com/archives/TheTechnologyOfTomorrowsChildrenFinal.pdf)
+* [Stochastic Lighting In Tiny Glades (Bluesky)](https://bsky.app/profile/h3r2tic.bsky.social/post/3lclort5v222a)
+* [Stochastic Lighting In HypeHype (Linkedin)](https://www.linkedin.com/pulse/local-lights-hypehype-jarkko-lempiainen-bjzpf/)
 
 #### Lights
 
