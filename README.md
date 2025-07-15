@@ -430,6 +430,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Microfacet Model Regularization for Robust Light Transport (Paper)](https://pdfs.semanticscholar.org/de40/be05dbc243d082181771df8de6e8e0d59ca8.pdf)
 * [Path Space Regularization for Holistic and Robust Light Transport (Paper)](https://cg.ivd.kit.edu/publications/p2013/PSR_Kaplanyan_2013/PSR_Kaplanyan_2013.pdf)
 * [Optimised Path Space Regularisation (Paper)](https://jo.dreggn.org/home/2021_opsr.pdf)
+* [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey (Blog Post)](https://karimsayedre.github.io/RTIOW.html)
 
 ### Blue Noise
 
@@ -903,6 +904,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Temporal Anti-Aliasing Starter Pack (Blog Post)](http://alextardif.com/TAA.html)
 * [Sampling Reconstruction (Slides)](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/Lectures/SamplingReconstruction.pdf)
 * [AAA - Analytical Anti-Aliasing (Blog Post)](https://blog.frost.kiwi/analytical-anti-aliasing/)
+* [ImageMagick Resampling Filters (Blog Post)](https://usage.imagemagick.org/filter/)
+* [Resampling by Nicolas Robidoux (Blog Post)](https://usage.imagemagick.org/filter/nicolas/)
+* [Resizing Color Space (Blog Post)](https://usage.imagemagick.org/resize/#resize_colorspace)
 
 ## Floating Point
 
