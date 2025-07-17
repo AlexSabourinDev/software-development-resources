@@ -432,6 +432,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Path Space Regularization for Holistic and Robust Light Transport (Paper)](https://cg.ivd.kit.edu/publications/p2013/PSR_Kaplanyan_2013/PSR_Kaplanyan_2013.pdf)
 * [Optimised Path Space Regularisation (Paper)](https://jo.dreggn.org/home/2021_opsr.pdf)
 * [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey (Blog Post)](https://karimsayedre.github.io/RTIOW.html)
+* [Spear: Across the Streaming Multiprocessors (Paper)](http://pascal.lecocq.home.free.fr/publications/stein_spearDGP2024.pdf)
 
 ### Blue Noise
 
@@ -442,6 +443,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Importance-Sampled Filter-Adapted Spatio-Temporal Sampling (Paper)](https://jcgt.org/published/0014/01/08/)
 * [Serial Gaussian-Blue-Noise Stippling (Paper)](https://diglib.eg.org/server/api/core/bitstreams/a82b2029-6c3a-45b1-9540-e7236f102b08/content)
 * [Free blue noise textures (Blog Post)](http://momentsingraphics.de/BlueNoise.html)
+* [Cache-friendly micro-jittered sampling (Paper)](https://inria.hal.science/hal-01325702/file/cacheFriendlyHemisphereSamplingUsingBlueNoiseConservativeJittering.pdf)
 
 ### Graphics Codebases
 
