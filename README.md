@@ -151,6 +151,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [To Save C, We Must Save ABI (Blog Post)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 * [The Purpose of memory_order_consume in C++11 (Blog Post)](https://preshing.com/20140709/the-purpose-of-memory_order_consume-in-cpp11/)
 * [Speeding Up C Builds (Blog Post)](https://www.superfunc.zone/posts/001-speeding-up-c-builds/)
+* [How to print integers really fast (Blog Post)](https://pvk.ca/Blog/2017/12/22/appnexus-common-framework-its-out-also-how-to-print-integers-faster/#an_itoa)
 
 ### C plus plus
 
