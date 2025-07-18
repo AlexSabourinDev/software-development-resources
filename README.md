@@ -803,6 +803,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Sad State of Hardware Virtual Textures (Paper)](https://hal.science/hal-05138369v1/document)
 * [Fast camera space to screen space direction transform (Blog Post)](https://www.forwardscattering.org/post/64)
 * [Around The World, Part 23: Hydraulic erosion (Blog Post)](https://frozenfractal.com/blog/2025/6/6/around-the-world-23-hydraulic-erosion/)
+* [The Art Of Packing Data (Blog Post)](https://www.elopezr.com/the-art-of-packing-data/)
 
 ### Occlusion
 
