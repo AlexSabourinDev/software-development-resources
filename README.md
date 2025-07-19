@@ -281,6 +281,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A Beginner’s Guide to (CIE) Colorimetry (Blog Post)](https://medium.com/hipster-color-science/a-beginners-guide-to-colorimetry-401f1830b65a)
 * [From SDR to ‘Fake HDR’: Mario Kart World on Switch 2 Undermines Modern Display Potential (Blog Post)](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
 * [cICP in PNG, explained (Blog Post)](https://svgees.us/blog/cICP.html)
+* [The current technology is not ready for proper blending (Blog Post)](https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html)
 
 ### Forward, Deferred, Visibility, Etc
 
