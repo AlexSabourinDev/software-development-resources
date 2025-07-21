@@ -394,6 +394,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Combining Analytic Direct Illumination and Stochastic Shadows (Paper)](http://casual-effects.com/research/Heitz2018Shadow/index.html)
 * [Experiments in Hybrid Raytraced Shadows (Blog Post)](https://interplayoflight.wordpress.com/2021/05/15/experiments-in-hybrid-raytraced-shadows/)
 * [Shadow Techniques from Final Fantasy XVI (Blog Post)](http://www.jp.square-enix.com/tech/library/pdf/2023_FFXVIShadowTechPaper.pdf)
+* [Percentage Close Soft Shadows (Paper)](https://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
 
 ### Spherical Harmonics
 
@@ -805,6 +806,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Fast camera space to screen space direction transform (Blog Post)](https://www.forwardscattering.org/post/64)
 * [Around The World, Part 23: Hydraulic erosion (Blog Post)](https://frozenfractal.com/blog/2025/6/6/around-the-world-23-hydraulic-erosion/)
 * [The Art Of Packing Data (Blog Post)](https://www.elopezr.com/the-art-of-packing-data/)
+* [Interleaved Sampling (Paper)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1bbf27a398f8f6a372b8500f06e737a5655208a9)
 
 ### Occlusion
 
