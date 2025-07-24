@@ -928,6 +928,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Why Does Integer Addition Approximate Float Multiplication? (Blog Post)](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [The Secrets of Floating-Point Numbers (Blog Post)](https://asawicki.info/articles/secrets_of_floating_point_numbers_en.php)
 * [Beware of fast-math (Blog Post)](https://simonbyrne.github.io/notes/fastmath/)
+* [Taming Floating-Point Sums (Blog Post)](https://orlp.net/blog/taming-float-sums/)
 
 ## Algorithms
 
