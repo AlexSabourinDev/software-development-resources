@@ -850,6 +850,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [GPU-based clay simulation and ray-tracing tech in Claybook (Slides)](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2018/presentations/Aaltonen_Sebastian_GPU_Based_Clay.pdf)
 * [Ray Tracing of Signed Distance Function Grids (Paper)](https://jcgt.org/published/0011/03/06/paper-lowres.pdf)
 * [Sub-pixel Distance Transform (Blog Post)](https://acko.net/blog/subpixel-distance-transform/)
+* [Lipschitz Pruning: Hierarchical Simplification of Primitive-Based SDFs (Paper)](https://wbrbr.org/publications/LipschitzPruning/documents/LipschitzPruning_submitted_to_EG25.pdf)
 
 ### Tutorials
 
