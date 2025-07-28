@@ -350,6 +350,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [GRAMPS: A Programming Model for Graphics Pipelines (Paper)](https://graphics.stanford.edu/papers/gramps-tog/gramps-tog09.pdf)
 * [Subgroup Shuffle Reconvergence On Nvidia Volta (Blog Post)](https://github.com/Devsh-Graphics-Programming/blog/blob/786dcbce74fd34090ae068b3585c479069059cb8/blog/2025/2025-06-19-subgroup-shuffle-reconvergence-on-nvidia/index.md)
 * [Volta Independent Thread Scheduling (Paper)](https://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf#page=31&zoom=auto,-150,767)
+* [Learning About GPUs Through Measuring Memory Bandwidth (Blog Post)](https://www.evolvebenchmark.com/blog-posts/learning-about-gpus-through-measuring-memory-bandwidth)
 
 #### AMD
 
@@ -851,6 +852,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Ray Tracing of Signed Distance Function Grids (Paper)](https://jcgt.org/published/0011/03/06/paper-lowres.pdf)
 * [Sub-pixel Distance Transform (Blog Post)](https://acko.net/blog/subpixel-distance-transform/)
 * [Lipschitz Pruning: Hierarchical Simplification of Primitive-Based SDFs (Paper)](https://wbrbr.org/publications/LipschitzPruning/documents/LipschitzPruning_submitted_to_EG25.pdf)
+* [Perfecting anti-aliasing on signed distance functions (Blog Post)](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
 
 ### Tutorials
 
