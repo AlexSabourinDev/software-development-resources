@@ -1,4 +1,4 @@
-# software-development-resources
+<img width="1201" height="677" alt="image" src="https://github.com/user-attachments/assets/4077cf70-2ad8-46a1-9eb6-2c9fcc08a6b0" /># software-development-resources
 
 ## What?
 
@@ -624,6 +624,11 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Multiresolution Ambient Occlusion (Blog Post)](https://iquilezles.org/articles/multiresaocc/)
 * [A Taxonomy of Bidirectional Scattering DistributionFunction Lobes for Rendering Engineers (Paper)](http://casual-effects.com/research/McGuire2020BSDF/McGuire2020BSDF.pdf)
 * [Horizon Split Ambient Occlusion (Paper)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.557.4596&rep=rep1&type=pdf)
+* [Screen Space Indirect Lighting with Visibility Bitmask (Paper)](https://arxiv.org/pdf/2301.11376)
+* [SSAO using Visibility Bitmasks (Blog Post)](https://cdrinmatane.github.io/posts/ssaovb-code/)
+* [Screen Space Indirect Lighting with Visibility Bitmask: Improvement to GTAO/SSAO Real-Time Ambient Occlusion Algorithm (GLSL Shader Implementation) (Blog Post)](https://cybereality.com/screen-space-indirect-lighting-with-visibility-bitmask-improvement-to-gtao-ssao-real-time-ambient-occlusion-algorithm-glsl-shader-implementation/)
+* [GT-VBAO thickness heuristic (shadertoy)](https://www.shadertoy.com/view/3clGWB)
+* [ GT-VBAO - Remove acos call (shadertoy)](https://www.shadertoy.com/view/4cdfzf)
 
 ### Subsurface Scattering
 
