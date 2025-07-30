@@ -1,5 +1,3 @@
-<img width="1201" height="677" alt="image" src="https://github.com/user-attachments/assets/4077cf70-2ad8-46a1-9eb6-2c9fcc08a6b0" /># software-development-resources
-
 ## What?
 
 A collection of links for various fields of software development (Mostlt Graphics). Mainly game related, most have been read and vetted. If you find any dead links, please submit an issue and I will try to address it as soon as possible.
