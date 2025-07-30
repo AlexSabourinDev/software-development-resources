@@ -436,6 +436,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Optimised Path Space Regularisation (Paper)](https://jo.dreggn.org/home/2021_opsr.pdf)
 * [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey (Blog Post)](https://karimsayedre.github.io/RTIOW.html)
 * [Spear: Across the Streaming Multiprocessors (Paper)](http://pascal.lecocq.home.free.fr/publications/stein_spearDGP2024.pdf)
+* [RenderMan XPU: A Hybrid CPU+GPU Renderer for Interactive and Final-Frame Rendering (Paper)](https://graphics.pixar.com/library/RenderManXPU/paper.pdf)
 
 ### Blue Noise
 
