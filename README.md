@@ -1155,6 +1155,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [rANS notes (Blog Post)](https://fgiesen.wordpress.com/2014/02/02/rans-notes/)
 * [Rant on New Arithmetic Coders (Blog Post)](https://cbloomrants.blogspot.com/2008/10/10-05-08-5.html)
 * [Writting A VM (Bismuth)](https://enikofox.com/tags/bismuth/)
+* [Multithreading in games - Comment on 'Parallelizing the Physics Solver' BSC 2025 Talk (Blog Post)](https://felixk15.github.io/posts/comment_on_parallelizing_the_physics_solver/)
 
 ## Unity
 
