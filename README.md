@@ -1154,6 +1154,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Understanding ANS (Blog Post)](https://cbloomrants.blogspot.com/2014/02/02-02-14-understanding-ans-4.html)
 * [rANS notes (Blog Post)](https://fgiesen.wordpress.com/2014/02/02/rans-notes/)
 * [Rant on New Arithmetic Coders (Blog Post)](https://cbloomrants.blogspot.com/2008/10/10-05-08-5.html)
+* [Writting A VM (Bismuth)](https://enikofox.com/tags/bismuth/)
 
 ## Unity
 
