@@ -626,7 +626,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [SSAO using Visibility Bitmasks (Blog Post)](https://cdrinmatane.github.io/posts/ssaovb-code/)
 * [Screen Space Indirect Lighting with Visibility Bitmask: Improvement to GTAO/SSAO Real-Time Ambient Occlusion Algorithm (GLSL Shader Implementation) (Blog Post)](https://cybereality.com/screen-space-indirect-lighting-with-visibility-bitmask-improvement-to-gtao-ssao-real-time-ambient-occlusion-algorithm-glsl-shader-implementation/)
 * [GT-VBAO thickness heuristic (shadertoy)](https://www.shadertoy.com/view/3clGWB)
-* [ GT-VBAO - Remove acos call (shadertoy)](https://www.shadertoy.com/view/4cdfzf)
+* [GT-VBAO - Remove acos call (shadertoy)](https://www.shadertoy.com/view/4cdfzf)
+* [Practical Real-Time Strategies for Accurate Indirect Occlusion (Paper)](https://www.activision.com/cdn/research/Practical_Real_Time_Strategies_for_Accurate_Indirect_Occlusion_NEW%20VERSION_COLOR.pdf)
 
 ### Subsurface Scattering
 
