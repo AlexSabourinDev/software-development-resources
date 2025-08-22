@@ -405,6 +405,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Alternative definition of Spherical Harmonics for Lighting (Blog Post)](https://grahamhazel.com/blog/2017/12/18/alternative-definition-of-spherical-harmonics-for-lighting/)
 * [Converting SH Radiance to Irradiance (Blog Post)](https://grahamhazel.com/blog/2017/12/22/converting-sh-radiance-to-irradiance/)
 * [ZH3: Quadratic Zonal Harmonics (Paper)](https://www.activision.com/cdn/research/ZH3-Publication.pdf)
+* [Spherical Harmonic Exponentials for Efficient Glossy Reflections (Paper)](https://arisilvennoinen.github.io/Publications/HPG_2025_CRC.pdf)
 
 ### Raytracing
 
