@@ -1161,6 +1161,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [R-Trees -- Adapting out-of-core techniques to modern memory architectures (Slides)](https://gdcvault.com/play/1012452/R-Trees-Adapting-out-of)
 * [R-trees – adapting out-of-core techniques to modern memory architectures (Blog Post)](https://www.sebastiansylvan.com/post/r-trees--adapting-out-of-core-techniques-to-modern-memory-architectures/)
 * [AABB Tree Shootout (Blog Post)](https://www.slembcke.net/blog/TreePerf/)
+* [A quick look at destination-driven code generation (Blog Post)](https://bernsteinbear.com/blog/ddcg/)
 
 ## Unity
 
