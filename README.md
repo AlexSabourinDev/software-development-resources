@@ -394,6 +394,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Experiments in Hybrid Raytraced Shadows (Blog Post)](https://interplayoflight.wordpress.com/2021/05/15/experiments-in-hybrid-raytraced-shadows/)
 * [Shadow Techniques from Final Fantasy XVI (Blog Post)](http://www.jp.square-enix.com/tech/library/pdf/2023_FFXVIShadowTechPaper.pdf)
 * [Percentage Close Soft Shadows (Paper)](https://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
+* [Exponential Shadow Maps (Paper)](https://jankautz.com/publications/esm_gi08.pdf)
 
 ### Spherical Harmonics
 
