@@ -246,6 +246,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Work Graphs in Direct3D 12: A Case Study of Deferred Shading (Blog Post)](https://developer.nvidia.com/blog/work-graphs-in-direct3d-12-a-case-study-of-deferred-shading/)
 * [Copy Queue Woes (Blog Post)](http://danglingpointers.com/post/copy-queues/)
 * [A quick introduction to workgraphs (Blog Post)](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
+* [Ten Years of D3D12 (Blog Post)](https://therealmjp.github.io/posts/ten-years-of-d3d12/)
 
 ### Textures And Compression
 
@@ -815,6 +816,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Around The World, Part 23: Hydraulic erosion (Blog Post)](https://frozenfractal.com/blog/2025/6/6/around-the-world-23-hydraulic-erosion/)
 * [The Art Of Packing Data (Blog Post)](https://www.elopezr.com/the-art-of-packing-data/)
 * [Interleaved Sampling (Paper)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1bbf27a398f8f6a372b8500f06e737a5655208a9)
+* [GPU utilisation and performance improvements (Blog Post)](https://interplayoflight.wordpress.com/2025/08/29/gpu-utilisation-and-performance-improvements/)
 
 ### Occlusion
 
