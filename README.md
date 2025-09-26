@@ -488,6 +488,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Emulating Workgraphs (Document)](https://github.com/HansKristian-Work/vkd3d-proton/blob/workgraphs/docs/workgraphs.md)
 * [The road to 16-bit floats GPU is paved with our blood (Blog Post)](https://www.yosoygames.com.ar/wp/2022/01/the-road-to-16-bit-floats-gpu-is-paved-with-our-blood/)
 * [Massaging the Shader Compiler to emit Optimum Instructions (Blog Post)](https://martinfullerblog.wordpress.com/2025/01/13/massaging-the-shader-compiler-to-emit-optimum-instructions/)
+* [The performance impact of vertex shader exports (Blog Post)](https://interplayoflight.wordpress.com/2025/09/21/the-performance-impact-of-vertex-shader-exports/)
 
 #### Compute Shaders
 
