@@ -817,6 +817,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Art Of Packing Data (Blog Post)](https://www.elopezr.com/the-art-of-packing-data/)
 * [Interleaved Sampling (Paper)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1bbf27a398f8f6a372b8500f06e737a5655208a9)
 * [GPU utilisation and performance improvements (Blog Post)](https://interplayoflight.wordpress.com/2025/08/29/gpu-utilisation-and-performance-improvements/)
+* [Anisotropic Scaling in Indiana Jones and the Great Circle and DOOM: The Dark Ages (Blog Post)](https://martinfullerblog.wordpress.com/2025/09/26/anisotropic-scaling-in-indiana-jones-and-the-great-circle-and-doom-the-dark-ages/)
+* [Ceiling division and mip map sizes (Blog Post)](https://fgiesen.wordpress.com/2025/09/25/ceiling-division-and-mip-map-sizes/)
 
 ### Occlusion
 
