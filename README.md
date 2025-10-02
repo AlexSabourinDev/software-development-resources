@@ -820,6 +820,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [GPU utilisation and performance improvements (Blog Post)](https://interplayoflight.wordpress.com/2025/08/29/gpu-utilisation-and-performance-improvements/)
 * [Anisotropic Scaling in Indiana Jones and the Great Circle and DOOM: The Dark Ages (Blog Post)](https://martinfullerblog.wordpress.com/2025/09/26/anisotropic-scaling-in-indiana-jones-and-the-great-circle-and-doom-the-dark-ages/)
 * [Ceiling division and mip map sizes (Blog Post)](https://fgiesen.wordpress.com/2025/09/25/ceiling-division-and-mip-map-sizes/)
+* [Billions of triangles in minutes (Blog Post)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
 
 ### Occlusion
 
