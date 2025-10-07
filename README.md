@@ -117,6 +117,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Introduction To Stochastic Calculus (Blog Post)](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
 * [Automatic Stochastic Differentiation (Blog Post)](https://jiha-kim.github.io/posts/automatic-stochastic-differentiation/index.html)
 * [The math behind Extended Kalman Filtering (Blog Post)](https://medium.com/@sasha_przybylski/the-math-behind-extended-kalman-filtering-0df981a87453)
+* [I Misunderstood Rejection Sampling All This Time (Blog Post)](https://buttondown.com/jaffray/archive/i-misunderstood-rejection-sampling-all-this-time/)
 
 ## Game Design
 
@@ -489,6 +490,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The road to 16-bit floats GPU is paved with our blood (Blog Post)](https://www.yosoygames.com.ar/wp/2022/01/the-road-to-16-bit-floats-gpu-is-paved-with-our-blood/)
 * [Massaging the Shader Compiler to emit Optimum Instructions (Blog Post)](https://martinfullerblog.wordpress.com/2025/01/13/massaging-the-shader-compiler-to-emit-optimum-instructions/)
 * [The performance impact of vertex shader exports (Blog Post)](https://interplayoflight.wordpress.com/2025/09/21/the-performance-impact-of-vertex-shader-exports/)
+* [Code golfing a tiny demo using maths and a pinch of insanity (Blog Post)](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
 
 #### Compute Shaders
 
