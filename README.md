@@ -825,6 +825,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Billions of triangles in minutes (Blog Post)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
 * [Light beam shader in godot (Blog Post)](https://passivestar.xyz/posts/light-beam-shader-in-godot/)
 * [Dot Noise (Blog Post)](https://mini.gmshaders.com/p/dot-noise)
+* [Video Game Blurs (and how the best one works) (Blog Post)](https://blog.frost.kiwi/dual-kawase/)
 
 ### Occlusion
 
