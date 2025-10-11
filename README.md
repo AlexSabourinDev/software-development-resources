@@ -1174,6 +1174,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [R-trees – adapting out-of-core techniques to modern memory architectures (Blog Post)](https://www.sebastiansylvan.com/post/r-trees--adapting-out-of-core-techniques-to-modern-memory-architectures/)
 * [AABB Tree Shootout (Blog Post)](https://www.slembcke.net/blog/TreePerf/)
 * [A quick look at destination-driven code generation (Blog Post)](https://bernsteinbear.com/blog/ddcg/)
+* [Converting SSE intrinsics code to Neon. Burst masked occlusion culling (Blog Post)](https://over17.github.io/2025/10/01/burst-occlusion-culling.html)
 
 ## Unity
 
