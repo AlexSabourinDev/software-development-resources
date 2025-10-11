@@ -1175,6 +1175,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [AABB Tree Shootout (Blog Post)](https://www.slembcke.net/blog/TreePerf/)
 * [A quick look at destination-driven code generation (Blog Post)](https://bernsteinbear.com/blog/ddcg/)
 * [Converting SSE intrinsics code to Neon. Burst masked occlusion culling (Blog Post)](https://over17.github.io/2025/10/01/burst-occlusion-culling.html)
+* [Multi-Core By Default (Blog Post)](https://www.rfleury.com/p/multi-core-by-default)
 
 ## Unity
 
