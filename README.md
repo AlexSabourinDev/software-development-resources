@@ -826,6 +826,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Light beam shader in godot (Blog Post)](https://passivestar.xyz/posts/light-beam-shader-in-godot/)
 * [Dot Noise (Blog Post)](https://mini.gmshaders.com/p/dot-noise)
 * [Video Game Blurs (and how the best one works) (Blog Post)](https://blog.frost.kiwi/dual-kawase/)
+* [Efficient Gaussian blur with linear sampling (Blog Post)](https://www.rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/)
 
 ### Occlusion
 
