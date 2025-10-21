@@ -306,6 +306,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Channeling Alpha (Blog Post)](https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa)
 * [Implementing Order-Independent Transparency (Blog Post)](https://osor.io/OIT)
 * [Refracting Pixels (Blog Post)](https://www.froyok.fr/blog/2024-12-refraction/)
+* [ADAPTIVE VOXEL-BASED ORDER INDEPENDENT TRANSPARENCY (Slides)](https://advances.realtimerendering.com/s2025/content/AVBOIT_SIG2025_MDROBOT-final.pdf)
 
 ### GPU Architecture
 
