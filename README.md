@@ -853,6 +853,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Production Volume Rendering Course 2017 (Paper)](https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf)
 * [Oz: The Great and Volumetric (Paper)](https://fpsunflower.github.io/ckulla/data/oz_volumes.pdf)
 * [Art-Directable Multiple Volumetric Scattering (Paper)](https://www.researchgate.net/profile/Magnus-Wrenninge/publication/284693769_Art-Directable_Multiple_Volumetric_Scattering/links/565615b608aefe619b1d0c38/Art-Directable-Multiple-Volumetric-Scattering.pdf)
+* [Jackknife Transmittance and MIS Weight Estimation (Paper)](https://momentsingraphics.de/Media/SiggraphAsia2025/peters2025-jackknife-paper.pdf)
 
 ### Depth
 
