@@ -475,6 +475,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Improved Geometric Specular AA (Slides)](http://www.jp.square-enix.com/tech/library/pdf/ImprovedGeometricSpecularAA(slides).pdf)
 * [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering (Paper)](https://www.jcgt.org/published/0010/02/02/)
 * [LEAN Mapping (Paper)](https://userpages.cs.umbc.edu/olano/papers/lean/lean.pdf)
+* [The Geometry Behind Normal Maps (Blog Post)](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
 
 ### Shaders
 
