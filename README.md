@@ -857,6 +857,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Art-Directable Multiple Volumetric Scattering (Paper)](https://www.researchgate.net/profile/Magnus-Wrenninge/publication/284693769_Art-Directable_Multiple_Volumetric_Scattering/links/565615b608aefe619b1d0c38/Art-Directable-Multiple-Volumetric-Scattering.pdf)
 * [Jackknife Transmittance and MIS Weight Estimation (Paper)](https://momentsingraphics.de/Media/SiggraphAsia2025/peters2025-jackknife-paper.pdf)
 * [An Approximate Mie Scattering Function for Fog and Cloud Rendering (Paper)](https://research.nvidia.com/labs/rtr/approximate-mie/publications/approximate-mie.pdf)
+* [Real-Time Volumetric Rendering (Paper)](https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
 
 ### Depth
 
