@@ -830,6 +830,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Video Game Blurs (and how the best one works) (Blog Post)](https://blog.frost.kiwi/dual-kawase/)
 * [Efficient Gaussian blur with linear sampling (Blog Post)](https://www.rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/)
 * [Fast temporal reprojection without motion vectors (Paper)](https://jcgt.org/published/0010/03/02/)
+* [No Graphics API (Blog Post)](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 
 ### Occlusion
 
