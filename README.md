@@ -365,7 +365,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [RDNA Architecture (Paper)](https://www.amd.com/system/files/documents/rdna-whitepaper.pdf)
 * [RDNA3 ISA (Paper)](https://developer.amd.com/wp-content/resources/RDNA3_Shader_ISA_December2022.pdf)
 * [Advanced Shader Programming On GCN (Slides)](https://gpuopen.com/wp-content/uploads/2017/03/GDC2017-Advanced-Shader-Programming-On-GCN.pdf)
-* [The AMD GCN Architecture - A Crash Course (Slides)](https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah) 
+* [The AMD GCN Architecture - A Crash Course (Slides)](https://www.slideshare.net/DevCentralAMD/gs4106-the-amd-gcn-architecture-a-crash-course-by-layla-mah)
+* [AMD GPU Debugger (Blog Post)](https://thegeeko.me/blog/amd-gpu-debugging/)
 
 #### Intel
 
