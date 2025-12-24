@@ -399,6 +399,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Shadow Techniques from Final Fantasy XVI (Blog Post)](http://www.jp.square-enix.com/tech/library/pdf/2023_FFXVIShadowTechPaper.pdf)
 * [Percentage Close Soft Shadows (Paper)](https://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
 * [Exponential Shadow Maps (Paper)](https://jankautz.com/publications/esm_gi08.pdf)
+* [Shadowmap Bias (Blog Post)](https://renderdiagrams.org/2024/12/18/shadowmap-bias/)
 
 ### Spherical Harmonics
 
