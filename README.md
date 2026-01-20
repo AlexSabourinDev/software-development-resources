@@ -1201,6 +1201,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How Complex Systems Fail (Paper)](https://how.complexsystems.fail/)
 * [A Killer Adversary For Quicksort (Paper)](https://www.cs.dartmouth.edu/~doug/mdmspe.pdf)
 * [A decade of SEED: Lessons from 10 years of R&D in Games (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/seed-lessons-from-10-years/Barr%C3%A9-Brisebois-a-decade-of-seed-lessons-from-10-years-of-r-d-in-games.pdf)
+* [One-pass Code Generation in V8 (Slides)](https://bernsteinbear.com/assets/img/46b-codegeneration-in-V8.pdf)
 
 ## Unity
 
