@@ -1195,6 +1195,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Converting SSE intrinsics code to Neon. Burst masked occlusion culling (Blog Post)](https://over17.github.io/2025/10/01/burst-occlusion-culling.html)
 * [Multi-Core By Default (Blog Post)](https://www.rfleury.com/p/multi-core-by-default)
 * [Compressing callstacks: a bitpacked DAG powered by a keyless hashmap (Blog Post)](https://superluminal.eu/compressing-callstacks/)
+* [How Complex Systems Fail (Paper)](https://how.complexsystems.fail/)
+* [A Killer Adversary For Quicksort (Paper)](https://www.cs.dartmouth.edu/~doug/mdmspe.pdf)
 
 ## Unity
 
