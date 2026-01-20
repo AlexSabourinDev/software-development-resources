@@ -502,6 +502,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Massaging the Shader Compiler to emit Optimum Instructions (Blog Post)](https://martinfullerblog.wordpress.com/2025/01/13/massaging-the-shader-compiler-to-emit-optimum-instructions/)
 * [The performance impact of vertex shader exports (Blog Post)](https://interplayoflight.wordpress.com/2025/09/21/the-performance-impact-of-vertex-shader-exports/)
 * [Code golfing a tiny demo using maths and a pinch of insanity (Blog Post)](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
+* [Shader To Human (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/shader2human/Mittring-shadertohuman-s2h-hlsl-glsl-library-for-debugging-shaders.pdf)
+* [Root Signatures & Shader ISA (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/root-signatures-and-shader-isa/Groot-root-signatures-shader-isa.pdf)
 
 #### Compute Shaders
 
@@ -869,6 +871,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Jackknife Transmittance and MIS Weight Estimation (Paper)](https://momentsingraphics.de/Media/SiggraphAsia2025/peters2025-jackknife-paper.pdf)
 * [An Approximate Mie Scattering Function for Fog and Cloud Rendering (Paper)](https://research.nvidia.com/labs/rtr/approximate-mie/publications/approximate-mie.pdf)
 * [Real-Time Volumetric Rendering (Paper)](https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
+* [Vaporwave Scalable Real-time Smoke Simulation Rendering (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/vaporwave/Lewin-vaporwave-scalable-real-time-smoke-simulation-rendering.pdf)
 
 ### Depth
 
@@ -1197,6 +1200,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Compressing callstacks: a bitpacked DAG powered by a keyless hashmap (Blog Post)](https://superluminal.eu/compressing-callstacks/)
 * [How Complex Systems Fail (Paper)](https://how.complexsystems.fail/)
 * [A Killer Adversary For Quicksort (Paper)](https://www.cs.dartmouth.edu/~doug/mdmspe.pdf)
+* [A decade of SEED: Lessons from 10 years of R&D in Games (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/seed-lessons-from-10-years/Barr%C3%A9-Brisebois-a-decade-of-seed-lessons-from-10-years-of-r-d-in-games.pdf)
 
 ## Unity
 
