@@ -282,6 +282,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [From SDR to ‘Fake HDR’: Mario Kart World on Switch 2 Undermines Modern Display Potential (Blog Post)](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
 * [cICP in PNG, explained (Blog Post)](https://svgees.us/blog/cICP.html)
 * [The current technology is not ready for proper blending (Blog Post)](https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html)
+* [What is a color space? (Blog Post)](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
 
 ### Forward, Deferred, Visibility, Etc
 
@@ -377,6 +378,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 #### Nvidia
 
 * [Dissecting the NVidia Turing T4 GPU via Microbenchmarking (Paper)](https://arxiv.org/pdf/1903.07486)
+* [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels (Blog Post)](https://www.aleksagordic.com/blog/matmul)
 
 ### Code
 
@@ -442,6 +444,11 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey (Blog Post)](https://karimsayedre.github.io/RTIOW.html)
 * [Spear: Across the Streaming Multiprocessors (Paper)](http://pascal.lecocq.home.free.fr/publications/stein_spearDGP2024.pdf)
 * [RenderMan XPU: A Hybrid CPU+GPU Renderer for Interactive and Final-Frame Rendering (Paper)](https://graphics.pixar.com/library/RenderManXPU/paper.pdf)
+* [ReGIR - An advanced implementation for many-lights offline rendering (Blog Post)](https://tomclabault.github.io/blog/2025/regir/)
+* [BVH Quality: Beyond SBVH (Blog Post)](https://jacco.ompf2.com/2025/05/20/bvh-quality-beyond-sbvh/)
+* [Neural Image Reconstruction for Real-Time Path Tracing (Blog Post)](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Neural-Image-Reconstruction-for-Real-Time-Path-Tracing/post/1688192)
+* [Jungle Ruins Scene: Technical Art Meets Real-Time Path-Tracing Research (Blog Post)](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Jungle-Ruins-Scene-Technical-Art-Meets-Real-Time-Path-Tracing/post/1689619)
+* [Realtime Raytracing in Bevy 0.17 (Solari) (Blog Post)](https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/)
 
 ### Blue Noise
 
@@ -623,6 +630,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [EON: A practical energy-preserving rough diffuse BRDF (Paper)](https://arxiv.org/pdf/2410.18026)
 * [Revisiting Physically Based Shading at Imageworks (Slides)](https://blog.selfshadow.com/publications/s2017-shading-course/imageworks/s2017_pbs_imageworks_slides_v2.pdf)
 * [Physically Based Shading at Disney (Paper)](https://media.disneyanimation.com/uploads/production/publication_asset/48/asset/s2012_pbs_disney_brdf_notes_v3.pdf)
+* [Evaluating and Sampling Glinty NDFs in Constant Time (Paper)](https://perso.telecom-paristech.fr/boubek/papers/Glinty/Glinty.pdf)
 
 ### Ambient Occlusion
 
