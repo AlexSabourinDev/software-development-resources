@@ -1067,6 +1067,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [What is RCU? -- "Read, Copy, Update" (Blog Post)](https://www.kernel.org/doc/html/next/RCU/whatisRCU.html)
 * [A Deep dive into (implicit) Thread Local Storage (Blog Post)](https://chao-tic.github.io/blog/2018/12/25/tls)
 * [Condvars and atomics do not mix (Blog Post)](https://zeux.io/2024/03/23/condvars-atomic/)
+* [Spinning around: Please don't! (Blog Post)](https://www.siliceum.com/en/blog/post/spinning-around/)
 
 ## Parallel Prefix Algorithms
 
