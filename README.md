@@ -354,6 +354,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Subgroup Shuffle Reconvergence On Nvidia Volta (Blog Post)](https://github.com/Devsh-Graphics-Programming/blog/blob/786dcbce74fd34090ae068b3585c479069059cb8/blog/2025/2025-06-19-subgroup-shuffle-reconvergence-on-nvidia/index.md)
 * [Volta Independent Thread Scheduling (Paper)](https://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf#page=31&zoom=auto,-150,767)
 * [Learning About GPUs Through Measuring Memory Bandwidth (Blog Post)](https://www.evolvebenchmark.com/blog-posts/learning-about-gpus-through-measuring-memory-bandwidth)
+* [Descriptors are hard (Slides)](https://indico.freedesktop.org/event/10/contributions/402/attachments/243/327/2025-09-29%20-%20XDC%202025%20-%20Descriptors%20are%20Hard.pdf)
 
 #### AMD
 
@@ -463,6 +464,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Serial Gaussian-Blue-Noise Stippling (Paper)](https://diglib.eg.org/server/api/core/bitstreams/a82b2029-6c3a-45b1-9540-e7236f102b08/content)
 * [Free blue noise textures (Blog Post)](http://momentsingraphics.de/BlueNoise.html)
 * [Cache-friendly micro-jittered sampling (Paper)](https://inria.hal.science/hal-01325702/file/cacheFriendlyHemisphereSamplingUsingBlueNoiseConservativeJittering.pdf)
+* [The Unreasonable Effectiveness of Quasirandom Sequences (Blog Post)](https://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/)
 
 ### Graphics Codebases
 
@@ -592,6 +594,12 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Driving Toward Reality: Physically Based Tone Mapping and Perceptual Fidelity in Gran Turismo 7 (Slides)](https://blog.selfshadow.com/publications/s2025-shading-course/pdi/s2025_pbs_pdi_slides_v1.1.pdf)
 * [Strand: A Production Model for Shading Hair, Fur and Feathers (Slides)](https://blog.selfshadow.com/publications/s2025-shading-course/hostettler/s2025_pbs_hostettler_slides.pdf)
 * [Precomputed Global Illumination in Frostbite (Slides)](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/gdc2018-precomputedgiobalilluminationinfrostbite.pdf)
+* [Real-Time Line- and Disk-Light Shading with Linearly Transformed Cosines (Slides)](https://hal.science/hal-02155101/file/LTC_linearlights_slides.pdf)
+* [Samurai Shading in Ghost of Tsushima (Slides)](https://blog.selfshadow.com/publications/s2020-shading-course/patry/s2020_pbs_patry_slides.pdf)
+* [Let’s Get Physical: The Hairy History of Shading at MPC (Slides)](https://blog.selfshadow.com/publications/s2020-shading-course/mpc/s2020_pbs_mpc_slides.pdf)
+* [Putting the Pieces Together: A Physically(ish) Based Approach to Material Composition (Slides)](https://blog.selfshadow.com/publications/s2020-shading-course/kerley/s2020_pbs_kerley_slides.pdf)
+* [Artist Friendly Metallic Fresne (Paper)](https://jcgt.org/published/0003/04/03/paper.pdf)
+* [Rendering the Hellscape of Doom Eternal (Slides)](https://advances.realtimerendering.com/s2020/RenderingDoomEternal.pdf)
 
 #### Lights
 
@@ -642,6 +650,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Revisiting Physically Based Shading at Imageworks (Slides)](https://blog.selfshadow.com/publications/s2017-shading-course/imageworks/s2017_pbs_imageworks_slides_v2.pdf)
 * [Physically Based Shading at Disney (Paper)](https://media.disneyanimation.com/uploads/production/publication_asset/48/asset/s2012_pbs_disney_brdf_notes_v3.pdf)
 * [Evaluating and Sampling Glinty NDFs in Constant Time (Paper)](https://perso.telecom-paristech.fr/boubek/papers/Glinty/Glinty.pdf)
+* [The SGGX Microflake Distribution (Paper)](https://www.google.com/search?client=firefox-b-d&q=the+sggx+microflake)
 
 ### Ambient Occlusion
 
@@ -863,6 +872,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [How to Decimate your textures – BCn compression tricks in Horizon Forbidden West (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/how-to-decimate-your-textures/Malan-how-to-decimate-your-textures-bcn-compression-tricks-in-horizon-forbidden-west.pdf)
 * [Strand-based hair and fur in “Indiana Jones and the Great Circle” (Slides)](https://advances.realtimerendering.com/s2025/content/Strand%20Hair%20in%20IJGC%20-%20Final%20Slides%20(Post-Conference).pdf)
 * [ADAPTIVE VOXEL-BASED ORDER INDEPENDENT TRANSPARENCY (Slides)](https://advances.realtimerendering.com/s2025/content/AVBOIT_SIG2025_MDROBOT-final.pdf)
+* [Nanite Tessellation (Blog Series)](https://graphicrants.blogspot.com/2026/02/nanite-tessellation.html)
 
 ### Occlusion
 
@@ -896,6 +906,9 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Volume Scaering Probability Guiding (Paper)](https://kehanxuuu.github.io/vspg-website/static/pdfs/volume_scattering_probability_guiding_sa24.pdf)
 * [Vaporwave: Scalable Real-Time Smoke Simulation & Rendering (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/vaporwave/Lewin-vaporwave-scalable-real-time-smoke-simulation-rendering.pdf)
 * [The fog is lifting, volumetric rendering Enshrouded (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/the-fog-is-lifting/Krause-the-fog-is-lifting-volumetric-rendering-enshrouded.pdf)
+* [Unbiased Global Illumination with Participating Media (Paper)](https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.100/institut/Papers/ugiwpm.pdf)
+* [Higher Order Ray Marching (Paper)](https://giga.cps.unizar.es/~amunoz/projects/CGF2014_higherorder/CGF2014_higherorder.pdf)
+* [Integral formulations of volumetric transmittance (Paper)](https://cim.mcgill.ca/~derek/files/georgiev19integral.pdf)
 
 ### Depth
 
