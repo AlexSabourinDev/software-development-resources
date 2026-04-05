@@ -48,7 +48,7 @@ A collection of links for various fields of software development (Mostlt Graphic
   * [Cameras, Exposure, Tonemapping](#cameras-exposure-tonemapping)
   * [Misc](#misc-1)
   * [Occlusion](#occlusion)
-  * [Atmosphere/Clouds](#atmosphereclouds)
+  * [Volumetrics](#volumetrics)
   * [Depth](#depth)
   * [Signed Distance Fields](#signed-distance-fields)
   * [Tutorials](#tutorials)
@@ -294,6 +294,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Adventures with Deferred Texturing in Horizon Forbidden West (Blog Post)](https://www.guerrilla-games.com/read/adventures-with-deferred-texturing-in-horizon-forbidden-west)
 * [Virtual Geometry in Bevy 0.14 (Blog Post)](https://jms55.github.io/posts/2024-06-09-virtual-geometry-bevy-0-14/)
 * [Adventures in Avoiding DAIS Buffers (Blog Post)](https://games.acm.org/adventures-in-avoiding-dais-buffers/)
+* [Visibility Buffer and Deferred Rendering in DOOM: The Dark Ages (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/visibility-buffer-and-deferred-rendering-in-doom/Lazarek-Hammer-visibility-buffer-and-deferred-rendering-in-doom-the-dark-ages.pdf)
 
 ### Transparency, Blending
 
@@ -449,6 +450,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Neural Image Reconstruction for Real-Time Path Tracing (Blog Post)](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Neural-Image-Reconstruction-for-Real-Time-Path-Tracing/post/1688192)
 * [Jungle Ruins Scene: Technical Art Meets Real-Time Path-Tracing Research (Blog Post)](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Jungle-Ruins-Scene-Technical-Art-Meets-Real-Time-Path-Tracing/post/1689619)
 * [Realtime Raytracing in Bevy 0.17 (Solari) (Blog Post)](https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/)
+* [Coherent Path Tracing (Paper)](http://graphics.ucsd.edu/~henrik/papers/coherent_path_tracing.pdf)
+* [A Beautiful Hell: Path Tracing in DOOM The Dark Ages (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/a-beautiful-hell/Khan-Stack-a-beautiful-hell-path-tracing-in-doom-the-dark-ages.pdf)
 
 ### Blue Noise
 
@@ -585,6 +588,10 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Technology Of The Tomorrow Children (Voxel Cone Tracing) (Slides)](https://fumufumu.q-games.com/archives/TheTechnologyOfTomorrowsChildrenFinal.pdf)
 * [Stochastic Lighting In Tiny Glades (Bluesky)](https://bsky.app/profile/h3r2tic.bsky.social/post/3lclort5v222a)
 * [Stochastic Lighting In HypeHype (Linkedin)](https://www.linkedin.com/pulse/local-lights-hypehype-jarkko-lempiainen-bjzpf/)
+* [Fundamentals of Physically Based Shading (Slides)](https://blog.selfshadow.com/publications/s2025-shading-course/hoffman/s2025_pbs_hoffman_slides.pdf)
+* [Driving Toward Reality: Physically Based Tone Mapping and Perceptual Fidelity in Gran Turismo 7 (Slides)](https://blog.selfshadow.com/publications/s2025-shading-course/pdi/s2025_pbs_pdi_slides_v1.1.pdf)
+* [Strand: A Production Model for Shading Hair, Fur and Feathers (Slides)](https://blog.selfshadow.com/publications/s2025-shading-course/hostettler/s2025_pbs_hostettler_slides.pdf)
+* [Precomputed Global Illumination in Frostbite (Slides)](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/gdc2018-precomputedgiobalilluminationinfrostbite.pdf)
 
 #### Lights
 
@@ -596,6 +603,8 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Importance Sampling of Many Lights with Adaptive Tree Splitting (Paper)](http://www.aconty.com/pdf/many-lights-hpg2018.pdf)
 * [Geometric Derivation of the Irradiance of Polygonal Lights (Paper)](https://hal.archives-ouvertes.fr/hal-01458129/document)
 * [Thoughts on light culling: stream compaction vs flat bit arrays (Blog Post)](https://wickedengine.net/2019/02/thoughts-on-light-culling-stream-compaction-vs-flat-bit-arrays/)
+* [MegaLights: Stochastic Direct Lighting in Unreal Engine 5 (Slides)](https://advances.realtimerendering.com/s2025/content/MegaLights_Stochastic_Direct_Lighting_2025.pdf)
+* [Stochastic Tile-Based Lighting in HypeHype](https://advances.realtimerendering.com/s2025/content/s2025_stb_lighting_v1.1_notes.pdf)
 
 #### BRDFs
 
@@ -680,6 +689,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A Gentler Introduction To ReSTIR (Blog Post)](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
 * [Dynamic diffuse global illumination (Blog Post)](https://blog.traverseresearch.nl/dynamic-diffuse-global-illumination-b56dc0525a0a)
 * [Understanding The Math Behind ReSTIR GI (Blog Post)](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_gi/)
+* [Understanding The Math Behind ReSTIR DI (Blog Post)](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
 
 ### Cameras, Exposure, Tonemapping
 
@@ -843,6 +853,16 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Efficient Gaussian blur with linear sampling (Blog Post)](https://www.rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/)
 * [Fast temporal reprojection without motion vectors (Paper)](https://jcgt.org/published/0010/03/02/)
 * [No Graphics API (Blog Post)](https://www.sebastianaaltonen.com/blog/no-graphics-api)
+* [Fast and Gorgeous Erosion Filter (Blog Post)](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html)
+* [Frames, Quadratures and Global Illumination: New Math for Games (Slides)](https://basesandframes.wordpress.com/wp-content/uploads/2016/05/gdc2012-frames-sparsity-and-global-illumination-1.pdf)
+* [Implementing Needlets (Blog Post)](https://basesandframes.wordpress.com/2016/05/22/implementing-needlets/)
+* [Implementing Needlets Part 2 (Blog Post)](https://basesandframes.wordpress.com/2016/06/16/implementing-needlets-part-2/)
+* [Water Simulation & Rendering in Enshrouded (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/water-simulation-and-rendering-in-enshrouded/Mantler-Koenen-water-simulation-rendering-in-enshrouded.pdf)
+* [Lessons learned from shipping a GPU Particle System (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/lessons-learned-from-shipping-a-gpu-particle-system/Feller-lessons-learned-from-shipping-a-gpu-particle-system.pdf)
+* [Variable-Rate Compute Shaders in DOOM: The Dark Ages (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/variable-rate-compute-shaders-in-doom/Fuller-Hammer-variable-rate-compute-shaders-in-doom-the-dark-ages.pdf)
+* [How to Decimate your textures – BCn compression tricks in Horizon Forbidden West (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/how-to-decimate-your-textures/Malan-how-to-decimate-your-textures-bcn-compression-tricks-in-horizon-forbidden-west.pdf)
+* [Strand-based hair and fur in “Indiana Jones and the Great Circle” (Slides)](https://advances.realtimerendering.com/s2025/content/Strand%20Hair%20in%20IJGC%20-%20Final%20Slides%20(Post-Conference).pdf)
+* [ADAPTIVE VOXEL-BASED ORDER INDEPENDENT TRANSPARENCY (Slides)](https://advances.realtimerendering.com/s2025/content/AVBOIT_SIG2025_MDROBOT-final.pdf)
 
 ### Occlusion
 
@@ -850,7 +870,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Two-Pass Occlusion Culling (Blog Post)](https://medium.com/@mil_kru/two-pass-occlusion-culling-4100edcad501)
 * [GPU based occlusion culling (Blog Post)](https://interplayoflight.wordpress.com/2017/11/15/experiments-in-gpu-based-occlusion-culling/)
 
-### Atmosphere/Clouds
+### Volumetrics
 
 * [Realistic Real-time Sky Dome Rendering in Gran Turismo 7 (Slides)](https://www.gdcvault.com/play/1029434/Advanced-Graphics-Summit-Realistic-Real)
 * [Assassin’s Creed 4: Black Flag - Lighting, Weather and Atmospheric Effects (slides)](https://bartwronski.files.wordpress.com/2014/05/assassin_s-creed-4-digital-dragons-2014-no_notes.pdf)
@@ -872,6 +892,10 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [An Approximate Mie Scattering Function for Fog and Cloud Rendering (Paper)](https://research.nvidia.com/labs/rtr/approximate-mie/publications/approximate-mie.pdf)
 * [Real-Time Volumetric Rendering (Paper)](https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
 * [Vaporwave Scalable Real-time Smoke Simulation Rendering (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/vaporwave/Lewin-vaporwave-scalable-real-time-smoke-simulation-rendering.pdf)
+* [GigaVoxels DP : Starvation-Less Render and Production for Large and Detailed Volumetric Worlds Walkthrough (Paper)](https://dl.acm.org/doi/epdf/10.1145/3675389)
+* [Volume Scaering Probability Guiding (Paper)](https://kehanxuuu.github.io/vspg-website/static/pdfs/volume_scattering_probability_guiding_sa24.pdf)
+* [Vaporwave: Scalable Real-Time Smoke Simulation & Rendering (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/vaporwave/Lewin-vaporwave-scalable-real-time-smoke-simulation-rendering.pdf)
+* [The fog is lifting, volumetric rendering Enshrouded (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/the-fog-is-lifting/Krause-the-fog-is-lifting-volumetric-rendering-enshrouded.pdf)
 
 ### Depth
 
