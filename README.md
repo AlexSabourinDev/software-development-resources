@@ -264,6 +264,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Improved Stochastic Texture Filtering Through Sample Reuse (Paper)](https://arxiv.org/abs/2504.05562)
 * [Writing to Compressed Textures (Blog Post)](https://gist.github.com/castano/6e517fde7ff8cf2652758ff55bf260cd#writing-to-compressed-textures)
 * [GPU Texture Compression Everywhere (Blog Post)](https://www.ludicon.com/castano/blog/2025/02/gpu-texture-compression-everywhere/)
+* [Hardware Image Compression (Blog Post)](https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/)
 
 ### Colors
 
