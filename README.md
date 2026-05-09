@@ -492,6 +492,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering (Paper)](https://www.jcgt.org/published/0010/02/02/)
 * [LEAN Mapping (Paper)](https://userpages.cs.umbc.edu/olano/papers/lean/lean.pdf)
 * [The Geometry Behind Normal Maps (Blog Post)](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
+* [Quantizing tangent frames (Blog Post)](https://zeux.io/2026/04/30/quantizing-tangent-frames/)
 
 ### Shaders
 
@@ -511,6 +512,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Code golfing a tiny demo using maths and a pinch of insanity (Blog Post)](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
 * [Shader To Human (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/shader2human/Mittring-shadertohuman-s2h-hlsl-glsl-library-for-debugging-shaders.pdf)
 * [Root Signatures & Shader ISA (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/root-signatures-and-shader-isa/Groot-root-signatures-shader-isa.pdf)
+* [Optimizing Memory Accesses In NIR (Blog Post)](https://www.collabora.com/news-and-blog/blog/2026/05/07/optimizing-memory-access-in-nir/)
 
 #### Compute Shaders
 
