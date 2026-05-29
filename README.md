@@ -357,6 +357,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Volta Independent Thread Scheduling (Paper)](https://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf#page=31&zoom=auto,-150,767)
 * [Learning About GPUs Through Measuring Memory Bandwidth (Blog Post)](https://www.evolvebenchmark.com/blog-posts/learning-about-gpus-through-measuring-memory-bandwidth)
 * [Descriptors are hard (Slides)](https://indico.freedesktop.org/event/10/contributions/402/attachments/243/327/2025-09-29%20-%20XDC%202025%20-%20Descriptors%20are%20Hard.pdf)
+* [Floor and Ceil Versus Denormals on CPU and GPU (Blog Post)](https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu)
 
 #### AMD
 
