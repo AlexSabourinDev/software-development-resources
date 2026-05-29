@@ -877,6 +877,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Strand-based hair and fur in “Indiana Jones and the Great Circle” (Slides)](https://advances.realtimerendering.com/s2025/content/Strand%20Hair%20in%20IJGC%20-%20Final%20Slides%20(Post-Conference).pdf)
 * [ADAPTIVE VOXEL-BASED ORDER INDEPENDENT TRANSPARENCY (Slides)](https://advances.realtimerendering.com/s2025/content/AVBOIT_SIG2025_MDROBOT-final.pdf)
 * [Nanite Tessellation (Blog Series)](https://graphicrants.blogspot.com/2026/02/nanite-tessellation.html)
+* [GPU memory management in AnKi (Blog Post)](https://anki3d.org/gpu-memory-management-in-anki/)
 
 ### Occlusion
 
@@ -1244,6 +1245,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A Killer Adversary For Quicksort (Paper)](https://www.cs.dartmouth.edu/~doug/mdmspe.pdf)
 * [A decade of SEED: Lessons from 10 years of R&D in Games (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/seed-lessons-from-10-years/Barr%C3%A9-Brisebois-a-decade-of-seed-lessons-from-10-years-of-r-d-in-games.pdf)
 * [One-pass Code Generation in V8 (Slides)](https://bernsteinbear.com/assets/img/46b-codegeneration-in-V8.pdf)
+* [Fixed timestep without interpolation (Blog Post)](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
 
 ## Unity
 
