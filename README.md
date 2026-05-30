@@ -605,6 +605,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Putting the Pieces Together: A Physically(ish) Based Approach to Material Composition (Slides)](https://blog.selfshadow.com/publications/s2020-shading-course/kerley/s2020_pbs_kerley_slides.pdf)
 * [Artist Friendly Metallic Fresne (Paper)](https://jcgt.org/published/0003/04/03/paper.pdf)
 * [Rendering the Hellscape of Doom Eternal (Slides)](https://advances.realtimerendering.com/s2020/RenderingDoomEternal.pdf)
+* [Surfel-based global illumination on the web (Blog Post)](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
 
 #### Lights
 
