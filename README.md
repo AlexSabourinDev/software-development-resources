@@ -879,6 +879,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [ADAPTIVE VOXEL-BASED ORDER INDEPENDENT TRANSPARENCY (Slides)](https://advances.realtimerendering.com/s2025/content/AVBOIT_SIG2025_MDROBOT-final.pdf)
 * [Nanite Tessellation (Blog Series)](https://graphicrants.blogspot.com/2026/02/nanite-tessellation.html)
 * [GPU memory management in AnKi (Blog Post)](https://anki3d.org/gpu-memory-management-in-anki/)
+* [Why does ASTC use ISE when almost nothing else does? (Blog Post)](https://fgiesen.wordpress.com/2026/05/29/why-does-astc-use-ise-when-almost-nothing-else-does/)
 
 ### Occlusion
 
