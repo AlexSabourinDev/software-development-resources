@@ -1249,6 +1249,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [A decade of SEED: Lessons from 10 years of R&D in Games (Slides)](https://static.graphicsprogrammingconference.com/public/2025/slides/seed-lessons-from-10-years/Barr%C3%A9-Brisebois-a-decade-of-seed-lessons-from-10-years-of-r-d-in-games.pdf)
 * [One-pass Code Generation in V8 (Slides)](https://bernsteinbear.com/assets/img/46b-codegeneration-in-V8.pdf)
 * [Fixed timestep without interpolation (Blog Post)](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
+* [Font Rendering Malloc (Blog Post)](https://nothings.org/gamedev/font_rendering_malloc.txt)
 
 ## Unity
 
