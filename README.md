@@ -1250,6 +1250,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [One-pass Code Generation in V8 (Slides)](https://bernsteinbear.com/assets/img/46b-codegeneration-in-V8.pdf)
 * [Fixed timestep without interpolation (Blog Post)](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
 * [Font Rendering Malloc (Blog Post)](https://nothings.org/gamedev/font_rendering_malloc.txt)
+* [Point Cloud Sound for irregular shaped audio sources  (Blog Post)](https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html)
 
 ## Unity
 
