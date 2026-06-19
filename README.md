@@ -1251,6 +1251,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Fixed timestep without interpolation (Blog Post)](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
 * [Font Rendering Malloc (Blog Post)](https://nothings.org/gamedev/font_rendering_malloc.txt)
 * [Point Cloud Sound for irregular shaped audio sources  (Blog Post)](https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html)
+* [Zigzag decoding with AVX-512 (Blog Post)](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
 
 ## Unity
 
