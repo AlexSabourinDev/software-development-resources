@@ -1253,6 +1253,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Point Cloud Sound for irregular shaped audio sources  (Blog Post)](https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html)
 * [Zigzag decoding with AVX-512 (Blog Post)](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
 * [Computing Skylight for 2D Height Fields by Finding 1D Height Field Horizons in Amortized Constant Time (Blog Post)](https://nothings.org/gamedev/horizon/)
+* [How the stb_truetype Anti-Aliased Software Rasterizer v2 Works (Blog Post)](https://nothings.org/gamedev/rasterize/)
 
 ## Unity
 
