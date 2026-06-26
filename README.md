@@ -1254,6 +1254,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Zigzag decoding with AVX-512 (Blog Post)](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
 * [Computing Skylight for 2D Height Fields by Finding 1D Height Field Horizons in Amortized Constant Time (Blog Post)](https://nothings.org/gamedev/horizon/)
 * [How the stb_truetype Anti-Aliased Software Rasterizer v2 Works (Blog Post)](https://nothings.org/gamedev/rasterize/)
+* [The 3D Software Rendering Technology of 1998's Thief: The Dark Project (Blog Post)](https://nothings.org/gamedev/thief_rendering.html)
 
 ## Unity
 
