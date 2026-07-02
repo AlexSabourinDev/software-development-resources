@@ -1255,6 +1255,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Computing Skylight for 2D Height Fields by Finding 1D Height Field Horizons in Amortized Constant Time (Blog Post)](https://nothings.org/gamedev/horizon/)
 * [How the stb_truetype Anti-Aliased Software Rasterizer v2 Works (Blog Post)](https://nothings.org/gamedev/rasterize/)
 * [The 3D Software Rendering Technology of 1998's Thief: The Dark Project (Blog Post)](https://nothings.org/gamedev/thief_rendering.html)
+* [Simple batch decoding of unary codes (Blog Post)](https://fgiesen.wordpress.com/2026/05/30/simple-batch-decoding-of-unary-codes/)
 
 ## Unity
 
