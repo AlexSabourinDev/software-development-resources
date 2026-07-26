@@ -1257,6 +1257,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The 3D Software Rendering Technology of 1998's Thief: The Dark Project (Blog Post)](https://nothings.org/gamedev/thief_rendering.html)
 * [Simple batch decoding of unary codes (Blog Post)](https://fgiesen.wordpress.com/2026/05/30/simple-batch-decoding-of-unary-codes/)
 * [Agentic coding notes from Galapogos Island (Blog Post)](https://danluu.com/ai-coding/)
+* [Work 2.0 - the interruptible programmer (Blog Post)](https://www.stevestreeting.com/2010/09/04/work-2-0/)
 
 ## Unity
 
