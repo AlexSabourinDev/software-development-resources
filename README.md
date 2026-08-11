@@ -881,6 +881,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Nanite Tessellation (Blog Series)](https://graphicrants.blogspot.com/2026/02/nanite-tessellation.html)
 * [GPU memory management in AnKi (Blog Post)](https://anki3d.org/gpu-memory-management-in-anki/)
 * [Why does ASTC use ISE when almost nothing else does? (Blog Post)](https://fgiesen.wordpress.com/2026/05/29/why-does-astc-use-ise-when-almost-nothing-else-does/)
+* [Should you normalize RGB values by 255 or 256? (Blog Post)](https://30fps.net/pages/255-vs-256-division/)
 
 ### Occlusion
 
