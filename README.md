@@ -1259,6 +1259,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Simple batch decoding of unary codes (Blog Post)](https://fgiesen.wordpress.com/2026/05/30/simple-batch-decoding-of-unary-codes/)
 * [Agentic coding notes from Galapogos Island (Blog Post)](https://danluu.com/ai-coding/)
 * [Work 2.0 - the interruptible programmer (Blog Post)](https://www.stevestreeting.com/2010/09/04/work-2-0/)
+* [Memory ordering in CPUs (Blog Post)](https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/)
 
 ## Unity
 
