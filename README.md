@@ -1017,6 +1017,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [The Secrets of Floating-Point Numbers (Blog Post)](https://asawicki.info/articles/secrets_of_floating_point_numbers_en.php)
 * [Beware of fast-math (Blog Post)](https://simonbyrne.github.io/notes/fastmath/)
 * [Taming Floating-Point Sums (Blog Post)](https://orlp.net/blog/taming-float-sums/)
+* [Float and integer arithmetic follow two different paradigms (Blog Post)](https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html)
 
 ## Algorithms
 
