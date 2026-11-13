@@ -1264,6 +1264,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Work 2.0 - the interruptible programmer (Blog Post)](https://www.stevestreeting.com/2010/09/04/work-2-0/)
 * [Memory ordering in CPUs (Blog Post)](https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/)
 * [Water Waves (Blog Post)](https://www.slembcke.net/blog/WaterWaves/)
+* [Is chess the drosophila of artificial intelligence? A social history of an algorithm (Paper)](https://homes.luddy.indiana.edu/nensmeng/files/Ensmenger2012-Chess.pdf)
 
 ## Unity
 
