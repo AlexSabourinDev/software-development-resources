@@ -884,6 +884,7 @@ A collection of links for various fields of software development (Mostlt Graphic
 * [Should you normalize RGB values by 255 or 256? (Blog Post)](https://30fps.net/pages/255-vs-256-division/)
 * [Encoding Render Targets for Free with Tile Shaders (Blog Post)](https://www.ludicon.com/castano/blog/2026/09/encoding-render-targets-for-free-with-tile-shaders/)
 * [Billions of triangles redux (Blog Post)](https://zeux.io/2026/09/30/billions-of-triangles-redux/)
+* [Lessons from Digging in Game Dev and Adjacent Trenches (Video)](https://youtu.be/ISgTcDlZaLs?si=FGcK9GKnomQ-TCpk)
 
 ### Occlusion
 
